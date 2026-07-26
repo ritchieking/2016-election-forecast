@@ -1,0 +1,7473 @@
+{
+  "state": "KS",
+  "candidates": [
+    {
+      "state": "KS",
+      "party": "D",
+      "candidate": "Patrick Wiesner",
+      "incumbent": null
+    },
+    {
+      "state": "KS",
+      "party": "R",
+      "candidate": "Jerry Moran",
+      "incumbent": "y"
+    }
+  ],
+  "forecasts": {
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 0.1,
+            "forecast": 33.18166,
+            "hi": 37.2114,
+            "lo": 29.18332,
+            "poll_avg": 30.62695,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.0777702,
+            "house_adjust": -0.8868198,
+            "adj_avg": 29.8179,
+            "undecided_adjust": 3.295334,
+            "reallocate_avg": 33.11323,
+            "demo_regress": 33.47923,
+            "demo_weight": 19.03179,
+            "snapshot": 33.18289
+          },
+          "polls": {
+            "winprob": 0.22499999999999998,
+            "forecast": 33.16997,
+            "hi": 37.93502,
+            "lo": 28.47887,
+            "poll_avg": 30.62695,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.0962963,
+            "house_adjust": -0.840662,
+            "adj_avg": 29.88258,
+            "undecided_adjust": 3.287542,
+            "reallocate_avg": 33.17012,
+            "demo_regress": 33.17012,
+            "demo_weight": 0.0,
+            "snapshot": 33.17012
+          },
+          "now": {
+            "winprob": 0.22499999999999998,
+            "forecast": 33.16997,
+            "hi": 37.93502,
+            "lo": 28.47887,
+            "poll_avg": 30.62695,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.0962963,
+            "house_adjust": -0.840662,
+            "adj_avg": 29.88258,
+            "undecided_adjust": 3.287542,
+            "reallocate_avg": 33.17012,
+            "demo_regress": 33.17012,
+            "demo_weight": 0.0,
+            "snapshot": 33.17012
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 99.9,
+            "forecast": 63.64058,
+            "hi": 67.91047,
+            "lo": 59.30727,
+            "poll_avg": 60.02811,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.6796913,
+            "house_adjust": -0.2941246,
+            "adj_avg": 60.41368,
+            "undecided_adjust": 3.295334,
+            "reallocate_avg": 63.70901,
+            "demo_regress": 63.34301,
+            "demo_weight": 19.03179,
+            "snapshot": 63.63936
+          },
+          "polls": {
+            "winprob": 99.775,
+            "forecast": 63.65624,
+            "hi": 68.52835,
+            "lo": 58.64369,
+            "poll_avg": 60.02811,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.7257271,
+            "house_adjust": -0.3853035,
+            "adj_avg": 60.36854,
+            "undecided_adjust": 3.287544,
+            "reallocate_avg": 63.65608,
+            "demo_regress": 63.65608,
+            "demo_weight": 0.0,
+            "snapshot": 63.65608
+          },
+          "now": {
+            "winprob": 99.775,
+            "forecast": 63.65624,
+            "hi": 68.52835,
+            "lo": 58.64369,
+            "poll_avg": 60.02811,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.7257271,
+            "house_adjust": -0.3853035,
+            "adj_avg": 60.36854,
+            "undecided_adjust": 3.287544,
+            "reallocate_avg": 63.65608,
+            "demo_regress": 63.65608,
+            "demo_weight": 0.0,
+            "snapshot": 63.65608
+          }
+        }
+      }
+    },
+    "all": [
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 0.1,
+            "forecast": 33.18166,
+            "hi": 37.2114,
+            "lo": 29.18332,
+            "poll_avg": 30.62695,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.0777702,
+            "house_adjust": -0.8868198,
+            "adj_avg": 29.8179,
+            "undecided_adjust": 3.295334,
+            "reallocate_avg": 33.11323,
+            "demo_regress": 33.47923,
+            "demo_weight": 19.03179,
+            "snapshot": 33.18289
+          },
+          "polls": {
+            "winprob": 0.22499999999999998,
+            "forecast": 33.16997,
+            "hi": 37.93502,
+            "lo": 28.47887,
+            "poll_avg": 30.62695,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.0962963,
+            "house_adjust": -0.840662,
+            "adj_avg": 29.88258,
+            "undecided_adjust": 3.287542,
+            "reallocate_avg": 33.17012,
+            "demo_regress": 33.17012,
+            "demo_weight": 0.0,
+            "snapshot": 33.17012
+          },
+          "now": {
+            "winprob": 0.22499999999999998,
+            "forecast": 33.16997,
+            "hi": 37.93502,
+            "lo": 28.47887,
+            "poll_avg": 30.62695,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.0962963,
+            "house_adjust": -0.840662,
+            "adj_avg": 29.88258,
+            "undecided_adjust": 3.287542,
+            "reallocate_avg": 33.17012,
+            "demo_regress": 33.17012,
+            "demo_weight": 0.0,
+            "snapshot": 33.17012
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 99.9,
+            "forecast": 63.64058,
+            "hi": 67.91047,
+            "lo": 59.30727,
+            "poll_avg": 60.02811,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.6796913,
+            "house_adjust": -0.2941246,
+            "adj_avg": 60.41368,
+            "undecided_adjust": 3.295334,
+            "reallocate_avg": 63.70901,
+            "demo_regress": 63.34301,
+            "demo_weight": 19.03179,
+            "snapshot": 63.63936
+          },
+          "polls": {
+            "winprob": 99.775,
+            "forecast": 63.65624,
+            "hi": 68.52835,
+            "lo": 58.64369,
+            "poll_avg": 60.02811,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.7257271,
+            "house_adjust": -0.3853035,
+            "adj_avg": 60.36854,
+            "undecided_adjust": 3.287544,
+            "reallocate_avg": 63.65608,
+            "demo_regress": 63.65608,
+            "demo_weight": 0.0,
+            "snapshot": 63.65608
+          },
+          "now": {
+            "winprob": 99.775,
+            "forecast": 63.65624,
+            "hi": 68.52835,
+            "lo": 58.64369,
+            "poll_avg": 60.02811,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.7257271,
+            "house_adjust": -0.3853035,
+            "adj_avg": 60.36854,
+            "undecided_adjust": 3.287544,
+            "reallocate_avg": 63.65608,
+            "demo_regress": 63.65608,
+            "demo_weight": 0.0,
+            "snapshot": 63.65608
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 0.08499999999999999,
+            "forecast": 33.2667,
+            "hi": 37.28673,
+            "lo": 29.26476,
+            "poll_avg": 29.82245
+          },
+          "now": {
+            "winprob": 0.05,
+            "forecast": 33.35163,
+            "hi": 37.43335,
+            "lo": 29.34243,
+            "poll_avg": 29.93632
+          },
+          "polls": {
+            "winprob": 0.24,
+            "forecast": 33.28241,
+            "hi": 38.09072,
+            "lo": 28.50082,
+            "poll_avg": 29.87793
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 99.91499999999999,
+            "forecast": 63.52201,
+            "hi": 67.72603,
+            "lo": 59.14243,
+            "poll_avg": 60.13358
+          },
+          "now": {
+            "winprob": 99.95,
+            "forecast": 63.44975,
+            "hi": 67.66852,
+            "lo": 59.13938,
+            "poll_avg": 60.09365
+          },
+          "polls": {
+            "winprob": 99.76,
+            "forecast": 63.51084,
+            "hi": 68.53192,
+            "lo": 58.42538,
+            "poll_avg": 60.10469
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 0.075,
+            "forecast": 33.37936,
+            "hi": 37.53171,
+            "lo": 29.25677,
+            "poll_avg": 29.37543
+          },
+          "now": {
+            "winprob": 0.12,
+            "forecast": 33.33587,
+            "hi": 37.48754,
+            "lo": 29.22227,
+            "poll_avg": 29.25522
+          },
+          "polls": {
+            "winprob": 0.29,
+            "forecast": 33.14555,
+            "hi": 38.15144,
+            "lo": 28.22312,
+            "poll_avg": 29.1895
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 99.925,
+            "forecast": 63.27553,
+            "hi": 67.59717,
+            "lo": 58.78539,
+            "poll_avg": 59.54822
+          },
+          "now": {
+            "winprob": 99.88,
+            "forecast": 63.29696,
+            "hi": 67.64783,
+            "lo": 58.77895,
+            "poll_avg": 59.49776
+          },
+          "polls": {
+            "winprob": 99.71,
+            "forecast": 63.47964,
+            "hi": 68.64098,
+            "lo": 58.22462,
+            "poll_avg": 59.52182
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 0.08499999999999999,
+            "forecast": 33.25805,
+            "hi": 37.401,
+            "lo": 29.19199,
+            "poll_avg": 29.49903
+          },
+          "now": {
+            "winprob": 0.055,
+            "forecast": 33.25769,
+            "hi": 37.30338,
+            "lo": 29.23518,
+            "poll_avg": 29.59176
+          },
+          "polls": {
+            "winprob": 0.215,
+            "forecast": 33.05043,
+            "hi": 37.98796,
+            "lo": 28.22753,
+            "poll_avg": 29.36395
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 99.91499999999999,
+            "forecast": 63.46315,
+            "hi": 67.78386,
+            "lo": 59.01901,
+            "poll_avg": 59.96166
+          },
+          "now": {
+            "winprob": 99.945,
+            "forecast": 63.48987,
+            "hi": 67.72244,
+            "lo": 59.18916,
+            "poll_avg": 60.05019
+          },
+          "polls": {
+            "winprob": 99.785,
+            "forecast": 63.65205,
+            "hi": 68.69147,
+            "lo": 58.49349,
+            "poll_avg": 59.96682
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 0.12,
+            "forecast": 33.58619,
+            "hi": 37.67724,
+            "lo": 29.52621,
+            "poll_avg": 29.90394
+          },
+          "now": {
+            "winprob": 0.055,
+            "forecast": 33.6038,
+            "hi": 37.62972,
+            "lo": 29.59846,
+            "poll_avg": 30.01587
+          },
+          "polls": {
+            "winprob": 0.245,
+            "forecast": 33.49493,
+            "hi": 38.4062,
+            "lo": 28.68205,
+            "poll_avg": 29.96505
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 99.88,
+            "forecast": 63.17149,
+            "hi": 67.46921,
+            "lo": 58.77468,
+            "poll_avg": 59.77934
+          },
+          "now": {
+            "winprob": 99.945,
+            "forecast": 63.18562,
+            "hi": 67.36743,
+            "lo": 58.90242,
+            "poll_avg": 59.87912
+          },
+          "polls": {
+            "winprob": 99.75500000000001,
+            "forecast": 63.26641,
+            "hi": 68.29968,
+            "lo": 58.12875,
+            "poll_avg": 59.73616
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 0.36,
+            "forecast": 36.38836,
+            "hi": 40.62279,
+            "lo": 32.20588,
+            "poll_avg": 32.95526
+          },
+          "now": {
+            "winprob": 0.325,
+            "forecast": 36.41321,
+            "hi": 40.59615,
+            "lo": 32.26302,
+            "poll_avg": 32.92999
+          },
+          "polls": {
+            "winprob": 0.585,
+            "forecast": 36.85187,
+            "hi": 41.5891,
+            "lo": 32.06068,
+            "poll_avg": 32.97059
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 99.64,
+            "forecast": 60.35638,
+            "hi": 64.75203,
+            "lo": 55.87157,
+            "poll_avg": 55.9738
+          },
+          "now": {
+            "winprob": 99.675,
+            "forecast": 60.32753,
+            "hi": 64.64655,
+            "lo": 55.90044,
+            "poll_avg": 55.9452
+          },
+          "polls": {
+            "winprob": 99.41499999999999,
+            "forecast": 59.90061,
+            "hi": 64.73346,
+            "lo": 54.90694,
+            "poll_avg": 56.02164
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 0.36,
+            "forecast": 36.43953,
+            "hi": 40.72446,
+            "lo": 32.15535,
+            "poll_avg": 32.93108
+          },
+          "now": {
+            "winprob": 0.35000000000000003,
+            "forecast": 36.46908,
+            "hi": 40.64714,
+            "lo": 32.30594,
+            "poll_avg": 32.88576
+          },
+          "polls": {
+            "winprob": 0.7100000000000001,
+            "forecast": 36.85006,
+            "hi": 41.69843,
+            "lo": 32.01757,
+            "poll_avg": 32.8738
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 99.64,
+            "forecast": 60.29298,
+            "hi": 64.76795,
+            "lo": 55.7565,
+            "poll_avg": 55.90304
+          },
+          "now": {
+            "winprob": 99.65,
+            "forecast": 60.25145,
+            "hi": 64.60394,
+            "lo": 55.82903,
+            "poll_avg": 55.82835
+          },
+          "polls": {
+            "winprob": 99.29,
+            "forecast": 59.8737,
+            "hi": 64.80158,
+            "lo": 54.83978,
+            "poll_avg": 55.89745
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.565,
+            "forecast": 37.25967,
+            "hi": 41.7879,
+            "lo": 32.76871,
+            "poll_avg": 34.95586
+          },
+          "now": {
+            "winprob": 0.6,
+            "forecast": 37.34578,
+            "hi": 41.8157,
+            "lo": 32.99203,
+            "poll_avg": 35.04952
+          },
+          "polls": {
+            "winprob": 1.1400000000000001,
+            "forecast": 38.13592,
+            "hi": 43.02892,
+            "lo": 33.27647,
+            "poll_avg": 34.97874
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.435,
+            "forecast": 59.74129,
+            "hi": 64.38716,
+            "lo": 54.98954,
+            "poll_avg": 55.76026
+          },
+          "now": {
+            "winprob": 99.4,
+            "forecast": 59.67919,
+            "hi": 64.16689,
+            "lo": 55.13638,
+            "poll_avg": 55.77055
+          },
+          "polls": {
+            "winprob": 98.86,
+            "forecast": 58.8621,
+            "hi": 63.8165,
+            "lo": 53.77678,
+            "poll_avg": 55.70683
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 0.5,
+            "forecast": 35.45417,
+            "hi": 40.32632,
+            "lo": 30.6105,
+            "poll_avg": 31.73515
+          },
+          "now": {
+            "winprob": 0.45999999999999996,
+            "forecast": 35.29507,
+            "hi": 40.05149,
+            "lo": 30.614,
+            "poll_avg": 31.61528
+          },
+          "polls": {
+            "winprob": 0.815,
+            "forecast": 35.5934,
+            "hi": 41.04039,
+            "lo": 30.1699,
+            "poll_avg": 31.63488
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 99.5,
+            "forecast": 61.20547,
+            "hi": 66.19197,
+            "lo": 56.16656,
+            "poll_avg": 56.794
+          },
+          "now": {
+            "winprob": 99.53999999999999,
+            "forecast": 61.38486,
+            "hi": 66.26001,
+            "lo": 56.44711,
+            "poll_avg": 57.08946
+          },
+          "polls": {
+            "winprob": 99.185,
+            "forecast": 61.04308,
+            "hi": 66.59908,
+            "lo": 55.39496,
+            "poll_avg": 56.70605
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 0.565,
+            "forecast": 35.58572,
+            "hi": 40.45272,
+            "lo": 30.77496,
+            "poll_avg": 31.7827
+          },
+          "now": {
+            "winprob": 0.455,
+            "forecast": 35.53288,
+            "hi": 40.27152,
+            "lo": 30.84858,
+            "poll_avg": 31.84203
+          },
+          "polls": {
+            "winprob": 0.8999999999999999,
+            "forecast": 35.73602,
+            "hi": 41.25132,
+            "lo": 30.34922,
+            "poll_avg": 31.66154
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 99.435,
+            "forecast": 61.06433,
+            "hi": 66.12241,
+            "lo": 55.97117,
+            "poll_avg": 56.64792
+          },
+          "now": {
+            "winprob": 99.54499999999999,
+            "forecast": 61.16182,
+            "hi": 66.01656,
+            "lo": 56.22545,
+            "poll_avg": 56.93771
+          },
+          "polls": {
+            "winprob": 99.1,
+            "forecast": 60.8816,
+            "hi": 66.4549,
+            "lo": 55.15484,
+            "poll_avg": 56.50106
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 0.585,
+            "forecast": 35.70732,
+            "hi": 40.63983,
+            "lo": 30.80274,
+            "poll_avg": 31.81037
+          },
+          "now": {
+            "winprob": 0.48,
+            "forecast": 35.65965,
+            "hi": 40.40192,
+            "lo": 30.99547,
+            "poll_avg": 31.88666
+          },
+          "polls": {
+            "winprob": 0.985,
+            "forecast": 35.8457,
+            "hi": 41.29493,
+            "lo": 30.4787,
+            "poll_avg": 31.7011
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 99.41499999999999,
+            "forecast": 60.91479,
+            "hi": 66.00908,
+            "lo": 55.74804,
+            "poll_avg": 56.3586
+          },
+          "now": {
+            "winprob": 99.52,
+            "forecast": 61.0153,
+            "hi": 65.907,
+            "lo": 56.09515,
+            "poll_avg": 56.70446
+          },
+          "polls": {
+            "winprob": 99.015,
+            "forecast": 60.75418,
+            "hi": 66.31899,
+            "lo": 55.05876,
+            "poll_avg": 56.29026
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 0.5349999999999999,
+            "forecast": 35.6397,
+            "hi": 40.58221,
+            "lo": 30.70171,
+            "poll_avg": 31.47635
+          },
+          "now": {
+            "winprob": 0.48,
+            "forecast": 35.63303,
+            "hi": 40.3773,
+            "lo": 30.86587,
+            "poll_avg": 31.57088
+          },
+          "polls": {
+            "winprob": 0.9400000000000001,
+            "forecast": 35.79612,
+            "hi": 41.34554,
+            "lo": 30.35634,
+            "poll_avg": 31.39531
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 99.465,
+            "forecast": 60.91085,
+            "hi": 66.07758,
+            "lo": 55.63255,
+            "poll_avg": 56.1167
+          },
+          "now": {
+            "winprob": 99.52,
+            "forecast": 60.96684,
+            "hi": 65.85678,
+            "lo": 55.99612,
+            "poll_avg": 56.42781
+          },
+          "polls": {
+            "winprob": 99.06,
+            "forecast": 60.73153,
+            "hi": 66.40205,
+            "lo": 55.04141,
+            "poll_avg": 56.00747
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 0.5950000000000001,
+            "forecast": 35.36703,
+            "hi": 40.42578,
+            "lo": 30.35767,
+            "poll_avg": 30.84398
+          },
+          "now": {
+            "winprob": 0.475,
+            "forecast": 35.18134,
+            "hi": 39.99774,
+            "lo": 30.31958,
+            "poll_avg": 30.71194
+          },
+          "polls": {
+            "winprob": 0.9299999999999999,
+            "forecast": 35.48468,
+            "hi": 41.08617,
+            "lo": 29.96264,
+            "poll_avg": 30.78595
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 99.405,
+            "forecast": 61.07793,
+            "hi": 66.26825,
+            "lo": 55.79283,
+            "poll_avg": 55.93174
+          },
+          "now": {
+            "winprob": 99.52499999999999,
+            "forecast": 61.28557,
+            "hi": 66.28729,
+            "lo": 56.18906,
+            "poll_avg": 56.31319
+          },
+          "polls": {
+            "winprob": 99.07000000000001,
+            "forecast": 60.95004,
+            "hi": 66.62749,
+            "lo": 55.12094,
+            "poll_avg": 55.90966
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 0.5349999999999999,
+            "forecast": 35.17485,
+            "hi": 40.23173,
+            "lo": 30.1111,
+            "poll_avg": 30.54542
+          },
+          "now": {
+            "winprob": 0.46499999999999997,
+            "forecast": 35.08792,
+            "hi": 39.91132,
+            "lo": 30.27619,
+            "poll_avg": 30.51163
+          },
+          "polls": {
+            "winprob": 0.9400000000000001,
+            "forecast": 35.2943,
+            "hi": 40.96308,
+            "lo": 29.75645,
+            "poll_avg": 30.46613
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 99.465,
+            "forecast": 61.23333,
+            "hi": 66.47801,
+            "lo": 55.89053,
+            "poll_avg": 55.96379
+          },
+          "now": {
+            "winprob": 99.535,
+            "forecast": 61.34428,
+            "hi": 66.34073,
+            "lo": 56.24056,
+            "poll_avg": 56.25693
+          },
+          "polls": {
+            "winprob": 99.06,
+            "forecast": 61.10154,
+            "hi": 66.84239,
+            "lo": 55.25415,
+            "poll_avg": 55.94877
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 0.705,
+            "forecast": 35.0356,
+            "hi": 40.19893,
+            "lo": 29.89951,
+            "poll_avg": 29.77681
+          },
+          "now": {
+            "winprob": 0.605,
+            "forecast": 34.82788,
+            "hi": 39.85927,
+            "lo": 29.90427,
+            "poll_avg": 29.48368
+          },
+          "polls": {
+            "winprob": 1.06,
+            "forecast": 35.18353,
+            "hi": 41.01839,
+            "lo": 29.44903,
+            "poll_avg": 29.72023
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 99.295,
+            "forecast": 61.21538,
+            "hi": 66.58604,
+            "lo": 55.76939,
+            "poll_avg": 55.47536
+          },
+          "now": {
+            "winprob": 99.395,
+            "forecast": 61.39071,
+            "hi": 66.59317,
+            "lo": 56.0554,
+            "poll_avg": 55.65971
+          },
+          "polls": {
+            "winprob": 98.94,
+            "forecast": 61.04036,
+            "hi": 66.98126,
+            "lo": 55.03082,
+            "poll_avg": 55.29773
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 0.625,
+            "forecast": 35.39782,
+            "hi": 40.53613,
+            "lo": 30.25577,
+            "poll_avg": 30.53658
+          },
+          "now": {
+            "winprob": 0.43499999999999994,
+            "forecast": 35.30934,
+            "hi": 40.18723,
+            "lo": 30.48661,
+            "poll_avg": 30.6083
+          },
+          "polls": {
+            "winprob": 1.015,
+            "forecast": 35.47758,
+            "hi": 41.09103,
+            "lo": 29.88637,
+            "poll_avg": 30.52045
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 99.375,
+            "forecast": 60.9844,
+            "hi": 66.27895,
+            "lo": 55.58036,
+            "poll_avg": 55.73761
+          },
+          "now": {
+            "winprob": 99.565,
+            "forecast": 61.12514,
+            "hi": 66.14126,
+            "lo": 55.95609,
+            "poll_avg": 56.16346
+          },
+          "polls": {
+            "winprob": 98.985,
+            "forecast": 60.90707,
+            "hi": 66.76623,
+            "lo": 55.08009,
+            "poll_avg": 55.77971
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 0.605,
+            "forecast": 35.07521,
+            "hi": 40.19621,
+            "lo": 30.01288,
+            "poll_avg": 30.29089
+          },
+          "now": {
+            "winprob": 0.35000000000000003,
+            "forecast": 34.69269,
+            "hi": 39.54573,
+            "lo": 29.90662,
+            "poll_avg": 29.89006
+          },
+          "polls": {
+            "winprob": 0.9199999999999999,
+            "forecast": 35.23294,
+            "hi": 40.93568,
+            "lo": 29.55597,
+            "poll_avg": 30.21747
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 99.395,
+            "forecast": 61.31891,
+            "hi": 66.57947,
+            "lo": 55.88772,
+            "poll_avg": 56.14898
+          },
+          "now": {
+            "winprob": 99.65,
+            "forecast": 61.70402,
+            "hi": 66.73122,
+            "lo": 56.54131,
+            "poll_avg": 56.71587
+          },
+          "polls": {
+            "winprob": 99.08,
+            "forecast": 61.12675,
+            "hi": 67.02652,
+            "lo": 55.1825,
+            "poll_avg": 55.92505
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 0.585,
+            "forecast": 35.14937,
+            "hi": 40.2425,
+            "lo": 30.04048,
+            "poll_avg": 30.33458
+          },
+          "now": {
+            "winprob": 0.455,
+            "forecast": 34.77103,
+            "hi": 39.57391,
+            "lo": 30.00748,
+            "poll_avg": 30.006
+          },
+          "polls": {
+            "winprob": 0.9400000000000001,
+            "forecast": 35.20129,
+            "hi": 40.91319,
+            "lo": 29.60168,
+            "poll_avg": 30.18874
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 99.41499999999999,
+            "forecast": 61.2397,
+            "hi": 66.51439,
+            "lo": 55.89513,
+            "poll_avg": 56.04908
+          },
+          "now": {
+            "winprob": 99.54499999999999,
+            "forecast": 61.6361,
+            "hi": 66.61267,
+            "lo": 56.511,
+            "poll_avg": 56.66698
+          },
+          "polls": {
+            "winprob": 99.06,
+            "forecast": 61.16092,
+            "hi": 66.96239,
+            "lo": 55.19762,
+            "poll_avg": 55.98343
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 0.565,
+            "forecast": 35.08689,
+            "hi": 40.22394,
+            "lo": 29.99286,
+            "poll_avg": 30.24201
+          },
+          "now": {
+            "winprob": 0.38999999999999996,
+            "forecast": 34.65442,
+            "hi": 39.50304,
+            "lo": 29.85507,
+            "poll_avg": 29.90908
+          },
+          "polls": {
+            "winprob": 0.9249999999999999,
+            "forecast": 35.18544,
+            "hi": 40.92153,
+            "lo": 29.5458,
+            "poll_avg": 30.18597
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 99.435,
+            "forecast": 61.29291,
+            "hi": 66.55763,
+            "lo": 55.91735,
+            "poll_avg": 56.0785
+          },
+          "now": {
+            "winprob": 99.61,
+            "forecast": 61.76125,
+            "hi": 66.75942,
+            "lo": 56.70882,
+            "poll_avg": 56.8608
+          },
+          "polls": {
+            "winprob": 99.075,
+            "forecast": 61.17733,
+            "hi": 67.04901,
+            "lo": 55.22727,
+            "poll_avg": 55.99202
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 0.64,
+            "forecast": 35.39751,
+            "hi": 40.57928,
+            "lo": 30.28318,
+            "poll_avg": 30.47487
+          },
+          "now": {
+            "winprob": 0.385,
+            "forecast": 34.94827,
+            "hi": 39.75382,
+            "lo": 30.17401,
+            "poll_avg": 30.1726
+          },
+          "polls": {
+            "winprob": 1.04,
+            "forecast": 35.48336,
+            "hi": 41.25562,
+            "lo": 29.79025,
+            "poll_avg": 30.39395
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 99.36,
+            "forecast": 60.97577,
+            "hi": 66.28807,
+            "lo": 55.5817,
+            "poll_avg": 55.73197
+          },
+          "now": {
+            "winprob": 99.615,
+            "forecast": 61.46538,
+            "hi": 66.46188,
+            "lo": 56.40371,
+            "poll_avg": 56.5252
+          },
+          "polls": {
+            "winprob": 98.96000000000001,
+            "forecast": 60.8669,
+            "hi": 66.7189,
+            "lo": 54.88205,
+            "poll_avg": 55.62148
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 0.58,
+            "forecast": 35.61119,
+            "hi": 40.76564,
+            "lo": 30.57634,
+            "poll_avg": 30.60902
+          },
+          "now": {
+            "winprob": 0.49500000000000005,
+            "forecast": 35.25749,
+            "hi": 40.09653,
+            "lo": 30.44611,
+            "poll_avg": 30.38205
+          },
+          "polls": {
+            "winprob": 1.095,
+            "forecast": 35.72674,
+            "hi": 41.47903,
+            "lo": 30.04778,
+            "poll_avg": 30.58341
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 99.42,
+            "forecast": 60.74786,
+            "hi": 65.9617,
+            "lo": 55.35638,
+            "poll_avg": 55.43675
+          },
+          "now": {
+            "winprob": 99.505,
+            "forecast": 61.13525,
+            "hi": 66.11588,
+            "lo": 56.0455,
+            "poll_avg": 56.0952
+          },
+          "polls": {
+            "winprob": 98.905,
+            "forecast": 60.61484,
+            "hi": 66.46408,
+            "lo": 54.69276,
+            "poll_avg": 55.30876
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 2.225,
+            "forecast": 37.75522,
+            "hi": 43.5531,
+            "lo": 32.03902,
+            "poll_avg": 32.58182
+          },
+          "now": {
+            "winprob": 2.09,
+            "forecast": 37.93699,
+            "hi": 43.51311,
+            "lo": 32.40984,
+            "poll_avg": 32.74359
+          },
+          "polls": {
+            "winprob": 3.235,
+            "forecast": 38.50794,
+            "hi": 44.491,
+            "lo": 32.54623,
+            "poll_avg": 32.66878
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 97.775,
+            "forecast": 58.38066,
+            "hi": 64.22736,
+            "lo": 52.40563,
+            "poll_avg": 50.40783
+          },
+          "now": {
+            "winprob": 97.91,
+            "forecast": 58.16716,
+            "hi": 63.87246,
+            "lo": 52.40851,
+            "poll_avg": 50.26563
+          },
+          "polls": {
+            "winprob": 96.765,
+            "forecast": 57.63775,
+            "hi": 63.78698,
+            "lo": 51.36938,
+            "poll_avg": 50.40024
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 2.165,
+            "forecast": 37.86182,
+            "hi": 43.62828,
+            "lo": 32.0981,
+            "poll_avg": 32.72836
+          },
+          "now": {
+            "winprob": 2.175,
+            "forecast": 38.15256,
+            "hi": 43.69238,
+            "lo": 32.60848,
+            "poll_avg": 32.83142
+          },
+          "polls": {
+            "winprob": 3.175,
+            "forecast": 38.49294,
+            "hi": 44.55902,
+            "lo": 32.4627,
+            "poll_avg": 32.6102
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 97.83500000000001,
+            "forecast": 58.31519,
+            "hi": 64.2108,
+            "lo": 52.33045,
+            "poll_avg": 50.65201
+          },
+          "now": {
+            "winprob": 97.82499999999999,
+            "forecast": 57.96032,
+            "hi": 63.65273,
+            "lo": 52.3093,
+            "poll_avg": 50.25704
+          },
+          "polls": {
+            "winprob": 96.825,
+            "forecast": 57.66013,
+            "hi": 63.8138,
+            "lo": 51.44236,
+            "poll_avg": 50.5514
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 1.965,
+            "forecast": 37.49832,
+            "hi": 43.19225,
+            "lo": 31.83272,
+            "poll_avg": 32.26327
+          },
+          "now": {
+            "winprob": 1.865,
+            "forecast": 37.76163,
+            "hi": 43.261,
+            "lo": 32.28374,
+            "poll_avg": 32.40333
+          },
+          "polls": {
+            "winprob": 2.915,
+            "forecast": 38.12073,
+            "hi": 44.23492,
+            "lo": 32.04329,
+            "poll_avg": 32.15586
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 98.03500000000001,
+            "forecast": 58.63918,
+            "hi": 64.44676,
+            "lo": 52.60604,
+            "poll_avg": 50.82791
+          },
+          "now": {
+            "winprob": 98.13499999999999,
+            "forecast": 58.32492,
+            "hi": 63.95588,
+            "lo": 52.59314,
+            "poll_avg": 50.55492
+          },
+          "polls": {
+            "winprob": 97.085,
+            "forecast": 58.00098,
+            "hi": 64.18969,
+            "lo": 51.70964,
+            "poll_avg": 50.79889
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 1.745,
+            "forecast": 37.32141,
+            "hi": 43.01798,
+            "lo": 31.67176,
+            "poll_avg": 32.33173
+          },
+          "now": {
+            "winprob": 1.72,
+            "forecast": 37.61757,
+            "hi": 42.9722,
+            "lo": 32.34006,
+            "poll_avg": 32.55799
+          },
+          "polls": {
+            "winprob": 2.565,
+            "forecast": 37.95221,
+            "hi": 43.95956,
+            "lo": 31.97888,
+            "poll_avg": 32.3072
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 98.25500000000001,
+            "forecast": 58.88408,
+            "hi": 64.64514,
+            "lo": 52.98683,
+            "poll_avg": 51.45158
+          },
+          "now": {
+            "winprob": 98.28,
+            "forecast": 58.55493,
+            "hi": 64.03281,
+            "lo": 52.95881,
+            "poll_avg": 51.19522
+          },
+          "polls": {
+            "winprob": 97.435,
+            "forecast": 58.24651,
+            "hi": 64.38436,
+            "lo": 52.08411,
+            "poll_avg": 51.41189
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 1.725,
+            "forecast": 37.19772,
+            "hi": 42.90678,
+            "lo": 31.53891,
+            "poll_avg": 32.19833
+          },
+          "now": {
+            "winprob": 1.575,
+            "forecast": 37.43843,
+            "hi": 42.82826,
+            "lo": 32.02479,
+            "poll_avg": 32.41762
+          },
+          "polls": {
+            "winprob": 2.69,
+            "forecast": 37.86694,
+            "hi": 44.00224,
+            "lo": 31.91398,
+            "poll_avg": 32.25747
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 98.275,
+            "forecast": 59.00813,
+            "hi": 64.78999,
+            "lo": 53.0377,
+            "poll_avg": 51.62412
+          },
+          "now": {
+            "winprob": 98.425,
+            "forecast": 58.74588,
+            "hi": 64.29607,
+            "lo": 53.19064,
+            "poll_avg": 51.49505
+          },
+          "polls": {
+            "winprob": 97.31,
+            "forecast": 58.33892,
+            "hi": 64.45872,
+            "lo": 52.11753,
+            "poll_avg": 51.5494
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 1.76,
+            "forecast": 37.33916,
+            "hi": 43.01994,
+            "lo": 31.71594,
+            "poll_avg": 32.28868
+          },
+          "now": {
+            "winprob": 1.725,
+            "forecast": 37.60899,
+            "hi": 43.05431,
+            "lo": 32.24554,
+            "poll_avg": 32.48195
+          },
+          "polls": {
+            "winprob": 2.52,
+            "forecast": 37.95659,
+            "hi": 43.98925,
+            "lo": 31.98176,
+            "poll_avg": 32.24753
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 98.24000000000001,
+            "forecast": 58.85153,
+            "hi": 64.61382,
+            "lo": 52.98495,
+            "poll_avg": 51.35144
+          },
+          "now": {
+            "winprob": 98.275,
+            "forecast": 58.54226,
+            "hi": 64.04855,
+            "lo": 52.90834,
+            "poll_avg": 51.11771
+          },
+          "polls": {
+            "winprob": 97.48,
+            "forecast": 58.22811,
+            "hi": 64.36948,
+            "lo": 51.91055,
+            "poll_avg": 51.3409
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 1.685,
+            "forecast": 36.84719,
+            "hi": 42.67663,
+            "lo": 31.10445,
+            "poll_avg": 31.29345
+          },
+          "now": {
+            "winprob": 1.485,
+            "forecast": 37.0423,
+            "hi": 42.61814,
+            "lo": 31.59963,
+            "poll_avg": 31.2576
+          },
+          "polls": {
+            "winprob": 2.6550000000000002,
+            "forecast": 37.51782,
+            "hi": 43.70321,
+            "lo": 31.36985,
+            "poll_avg": 31.23624
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 98.315,
+            "forecast": 59.20403,
+            "hi": 65.13346,
+            "lo": 53.16869,
+            "poll_avg": 51.15395
+          },
+          "now": {
+            "winprob": 98.515,
+            "forecast": 58.92227,
+            "hi": 64.59012,
+            "lo": 53.05563,
+            "poll_avg": 50.89841
+          },
+          "polls": {
+            "winprob": 97.345,
+            "forecast": 58.51471,
+            "hi": 64.83185,
+            "lo": 52.10285,
+            "poll_avg": 51.03115
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 1.825,
+            "forecast": 36.85271,
+            "hi": 42.67648,
+            "lo": 31.05986,
+            "poll_avg": 31.46002
+          },
+          "now": {
+            "winprob": 1.465,
+            "forecast": 37.10851,
+            "hi": 42.65632,
+            "lo": 31.49889,
+            "poll_avg": 31.55418
+          },
+          "polls": {
+            "winprob": 2.505,
+            "forecast": 37.51964,
+            "hi": 43.75624,
+            "lo": 31.41068,
+            "poll_avg": 31.31216
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 98.175,
+            "forecast": 59.20391,
+            "hi": 65.1423,
+            "lo": 53.07879,
+            "poll_avg": 50.9995
+          },
+          "now": {
+            "winprob": 98.535,
+            "forecast": 58.87122,
+            "hi": 64.60043,
+            "lo": 53.04728,
+            "poll_avg": 50.69295
+          },
+          "polls": {
+            "winprob": 97.495,
+            "forecast": 58.51072,
+            "hi": 64.82024,
+            "lo": 52.04972,
+            "poll_avg": 50.9123
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 1.6400000000000001,
+            "forecast": 36.67318,
+            "hi": 42.50529,
+            "lo": 30.86058,
+            "poll_avg": 31.39402
+          },
+          "now": {
+            "winprob": 1.25,
+            "forecast": 36.65373,
+            "hi": 42.17441,
+            "lo": 31.1772,
+            "poll_avg": 31.33319
+          },
+          "polls": {
+            "winprob": 2.59,
+            "forecast": 37.45169,
+            "hi": 43.68596,
+            "lo": 31.25951,
+            "poll_avg": 31.40554
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 98.36,
+            "forecast": 59.39393,
+            "hi": 65.39873,
+            "lo": 53.31622,
+            "poll_avg": 51.1927
+          },
+          "now": {
+            "winprob": 98.75,
+            "forecast": 59.36426,
+            "hi": 65.05785,
+            "lo": 53.55789,
+            "poll_avg": 51.34179
+          },
+          "polls": {
+            "winprob": 97.41,
+            "forecast": 58.61209,
+            "hi": 64.9615,
+            "lo": 52.25673,
+            "poll_avg": 51.14323
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 1.5699999999999998,
+            "forecast": 36.60719,
+            "hi": 42.38548,
+            "lo": 30.86981,
+            "poll_avg": 31.58634
+          },
+          "now": {
+            "winprob": 1.22,
+            "forecast": 36.59047,
+            "hi": 42.05147,
+            "lo": 31.11205,
+            "poll_avg": 31.66672
+          },
+          "polls": {
+            "winprob": 2.465,
+            "forecast": 37.406,
+            "hi": 43.5416,
+            "lo": 31.30352,
+            "poll_avg": 31.61594
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 98.42999999999999,
+            "forecast": 59.51078,
+            "hi": 65.42136,
+            "lo": 53.52351,
+            "poll_avg": 51.48061
+          },
+          "now": {
+            "winprob": 98.78,
+            "forecast": 59.5092,
+            "hi": 65.19145,
+            "lo": 53.79552,
+            "poll_avg": 51.70462
+          },
+          "polls": {
+            "winprob": 97.53500000000001,
+            "forecast": 58.7104,
+            "hi": 64.98595,
+            "lo": 52.41257,
+            "poll_avg": 51.42679
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 1.7500000000000002,
+            "forecast": 36.87758,
+            "hi": 42.69553,
+            "lo": 31.12066,
+            "poll_avg": 31.63702
+          },
+          "now": {
+            "winprob": 1.41,
+            "forecast": 36.98559,
+            "hi": 42.45702,
+            "lo": 31.53193,
+            "poll_avg": 31.74331
+          },
+          "polls": {
+            "winprob": 2.62,
+            "forecast": 37.63576,
+            "hi": 43.76968,
+            "lo": 31.61804,
+            "poll_avg": 31.70109
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 98.25,
+            "forecast": 59.21075,
+            "hi": 65.11057,
+            "lo": 53.15641,
+            "poll_avg": 51.10684
+          },
+          "now": {
+            "winprob": 98.59,
+            "forecast": 59.06249,
+            "hi": 64.74692,
+            "lo": 53.34585,
+            "poll_avg": 51.14891
+          },
+          "polls": {
+            "winprob": 97.38,
+            "forecast": 58.46178,
+            "hi": 64.72484,
+            "lo": 52.1898,
+            "poll_avg": 51.1219
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 1.6049999999999998,
+            "forecast": 36.68122,
+            "hi": 42.47296,
+            "lo": 30.91482,
+            "poll_avg": 31.51289
+          },
+          "now": {
+            "winprob": 1.26,
+            "forecast": 36.55077,
+            "hi": 42.07689,
+            "lo": 31.03488,
+            "poll_avg": 31.4306
+          },
+          "polls": {
+            "winprob": 2.455,
+            "forecast": 37.41314,
+            "hi": 43.58932,
+            "lo": 31.36643,
+            "poll_avg": 31.51321
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 98.395,
+            "forecast": 59.42068,
+            "hi": 65.40337,
+            "lo": 53.34745,
+            "poll_avg": 51.40572
+          },
+          "now": {
+            "winprob": 98.74000000000001,
+            "forecast": 59.50941,
+            "hi": 65.11134,
+            "lo": 53.74649,
+            "poll_avg": 51.663
+          },
+          "polls": {
+            "winprob": 97.545,
+            "forecast": 58.68696,
+            "hi": 64.98242,
+            "lo": 52.29432,
+            "poll_avg": 51.38653
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 1.6049999999999998,
+            "forecast": 36.64731,
+            "hi": 42.59173,
+            "lo": 30.83914,
+            "poll_avg": 31.41318
+          },
+          "now": {
+            "winprob": 1.205,
+            "forecast": 36.45047,
+            "hi": 41.86902,
+            "lo": 31.04936,
+            "poll_avg": 31.47994
+          },
+          "polls": {
+            "winprob": 2.41,
+            "forecast": 37.36676,
+            "hi": 43.55724,
+            "lo": 31.21778,
+            "poll_avg": 31.39837
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 98.395,
+            "forecast": 59.43959,
+            "hi": 65.41002,
+            "lo": 53.33207,
+            "poll_avg": 51.37519
+          },
+          "now": {
+            "winprob": 98.795,
+            "forecast": 59.64397,
+            "hi": 65.27289,
+            "lo": 53.95929,
+            "poll_avg": 51.93233
+          },
+          "polls": {
+            "winprob": 97.59,
+            "forecast": 58.71605,
+            "hi": 64.96735,
+            "lo": 52.36914,
+            "poll_avg": 51.35117
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 1.96,
+            "forecast": 37.13826,
+            "hi": 42.99898,
+            "lo": 31.28103,
+            "poll_avg": 31.89431
+          },
+          "now": {
+            "winprob": 1.685,
+            "forecast": 37.44097,
+            "hi": 42.96323,
+            "lo": 31.94773,
+            "poll_avg": 32.24394
+          },
+          "polls": {
+            "winprob": 2.97,
+            "forecast": 37.90041,
+            "hi": 44.15684,
+            "lo": 31.65068,
+            "poll_avg": 31.93288
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 98.04,
+            "forecast": 58.94971,
+            "hi": 64.95705,
+            "lo": 52.8825,
+            "poll_avg": 50.77742
+          },
+          "now": {
+            "winprob": 98.315,
+            "forecast": 58.61733,
+            "hi": 64.31258,
+            "lo": 52.83908,
+            "poll_avg": 50.67585
+          },
+          "polls": {
+            "winprob": 97.03,
+            "forecast": 58.19599,
+            "hi": 64.46237,
+            "lo": 51.8153,
+            "poll_avg": 50.81672
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 1.8900000000000001,
+            "forecast": 37.25516,
+            "hi": 43.16811,
+            "lo": 31.34051,
+            "poll_avg": 31.9746
+          },
+          "now": {
+            "winprob": 2.04,
+            "forecast": 37.59391,
+            "hi": 43.14823,
+            "lo": 32.01748,
+            "poll_avg": 32.2191
+          },
+          "polls": {
+            "winprob": 3.0949999999999998,
+            "forecast": 37.96581,
+            "hi": 44.22437,
+            "lo": 31.78179,
+            "poll_avg": 31.82521
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 98.11,
+            "forecast": 58.82671,
+            "hi": 64.87306,
+            "lo": 52.68202,
+            "poll_avg": 50.61203
+          },
+          "now": {
+            "winprob": 97.96000000000001,
+            "forecast": 58.42003,
+            "hi": 64.16052,
+            "lo": 52.64922,
+            "poll_avg": 50.31963
+          },
+          "polls": {
+            "winprob": 96.905,
+            "forecast": 58.09258,
+            "hi": 64.40979,
+            "lo": 51.62779,
+            "poll_avg": 50.55581
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 2.045,
+            "forecast": 37.16509,
+            "hi": 43.07038,
+            "lo": 31.25358,
+            "poll_avg": 31.73089
+          },
+          "now": {
+            "winprob": 1.8849999999999998,
+            "forecast": 37.55252,
+            "hi": 43.1768,
+            "lo": 32.04337,
+            "poll_avg": 31.97042
+          },
+          "polls": {
+            "winprob": 3.075,
+            "forecast": 37.94271,
+            "hi": 44.19693,
+            "lo": 31.6913,
+            "poll_avg": 31.71305
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 97.955,
+            "forecast": 58.87109,
+            "hi": 64.98322,
+            "lo": 52.63477,
+            "poll_avg": 50.44317
+          },
+          "now": {
+            "winprob": 98.115,
+            "forecast": 58.40212,
+            "hi": 64.07306,
+            "lo": 52.61248,
+            "poll_avg": 50.10601
+          },
+          "polls": {
+            "winprob": 96.925,
+            "forecast": 58.08875,
+            "hi": 64.41788,
+            "lo": 51.73108,
+            "poll_avg": 50.4164
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 1.865,
+            "forecast": 36.82525,
+            "hi": 42.85041,
+            "lo": 30.84459,
+            "poll_avg": 31.13071
+          },
+          "now": {
+            "winprob": 1.66,
+            "forecast": 36.99213,
+            "hi": 42.64523,
+            "lo": 31.3861,
+            "poll_avg": 31.0748
+          },
+          "polls": {
+            "winprob": 2.735,
+            "forecast": 37.64557,
+            "hi": 43.9813,
+            "lo": 31.36362,
+            "poll_avg": 31.28883
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 98.13499999999999,
+            "forecast": 59.14413,
+            "hi": 65.36144,
+            "lo": 52.9092,
+            "poll_avg": 50.50498
+          },
+          "now": {
+            "winprob": 98.34,
+            "forecast": 58.8576,
+            "hi": 64.72156,
+            "lo": 52.94472,
+            "poll_avg": 50.27952
+          },
+          "polls": {
+            "winprob": 97.265,
+            "forecast": 58.34397,
+            "hi": 64.78728,
+            "lo": 51.85718,
+            "poll_avg": 50.51542
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 1.815,
+            "forecast": 36.85312,
+            "hi": 42.91477,
+            "lo": 30.89603,
+            "poll_avg": 31.15847
+          },
+          "now": {
+            "winprob": 1.805,
+            "forecast": 37.06047,
+            "hi": 42.73035,
+            "lo": 31.45365,
+            "poll_avg": 31.27911
+          },
+          "polls": {
+            "winprob": 2.835,
+            "forecast": 37.67099,
+            "hi": 43.91991,
+            "lo": 31.33952,
+            "poll_avg": 31.30708
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 98.185,
+            "forecast": 59.12006,
+            "hi": 65.29156,
+            "lo": 52.8185,
+            "poll_avg": 50.50941
+          },
+          "now": {
+            "winprob": 98.195,
+            "forecast": 58.81523,
+            "hi": 64.62822,
+            "lo": 52.91401,
+            "poll_avg": 50.28435
+          },
+          "polls": {
+            "winprob": 97.165,
+            "forecast": 58.31985,
+            "hi": 64.73885,
+            "lo": 51.83389,
+            "poll_avg": 50.50585
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 1.83,
+            "forecast": 36.88725,
+            "hi": 42.90973,
+            "lo": 30.93173,
+            "poll_avg": 31.25708
+          },
+          "now": {
+            "winprob": 1.7049999999999998,
+            "forecast": 37.0394,
+            "hi": 42.66983,
+            "lo": 31.45994,
+            "poll_avg": 31.1092
+          },
+          "polls": {
+            "winprob": 2.835,
+            "forecast": 37.67099,
+            "hi": 43.91991,
+            "lo": 31.33952,
+            "poll_avg": 31.30708
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 98.17,
+            "forecast": 59.10111,
+            "hi": 65.16447,
+            "lo": 52.92418,
+            "poll_avg": 50.54321
+          },
+          "now": {
+            "winprob": 98.295,
+            "forecast": 58.80053,
+            "hi": 64.59621,
+            "lo": 52.89772,
+            "poll_avg": 50.19358
+          },
+          "polls": {
+            "winprob": 97.165,
+            "forecast": 58.31985,
+            "hi": 64.73885,
+            "lo": 51.83389,
+            "poll_avg": 50.50585
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 2.2399999999999998,
+            "forecast": 37.55999,
+            "hi": 43.51849,
+            "lo": 31.57711,
+            "poll_avg": 31.87737
+          },
+          "now": {
+            "winprob": 2.2399999999999998,
+            "forecast": 38.04565,
+            "hi": 43.64133,
+            "lo": 32.40545,
+            "poll_avg": 32.18462
+          },
+          "polls": {
+            "winprob": 3.565,
+            "forecast": 38.34792,
+            "hi": 44.62217,
+            "lo": 32.11649,
+            "poll_avg": 31.96904
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 97.76,
+            "forecast": 58.43015,
+            "hi": 64.57513,
+            "lo": 52.19241,
+            "poll_avg": 49.77676
+          },
+          "now": {
+            "winprob": 97.76,
+            "forecast": 57.8278,
+            "hi": 63.6744,
+            "lo": 51.92346,
+            "poll_avg": 49.19558
+          },
+          "polls": {
+            "winprob": 96.435,
+            "forecast": 57.65688,
+            "hi": 64.07991,
+            "lo": 51.12731,
+            "poll_avg": 49.81392
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 2.1950000000000003,
+            "forecast": 37.4,
+            "hi": 43.40906,
+            "lo": 31.53732,
+            "poll_avg": 31.93496
+          },
+          "now": {
+            "winprob": 2.09,
+            "forecast": 37.80171,
+            "hi": 43.34588,
+            "lo": 32.25269,
+            "poll_avg": 32.10789
+          },
+          "polls": {
+            "winprob": 3.305,
+            "forecast": 38.20263,
+            "hi": 44.50859,
+            "lo": 32.00504,
+            "poll_avg": 32.03358
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 97.80499999999999,
+            "forecast": 58.63939,
+            "hi": 64.60822,
+            "lo": 52.48943,
+            "poll_avg": 50.21848
+          },
+          "now": {
+            "winprob": 97.91,
+            "forecast": 58.11697,
+            "hi": 63.81796,
+            "lo": 52.28024,
+            "poll_avg": 49.71418
+          },
+          "polls": {
+            "winprob": 96.695,
+            "forecast": 57.84863,
+            "hi": 64.19958,
+            "lo": 51.36395,
+            "poll_avg": 50.21758
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 1.975,
+            "forecast": 37.08424,
+            "hi": 43.10616,
+            "lo": 31.19701,
+            "poll_avg": 31.70706
+          },
+          "now": {
+            "winprob": 1.8849999999999998,
+            "forecast": 37.3812,
+            "hi": 43.07439,
+            "lo": 31.79554,
+            "poll_avg": 31.76136
+          },
+          "polls": {
+            "winprob": 3.2849999999999997,
+            "forecast": 37.96465,
+            "hi": 44.35789,
+            "lo": 31.64824,
+            "poll_avg": 31.7765
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 98.02499999999999,
+            "forecast": 58.94382,
+            "hi": 65.03362,
+            "lo": 52.76438,
+            "poll_avg": 50.38845
+          },
+          "now": {
+            "winprob": 98.115,
+            "forecast": 58.51603,
+            "hi": 64.34967,
+            "lo": 52.5348,
+            "poll_avg": 49.96877
+          },
+          "polls": {
+            "winprob": 96.71499999999999,
+            "forecast": 58.063,
+            "hi": 64.45844,
+            "lo": 51.59776,
+            "poll_avg": 50.29626
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 2.0500000000000003,
+            "forecast": 37.14365,
+            "hi": 43.19296,
+            "lo": 31.20902,
+            "poll_avg": 31.96057
+          },
+          "now": {
+            "winprob": 1.8399999999999999,
+            "forecast": 37.47495,
+            "hi": 43.16499,
+            "lo": 31.89363,
+            "poll_avg": 32.00354
+          },
+          "polls": {
+            "winprob": 3.15,
+            "forecast": 37.98716,
+            "hi": 44.297,
+            "lo": 31.64544,
+            "poll_avg": 31.90019
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 97.95,
+            "forecast": 58.9238,
+            "hi": 65.00264,
+            "lo": 52.71188,
+            "poll_avg": 50.47921
+          },
+          "now": {
+            "winprob": 98.16,
+            "forecast": 58.45884,
+            "hi": 64.21034,
+            "lo": 52.57477,
+            "poll_avg": 50.01571
+          },
+          "polls": {
+            "winprob": 96.85000000000001,
+            "forecast": 58.06348,
+            "hi": 64.5415,
+            "lo": 51.48965,
+            "poll_avg": 50.37996
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 1.855,
+            "forecast": 36.98769,
+            "hi": 43.00061,
+            "lo": 31.06807,
+            "poll_avg": 31.85175
+          },
+          "now": {
+            "winprob": 1.77,
+            "forecast": 37.13577,
+            "hi": 42.77428,
+            "lo": 31.59518,
+            "poll_avg": 31.5808
+          },
+          "polls": {
+            "winprob": 2.935,
+            "forecast": 37.77535,
+            "hi": 44.14417,
+            "lo": 31.5882,
+            "poll_avg": 31.71182
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 98.14500000000001,
+            "forecast": 59.09822,
+            "hi": 65.15859,
+            "lo": 52.95555,
+            "poll_avg": 50.80973
+          },
+          "now": {
+            "winprob": 98.22999999999999,
+            "forecast": 58.77578,
+            "hi": 64.5428,
+            "lo": 52.94083,
+            "poll_avg": 50.35672
+          },
+          "polls": {
+            "winprob": 97.065,
+            "forecast": 58.28106,
+            "hi": 64.6405,
+            "lo": 51.74447,
+            "poll_avg": 50.67872
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 2.1999999999999997,
+            "forecast": 37.25345,
+            "hi": 43.31345,
+            "lo": 31.31061,
+            "poll_avg": 32.18312
+          },
+          "now": {
+            "winprob": 2.085,
+            "forecast": 37.95135,
+            "hi": 43.50079,
+            "lo": 32.34599,
+            "poll_avg": 32.53554
+          },
+          "polls": {
+            "winprob": 3.0700000000000003,
+            "forecast": 38.11283,
+            "hi": 44.40982,
+            "lo": 31.85413,
+            "poll_avg": 32.13642
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 97.8,
+            "forecast": 58.84328,
+            "hi": 64.97972,
+            "lo": 52.62623,
+            "poll_avg": 50.50343
+          },
+          "now": {
+            "winprob": 97.91499999999999,
+            "forecast": 58.01159,
+            "hi": 63.73391,
+            "lo": 52.18307,
+            "poll_avg": 49.65942
+          },
+          "polls": {
+            "winprob": 96.93,
+            "forecast": 57.966,
+            "hi": 64.38306,
+            "lo": 51.50784,
+            "poll_avg": 50.37546
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 2.08,
+            "forecast": 37.29757,
+            "hi": 43.32653,
+            "lo": 31.35024,
+            "poll_avg": 32.42613
+          },
+          "now": {
+            "winprob": 2.015,
+            "forecast": 38.00185,
+            "hi": 43.5712,
+            "lo": 32.51074,
+            "poll_avg": 32.72393
+          },
+          "polls": {
+            "winprob": 3.225,
+            "forecast": 38.16815,
+            "hi": 44.42125,
+            "lo": 31.92463,
+            "poll_avg": 32.35218
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 97.92,
+            "forecast": 58.84414,
+            "hi": 64.93221,
+            "lo": 52.7004,
+            "poll_avg": 50.66574
+          },
+          "now": {
+            "winprob": 97.985,
+            "forecast": 57.99855,
+            "hi": 63.70202,
+            "lo": 52.19558,
+            "poll_avg": 49.77528
+          },
+          "polls": {
+            "winprob": 96.775,
+            "forecast": 57.95148,
+            "hi": 64.28876,
+            "lo": 51.43585,
+            "poll_avg": 50.52873
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 2.175,
+            "forecast": 37.25903,
+            "hi": 43.3846,
+            "lo": 31.25519,
+            "poll_avg": 32.28862
+          },
+          "now": {
+            "winprob": 2.075,
+            "forecast": 37.81538,
+            "hi": 43.45266,
+            "lo": 32.20084,
+            "poll_avg": 32.59097
+          },
+          "polls": {
+            "winprob": 3.2399999999999998,
+            "forecast": 38.18134,
+            "hi": 44.45772,
+            "lo": 31.94503,
+            "poll_avg": 32.22831
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 97.82499999999999,
+            "forecast": 58.8351,
+            "hi": 65.00359,
+            "lo": 52.54543,
+            "poll_avg": 50.34272
+          },
+          "now": {
+            "winprob": 97.925,
+            "forecast": 58.15106,
+            "hi": 63.89491,
+            "lo": 52.31733,
+            "poll_avg": 49.65926
+          },
+          "polls": {
+            "winprob": 96.76,
+            "forecast": 57.89375,
+            "hi": 64.37909,
+            "lo": 51.39584,
+            "poll_avg": 50.22004
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 2.02,
+            "forecast": 37.07837,
+            "hi": 43.00607,
+            "lo": 31.1134,
+            "poll_avg": 32.08641
+          },
+          "now": {
+            "winprob": 1.7999999999999998,
+            "forecast": 37.50285,
+            "hi": 43.08275,
+            "lo": 31.91937,
+            "poll_avg": 32.16751
+          },
+          "polls": {
+            "winprob": 3.08,
+            "forecast": 37.9959,
+            "hi": 44.24503,
+            "lo": 31.78956,
+            "poll_avg": 32.12138
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 97.98,
+            "forecast": 59.02937,
+            "hi": 65.1026,
+            "lo": 52.88148,
+            "poll_avg": 50.7408
+          },
+          "now": {
+            "winprob": 98.2,
+            "forecast": 58.45595,
+            "hi": 64.14783,
+            "lo": 52.60905,
+            "poll_avg": 50.12805
+          },
+          "polls": {
+            "winprob": 96.92,
+            "forecast": 58.10241,
+            "hi": 64.46131,
+            "lo": 51.63166,
+            "poll_avg": 50.59805
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 2.005,
+            "forecast": 37.19336,
+            "hi": 43.09521,
+            "lo": 31.26637,
+            "poll_avg": 32.45821
+          },
+          "now": {
+            "winprob": 1.645,
+            "forecast": 37.48083,
+            "hi": 42.96708,
+            "lo": 32.06073,
+            "poll_avg": 32.53307
+          },
+          "polls": {
+            "winprob": 2.77,
+            "forecast": 37.9833,
+            "hi": 44.24426,
+            "lo": 31.79043,
+            "poll_avg": 32.34378
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 97.995,
+            "forecast": 58.98996,
+            "hi": 64.9586,
+            "lo": 52.83504,
+            "poll_avg": 51.0598
+          },
+          "now": {
+            "winprob": 98.355,
+            "forecast": 58.60098,
+            "hi": 64.14445,
+            "lo": 52.9437,
+            "poll_avg": 50.76435
+          },
+          "polls": {
+            "winprob": 97.23,
+            "forecast": 58.17979,
+            "hi": 64.50567,
+            "lo": 51.76828,
+            "poll_avg": 50.99335
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 1.765,
+            "forecast": 37.14935,
+            "hi": 43.0779,
+            "lo": 31.36166,
+            "poll_avg": 32.4747
+          },
+          "now": {
+            "winprob": 1.5,
+            "forecast": 37.69814,
+            "hi": 42.99553,
+            "lo": 32.49348,
+            "poll_avg": 33.17272
+          },
+          "polls": {
+            "winprob": 2.765,
+            "forecast": 38.01868,
+            "hi": 44.22017,
+            "lo": 31.92739,
+            "poll_avg": 32.55897
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 98.235,
+            "forecast": 59.05375,
+            "hi": 64.98775,
+            "lo": 52.90973,
+            "poll_avg": 51.24567
+          },
+          "now": {
+            "winprob": 98.5,
+            "forecast": 58.52166,
+            "hi": 63.94151,
+            "lo": 52.94873,
+            "poll_avg": 51.18858
+          },
+          "polls": {
+            "winprob": 97.235,
+            "forecast": 58.1894,
+            "hi": 64.45131,
+            "lo": 51.76745,
+            "poll_avg": 51.19105
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 1.8499999999999999,
+            "forecast": 37.17095,
+            "hi": 42.98871,
+            "lo": 31.33998,
+            "poll_avg": 32.48689
+          },
+          "now": {
+            "winprob": 1.635,
+            "forecast": 37.73817,
+            "hi": 43.09367,
+            "lo": 32.44812,
+            "poll_avg": 33.27657
+          },
+          "polls": {
+            "winprob": 2.765,
+            "forecast": 38.01868,
+            "hi": 44.22017,
+            "lo": 31.92739,
+            "poll_avg": 32.55897
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 98.15,
+            "forecast": 59.03238,
+            "hi": 65.01694,
+            "lo": 52.9573,
+            "poll_avg": 51.23256
+          },
+          "now": {
+            "winprob": 98.36500000000001,
+            "forecast": 58.49816,
+            "hi": 63.87456,
+            "lo": 53.07861,
+            "poll_avg": 51.21467
+          },
+          "polls": {
+            "winprob": 97.235,
+            "forecast": 58.1894,
+            "hi": 64.45131,
+            "lo": 51.76745,
+            "poll_avg": 51.19105
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 1.875,
+            "forecast": 37.20541,
+            "hi": 43.11085,
+            "lo": 31.32541,
+            "poll_avg": 32.61435
+          },
+          "now": {
+            "winprob": 1.5599999999999998,
+            "forecast": 37.75107,
+            "hi": 43.04401,
+            "lo": 32.47407,
+            "poll_avg": 33.19216
+          },
+          "polls": {
+            "winprob": 3.04,
+            "forecast": 37.9909,
+            "hi": 44.17183,
+            "lo": 31.89222,
+            "poll_avg": 32.47447
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 98.125,
+            "forecast": 59.01411,
+            "hi": 65.09141,
+            "lo": 52.95718,
+            "poll_avg": 51.24045
+          },
+          "now": {
+            "winprob": 98.44000000000001,
+            "forecast": 58.45838,
+            "hi": 63.87302,
+            "lo": 52.95615,
+            "poll_avg": 51.09759
+          },
+          "polls": {
+            "winprob": 96.96000000000001,
+            "forecast": 58.20542,
+            "hi": 64.48251,
+            "lo": 51.81775,
+            "poll_avg": 51.17509
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 1.7149999999999999,
+            "forecast": 37.16684,
+            "hi": 43.17299,
+            "lo": 31.32298,
+            "poll_avg": 32.53627
+          },
+          "now": {
+            "winprob": 1.525,
+            "forecast": 37.78688,
+            "hi": 43.09702,
+            "lo": 32.57892,
+            "poll_avg": 33.30255
+          },
+          "polls": {
+            "winprob": 3.04,
+            "forecast": 37.9909,
+            "hi": 44.17183,
+            "lo": 31.89222,
+            "poll_avg": 32.47447
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 98.285,
+            "forecast": 59.04394,
+            "hi": 65.06506,
+            "lo": 52.85246,
+            "poll_avg": 51.24794
+          },
+          "now": {
+            "winprob": 98.475,
+            "forecast": 58.44361,
+            "hi": 63.80095,
+            "lo": 52.95309,
+            "poll_avg": 51.15368
+          },
+          "polls": {
+            "winprob": 96.96000000000001,
+            "forecast": 58.20542,
+            "hi": 64.48251,
+            "lo": 51.81775,
+            "poll_avg": 51.17509
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 1.79,
+            "forecast": 36.9193,
+            "hi": 42.9387,
+            "lo": 31.02296,
+            "poll_avg": 32.04918
+          },
+          "now": {
+            "winprob": 1.4949999999999999,
+            "forecast": 37.18347,
+            "hi": 42.62085,
+            "lo": 31.77848,
+            "poll_avg": 32.11668
+          },
+          "polls": {
+            "winprob": 2.77,
+            "forecast": 37.73347,
+            "hi": 43.92318,
+            "lo": 31.48426,
+            "poll_avg": 31.89124
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 98.21,
+            "forecast": 59.22044,
+            "hi": 65.24825,
+            "lo": 52.99162,
+            "poll_avg": 51.12225
+          },
+          "now": {
+            "winprob": 98.505,
+            "forecast": 58.85188,
+            "hi": 64.41604,
+            "lo": 53.19938,
+            "poll_avg": 50.94708
+          },
+          "polls": {
+            "winprob": 97.23,
+            "forecast": 58.37487,
+            "hi": 64.72628,
+            "lo": 52.02811,
+            "poll_avg": 50.99411
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 1.83,
+            "forecast": 36.88184,
+            "hi": 42.89641,
+            "lo": 30.95293,
+            "poll_avg": 31.94115
+          },
+          "now": {
+            "winprob": 1.46,
+            "forecast": 37.12246,
+            "hi": 42.49861,
+            "lo": 31.71249,
+            "poll_avg": 32.06612
+          },
+          "polls": {
+            "winprob": 2.77,
+            "forecast": 37.73347,
+            "hi": 43.92318,
+            "lo": 31.48426,
+            "poll_avg": 31.89124
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 98.17,
+            "forecast": 59.24438,
+            "hi": 65.35083,
+            "lo": 53.01394,
+            "poll_avg": 51.11771
+          },
+          "now": {
+            "winprob": 98.54,
+            "forecast": 58.91312,
+            "hi": 64.41921,
+            "lo": 53.27468,
+            "poll_avg": 51.02557
+          },
+          "polls": {
+            "winprob": 97.23,
+            "forecast": 58.37487,
+            "hi": 64.72628,
+            "lo": 52.02811,
+            "poll_avg": 50.99411
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 1.91,
+            "forecast": 37.05992,
+            "hi": 42.98108,
+            "lo": 31.18363,
+            "poll_avg": 32.16921
+          },
+          "now": {
+            "winprob": 1.6400000000000001,
+            "forecast": 37.50838,
+            "hi": 42.90372,
+            "lo": 32.17181,
+            "poll_avg": 32.44888
+          },
+          "polls": {
+            "winprob": 2.92,
+            "forecast": 37.9491,
+            "hi": 44.19411,
+            "lo": 31.77891,
+            "poll_avg": 32.24933
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 98.09,
+            "forecast": 59.08618,
+            "hi": 65.12966,
+            "lo": 52.93535,
+            "poll_avg": 51.03673
+          },
+          "now": {
+            "winprob": 98.36,
+            "forecast": 58.54863,
+            "hi": 64.04071,
+            "lo": 52.94373,
+            "poll_avg": 50.75648
+          },
+          "polls": {
+            "winprob": 97.08,
+            "forecast": 58.199,
+            "hi": 64.57278,
+            "lo": 51.74463,
+            "poll_avg": 50.95619
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 1.9349999999999998,
+            "forecast": 37.03321,
+            "hi": 43.02044,
+            "lo": 31.12019,
+            "poll_avg": 32.22601
+          },
+          "now": {
+            "winprob": 1.5599999999999998,
+            "forecast": 37.47832,
+            "hi": 42.94364,
+            "lo": 32.10144,
+            "poll_avg": 32.40904
+          },
+          "polls": {
+            "winprob": 2.9499999999999997,
+            "forecast": 37.87184,
+            "hi": 44.09437,
+            "lo": 31.5992,
+            "poll_avg": 32.06474
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 98.065,
+            "forecast": 59.11506,
+            "hi": 65.25015,
+            "lo": 52.87394,
+            "poll_avg": 50.98755
+          },
+          "now": {
+            "winprob": 98.44000000000001,
+            "forecast": 58.55579,
+            "hi": 64.10159,
+            "lo": 52.92243,
+            "poll_avg": 50.62655
+          },
+          "polls": {
+            "winprob": 97.05,
+            "forecast": 58.2425,
+            "hi": 64.59435,
+            "lo": 51.76108,
+            "poll_avg": 50.83716
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 2.01,
+            "forecast": 37.09703,
+            "hi": 43.08758,
+            "lo": 31.12349,
+            "poll_avg": 32.2235
+          },
+          "now": {
+            "winprob": 1.55,
+            "forecast": 37.56092,
+            "hi": 42.92218,
+            "lo": 32.2041,
+            "poll_avg": 32.35406
+          },
+          "polls": {
+            "winprob": 2.97,
+            "forecast": 37.91904,
+            "hi": 44.31867,
+            "lo": 31.62538,
+            "poll_avg": 32.0426
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 97.99,
+            "forecast": 59.04738,
+            "hi": 65.16269,
+            "lo": 52.87095,
+            "poll_avg": 50.95041
+          },
+          "now": {
+            "winprob": 98.45,
+            "forecast": 58.44694,
+            "hi": 63.97657,
+            "lo": 52.74002,
+            "poll_avg": 50.48816
+          },
+          "polls": {
+            "winprob": 97.03,
+            "forecast": 58.18327,
+            "hi": 64.57124,
+            "lo": 51.63891,
+            "poll_avg": 50.73961
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 1.2850000000000001,
+            "forecast": 36.00871,
+            "hi": 41.94749,
+            "lo": 30.14075,
+            "poll_avg": 31.03252
+          },
+          "now": {
+            "winprob": 1.0250000000000001,
+            "forecast": 36.13445,
+            "hi": 41.52769,
+            "lo": 30.8171,
+            "poll_avg": 31.13301
+          },
+          "polls": {
+            "winprob": 1.745,
+            "forecast": 36.11608,
+            "hi": 42.47691,
+            "lo": 29.83278,
+            "poll_avg": 31.04749
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 98.715,
+            "forecast": 60.22673,
+            "hi": 66.20285,
+            "lo": 54.10043,
+            "poll_avg": 52.88695
+          },
+          "now": {
+            "winprob": 98.97500000000001,
+            "forecast": 60.02453,
+            "hi": 65.56367,
+            "lo": 54.39682,
+            "poll_avg": 52.83567
+          },
+          "polls": {
+            "winprob": 98.25500000000001,
+            "forecast": 60.11968,
+            "hi": 66.53592,
+            "lo": 53.60015,
+            "poll_avg": 52.87116
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 1.365,
+            "forecast": 35.93566,
+            "hi": 41.85614,
+            "lo": 30.05408,
+            "poll_avg": 30.99938
+          },
+          "now": {
+            "winprob": 0.915,
+            "forecast": 36.11453,
+            "hi": 41.46073,
+            "lo": 30.8873,
+            "poll_avg": 31.21267
+          },
+          "polls": {
+            "winprob": 1.8350000000000002,
+            "forecast": 36.05909,
+            "hi": 42.43951,
+            "lo": 29.73116,
+            "poll_avg": 31.12276
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 98.63499999999999,
+            "forecast": 60.29913,
+            "hi": 66.38557,
+            "lo": 54.19807,
+            "poll_avg": 52.92241
+          },
+          "now": {
+            "winprob": 99.08500000000001,
+            "forecast": 60.06207,
+            "hi": 65.63393,
+            "lo": 54.44412,
+            "poll_avg": 52.91655
+          },
+          "polls": {
+            "winprob": 98.165,
+            "forecast": 60.19579,
+            "hi": 66.73817,
+            "lo": 53.63267,
+            "poll_avg": 53.00691
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 1.37,
+            "forecast": 36.28773,
+            "hi": 42.14371,
+            "lo": 30.49385,
+            "poll_avg": 31.3399
+          },
+          "now": {
+            "winprob": 1.05,
+            "forecast": 36.62549,
+            "hi": 41.90314,
+            "lo": 31.37051,
+            "poll_avg": 31.69305
+          },
+          "polls": {
+            "winprob": 1.875,
+            "forecast": 36.34956,
+            "hi": 42.65684,
+            "lo": 30.03663,
+            "poll_avg": 31.32318
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 98.63,
+            "forecast": 59.97825,
+            "hi": 65.97072,
+            "lo": 53.91937,
+            "poll_avg": 52.85826
+          },
+          "now": {
+            "winprob": 98.95,
+            "forecast": 59.5963,
+            "hi": 65.05624,
+            "lo": 54.08703,
+            "poll_avg": 52.7591
+          },
+          "polls": {
+            "winprob": 98.125,
+            "forecast": 59.92028,
+            "hi": 66.32365,
+            "lo": 53.45441,
+            "poll_avg": 52.92754
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 1.385,
+            "forecast": 35.98849,
+            "hi": 42.02578,
+            "lo": 30.02971,
+            "poll_avg": 30.29853
+          },
+          "now": {
+            "winprob": 1.165,
+            "forecast": 35.95508,
+            "hi": 41.54367,
+            "lo": 30.41941,
+            "poll_avg": 29.5999
+          },
+          "polls": {
+            "winprob": 1.9849999999999999,
+            "forecast": 36.14724,
+            "hi": 42.59174,
+            "lo": 29.73887,
+            "poll_avg": 30.30855
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 98.615,
+            "forecast": 60.12822,
+            "hi": 66.25455,
+            "lo": 53.90332,
+            "poll_avg": 52.3935
+          },
+          "now": {
+            "winprob": 98.835,
+            "forecast": 59.88084,
+            "hi": 65.60152,
+            "lo": 53.98953,
+            "poll_avg": 51.74522
+          },
+          "polls": {
+            "winprob": 98.015,
+            "forecast": 59.96042,
+            "hi": 66.50353,
+            "lo": 53.35435,
+            "poll_avg": 52.26927
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 1.375,
+            "forecast": 35.948,
+            "hi": 41.96723,
+            "lo": 29.93291,
+            "poll_avg": 30.23592
+          },
+          "now": {
+            "winprob": 1.145,
+            "forecast": 35.82071,
+            "hi": 41.41924,
+            "lo": 30.29897,
+            "poll_avg": 29.48441
+          },
+          "polls": {
+            "winprob": 2.095,
+            "forecast": 36.0966,
+            "hi": 42.56905,
+            "lo": 29.66942,
+            "poll_avg": 30.20878
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 98.625,
+            "forecast": 60.16211,
+            "hi": 66.37158,
+            "lo": 53.89783,
+            "poll_avg": 52.39457
+          },
+          "now": {
+            "winprob": 98.855,
+            "forecast": 60.01581,
+            "hi": 65.78195,
+            "lo": 54.23325,
+            "poll_avg": 51.91682
+          },
+          "polls": {
+            "winprob": 97.905,
+            "forecast": 59.99975,
+            "hi": 66.55962,
+            "lo": 53.3445,
+            "poll_avg": 52.26152
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 1.16,
+            "forecast": 35.68626,
+            "hi": 41.6441,
+            "lo": 29.85976,
+            "poll_avg": 30.5724
+          },
+          "now": {
+            "winprob": 0.9400000000000001,
+            "forecast": 35.47733,
+            "hi": 41.01675,
+            "lo": 30.0449,
+            "poll_avg": 29.97958
+          },
+          "polls": {
+            "winprob": 1.815,
+            "forecast": 35.87462,
+            "hi": 42.29386,
+            "lo": 29.56281,
+            "poll_avg": 30.60262
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 98.83999999999999,
+            "forecast": 60.49947,
+            "hi": 66.58046,
+            "lo": 54.32909,
+            "poll_avg": 52.8807
+          },
+          "now": {
+            "winprob": 99.06,
+            "forecast": 60.51918,
+            "hi": 66.14719,
+            "lo": 54.81889,
+            "poll_avg": 52.81583
+          },
+          "polls": {
+            "winprob": 98.185,
+            "forecast": 60.30274,
+            "hi": 66.84274,
+            "lo": 53.71202,
+            "poll_avg": 52.73851
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 1.315,
+            "forecast": 35.73711,
+            "hi": 41.68768,
+            "lo": 29.874,
+            "poll_avg": 30.65483
+          },
+          "now": {
+            "winprob": 0.9299999999999999,
+            "forecast": 35.58651,
+            "hi": 41.02847,
+            "lo": 30.16622,
+            "poll_avg": 30.23392
+          },
+          "polls": {
+            "winprob": 1.8399999999999999,
+            "forecast": 35.88498,
+            "hi": 42.38629,
+            "lo": 29.43345,
+            "poll_avg": 30.55378
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 98.685,
+            "forecast": 60.45885,
+            "hi": 66.57486,
+            "lo": 54.31071,
+            "poll_avg": 52.89808
+          },
+          "now": {
+            "winprob": 99.07000000000001,
+            "forecast": 60.45121,
+            "hi": 66.07687,
+            "lo": 54.72623,
+            "poll_avg": 52.90087
+          },
+          "polls": {
+            "winprob": 98.16,
+            "forecast": 60.28462,
+            "hi": 66.87895,
+            "lo": 53.60168,
+            "poll_avg": 52.70738
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 1.295,
+            "forecast": 35.91576,
+            "hi": 41.90653,
+            "lo": 30.07803,
+            "poll_avg": 30.71457
+          },
+          "now": {
+            "winprob": 0.9450000000000001,
+            "forecast": 35.78471,
+            "hi": 41.24196,
+            "lo": 30.35818,
+            "poll_avg": 30.26887
+          },
+          "polls": {
+            "winprob": 1.9800000000000002,
+            "forecast": 36.09546,
+            "hi": 42.51306,
+            "lo": 29.72396,
+            "poll_avg": 30.73582
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 98.705,
+            "forecast": 60.27575,
+            "hi": 66.2877,
+            "lo": 54.14067,
+            "poll_avg": 52.76514
+          },
+          "now": {
+            "winprob": 99.055,
+            "forecast": 60.23277,
+            "hi": 65.83635,
+            "lo": 54.5704,
+            "poll_avg": 52.68701
+          },
+          "polls": {
+            "winprob": 98.02,
+            "forecast": 60.08717,
+            "hi": 66.6301,
+            "lo": 53.46132,
+            "poll_avg": 52.62843
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 1.275,
+            "forecast": 35.81745,
+            "hi": 41.79844,
+            "lo": 29.94472,
+            "poll_avg": 30.72252
+          },
+          "now": {
+            "winprob": 1.035,
+            "forecast": 35.68825,
+            "hi": 41.1345,
+            "lo": 30.3186,
+            "poll_avg": 30.24302
+          },
+          "polls": {
+            "winprob": 1.92,
+            "forecast": 36.01434,
+            "hi": 42.39458,
+            "lo": 29.67359,
+            "poll_avg": 30.75527
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 98.725,
+            "forecast": 60.38195,
+            "hi": 66.48907,
+            "lo": 54.19291,
+            "poll_avg": 52.85161
+          },
+          "now": {
+            "winprob": 98.965,
+            "forecast": 60.33234,
+            "hi": 65.97909,
+            "lo": 54.56808,
+            "poll_avg": 52.76417
+          },
+          "polls": {
+            "winprob": 98.08,
+            "forecast": 60.17555,
+            "hi": 66.70171,
+            "lo": 53.552,
+            "poll_avg": 52.69181
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 1.4500000000000002,
+            "forecast": 36.06394,
+            "hi": 41.93847,
+            "lo": 30.16011,
+            "poll_avg": 30.8643
+          },
+          "now": {
+            "winprob": 0.955,
+            "forecast": 36.15189,
+            "hi": 41.55155,
+            "lo": 30.74918,
+            "poll_avg": 30.65378
+          },
+          "polls": {
+            "winprob": 1.96,
+            "forecast": 36.24631,
+            "hi": 42.75093,
+            "lo": 29.91721,
+            "poll_avg": 30.80139
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 98.55000000000001,
+            "forecast": 60.14749,
+            "hi": 66.23962,
+            "lo": 54.06682,
+            "poll_avg": 52.81305
+          },
+          "now": {
+            "winprob": 99.045,
+            "forecast": 59.89706,
+            "hi": 65.39233,
+            "lo": 54.29248,
+            "poll_avg": 52.53421
+          },
+          "polls": {
+            "winprob": 98.04,
+            "forecast": 59.94101,
+            "hi": 66.39834,
+            "lo": 53.33527,
+            "poll_avg": 52.59989
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 1.345,
+            "forecast": 35.93632,
+            "hi": 41.98661,
+            "lo": 29.93797,
+            "poll_avg": 30.68571
+          },
+          "now": {
+            "winprob": 0.9950000000000001,
+            "forecast": 35.82013,
+            "hi": 41.30726,
+            "lo": 30.39929,
+            "poll_avg": 30.19713
+          },
+          "polls": {
+            "winprob": 2.005,
+            "forecast": 36.1268,
+            "hi": 42.59871,
+            "lo": 29.86001,
+            "poll_avg": 30.64727
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 98.655,
+            "forecast": 60.25411,
+            "hi": 66.38876,
+            "lo": 54.05569,
+            "poll_avg": 52.78981
+          },
+          "now": {
+            "winprob": 99.005,
+            "forecast": 60.17592,
+            "hi": 65.73354,
+            "lo": 54.51075,
+            "poll_avg": 52.62946
+          },
+          "polls": {
+            "winprob": 97.995,
+            "forecast": 60.04504,
+            "hi": 66.46309,
+            "lo": 53.47831,
+            "poll_avg": 52.61221
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 1.3299999999999998,
+            "forecast": 35.97772,
+            "hi": 41.95348,
+            "lo": 30.05191,
+            "poll_avg": 30.76387
+          },
+          "now": {
+            "winprob": 0.905,
+            "forecast": 35.53199,
+            "hi": 40.91631,
+            "lo": 30.28533,
+            "poll_avg": 30.05126
+          },
+          "polls": {
+            "winprob": 1.8900000000000001,
+            "forecast": 36.14346,
+            "hi": 42.61393,
+            "lo": 29.77818,
+            "poll_avg": 30.6109
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 98.67,
+            "forecast": 60.22095,
+            "hi": 66.29534,
+            "lo": 54.05524,
+            "poll_avg": 52.78825
+          },
+          "now": {
+            "winprob": 99.095,
+            "forecast": 60.49235,
+            "hi": 66.04031,
+            "lo": 54.84051,
+            "poll_avg": 53.08346
+          },
+          "polls": {
+            "winprob": 98.11,
+            "forecast": 60.02086,
+            "hi": 66.53226,
+            "lo": 53.35402,
+            "poll_avg": 52.56759
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 1.4500000000000002,
+            "forecast": 36.18915,
+            "hi": 42.093,
+            "lo": 30.37635,
+            "poll_avg": 31.0709
+          },
+          "now": {
+            "winprob": 0.8500000000000001,
+            "forecast": 35.90793,
+            "hi": 41.22041,
+            "lo": 30.64992,
+            "poll_avg": 30.61829
+          },
+          "polls": {
+            "winprob": 2.0500000000000003,
+            "forecast": 36.34694,
+            "hi": 42.79263,
+            "lo": 29.95974,
+            "poll_avg": 30.85433
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 98.55000000000001,
+            "forecast": 60.04388,
+            "hi": 66.11105,
+            "lo": 53.83627,
+            "poll_avg": 52.80701
+          },
+          "now": {
+            "winprob": 99.15,
+            "forecast": 60.18953,
+            "hi": 65.68996,
+            "lo": 54.62831,
+            "poll_avg": 53.06442
+          },
+          "polls": {
+            "winprob": 97.95,
+            "forecast": 59.84134,
+            "hi": 66.3937,
+            "lo": 53.15413,
+            "poll_avg": 52.54213
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 1.6150000000000002,
+            "forecast": 36.22157,
+            "hi": 42.21433,
+            "lo": 30.31994,
+            "poll_avg": 30.75714
+          },
+          "now": {
+            "winprob": 1.035,
+            "forecast": 36.01726,
+            "hi": 41.44897,
+            "lo": 30.6139,
+            "poll_avg": 30.22219
+          },
+          "polls": {
+            "winprob": 2.085,
+            "forecast": 36.39157,
+            "hi": 42.82509,
+            "lo": 30.02573,
+            "poll_avg": 30.67571
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 98.385,
+            "forecast": 59.95896,
+            "hi": 66.04819,
+            "lo": 53.65925,
+            "poll_avg": 52.57465
+          },
+          "now": {
+            "winprob": 98.965,
+            "forecast": 59.96565,
+            "hi": 65.50842,
+            "lo": 54.26975,
+            "poll_avg": 52.53072
+          },
+          "polls": {
+            "winprob": 97.91499999999999,
+            "forecast": 59.764,
+            "hi": 66.38266,
+            "lo": 53.1259,
+            "poll_avg": 52.37535
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 1.46,
+            "forecast": 36.2946,
+            "hi": 42.26591,
+            "lo": 30.38006,
+            "poll_avg": 31.01864
+          },
+          "now": {
+            "winprob": 0.9450000000000001,
+            "forecast": 36.03081,
+            "hi": 41.3991,
+            "lo": 30.80966,
+            "poll_avg": 30.35221
+          },
+          "polls": {
+            "winprob": 2.215,
+            "forecast": 36.46283,
+            "hi": 42.91126,
+            "lo": 30.06833,
+            "poll_avg": 30.82079
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 98.54,
+            "forecast": 59.91568,
+            "hi": 65.98749,
+            "lo": 53.71585,
+            "poll_avg": 52.59653
+          },
+          "now": {
+            "winprob": 99.055,
+            "forecast": 59.97782,
+            "hi": 65.47646,
+            "lo": 54.42546,
+            "poll_avg": 52.61943
+          },
+          "polls": {
+            "winprob": 97.785,
+            "forecast": 59.70156,
+            "hi": 66.24747,
+            "lo": 53.09647,
+            "poll_avg": 52.29323
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 1.6400000000000001,
+            "forecast": 36.30182,
+            "hi": 42.30273,
+            "lo": 30.37891,
+            "poll_avg": 30.66093
+          },
+          "now": {
+            "winprob": 1.0,
+            "forecast": 35.95849,
+            "hi": 41.40637,
+            "lo": 30.59521,
+            "poll_avg": 29.76087
+          },
+          "polls": {
+            "winprob": 2.225,
+            "forecast": 36.50576,
+            "hi": 43.05486,
+            "lo": 29.98239,
+            "poll_avg": 30.52113
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 98.36,
+            "forecast": 59.85345,
+            "hi": 65.9485,
+            "lo": 53.6637,
+            "poll_avg": 52.39095
+          },
+          "now": {
+            "winprob": 99.0,
+            "forecast": 59.92756,
+            "hi": 65.54354,
+            "lo": 54.16177,
+            "poll_avg": 52.26284
+          },
+          "polls": {
+            "winprob": 97.775,
+            "forecast": 59.6056,
+            "hi": 66.1598,
+            "lo": 52.86227,
+            "poll_avg": 52.03583
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 1.825,
+            "forecast": 36.76638,
+            "hi": 42.70752,
+            "lo": 30.76775,
+            "poll_avg": 30.98943
+          },
+          "now": {
+            "winprob": 1.31,
+            "forecast": 36.72043,
+            "hi": 42.19601,
+            "lo": 31.29732,
+            "poll_avg": 30.22838
+          },
+          "polls": {
+            "winprob": 2.6599999999999997,
+            "forecast": 36.95015,
+            "hi": 43.51308,
+            "lo": 30.4435,
+            "poll_avg": 30.71848
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 98.175,
+            "forecast": 59.39746,
+            "hi": 65.50623,
+            "lo": 53.12739,
+            "poll_avg": 52.06514
+          },
+          "now": {
+            "winprob": 98.69,
+            "forecast": 59.13997,
+            "hi": 64.7242,
+            "lo": 53.43328,
+            "poll_avg": 51.47965
+          },
+          "polls": {
+            "winprob": 97.34,
+            "forecast": 59.14887,
+            "hi": 65.76694,
+            "lo": 52.39659,
+            "poll_avg": 51.62553
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 1.8350000000000002,
+            "forecast": 36.58469,
+            "hi": 42.62886,
+            "lo": 30.65296,
+            "poll_avg": 30.79991
+          },
+          "now": {
+            "winprob": 1.085,
+            "forecast": 36.38292,
+            "hi": 41.74873,
+            "lo": 31.0951,
+            "poll_avg": 30.19674
+          },
+          "polls": {
+            "winprob": 2.36,
+            "forecast": 36.81968,
+            "hi": 43.39053,
+            "lo": 30.39941,
+            "poll_avg": 30.73779
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 98.165,
+            "forecast": 59.58109,
+            "hi": 65.66877,
+            "lo": 53.42944,
+            "poll_avg": 52.33772
+          },
+          "now": {
+            "winprob": 98.91499999999999,
+            "forecast": 59.55849,
+            "hi": 65.11674,
+            "lo": 53.90984,
+            "poll_avg": 52.26019
+          },
+          "polls": {
+            "winprob": 97.64,
+            "forecast": 59.30832,
+            "hi": 65.93097,
+            "lo": 52.53318,
+            "poll_avg": 51.95564
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 1.815,
+            "forecast": 36.65434,
+            "hi": 42.66868,
+            "lo": 30.80284,
+            "poll_avg": 30.86083
+          },
+          "now": {
+            "winprob": 1.13,
+            "forecast": 36.42913,
+            "hi": 41.73325,
+            "lo": 31.11907,
+            "poll_avg": 30.1845
+          },
+          "polls": {
+            "winprob": 2.3800000000000003,
+            "forecast": 36.87251,
+            "hi": 43.35117,
+            "lo": 30.38779,
+            "poll_avg": 30.78111
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 98.185,
+            "forecast": 59.51709,
+            "hi": 65.57536,
+            "lo": 53.28621,
+            "poll_avg": 52.327
+          },
+          "now": {
+            "winprob": 98.87,
+            "forecast": 59.50984,
+            "hi": 64.99057,
+            "lo": 53.94608,
+            "poll_avg": 52.27151
+          },
+          "polls": {
+            "winprob": 97.61999999999999,
+            "forecast": 59.26401,
+            "hi": 65.91936,
+            "lo": 52.64643,
+            "poll_avg": 52.00338
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 1.81,
+            "forecast": 36.61122,
+            "hi": 42.68872,
+            "lo": 30.68022,
+            "poll_avg": 30.61108
+          },
+          "now": {
+            "winprob": 1.17,
+            "forecast": 36.25005,
+            "hi": 41.6029,
+            "lo": 30.89718,
+            "poll_avg": 29.60988
+          },
+          "polls": {
+            "winprob": 2.545,
+            "forecast": 36.80065,
+            "hi": 43.37564,
+            "lo": 30.29375,
+            "poll_avg": 30.49053
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 98.19,
+            "forecast": 59.51288,
+            "hi": 65.63956,
+            "lo": 53.28844,
+            "poll_avg": 52.07405
+          },
+          "now": {
+            "winprob": 98.83,
+            "forecast": 59.56591,
+            "hi": 65.13857,
+            "lo": 53.89179,
+            "poll_avg": 51.90594
+          },
+          "polls": {
+            "winprob": 97.455,
+            "forecast": 59.28427,
+            "hi": 65.96245,
+            "lo": 52.53896,
+            "poll_avg": 51.75161
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 1.68,
+            "forecast": 36.59076,
+            "hi": 42.64122,
+            "lo": 30.53153,
+            "poll_avg": 30.56896
+          },
+          "now": {
+            "winprob": 1.0999999999999999,
+            "forecast": 36.23843,
+            "hi": 41.65734,
+            "lo": 30.83602,
+            "poll_avg": 29.6195
+          },
+          "polls": {
+            "winprob": 2.495,
+            "forecast": 36.79607,
+            "hi": 43.41634,
+            "lo": 30.26202,
+            "poll_avg": 30.5523
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 98.32,
+            "forecast": 59.52832,
+            "hi": 65.73716,
+            "lo": 53.30927,
+            "poll_avg": 52.06775
+          },
+          "now": {
+            "winprob": 98.9,
+            "forecast": 59.58112,
+            "hi": 65.19449,
+            "lo": 53.84586,
+            "poll_avg": 51.94694
+          },
+          "polls": {
+            "winprob": 97.505,
+            "forecast": 59.30048,
+            "hi": 65.97285,
+            "lo": 52.54596,
+            "poll_avg": 51.81322
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 1.63,
+            "forecast": 36.53855,
+            "hi": 42.5402,
+            "lo": 30.51247,
+            "poll_avg": 30.92094
+          },
+          "now": {
+            "winprob": 0.9450000000000001,
+            "forecast": 36.09878,
+            "hi": 41.52597,
+            "lo": 30.77531,
+            "poll_avg": 29.86522
+          },
+          "polls": {
+            "winprob": 2.435,
+            "forecast": 36.73032,
+            "hi": 43.27873,
+            "lo": 30.26574,
+            "poll_avg": 30.80235
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 98.37,
+            "forecast": 59.64485,
+            "hi": 65.86551,
+            "lo": 53.42184,
+            "poll_avg": 52.39494
+          },
+          "now": {
+            "winprob": 99.055,
+            "forecast": 59.79804,
+            "hi": 65.37266,
+            "lo": 54.13829,
+            "poll_avg": 52.34536
+          },
+          "polls": {
+            "winprob": 97.565,
+            "forecast": 59.41352,
+            "hi": 66.04921,
+            "lo": 52.76242,
+            "poll_avg": 52.06536
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 1.6199999999999999,
+            "forecast": 36.45757,
+            "hi": 42.51207,
+            "lo": 30.51943,
+            "poll_avg": 31.006
+          },
+          "now": {
+            "winprob": 0.985,
+            "forecast": 35.75648,
+            "hi": 41.06834,
+            "lo": 30.42027,
+            "poll_avg": 29.75994
+          },
+          "polls": {
+            "winprob": 2.25,
+            "forecast": 36.6494,
+            "hi": 43.29134,
+            "lo": 30.24474,
+            "poll_avg": 30.88236
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 98.38,
+            "forecast": 59.74334,
+            "hi": 65.81303,
+            "lo": 53.47772,
+            "poll_avg": 52.49805
+          },
+          "now": {
+            "winprob": 99.015,
+            "forecast": 60.1764,
+            "hi": 65.6499,
+            "lo": 54.59274,
+            "poll_avg": 52.80779
+          },
+          "polls": {
+            "winprob": 97.75,
+            "forecast": 59.51363,
+            "hi": 66.17328,
+            "lo": 52.80452,
+            "poll_avg": 52.1957
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 1.725,
+            "forecast": 36.52525,
+            "hi": 42.63145,
+            "lo": 30.57911,
+            "poll_avg": 31.00051
+          },
+          "now": {
+            "winprob": 0.935,
+            "forecast": 36.13935,
+            "hi": 41.49122,
+            "lo": 30.85818,
+            "poll_avg": 30.10137
+          },
+          "polls": {
+            "winprob": 2.355,
+            "forecast": 36.74838,
+            "hi": 43.31215,
+            "lo": 30.26952,
+            "poll_avg": 30.95749
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 98.275,
+            "forecast": 59.66266,
+            "hi": 65.78978,
+            "lo": 53.44669,
+            "poll_avg": 52.3459
+          },
+          "now": {
+            "winprob": 99.065,
+            "forecast": 59.78773,
+            "hi": 65.23517,
+            "lo": 54.13449,
+            "poll_avg": 52.35745
+          },
+          "polls": {
+            "winprob": 97.64500000000001,
+            "forecast": 59.4105,
+            "hi": 65.98488,
+            "lo": 52.68035,
+            "poll_avg": 52.04613
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 1.815,
+            "forecast": 36.52191,
+            "hi": 42.55556,
+            "lo": 30.51841,
+            "poll_avg": 31.1052
+          },
+          "now": {
+            "winprob": 0.975,
+            "forecast": 36.14702,
+            "hi": 41.43887,
+            "lo": 30.91582,
+            "poll_avg": 30.25977
+          },
+          "polls": {
+            "winprob": 2.31,
+            "forecast": 36.70898,
+            "hi": 43.32652,
+            "lo": 30.29488,
+            "poll_avg": 30.96243
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 98.185,
+            "forecast": 59.68231,
+            "hi": 65.88329,
+            "lo": 53.45776,
+            "poll_avg": 52.40863
+          },
+          "now": {
+            "winprob": 99.02499999999999,
+            "forecast": 59.81717,
+            "hi": 65.2586,
+            "lo": 54.24363,
+            "poll_avg": 52.50372
+          },
+          "polls": {
+            "winprob": 97.69,
+            "forecast": 59.45374,
+            "hi": 66.04359,
+            "lo": 52.62962,
+            "poll_avg": 52.08682
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 1.575,
+            "forecast": 36.50824,
+            "hi": 42.56927,
+            "lo": 30.51575,
+            "poll_avg": 31.1304
+          },
+          "now": {
+            "winprob": 0.98,
+            "forecast": 36.19077,
+            "hi": 41.48671,
+            "lo": 30.91412,
+            "poll_avg": 30.3728
+          },
+          "polls": {
+            "winprob": 2.37,
+            "forecast": 36.73849,
+            "hi": 43.30467,
+            "lo": 30.23318,
+            "poll_avg": 31.09344
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 98.425,
+            "forecast": 59.70159,
+            "hi": 65.82499,
+            "lo": 53.45356,
+            "poll_avg": 52.4444
+          },
+          "now": {
+            "winprob": 99.02,
+            "forecast": 59.78605,
+            "hi": 65.22611,
+            "lo": 54.23399,
+            "poll_avg": 52.49152
+          },
+          "polls": {
+            "winprob": 97.63,
+            "forecast": 59.43989,
+            "hi": 66.01302,
+            "lo": 52.79087,
+            "poll_avg": 52.10715
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 1.7850000000000001,
+            "forecast": 36.53217,
+            "hi": 42.57113,
+            "lo": 30.49465,
+            "poll_avg": 31.13966
+          },
+          "now": {
+            "winprob": 1.055,
+            "forecast": 36.05447,
+            "hi": 41.45347,
+            "lo": 30.75333,
+            "poll_avg": 29.95483
+          },
+          "polls": {
+            "winprob": 2.37,
+            "forecast": 36.70027,
+            "hi": 43.21699,
+            "lo": 30.31391,
+            "poll_avg": 31.06568
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 98.215,
+            "forecast": 59.67346,
+            "hi": 65.79418,
+            "lo": 53.43692,
+            "poll_avg": 52.38073
+          },
+          "now": {
+            "winprob": 98.94500000000001,
+            "forecast": 59.84058,
+            "hi": 65.40416,
+            "lo": 54.17731,
+            "poll_avg": 52.31216
+          },
+          "polls": {
+            "winprob": 97.63,
+            "forecast": 59.47882,
+            "hi": 66.08911,
+            "lo": 52.7947,
+            "poll_avg": 52.15224
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 1.7399999999999998,
+            "forecast": 36.57019,
+            "hi": 42.62482,
+            "lo": 30.56293,
+            "poll_avg": 31.12191
+          },
+          "now": {
+            "winprob": 1.055,
+            "forecast": 36.26016,
+            "hi": 41.54303,
+            "lo": 31.00968,
+            "poll_avg": 30.24247
+          },
+          "polls": {
+            "winprob": 2.365,
+            "forecast": 36.78513,
+            "hi": 43.33062,
+            "lo": 30.29063,
+            "poll_avg": 31.13672
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 98.26,
+            "forecast": 59.63089,
+            "hi": 65.7699,
+            "lo": 53.35987,
+            "poll_avg": 52.34822
+          },
+          "now": {
+            "winprob": 98.94500000000001,
+            "forecast": 59.66329,
+            "hi": 65.11474,
+            "lo": 54.09359,
+            "poll_avg": 52.22375
+          },
+          "polls": {
+            "winprob": 97.635,
+            "forecast": 59.39781,
+            "hi": 65.96381,
+            "lo": 52.70202,
+            "poll_avg": 52.10619
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 1.805,
+            "forecast": 36.73839,
+            "hi": 42.83119,
+            "lo": 30.77373,
+            "poll_avg": 31.24635
+          },
+          "now": {
+            "winprob": 0.98,
+            "forecast": 36.41852,
+            "hi": 41.74676,
+            "lo": 31.15839,
+            "poll_avg": 30.32755
+          },
+          "polls": {
+            "winprob": 2.385,
+            "forecast": 36.88742,
+            "hi": 43.32819,
+            "lo": 30.47979,
+            "poll_avg": 31.11875
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 98.195,
+            "forecast": 59.47519,
+            "hi": 65.60651,
+            "lo": 53.24493,
+            "poll_avg": 52.33822
+          },
+          "now": {
+            "winprob": 99.02,
+            "forecast": 59.51097,
+            "hi": 64.93552,
+            "lo": 53.98243,
+            "poll_avg": 52.18911
+          },
+          "polls": {
+            "winprob": 97.615,
+            "forecast": 59.29388,
+            "hi": 65.89711,
+            "lo": 52.49064,
+            "poll_avg": 52.1097
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 1.8900000000000001,
+            "forecast": 36.66258,
+            "hi": 42.7257,
+            "lo": 30.69845,
+            "poll_avg": 31.03046
+          },
+          "now": {
+            "winprob": 1.065,
+            "forecast": 36.11119,
+            "hi": 41.55358,
+            "lo": 30.78658,
+            "poll_avg": 29.69117
+          },
+          "polls": {
+            "winprob": 2.5250000000000004,
+            "forecast": 36.81108,
+            "hi": 43.29403,
+            "lo": 30.33616,
+            "poll_avg": 30.94222
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 98.11,
+            "forecast": 59.52213,
+            "hi": 65.67963,
+            "lo": 53.20583,
+            "poll_avg": 52.26735
+          },
+          "now": {
+            "winprob": 98.935,
+            "forecast": 59.71149,
+            "hi": 65.27602,
+            "lo": 54.08556,
+            "poll_avg": 52.0693
+          },
+          "polls": {
+            "winprob": 97.475,
+            "forecast": 59.34786,
+            "hi": 65.97259,
+            "lo": 52.63037,
+            "poll_avg": 52.06696
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 1.73,
+            "forecast": 36.76417,
+            "hi": 42.8482,
+            "lo": 30.68244,
+            "poll_avg": 31.12963
+          },
+          "now": {
+            "winprob": 1.0699999999999998,
+            "forecast": 36.3021,
+            "hi": 41.65386,
+            "lo": 31.01776,
+            "poll_avg": 29.85896
+          },
+          "polls": {
+            "winprob": 2.5700000000000003,
+            "forecast": 36.91483,
+            "hi": 43.37343,
+            "lo": 30.38419,
+            "poll_avg": 31.07417
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 98.27,
+            "forecast": 59.42773,
+            "hi": 65.60467,
+            "lo": 53.07453,
+            "poll_avg": 52.22549
+          },
+          "now": {
+            "winprob": 98.92999999999999,
+            "forecast": 59.52686,
+            "hi": 64.99366,
+            "lo": 53.91907,
+            "poll_avg": 51.93827
+          },
+          "polls": {
+            "winprob": 97.43,
+            "forecast": 59.25894,
+            "hi": 65.88118,
+            "lo": 52.55545,
+            "poll_avg": 52.07573
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 1.73,
+            "forecast": 36.72228,
+            "hi": 42.81527,
+            "lo": 30.74354,
+            "poll_avg": 31.15608
+          },
+          "now": {
+            "winprob": 1.055,
+            "forecast": 36.07611,
+            "hi": 41.43335,
+            "lo": 30.86983,
+            "poll_avg": 29.63202
+          },
+          "polls": {
+            "winprob": 2.435,
+            "forecast": 36.86491,
+            "hi": 43.35055,
+            "lo": 30.39412,
+            "poll_avg": 31.09978
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 98.27,
+            "forecast": 59.47406,
+            "hi": 65.58393,
+            "lo": 53.20183,
+            "poll_avg": 52.24529
+          },
+          "now": {
+            "winprob": 98.94500000000001,
+            "forecast": 59.72783,
+            "hi": 65.22137,
+            "lo": 54.1194,
+            "poll_avg": 52.02148
+          },
+          "polls": {
+            "winprob": 97.565,
+            "forecast": 59.31248,
+            "hi": 65.92574,
+            "lo": 52.66526,
+            "poll_avg": 52.08665
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 1.695,
+            "forecast": 36.73923,
+            "hi": 42.79802,
+            "lo": 30.6783,
+            "poll_avg": 31.04999
+          },
+          "now": {
+            "winprob": 1.03,
+            "forecast": 36.21231,
+            "hi": 41.5243,
+            "lo": 30.9431,
+            "poll_avg": 29.73761
+          },
+          "polls": {
+            "winprob": 2.4899999999999998,
+            "forecast": 36.90028,
+            "hi": 43.51107,
+            "lo": 30.45085,
+            "poll_avg": 30.99359
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 98.30499999999999,
+            "forecast": 59.45129,
+            "hi": 65.65174,
+            "lo": 53.17632,
+            "poll_avg": 52.31294
+          },
+          "now": {
+            "winprob": 98.97,
+            "forecast": 59.61059,
+            "hi": 65.13161,
+            "lo": 53.9791,
+            "poll_avg": 52.07307
+          },
+          "polls": {
+            "winprob": 97.50999999999999,
+            "forecast": 59.26448,
+            "hi": 65.91374,
+            "lo": 52.38645,
+            "poll_avg": 52.07099
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 1.765,
+            "forecast": 36.81726,
+            "hi": 42.81075,
+            "lo": 30.78397,
+            "poll_avg": 31.12597
+          },
+          "now": {
+            "winprob": 1.045,
+            "forecast": 36.78667,
+            "hi": 42.04648,
+            "lo": 31.60244,
+            "poll_avg": 30.55047
+          },
+          "polls": {
+            "winprob": 2.385,
+            "forecast": 36.93356,
+            "hi": 43.47268,
+            "lo": 30.44718,
+            "poll_avg": 30.98559
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 98.235,
+            "forecast": 59.37705,
+            "hi": 65.58987,
+            "lo": 53.19426,
+            "poll_avg": 52.25982
+          },
+          "now": {
+            "winprob": 98.955,
+            "forecast": 59.124,
+            "hi": 64.53459,
+            "lo": 53.61606,
+            "poll_avg": 51.84417
+          },
+          "polls": {
+            "winprob": 97.615,
+            "forecast": 59.23099,
+            "hi": 65.88774,
+            "lo": 52.52902,
+            "poll_avg": 52.07901
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 1.8350000000000002,
+            "forecast": 36.85258,
+            "hi": 42.8447,
+            "lo": 30.89217,
+            "poll_avg": 31.19929
+          },
+          "now": {
+            "winprob": 1.22,
+            "forecast": 36.9641,
+            "hi": 42.13882,
+            "lo": 31.87112,
+            "poll_avg": 30.94562
+          },
+          "polls": {
+            "winprob": 2.5100000000000002,
+            "forecast": 36.97533,
+            "hi": 43.50645,
+            "lo": 30.42263,
+            "poll_avg": 31.05766
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 98.165,
+            "forecast": 59.35271,
+            "hi": 65.45144,
+            "lo": 53.15323,
+            "poll_avg": 52.29821
+          },
+          "now": {
+            "winprob": 98.78,
+            "forecast": 59.02108,
+            "hi": 64.34755,
+            "lo": 53.52695,
+            "poll_avg": 52.00665
+          },
+          "polls": {
+            "winprob": 97.49,
+            "forecast": 59.19779,
+            "hi": 65.87099,
+            "lo": 52.47599,
+            "poll_avg": 52.08944
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 1.9,
+            "forecast": 36.66742,
+            "hi": 42.86817,
+            "lo": 30.37658,
+            "poll_avg": 31.97363
+          },
+          "now": {
+            "winprob": 1.0699999999999998,
+            "forecast": 36.9101,
+            "hi": 42.29311,
+            "lo": 31.63494,
+            "poll_avg": 32.44703
+          },
+          "polls": {
+            "winprob": 2.585,
+            "forecast": 36.7841,
+            "hi": 43.45451,
+            "lo": 30.07826,
+            "poll_avg": 31.82406
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 98.1,
+            "forecast": 59.69367,
+            "hi": 66.05794,
+            "lo": 53.26529,
+            "poll_avg": 52.85604
+          },
+          "now": {
+            "winprob": 98.92999999999999,
+            "forecast": 59.46769,
+            "hi": 64.88587,
+            "lo": 53.92616,
+            "poll_avg": 53.33698
+          },
+          "polls": {
+            "winprob": 97.41499999999999,
+            "forecast": 59.5483,
+            "hi": 66.35582,
+            "lo": 52.70086,
+            "poll_avg": 52.65506
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 1.9449999999999998,
+            "forecast": 36.47973,
+            "hi": 42.87905,
+            "lo": 30.24403,
+            "poll_avg": 31.74434
+          },
+          "now": {
+            "winprob": 1.105,
+            "forecast": 36.77884,
+            "hi": 42.06017,
+            "lo": 31.52995,
+            "poll_avg": 32.66464
+          },
+          "polls": {
+            "winprob": 2.65,
+            "forecast": 36.6399,
+            "hi": 43.34611,
+            "lo": 30.04823,
+            "poll_avg": 31.6897
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 98.055,
+            "forecast": 59.86372,
+            "hi": 66.25854,
+            "lo": 53.3278,
+            "poll_avg": 52.91908
+          },
+          "now": {
+            "winprob": 98.895,
+            "forecast": 59.67375,
+            "hi": 65.03831,
+            "lo": 54.19323,
+            "poll_avg": 53.75807
+          },
+          "polls": {
+            "winprob": 97.35000000000001,
+            "forecast": 59.68375,
+            "hi": 66.43597,
+            "lo": 52.74641,
+            "poll_avg": 52.71434
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 1.805,
+            "forecast": 36.27795,
+            "hi": 42.58053,
+            "lo": 30.08335,
+            "poll_avg": 31.77084
+          },
+          "now": {
+            "winprob": 0.675,
+            "forecast": 36.2567,
+            "hi": 41.19758,
+            "lo": 31.38242,
+            "poll_avg": 34.19014
+          },
+          "polls": {
+            "winprob": 2.2950000000000004,
+            "forecast": 36.42281,
+            "hi": 43.07607,
+            "lo": 29.80565,
+            "poll_avg": 31.78749
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 98.195,
+            "forecast": 60.0952,
+            "hi": 66.47372,
+            "lo": 53.54462,
+            "poll_avg": 53.30147
+          },
+          "now": {
+            "winprob": 99.325,
+            "forecast": 60.72469,
+            "hi": 65.6722,
+            "lo": 55.6352,
+            "poll_avg": 56.69436
+          },
+          "polls": {
+            "winprob": 97.705,
+            "forecast": 59.94446,
+            "hi": 66.71815,
+            "lo": 53.08156,
+            "poll_avg": 53.19599
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 2.565,
+            "forecast": 36.84449,
+            "hi": 43.36764,
+            "lo": 30.38011,
+            "poll_avg": 31.41466
+          },
+          "now": {
+            "winprob": 2.12,
+            "forecast": 37.7343,
+            "hi": 43.38128,
+            "lo": 32.16293,
+            "poll_avg": 32.08744
+          },
+          "polls": {
+            "winprob": 3.115,
+            "forecast": 36.96774,
+            "hi": 43.9556,
+            "lo": 30.0636,
+            "poll_avg": 31.3211
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 97.435,
+            "forecast": 59.34865,
+            "hi": 66.00949,
+            "lo": 52.64128,
+            "poll_avg": 51.24917
+          },
+          "now": {
+            "winprob": 97.88,
+            "forecast": 58.27652,
+            "hi": 64.09537,
+            "lo": 52.35719,
+            "poll_avg": 50.47128
+          },
+          "polls": {
+            "winprob": 96.885,
+            "forecast": 59.20521,
+            "hi": 66.23929,
+            "lo": 52.09241,
+            "poll_avg": 51.09182
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 2.325,
+            "forecast": 36.60022,
+            "hi": 43.15268,
+            "lo": 30.24431,
+            "poll_avg": 31.3768
+          },
+          "now": {
+            "winprob": 1.915,
+            "forecast": 37.53645,
+            "hi": 43.12515,
+            "lo": 31.97641,
+            "poll_avg": 32.03598
+          },
+          "polls": {
+            "winprob": 2.8049999999999997,
+            "forecast": 36.75969,
+            "hi": 43.70149,
+            "lo": 29.94313,
+            "poll_avg": 31.41829
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 97.675,
+            "forecast": 59.60952,
+            "hi": 66.19034,
+            "lo": 52.892,
+            "poll_avg": 51.53445
+          },
+          "now": {
+            "winprob": 98.085,
+            "forecast": 58.49297,
+            "hi": 64.22167,
+            "lo": 52.68256,
+            "poll_avg": 50.72045
+          },
+          "polls": {
+            "winprob": 97.195,
+            "forecast": 59.4444,
+            "hi": 66.36263,
+            "lo": 52.36697,
+            "poll_avg": 51.39848
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 2.1950000000000003,
+            "forecast": 36.62551,
+            "hi": 43.01852,
+            "lo": 30.27278,
+            "poll_avg": 31.46394
+          },
+          "now": {
+            "winprob": 2.175,
+            "forecast": 37.88237,
+            "hi": 43.51371,
+            "lo": 32.32865,
+            "poll_avg": 32.29716
+          },
+          "polls": {
+            "winprob": 2.85,
+            "forecast": 36.75713,
+            "hi": 43.71278,
+            "lo": 29.95361,
+            "poll_avg": 31.40414
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 97.80499999999999,
+            "forecast": 59.59608,
+            "hi": 66.15771,
+            "lo": 52.96713,
+            "poll_avg": 51.58313
+          },
+          "now": {
+            "winprob": 97.82499999999999,
+            "forecast": 58.14439,
+            "hi": 63.85189,
+            "lo": 52.34715,
+            "poll_avg": 50.39262
+          },
+          "polls": {
+            "winprob": 97.15,
+            "forecast": 59.44516,
+            "hi": 66.41138,
+            "lo": 52.37791,
+            "poll_avg": 51.39238
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 1.965,
+            "forecast": 36.03773,
+            "hi": 42.52495,
+            "lo": 29.65168,
+            "poll_avg": 30.97087
+          },
+          "now": {
+            "winprob": 1.51,
+            "forecast": 36.83542,
+            "hi": 42.42653,
+            "lo": 31.33954,
+            "poll_avg": 31.417
+          },
+          "polls": {
+            "winprob": 2.355,
+            "forecast": 36.15669,
+            "hi": 43.04897,
+            "lo": 29.32608,
+            "poll_avg": 30.89008
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 98.03500000000001,
+            "forecast": 60.18224,
+            "hi": 66.7776,
+            "lo": 53.514,
+            "poll_avg": 52.22999
+          },
+          "now": {
+            "winprob": 98.49,
+            "forecast": 59.21291,
+            "hi": 64.97671,
+            "lo": 53.39232,
+            "poll_avg": 51.68411
+          },
+          "polls": {
+            "winprob": 97.64500000000001,
+            "forecast": 60.04018,
+            "hi": 67.08412,
+            "lo": 52.92071,
+            "poll_avg": 52.01421
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 1.7999999999999998,
+            "forecast": 35.73309,
+            "hi": 42.24117,
+            "lo": 29.30917,
+            "poll_avg": 30.5985
+          },
+          "now": {
+            "winprob": 1.25,
+            "forecast": 36.41486,
+            "hi": 41.94642,
+            "lo": 30.94455,
+            "poll_avg": 30.94673
+          },
+          "polls": {
+            "winprob": 2.3800000000000003,
+            "forecast": 35.86053,
+            "hi": 42.74381,
+            "lo": 29.07597,
+            "poll_avg": 30.53268
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 98.2,
+            "forecast": 60.46268,
+            "hi": 67.06794,
+            "lo": 53.78016,
+            "poll_avg": 52.39471
+          },
+          "now": {
+            "winprob": 98.75,
+            "forecast": 59.62066,
+            "hi": 65.32649,
+            "lo": 53.85748,
+            "poll_avg": 52.16241
+          },
+          "polls": {
+            "winprob": 97.61999999999999,
+            "forecast": 60.31395,
+            "hi": 67.24904,
+            "lo": 53.19318,
+            "poll_avg": 52.18431
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 1.6199999999999999,
+            "forecast": 35.26217,
+            "hi": 41.76248,
+            "lo": 28.72694,
+            "poll_avg": 30.40113
+          },
+          "now": {
+            "winprob": 0.98,
+            "forecast": 34.91417,
+            "hi": 40.68071,
+            "lo": 29.20756,
+            "poll_avg": 28.79677
+          },
+          "polls": {
+            "winprob": 2.17,
+            "forecast": 35.41653,
+            "hi": 42.49909,
+            "lo": 28.5449,
+            "poll_avg": 30.19782
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 98.38,
+            "forecast": 60.92156,
+            "hi": 67.5799,
+            "lo": 54.2253,
+            "poll_avg": 52.49307
+          },
+          "now": {
+            "winprob": 99.02,
+            "forecast": 60.85781,
+            "hi": 66.79375,
+            "lo": 54.82318,
+            "poll_avg": 52.46887
+          },
+          "polls": {
+            "winprob": 97.83,
+            "forecast": 60.72295,
+            "hi": 67.774,
+            "lo": 53.52757,
+            "poll_avg": 52.14601
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 1.63,
+            "forecast": 35.37817,
+            "hi": 41.84314,
+            "lo": 28.96066,
+            "poll_avg": 30.57607
+          },
+          "now": {
+            "winprob": 1.095,
+            "forecast": 35.10229,
+            "hi": 40.84486,
+            "lo": 29.49763,
+            "poll_avg": 29.12482
+          },
+          "polls": {
+            "winprob": 2.23,
+            "forecast": 35.56239,
+            "hi": 42.58369,
+            "lo": 28.74703,
+            "poll_avg": 30.49729
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 98.37,
+            "forecast": 60.82698,
+            "hi": 67.43109,
+            "lo": 54.07577,
+            "poll_avg": 52.55737
+          },
+          "now": {
+            "winprob": 98.905,
+            "forecast": 60.72009,
+            "hi": 66.60958,
+            "lo": 54.64802,
+            "poll_avg": 52.53605
+          },
+          "polls": {
+            "winprob": 97.77,
+            "forecast": 60.61298,
+            "hi": 67.6773,
+            "lo": 53.43253,
+            "poll_avg": 52.24484
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 1.595,
+            "forecast": 35.46964,
+            "hi": 42.05194,
+            "lo": 29.06044,
+            "poll_avg": 30.80069
+          },
+          "now": {
+            "winprob": 0.955,
+            "forecast": 35.11904,
+            "hi": 40.75527,
+            "lo": 29.51851,
+            "poll_avg": 29.35999
+          },
+          "polls": {
+            "winprob": 2.2399999999999998,
+            "forecast": 35.62862,
+            "hi": 42.51519,
+            "lo": 28.83575,
+            "poll_avg": 30.70946
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 98.405,
+            "forecast": 60.75605,
+            "hi": 67.35034,
+            "lo": 53.94248,
+            "poll_avg": 52.54155
+          },
+          "now": {
+            "winprob": 99.045,
+            "forecast": 60.75982,
+            "hi": 66.55034,
+            "lo": 54.78229,
+            "poll_avg": 52.76783
+          },
+          "polls": {
+            "winprob": 97.76,
+            "forecast": 60.57165,
+            "hi": 67.58842,
+            "lo": 53.5183,
+            "poll_avg": 52.30747
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 1.575,
+            "forecast": 35.49973,
+            "hi": 42.04595,
+            "lo": 29.08493,
+            "poll_avg": 30.86136
+          },
+          "now": {
+            "winprob": 0.91,
+            "forecast": 35.30244,
+            "hi": 40.82063,
+            "lo": 29.77831,
+            "poll_avg": 29.97434
+          },
+          "polls": {
+            "winprob": 2.215,
+            "forecast": 35.66428,
+            "hi": 42.62552,
+            "lo": 28.86158,
+            "poll_avg": 30.75971
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 98.425,
+            "forecast": 60.72937,
+            "hi": 67.35609,
+            "lo": 53.95899,
+            "poll_avg": 52.50742
+          },
+          "now": {
+            "winprob": 99.09,
+            "forecast": 60.68593,
+            "hi": 66.4429,
+            "lo": 54.82278,
+            "poll_avg": 52.99924
+          },
+          "polls": {
+            "winprob": 97.785,
+            "forecast": 60.53434,
+            "hi": 67.58545,
+            "lo": 53.44088,
+            "poll_avg": 52.2159
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 1.6549999999999998,
+            "forecast": 35.55297,
+            "hi": 42.00413,
+            "lo": 29.19036,
+            "poll_avg": 31.03725
+          },
+          "now": {
+            "winprob": 0.865,
+            "forecast": 35.22899,
+            "hi": 40.77734,
+            "lo": 29.71169,
+            "poll_avg": 30.07997
+          },
+          "polls": {
+            "winprob": 2.23,
+            "forecast": 35.69064,
+            "hi": 42.62984,
+            "lo": 28.93433,
+            "poll_avg": 30.80501
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 98.345,
+            "forecast": 60.69522,
+            "hi": 67.22018,
+            "lo": 54.0886,
+            "poll_avg": 52.53739
+          },
+          "now": {
+            "winprob": 99.13499999999999,
+            "forecast": 60.79032,
+            "hi": 66.47144,
+            "lo": 54.98258,
+            "poll_avg": 53.15739
+          },
+          "polls": {
+            "winprob": 97.77,
+            "forecast": 60.5089,
+            "hi": 67.47704,
+            "lo": 53.48693,
+            "poll_avg": 52.16731
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 1.675,
+            "forecast": 35.78017,
+            "hi": 42.21972,
+            "lo": 29.35175,
+            "poll_avg": 31.22026
+          },
+          "now": {
+            "winprob": 0.895,
+            "forecast": 35.38042,
+            "hi": 40.8559,
+            "lo": 30.01494,
+            "poll_avg": 30.1365
+          },
+          "polls": {
+            "winprob": 2.11,
+            "forecast": 35.91829,
+            "hi": 42.83643,
+            "lo": 29.1524,
+            "poll_avg": 31.01133
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 98.32499999999999,
+            "forecast": 60.48448,
+            "hi": 67.04288,
+            "lo": 53.87599,
+            "poll_avg": 52.52063
+          },
+          "now": {
+            "winprob": 99.105,
+            "forecast": 60.6496,
+            "hi": 66.27275,
+            "lo": 54.89839,
+            "poll_avg": 53.19685
+          },
+          "polls": {
+            "winprob": 97.89,
+            "forecast": 60.30606,
+            "hi": 67.29305,
+            "lo": 53.16781,
+            "poll_avg": 52.23664
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 2.12,
+            "forecast": 36.2089,
+            "hi": 42.64481,
+            "lo": 29.67909,
+            "poll_avg": 31.48015
+          },
+          "now": {
+            "winprob": 0.8250000000000001,
+            "forecast": 35.19158,
+            "hi": 40.77641,
+            "lo": 29.71769,
+            "poll_avg": 29.65302
+          },
+          "polls": {
+            "winprob": 2.5749999999999997,
+            "forecast": 36.40028,
+            "hi": 43.26092,
+            "lo": 29.64956,
+            "poll_avg": 31.50162
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 97.88,
+            "forecast": 60.05526,
+            "hi": 66.73581,
+            "lo": 53.33702,
+            "poll_avg": 52.16083
+          },
+          "now": {
+            "winprob": 99.175,
+            "forecast": 60.74827,
+            "hi": 66.49603,
+            "lo": 54.87534,
+            "poll_avg": 53.01637
+          },
+          "polls": {
+            "winprob": 97.425,
+            "forecast": 59.84703,
+            "hi": 66.84222,
+            "lo": 52.76552,
+            "poll_avg": 51.89412
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 2.08,
+            "forecast": 36.52766,
+            "hi": 43.01791,
+            "lo": 30.17214,
+            "poll_avg": 31.75558
+          },
+          "now": {
+            "winprob": 1.0,
+            "forecast": 35.73223,
+            "hi": 41.25534,
+            "lo": 30.23867,
+            "poll_avg": 30.30224
+          },
+          "polls": {
+            "winprob": 2.8449999999999998,
+            "forecast": 36.70281,
+            "hi": 43.61796,
+            "lo": 29.87989,
+            "poll_avg": 31.7457
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 97.92,
+            "forecast": 59.75692,
+            "hi": 66.35506,
+            "lo": 53.00291,
+            "poll_avg": 52.07451
+          },
+          "now": {
+            "winprob": 99.0,
+            "forecast": 60.27746,
+            "hi": 65.93712,
+            "lo": 54.54917,
+            "poll_avg": 52.84693
+          },
+          "polls": {
+            "winprob": 97.155,
+            "forecast": 59.56487,
+            "hi": 66.55585,
+            "lo": 52.52731,
+            "poll_avg": 51.84961
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 2.41,
+            "forecast": 37.15587,
+            "hi": 43.65041,
+            "lo": 30.82107,
+            "poll_avg": 31.94526
+          },
+          "now": {
+            "winprob": 1.525,
+            "forecast": 37.07544,
+            "hi": 42.52816,
+            "lo": 31.68772,
+            "poll_avg": 31.24191
+          },
+          "polls": {
+            "winprob": 3.2649999999999997,
+            "forecast": 37.29298,
+            "hi": 44.21886,
+            "lo": 30.42387,
+            "poll_avg": 31.8195
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 97.59,
+            "forecast": 59.12747,
+            "hi": 65.67313,
+            "lo": 52.52053,
+            "poll_avg": 51.79929
+          },
+          "now": {
+            "winprob": 98.475,
+            "forecast": 58.93366,
+            "hi": 64.55339,
+            "lo": 53.25803,
+            "poll_avg": 51.71048
+          },
+          "polls": {
+            "winprob": 96.735,
+            "forecast": 58.96598,
+            "hi": 65.93798,
+            "lo": 51.91389,
+            "poll_avg": 51.62665
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 2.5250000000000004,
+            "forecast": 37.29143,
+            "hi": 43.76778,
+            "lo": 30.85489,
+            "poll_avg": 32.13348
+          },
+          "now": {
+            "winprob": 1.44,
+            "forecast": 37.38856,
+            "hi": 42.80838,
+            "lo": 32.01268,
+            "poll_avg": 31.66993
+          },
+          "polls": {
+            "winprob": 3.435,
+            "forecast": 37.4333,
+            "hi": 44.36552,
+            "lo": 30.57917,
+            "poll_avg": 31.89616
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 97.475,
+            "forecast": 59.0189,
+            "hi": 65.55846,
+            "lo": 52.39539,
+            "poll_avg": 51.92385
+          },
+          "now": {
+            "winprob": 98.56,
+            "forecast": 58.67817,
+            "hi": 64.2003,
+            "lo": 53.07678,
+            "poll_avg": 51.70123
+          },
+          "polls": {
+            "winprob": 96.565,
+            "forecast": 58.82879,
+            "hi": 65.85698,
+            "lo": 51.71616,
+            "poll_avg": 51.56652
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 2.5,
+            "forecast": 37.28219,
+            "hi": 43.8132,
+            "lo": 30.88937,
+            "poll_avg": 32.13271
+          },
+          "now": {
+            "winprob": 1.43,
+            "forecast": 37.41367,
+            "hi": 42.78317,
+            "lo": 32.12145,
+            "poll_avg": 31.86719
+          },
+          "polls": {
+            "winprob": 3.4099999999999997,
+            "forecast": 37.42996,
+            "hi": 44.33164,
+            "lo": 30.55796,
+            "poll_avg": 31.91426
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 97.5,
+            "forecast": 59.02743,
+            "hi": 65.57845,
+            "lo": 52.3541,
+            "poll_avg": 51.91496
+          },
+          "now": {
+            "winprob": 98.57000000000001,
+            "forecast": 58.69994,
+            "hi": 64.20366,
+            "lo": 53.12282,
+            "poll_avg": 51.87764
+          },
+          "polls": {
+            "winprob": 96.59,
+            "forecast": 58.83314,
+            "hi": 65.80333,
+            "lo": 51.78452,
+            "poll_avg": 51.55616
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 2.7199999999999998,
+            "forecast": 37.30838,
+            "hi": 43.865,
+            "lo": 30.87451,
+            "poll_avg": 32.0211
+          },
+          "now": {
+            "winprob": 1.49,
+            "forecast": 37.49771,
+            "hi": 42.75739,
+            "lo": 32.24859,
+            "poll_avg": 31.98488
+          },
+          "polls": {
+            "winprob": 3.5000000000000004,
+            "forecast": 37.46461,
+            "hi": 44.3561,
+            "lo": 30.66843,
+            "poll_avg": 31.91151
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 97.28,
+            "forecast": 58.9828,
+            "hi": 65.51855,
+            "lo": 52.28069,
+            "poll_avg": 51.80677
+          },
+          "now": {
+            "winprob": 98.50999999999999,
+            "forecast": 58.63923,
+            "hi": 64.08679,
+            "lo": 53.03211,
+            "poll_avg": 51.94693
+          },
+          "polls": {
+            "winprob": 96.5,
+            "forecast": 58.79971,
+            "hi": 65.78463,
+            "lo": 51.66837,
+            "poll_avg": 51.57713
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 2.5749999999999997,
+            "forecast": 37.33598,
+            "hi": 43.76205,
+            "lo": 30.92866,
+            "poll_avg": 31.97754
+          },
+          "now": {
+            "winprob": 1.41,
+            "forecast": 37.59294,
+            "hi": 42.88986,
+            "lo": 32.31865,
+            "poll_avg": 31.89966
+          },
+          "polls": {
+            "winprob": 3.4250000000000003,
+            "forecast": 37.54052,
+            "hi": 44.47705,
+            "lo": 30.77106,
+            "poll_avg": 31.99171
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 97.425,
+            "forecast": 58.95867,
+            "hi": 65.49962,
+            "lo": 52.35263,
+            "poll_avg": 51.91485
+          },
+          "now": {
+            "winprob": 98.59,
+            "forecast": 58.51545,
+            "hi": 63.89152,
+            "lo": 52.99127,
+            "poll_avg": 51.81922
+          },
+          "polls": {
+            "winprob": 96.575,
+            "forecast": 58.7332,
+            "hi": 65.61475,
+            "lo": 51.74604,
+            "poll_avg": 51.60053
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 2.555,
+            "forecast": 37.34052,
+            "hi": 43.78378,
+            "lo": 31.05718,
+            "poll_avg": 32.03816
+          },
+          "now": {
+            "winprob": 1.48,
+            "forecast": 37.70521,
+            "hi": 42.91211,
+            "lo": 32.465,
+            "poll_avg": 32.23849
+          },
+          "polls": {
+            "winprob": 3.39,
+            "forecast": 37.47895,
+            "hi": 44.40678,
+            "lo": 30.69244,
+            "poll_avg": 31.9302
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 97.44500000000001,
+            "forecast": 58.95258,
+            "hi": 65.41325,
+            "lo": 52.30834,
+            "poll_avg": 51.81057
+          },
+          "now": {
+            "winprob": 98.52,
+            "forecast": 58.46565,
+            "hi": 63.88007,
+            "lo": 53.06199,
+            "poll_avg": 51.95107
+          },
+          "polls": {
+            "winprob": 96.61,
+            "forecast": 58.79055,
+            "hi": 65.71448,
+            "lo": 51.71899,
+            "poll_avg": 51.62474
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patrick Wiesner",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 2.7,
+            "forecast": 37.4729,
+            "hi": 43.9303,
+            "lo": 30.97009,
+            "poll_avg": 32.12892
+          },
+          "now": {
+            "winprob": 1.6099999999999999,
+            "forecast": 37.89635,
+            "hi": 43.13142,
+            "lo": 32.68641,
+            "poll_avg": 32.20324
+          },
+          "polls": {
+            "winprob": 3.6350000000000002,
+            "forecast": 37.59792,
+            "hi": 44.5048,
+            "lo": 30.81356,
+            "poll_avg": 31.89194
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Jerry Moran",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 97.3,
+            "forecast": 58.82455,
+            "hi": 65.43446,
+            "lo": 52.17647,
+            "poll_avg": 51.7486
+          },
+          "now": {
+            "winprob": 98.39,
+            "forecast": 58.236,
+            "hi": 63.55112,
+            "lo": 52.80576,
+            "poll_avg": 51.67883
+          },
+          "polls": {
+            "winprob": 96.365,
+            "forecast": 58.65759,
+            "hi": 65.57071,
+            "lo": 51.60716,
+            "poll_avg": 51.47964
+          }
+        }
+      }
+    ]
+  },
+  "polls": [
+    {
+      "id": "44813",
+      "population": "lv",
+      "sampleSize": "541",
+      "state": "KS",
+      "pollster": "SurveyUSA",
+      "startDate": "2016-08-03",
+      "endDate": "2016-08-07",
+      "tracking": null,
+      "url": "http://www.surveyusa.com/client/PollReport.aspx?g=048dcf9b-7e4e-4ca3-8da6-f0f3b7662e73&utm_source=twitterfeed&utm_medium=twitter",
+      "created_at": 1470825180,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 52.0,
+          "adj_pct": {
+            "polls": 55.23732,
+            "plus": 55.17068,
+            "now": 55.23732
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 32.0,
+          "adj_pct": {
+            "polls": 32.32981,
+            "plus": 32.25626,
+            "now": 32.32981
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0,
+        "plus": 0.0,
+        "now": 0.0
+      },
+      "pollsterRating": "A",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 20.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 22.907509999999995
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 22.91442
+          },
+          "now": {
+            "choice": "R",
+            "margin": 22.907509999999995
+          }
+        }
+      }
+    },
+    {
+      "id": "44587",
+      "population": "lv",
+      "sampleSize": "537",
+      "state": "KS",
+      "pollster": "SurveyUSA",
+      "startDate": "2016-07-08",
+      "endDate": "2016-07-11",
+      "tracking": null,
+      "url": "http://www.surveyusa.com/client/PollReport.aspx?g=7a998d53-af1c-4a34-996c-6de020dea785",
+      "created_at": 1468917060,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 52.0,
+          "adj_pct": {
+            "polls": 55.43066,
+            "plus": 55.32383,
+            "now": 55.43066
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 33.0,
+          "adj_pct": {
+            "polls": 33.2569,
+            "plus": 33.16713,
+            "now": 33.2569
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0,
+        "plus": 0.0,
+        "now": 0.0
+      },
+      "pollsterRating": "A",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 19.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 22.17376
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 22.1567
+          },
+          "now": {
+            "choice": "R",
+            "margin": 22.17376
+          }
+        }
+      }
+    },
+    {
+      "id": "47899",
+      "population": "lv",
+      "sampleSize": "1273",
+      "state": "KS",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-25",
+      "endDate": "2016-10-31",
+      "tracking": "TRUE",
+      "url": "https://drive.google.com/file/d/0BxxpEMTW3kAraEFpRXdFc21TVG8/view",
+      "created_at": 1478025840,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 56.0,
+          "adj_pct": {
+            "polls": 55.92884,
+            "plus": 55.96502,
+            "now": 55.92884
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 39.0,
+          "adj_pct": {
+            "polls": 35.78605,
+            "plus": 35.70923,
+            "now": 35.78605
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0241967,
+        "plus": 0.0241967,
+        "now": 0.0241967
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 17.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 20.142789999999998
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 20.255790000000005
+          },
+          "now": {
+            "choice": "R",
+            "margin": 20.142789999999998
+          }
+        }
+      }
+    },
+    {
+      "id": "48037",
+      "population": "lv",
+      "sampleSize": "1164",
+      "state": "KS",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-26",
+      "endDate": "2016-11-01",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478098920,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 57.0,
+          "adj_pct": {
+            "polls": 56.85078,
+            "plus": 56.88788,
+            "now": 56.85078
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 38.0,
+          "adj_pct": {
+            "polls": 34.78682,
+            "plus": 34.71037,
+            "now": 34.78682
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0261615,
+        "plus": 0.0261615,
+        "now": 0.0261615
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 19.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 22.06396
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 22.177510000000005
+          },
+          "now": {
+            "choice": "R",
+            "margin": 22.06396
+          }
+        }
+      }
+    },
+    {
+      "id": "48145",
+      "population": "lv",
+      "sampleSize": "1123",
+      "state": "KS",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-27",
+      "endDate": "2016-11-02",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478216700,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 57.0,
+          "adj_pct": {
+            "polls": 56.77384,
+            "plus": 56.81159,
+            "now": 56.77384
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 38.0,
+          "adj_pct": {
+            "polls": 34.79206,
+            "plus": 34.71588,
+            "now": 34.79206
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0298364,
+        "plus": 0.0298364,
+        "now": 0.0298364
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 19.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 21.98178
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 22.095710000000004
+          },
+          "now": {
+            "choice": "R",
+            "margin": 21.98178
+          }
+        }
+      }
+    },
+    {
+      "id": "48592",
+      "population": "lv",
+      "sampleSize": "1139",
+      "state": "KS",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-31",
+      "endDate": "2016-11-06",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478508480,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 58.0,
+          "adj_pct": {
+            "polls": 57.38314,
+            "plus": 57.44123,
+            "now": 57.38314
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 38.0,
+          "adj_pct": {
+            "polls": 34.89753,
+            "plus": 34.82949,
+            "now": 34.89753
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0650124,
+        "plus": 0.0650124,
+        "now": 0.0650124
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 20.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 22.485609999999994
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 22.611739999999998
+          },
+          "now": {
+            "choice": "R",
+            "margin": 22.485609999999994
+          }
+        }
+      }
+    },
+    {
+      "id": "45731",
+      "population": "lv",
+      "sampleSize": "565",
+      "state": "KS",
+      "pollster": "SurveyUSA",
+      "startDate": "2016-09-06",
+      "endDate": "2016-09-11",
+      "tracking": null,
+      "url": "http://www.surveyusa.com/client/PollReport.aspx?g=75f6eaff-73bc-4e49-a83f-588adb59bed7",
+      "created_at": 1473855600,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 50.0,
+          "adj_pct": {
+            "polls": 52.89962,
+            "plus": 52.91078,
+            "now": 52.89962
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 34.0,
+          "adj_pct": {
+            "polls": 34.39267,
+            "plus": 34.35018,
+            "now": 34.39267
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0668631,
+        "plus": 0.0668631,
+        "now": 0.0668631
+      },
+      "pollsterRating": "A",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 16.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 18.506949999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 18.5606
+          },
+          "now": {
+            "choice": "R",
+            "margin": 18.506949999999996
+          }
+        }
+      }
+    },
+    {
+      "id": "48285",
+      "population": "lv",
+      "sampleSize": "1162",
+      "state": "KS",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-28",
+      "endDate": "2016-11-03",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478277900,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 58.0,
+          "adj_pct": {
+            "polls": 57.67959,
+            "plus": 57.7193,
+            "now": 57.67959
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 38.0,
+          "adj_pct": {
+            "polls": 34.80008,
+            "plus": 34.72469,
+            "now": 34.80008
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.128136,
+        "plus": 0.128136,
+        "now": 0.128136
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 20.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 22.879509999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 22.994609999999994
+          },
+          "now": {
+            "choice": "R",
+            "margin": 22.879509999999996
+          }
+        }
+      }
+    },
+    {
+      "id": "47063",
+      "population": "lv",
+      "sampleSize": "549",
+      "state": "KS",
+      "pollster": "SurveyUSA",
+      "startDate": "2016-10-11",
+      "endDate": "2016-10-15",
+      "tracking": null,
+      "url": "http://www.surveyusa.com/client/PollReport.aspx?g=191ff880-bbb1-48d3-81d2-7b225731d0fd",
+      "created_at": 1476865140,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 56.0,
+          "adj_pct": {
+            "polls": 58.97931,
+            "plus": 59.03071,
+            "now": 58.97931
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 31.0,
+          "adj_pct": {
+            "polls": 31.05448,
+            "plus": 31.02802,
+            "now": 31.05448
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.6404244,
+        "plus": 0.6404244,
+        "now": 0.6404244
+      },
+      "pollsterRating": "A",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 25.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 27.924829999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 28.002689999999998
+          },
+          "now": {
+            "choice": "R",
+            "margin": 27.924829999999996
+          }
+        }
+      }
+    },
+    {
+      "id": "48337",
+      "population": "lv",
+      "sampleSize": "313",
+      "state": "KS",
+      "pollster": "Fort Hays State University",
+      "startDate": "2016-11-01",
+      "endDate": "2016-11-03",
+      "tracking": null,
+      "url": "http://www.kansas.com/news/local/article112533742.html",
+      "created_at": 1478265180,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 77.0,
+          "adj_pct": {
+            "polls": 74.20092,
+            "plus": 74.16415,
+            "now": 74.20092
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 13.0,
+          "adj_pct": {
+            "polls": 17.21139,
+            "plus": 17.0336,
+            "now": 17.21139
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.8795526,
+        "plus": 0.8795526,
+        "now": 0.8795526
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 64.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 56.989529999999995
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 57.13055000000001
+          },
+          "now": {
+            "choice": "R",
+            "margin": 56.989529999999995
+          }
+        }
+      }
+    },
+    {
+      "id": "48076",
+      "population": "lv",
+      "sampleSize": "596",
+      "state": "KS",
+      "pollster": "SurveyUSA",
+      "startDate": "2016-10-26",
+      "endDate": "2016-10-30",
+      "tracking": null,
+      "url": "http://www.surveyusa.com/client/PollReport.aspx?g=0e1d48a5-2698-448f-8f7a-fa2c92996543",
+      "created_at": 1478075580,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 55.0,
+          "adj_pct": {
+            "polls": 57.10641,
+            "plus": 57.16492,
+            "now": 57.10641
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 31.0,
+          "adj_pct": {
+            "polls": 30.40343,
+            "plus": 30.37985,
+            "now": 30.40343
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.795824,
+        "plus": 1.795824,
+        "now": 1.795824
+      },
+      "pollsterRating": "A",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 24.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 26.702979999999997
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 26.78507
+          },
+          "now": {
+            "choice": "R",
+            "margin": 26.702979999999997
+          }
+        }
+      }
+    },
+    {
+      "id": "48876",
+      "population": "lv",
+      "sampleSize": "1311",
+      "state": "KS",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-11-01",
+      "endDate": "2016-11-07",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478564280,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 59.0,
+          "adj_pct": {
+            "polls": 58.26295,
+            "plus": 58.33228,
+            "now": 58.26295
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 37.0,
+          "adj_pct": {
+            "polls": 33.90585,
+            "plus": 33.84233,
+            "now": 33.90585
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.93469,
+        "plus": 1.93469,
+        "now": 1.93469
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 22.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 24.357099999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 24.48995
+          },
+          "now": {
+            "choice": "R",
+            "margin": 24.357099999999996
+          }
+        }
+      }
+    }
+  ]
+}

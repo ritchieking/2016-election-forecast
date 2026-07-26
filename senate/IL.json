@@ -1,0 +1,7534 @@
+{
+  "state": "IL",
+  "candidates": [
+    {
+      "state": "IL",
+      "party": "D",
+      "candidate": "Tammy Duckworth",
+      "incumbent": null
+    },
+    {
+      "state": "IL",
+      "party": "R",
+      "candidate": "Mark Kirk",
+      "incumbent": "y"
+    }
+  ],
+  "forecasts": {
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 97.175,
+            "forecast": 54.48541,
+            "hi": 58.3742,
+            "lo": 50.50682,
+            "poll_avg": 50.56224,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.1898232,
+            "house_adjust": -0.3426247,
+            "adj_avg": 50.40944,
+            "undecided_adjust": 4.225773,
+            "reallocate_avg": 54.63522,
+            "demo_regress": 53.76157,
+            "demo_weight": 17.136029999999998,
+            "snapshot": 54.48551
+          },
+          "polls": {
+            "winprob": 96.03,
+            "forecast": 54.61838,
+            "hi": 59.05972,
+            "lo": 50.14153,
+            "poll_avg": 50.56224,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2126503,
+            "house_adjust": -0.4090118,
+            "adj_avg": 50.36588,
+            "undecided_adjust": 4.252159,
+            "reallocate_avg": 54.61804,
+            "demo_regress": 54.61805,
+            "demo_weight": 0.0,
+            "snapshot": 54.61805
+          },
+          "now": {
+            "winprob": 96.03,
+            "forecast": 54.61838,
+            "hi": 59.05972,
+            "lo": 50.14153,
+            "poll_avg": 50.56224,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2126503,
+            "house_adjust": -0.4090118,
+            "adj_avg": 50.36588,
+            "undecided_adjust": 4.252159,
+            "reallocate_avg": 54.61804,
+            "demo_regress": 54.61805,
+            "demo_weight": 0.0,
+            "snapshot": 54.61805
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 2.825,
+            "forecast": 42.32084,
+            "hi": 46.15182,
+            "lo": 38.48163,
+            "poll_avg": 37.11797,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.9326782,
+            "house_adjust": -0.1053925,
+            "adj_avg": 37.94526,
+            "undecided_adjust": 4.225773,
+            "reallocate_avg": 42.17103,
+            "demo_regress": 43.04467,
+            "demo_weight": 17.136029999999998,
+            "snapshot": 42.32074
+          },
+          "polls": {
+            "winprob": 3.9699999999999998,
+            "forecast": 42.18032,
+            "hi": 46.53463,
+            "lo": 37.83841,
+            "poll_avg": 37.11797,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.9893875,
+            "house_adjust": -0.1788597,
+            "adj_avg": 37.9285,
+            "undecided_adjust": 4.252159,
+            "reallocate_avg": 42.18066,
+            "demo_regress": 42.18066,
+            "demo_weight": 0.0,
+            "snapshot": 42.18066
+          },
+          "now": {
+            "winprob": 3.9699999999999998,
+            "forecast": 42.18032,
+            "hi": 46.53463,
+            "lo": 37.83841,
+            "poll_avg": 37.11797,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.9893875,
+            "house_adjust": -0.1788597,
+            "adj_avg": 37.9285,
+            "undecided_adjust": 4.252159,
+            "reallocate_avg": 42.18066,
+            "demo_regress": 42.18066,
+            "demo_weight": 0.0,
+            "snapshot": 42.18066
+          }
+        }
+      }
+    },
+    "all": [
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 97.175,
+            "forecast": 54.48541,
+            "hi": 58.3742,
+            "lo": 50.50682,
+            "poll_avg": 50.56224,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.1898232,
+            "house_adjust": -0.3426247,
+            "adj_avg": 50.40944,
+            "undecided_adjust": 4.225773,
+            "reallocate_avg": 54.63522,
+            "demo_regress": 53.76157,
+            "demo_weight": 17.136029999999998,
+            "snapshot": 54.48551
+          },
+          "polls": {
+            "winprob": 96.03,
+            "forecast": 54.61838,
+            "hi": 59.05972,
+            "lo": 50.14153,
+            "poll_avg": 50.56224,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2126503,
+            "house_adjust": -0.4090118,
+            "adj_avg": 50.36588,
+            "undecided_adjust": 4.252159,
+            "reallocate_avg": 54.61804,
+            "demo_regress": 54.61805,
+            "demo_weight": 0.0,
+            "snapshot": 54.61805
+          },
+          "now": {
+            "winprob": 96.03,
+            "forecast": 54.61838,
+            "hi": 59.05972,
+            "lo": 50.14153,
+            "poll_avg": 50.56224,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2126503,
+            "house_adjust": -0.4090118,
+            "adj_avg": 50.36588,
+            "undecided_adjust": 4.252159,
+            "reallocate_avg": 54.61804,
+            "demo_regress": 54.61805,
+            "demo_weight": 0.0,
+            "snapshot": 54.61805
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 2.825,
+            "forecast": 42.32084,
+            "hi": 46.15182,
+            "lo": 38.48163,
+            "poll_avg": 37.11797,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.9326782,
+            "house_adjust": -0.1053925,
+            "adj_avg": 37.94526,
+            "undecided_adjust": 4.225773,
+            "reallocate_avg": 42.17103,
+            "demo_regress": 43.04467,
+            "demo_weight": 17.136029999999998,
+            "snapshot": 42.32074
+          },
+          "polls": {
+            "winprob": 3.9699999999999998,
+            "forecast": 42.18032,
+            "hi": 46.53463,
+            "lo": 37.83841,
+            "poll_avg": 37.11797,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.9893875,
+            "house_adjust": -0.1788597,
+            "adj_avg": 37.9285,
+            "undecided_adjust": 4.252159,
+            "reallocate_avg": 42.18066,
+            "demo_regress": 42.18066,
+            "demo_weight": 0.0,
+            "snapshot": 42.18066
+          },
+          "now": {
+            "winprob": 3.9699999999999998,
+            "forecast": 42.18032,
+            "hi": 46.53463,
+            "lo": 37.83841,
+            "poll_avg": 37.11797,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.9893875,
+            "house_adjust": -0.1788597,
+            "adj_avg": 37.9285,
+            "undecided_adjust": 4.252159,
+            "reallocate_avg": 42.18066,
+            "demo_regress": 42.18066,
+            "demo_weight": 0.0,
+            "snapshot": 42.18066
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 96.92,
+            "forecast": 54.41182,
+            "hi": 58.39895,
+            "lo": 50.3384,
+            "poll_avg": 50.20151
+          },
+          "now": {
+            "winprob": 97.08,
+            "forecast": 54.4513,
+            "hi": 58.36026,
+            "lo": 50.47513,
+            "poll_avg": 50.27597
+          },
+          "polls": {
+            "winprob": 95.875,
+            "forecast": 54.62407,
+            "hi": 59.04716,
+            "lo": 50.06361,
+            "poll_avg": 50.29366
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 3.08,
+            "forecast": 42.35308,
+            "hi": 46.2518,
+            "lo": 38.41925,
+            "poll_avg": 37.8281
+          },
+          "now": {
+            "winprob": 2.92,
+            "forecast": 42.32765,
+            "hi": 46.14003,
+            "lo": 38.46743,
+            "poll_avg": 37.8628
+          },
+          "polls": {
+            "winprob": 4.125,
+            "forecast": 42.15055,
+            "hi": 46.52773,
+            "lo": 37.79618,
+            "poll_avg": 37.82003
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 96.48,
+            "forecast": 54.2811,
+            "hi": 58.38962,
+            "lo": 50.14735,
+            "poll_avg": 49.34208
+          },
+          "now": {
+            "winprob": 96.675,
+            "forecast": 54.32354,
+            "hi": 58.46474,
+            "lo": 50.09661,
+            "poll_avg": 49.37334
+          },
+          "polls": {
+            "winprob": 94.78,
+            "forecast": 54.30816,
+            "hi": 58.93761,
+            "lo": 49.59077,
+            "poll_avg": 49.35138
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 3.52,
+            "forecast": 42.31441,
+            "hi": 46.39991,
+            "lo": 38.27576,
+            "poll_avg": 37.34804
+          },
+          "now": {
+            "winprob": 3.325,
+            "forecast": 42.26298,
+            "hi": 46.23367,
+            "lo": 38.23716,
+            "poll_avg": 37.26373
+          },
+          "polls": {
+            "winprob": 5.220000000000001,
+            "forecast": 42.2855,
+            "hi": 46.91139,
+            "lo": 37.72316,
+            "poll_avg": 37.32741
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 96.495,
+            "forecast": 54.16579,
+            "hi": 58.25004,
+            "lo": 50.04534,
+            "poll_avg": 49.53159
+          },
+          "now": {
+            "winprob": 96.505,
+            "forecast": 54.13411,
+            "hi": 58.07613,
+            "lo": 50.14832,
+            "poll_avg": 49.51578
+          },
+          "polls": {
+            "winprob": 95.08,
+            "forecast": 54.17694,
+            "hi": 58.64474,
+            "lo": 49.67766,
+            "poll_avg": 49.48875
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 3.505,
+            "forecast": 42.52342,
+            "hi": 46.47784,
+            "lo": 38.55963,
+            "poll_avg": 37.85115
+          },
+          "now": {
+            "winprob": 3.495,
+            "forecast": 42.55853,
+            "hi": 46.46417,
+            "lo": 38.62577,
+            "poll_avg": 37.88851
+          },
+          "polls": {
+            "winprob": 4.92,
+            "forecast": 42.50153,
+            "hi": 46.92627,
+            "lo": 38.09472,
+            "poll_avg": 37.81087
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 97.2,
+            "forecast": 54.51648,
+            "hi": 58.5139,
+            "lo": 50.40308,
+            "poll_avg": 49.95976
+          },
+          "now": {
+            "winprob": 97.41499999999999,
+            "forecast": 54.53695,
+            "hi": 58.43021,
+            "lo": 50.5545,
+            "poll_avg": 50.02946
+          },
+          "polls": {
+            "winprob": 95.845,
+            "forecast": 54.55364,
+            "hi": 59.03919,
+            "lo": 49.96303,
+            "poll_avg": 50.00717
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 2.8000000000000003,
+            "forecast": 42.19032,
+            "hi": 46.11032,
+            "lo": 38.27342,
+            "poll_avg": 37.62315
+          },
+          "now": {
+            "winprob": 2.585,
+            "forecast": 42.18475,
+            "hi": 46.01051,
+            "lo": 38.36745,
+            "poll_avg": 37.66776
+          },
+          "polls": {
+            "winprob": 4.154999999999999,
+            "forecast": 42.15693,
+            "hi": 46.57877,
+            "lo": 37.78055,
+            "poll_avg": 37.6108
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 97.365,
+            "forecast": 54.82779,
+            "hi": 58.87566,
+            "lo": 50.65665,
+            "poll_avg": 50.16966
+          },
+          "now": {
+            "winprob": 97.72999999999999,
+            "forecast": 54.90744,
+            "hi": 58.85998,
+            "lo": 50.81931,
+            "poll_avg": 50.27141
+          },
+          "polls": {
+            "winprob": 96.0,
+            "forecast": 54.75507,
+            "hi": 59.31456,
+            "lo": 50.10774,
+            "poll_avg": 50.09502
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 2.635,
+            "forecast": 41.84274,
+            "hi": 45.83789,
+            "lo": 37.82866,
+            "poll_avg": 37.1956
+          },
+          "now": {
+            "winprob": 2.27,
+            "forecast": 41.76507,
+            "hi": 45.69897,
+            "lo": 37.87513,
+            "poll_avg": 37.12668
+          },
+          "polls": {
+            "winprob": 4.0,
+            "forecast": 41.91558,
+            "hi": 46.41666,
+            "lo": 37.48036,
+            "poll_avg": 37.25768
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 97.545,
+            "forecast": 54.9961,
+            "hi": 59.07089,
+            "lo": 50.81178,
+            "poll_avg": 50.24294
+          },
+          "now": {
+            "winprob": 97.705,
+            "forecast": 55.04692,
+            "hi": 59.10101,
+            "lo": 50.88149,
+            "poll_avg": 50.26057
+          },
+          "polls": {
+            "winprob": 96.23,
+            "forecast": 54.93123,
+            "hi": 59.54048,
+            "lo": 50.24389,
+            "poll_avg": 50.11491
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 2.455,
+            "forecast": 41.64118,
+            "hi": 45.67239,
+            "lo": 37.65377,
+            "poll_avg": 36.9002
+          },
+          "now": {
+            "winprob": 2.2950000000000004,
+            "forecast": 41.57572,
+            "hi": 45.57305,
+            "lo": 37.64615,
+            "poll_avg": 36.78894
+          },
+          "polls": {
+            "winprob": 3.7699999999999996,
+            "forecast": 41.68732,
+            "hi": 46.23474,
+            "lo": 37.18637,
+            "poll_avg": 36.8728
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 97.88,
+            "forecast": 55.24209,
+            "hi": 59.30257,
+            "lo": 51.11349,
+            "poll_avg": 50.79068
+          },
+          "now": {
+            "winprob": 98.125,
+            "forecast": 55.27272,
+            "hi": 59.20275,
+            "lo": 51.28895,
+            "poll_avg": 50.8286
+          },
+          "polls": {
+            "winprob": 96.58,
+            "forecast": 55.2,
+            "hi": 59.85557,
+            "lo": 50.54407,
+            "poll_avg": 50.66611
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 2.12,
+            "forecast": 41.46735,
+            "hi": 45.46545,
+            "lo": 37.52448,
+            "poll_avg": 36.96117
+          },
+          "now": {
+            "winprob": 1.875,
+            "forecast": 41.44013,
+            "hi": 45.28054,
+            "lo": 37.53699,
+            "poll_avg": 36.94742
+          },
+          "polls": {
+            "winprob": 3.42,
+            "forecast": 41.4949,
+            "hi": 45.97697,
+            "lo": 36.96382,
+            "poll_avg": 36.96058
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 92.825,
+            "forecast": 53.40623,
+            "hi": 57.94209,
+            "lo": 48.83168,
+            "poll_avg": 48.11455
+          },
+          "now": {
+            "winprob": 93.28,
+            "forecast": 53.35798,
+            "hi": 57.63054,
+            "lo": 49.00945,
+            "poll_avg": 48.19419
+          },
+          "polls": {
+            "winprob": 90.13,
+            "forecast": 52.96466,
+            "hi": 57.77647,
+            "lo": 48.08482,
+            "poll_avg": 48.13074
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 7.175,
+            "forecast": 43.26229,
+            "hi": 47.73096,
+            "lo": 38.80576,
+            "poll_avg": 38.85055
+          },
+          "now": {
+            "winprob": 6.72,
+            "forecast": 43.33721,
+            "hi": 47.60856,
+            "lo": 39.04908,
+            "poll_avg": 38.98713
+          },
+          "polls": {
+            "winprob": 9.87,
+            "forecast": 43.70892,
+            "hi": 48.42464,
+            "lo": 38.96545,
+            "poll_avg": 38.87452
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 93.38499999999999,
+            "forecast": 53.5558,
+            "hi": 58.08918,
+            "lo": 48.91638,
+            "poll_avg": 48.21027
+          },
+          "now": {
+            "winprob": 93.97,
+            "forecast": 53.59895,
+            "hi": 57.94502,
+            "lo": 49.173,
+            "poll_avg": 48.48622
+          },
+          "polls": {
+            "winprob": 90.24,
+            "forecast": 53.11339,
+            "hi": 57.94043,
+            "lo": 48.12257,
+            "poll_avg": 48.2633
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 6.615,
+            "forecast": 43.09954,
+            "hi": 47.52238,
+            "lo": 38.60817,
+            "poll_avg": 38.67611
+          },
+          "now": {
+            "winprob": 6.03,
+            "forecast": 43.11267,
+            "hi": 47.37595,
+            "lo": 38.82164,
+            "poll_avg": 38.86602
+          },
+          "polls": {
+            "winprob": 9.76,
+            "forecast": 43.55113,
+            "hi": 48.38478,
+            "lo": 38.76211,
+            "poll_avg": 38.70021
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 93.7,
+            "forecast": 53.67004,
+            "hi": 58.27357,
+            "lo": 49.07104,
+            "poll_avg": 48.29095
+          },
+          "now": {
+            "winprob": 94.43,
+            "forecast": 53.7594,
+            "hi": 58.08829,
+            "lo": 49.33831,
+            "poll_avg": 48.61689
+          },
+          "polls": {
+            "winprob": 90.605,
+            "forecast": 53.20285,
+            "hi": 58.05268,
+            "lo": 48.28225,
+            "poll_avg": 48.26323
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 6.3,
+            "forecast": 42.96904,
+            "hi": 47.44697,
+            "lo": 38.4082,
+            "poll_avg": 38.49149
+          },
+          "now": {
+            "winprob": 5.57,
+            "forecast": 42.93422,
+            "hi": 47.2162,
+            "lo": 38.63951,
+            "poll_avg": 38.63119
+          },
+          "polls": {
+            "winprob": 9.395000000000001,
+            "forecast": 43.43306,
+            "hi": 48.35133,
+            "lo": 38.62986,
+            "poll_avg": 38.49079
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 93.125,
+            "forecast": 53.596,
+            "hi": 58.25388,
+            "lo": 48.87143,
+            "poll_avg": 47.95047
+          },
+          "now": {
+            "winprob": 94.505,
+            "forecast": 53.72728,
+            "hi": 58.15965,
+            "lo": 49.24979,
+            "poll_avg": 48.31231
+          },
+          "polls": {
+            "winprob": 90.365,
+            "forecast": 53.14369,
+            "hi": 58.13605,
+            "lo": 48.0888,
+            "poll_avg": 47.97154
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 6.875000000000001,
+            "forecast": 42.97127,
+            "hi": 47.47934,
+            "lo": 38.48045,
+            "poll_avg": 38.24265
+          },
+          "now": {
+            "winprob": 5.495,
+            "forecast": 42.89014,
+            "hi": 47.269,
+            "lo": 38.55711,
+            "poll_avg": 38.34104
+          },
+          "polls": {
+            "winprob": 9.635,
+            "forecast": 43.42774,
+            "hi": 48.31962,
+            "lo": 38.48959,
+            "poll_avg": 38.25593
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 91.835,
+            "forecast": 53.19532,
+            "hi": 57.9625,
+            "lo": 48.44679,
+            "poll_avg": 47.34483
+          },
+          "now": {
+            "winprob": 92.67,
+            "forecast": 53.18276,
+            "hi": 57.63393,
+            "lo": 48.59719,
+            "poll_avg": 47.53333
+          },
+          "polls": {
+            "winprob": 88.775,
+            "forecast": 52.83832,
+            "hi": 57.87989,
+            "lo": 47.69056,
+            "poll_avg": 47.34291
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 8.165,
+            "forecast": 43.28152,
+            "hi": 47.91665,
+            "lo": 38.64163,
+            "poll_avg": 38.07335
+          },
+          "now": {
+            "winprob": 7.33,
+            "forecast": 43.33045,
+            "hi": 47.74027,
+            "lo": 38.92736,
+            "poll_avg": 38.24543
+          },
+          "polls": {
+            "winprob": 11.225,
+            "forecast": 43.64938,
+            "hi": 48.69653,
+            "lo": 38.61375,
+            "poll_avg": 38.15445
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 91.25999999999999,
+            "forecast": 53.0112,
+            "hi": 57.7375,
+            "lo": 48.22361,
+            "poll_avg": 47.0615
+          },
+          "now": {
+            "winprob": 92.12,
+            "forecast": 53.04515,
+            "hi": 57.54671,
+            "lo": 48.49055,
+            "poll_avg": 47.27983
+          },
+          "polls": {
+            "winprob": 88.27000000000001,
+            "forecast": 52.69878,
+            "hi": 57.84081,
+            "lo": 47.55003,
+            "poll_avg": 47.1197
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 8.74,
+            "forecast": 43.43958,
+            "hi": 48.08315,
+            "lo": 38.7394,
+            "poll_avg": 38.113
+          },
+          "now": {
+            "winprob": 7.88,
+            "forecast": 43.437,
+            "hi": 47.90081,
+            "lo": 38.96084,
+            "poll_avg": 38.23922
+          },
+          "polls": {
+            "winprob": 11.73,
+            "forecast": 43.76913,
+            "hi": 48.8595,
+            "lo": 38.74009,
+            "poll_avg": 38.19112
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 90.74,
+            "forecast": 52.96061,
+            "hi": 57.85089,
+            "lo": 48.00521,
+            "poll_avg": 46.51187
+          },
+          "now": {
+            "winprob": 91.45,
+            "forecast": 52.92158,
+            "hi": 57.52041,
+            "lo": 48.17084,
+            "poll_avg": 46.53366
+          },
+          "polls": {
+            "winprob": 87.605,
+            "forecast": 52.62012,
+            "hi": 57.87254,
+            "lo": 47.2119,
+            "poll_avg": 46.46479
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 9.26,
+            "forecast": 43.35545,
+            "hi": 48.17449,
+            "lo": 38.53937,
+            "poll_avg": 37.57383
+          },
+          "now": {
+            "winprob": 8.55,
+            "forecast": 43.37365,
+            "hi": 48.0145,
+            "lo": 38.74323,
+            "poll_avg": 37.54334
+          },
+          "polls": {
+            "winprob": 12.395,
+            "forecast": 43.68513,
+            "hi": 48.89394,
+            "lo": 38.481,
+            "poll_avg": 37.53296
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 92.08,
+            "forecast": 53.33902,
+            "hi": 58.12361,
+            "lo": 48.4853,
+            "poll_avg": 47.34367
+          },
+          "now": {
+            "winprob": 93.36,
+            "forecast": 53.41663,
+            "hi": 57.88542,
+            "lo": 48.89851,
+            "poll_avg": 47.6474
+          },
+          "polls": {
+            "winprob": 89.375,
+            "forecast": 52.97828,
+            "hi": 58.0538,
+            "lo": 47.81628,
+            "poll_avg": 47.43174
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 7.920000000000001,
+            "forecast": 43.10783,
+            "hi": 47.84309,
+            "lo": 38.45618,
+            "poll_avg": 37.85469
+          },
+          "now": {
+            "winprob": 6.64,
+            "forecast": 43.06611,
+            "hi": 47.49732,
+            "lo": 38.60293,
+            "poll_avg": 37.95227
+          },
+          "polls": {
+            "winprob": 10.625,
+            "forecast": 43.49033,
+            "hi": 48.56049,
+            "lo": 38.47371,
+            "poll_avg": 37.94229
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 88.155,
+            "forecast": 52.60242,
+            "hi": 57.835,
+            "lo": 47.33307,
+            "poll_avg": 45.13631
+          },
+          "now": {
+            "winprob": 87.88,
+            "forecast": 52.37181,
+            "hi": 57.41476,
+            "lo": 47.25327,
+            "poll_avg": 45.06136
+          },
+          "polls": {
+            "winprob": 84.345,
+            "forecast": 52.12446,
+            "hi": 57.73925,
+            "lo": 46.44443,
+            "poll_avg": 45.16062
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 11.845,
+            "forecast": 43.51855,
+            "hi": 48.73266,
+            "lo": 38.27654,
+            "poll_avg": 36.99681
+          },
+          "now": {
+            "winprob": 12.120000000000001,
+            "forecast": 43.75477,
+            "hi": 48.71435,
+            "lo": 38.81622,
+            "poll_avg": 37.35186
+          },
+          "polls": {
+            "winprob": 15.655,
+            "forecast": 44.00465,
+            "hi": 49.57047,
+            "lo": 38.48308,
+            "poll_avg": 37.04003
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 88.315,
+            "forecast": 52.6379,
+            "hi": 57.89643,
+            "lo": 47.33858,
+            "poll_avg": 45.16016
+          },
+          "now": {
+            "winprob": 88.495,
+            "forecast": 52.4225,
+            "hi": 57.41717,
+            "lo": 47.33803,
+            "poll_avg": 45.07867
+          },
+          "polls": {
+            "winprob": 84.275,
+            "forecast": 52.17665,
+            "hi": 57.84295,
+            "lo": 46.48605,
+            "poll_avg": 45.22214
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 11.684999999999999,
+            "forecast": 43.48387,
+            "hi": 48.70264,
+            "lo": 38.25388,
+            "poll_avg": 36.98376
+          },
+          "now": {
+            "winprob": 11.505,
+            "forecast": 43.68813,
+            "hi": 48.5968,
+            "lo": 38.75117,
+            "poll_avg": 37.23585
+          },
+          "polls": {
+            "winprob": 15.725,
+            "forecast": 43.95338,
+            "hi": 49.57719,
+            "lo": 38.34769,
+            "poll_avg": 36.9977
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 88.045,
+            "forecast": 52.5984,
+            "hi": 57.80219,
+            "lo": 47.24439,
+            "poll_avg": 45.13113
+          },
+          "now": {
+            "winprob": 88.7,
+            "forecast": 52.42739,
+            "hi": 57.4082,
+            "lo": 47.3586,
+            "poll_avg": 45.13872
+          },
+          "polls": {
+            "winprob": 83.875,
+            "forecast": 52.15509,
+            "hi": 57.85426,
+            "lo": 46.41573,
+            "poll_avg": 45.20218
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 11.955,
+            "forecast": 43.52613,
+            "hi": 48.73536,
+            "lo": 38.43252,
+            "poll_avg": 37.0284
+          },
+          "now": {
+            "winprob": 11.3,
+            "forecast": 43.69044,
+            "hi": 48.62051,
+            "lo": 38.76826,
+            "poll_avg": 37.25472
+          },
+          "polls": {
+            "winprob": 16.125,
+            "forecast": 43.9758,
+            "hi": 49.61956,
+            "lo": 38.3484,
+            "poll_avg": 37.02031
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 89.485,
+            "forecast": 52.95088,
+            "hi": 58.24985,
+            "lo": 47.58576,
+            "poll_avg": 45.40069
+          },
+          "now": {
+            "winprob": 89.735,
+            "forecast": 52.73179,
+            "hi": 57.74054,
+            "lo": 47.66045,
+            "poll_avg": 45.43293
+          },
+          "polls": {
+            "winprob": 85.595,
+            "forecast": 52.49871,
+            "hi": 58.24893,
+            "lo": 46.78183,
+            "poll_avg": 45.46181
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 10.514999999999999,
+            "forecast": 43.14221,
+            "hi": 48.35657,
+            "lo": 37.91958,
+            "poll_avg": 36.56922
+          },
+          "now": {
+            "winprob": 10.265,
+            "forecast": 43.36959,
+            "hi": 48.33969,
+            "lo": 38.42952,
+            "poll_avg": 36.91008
+          },
+          "polls": {
+            "winprob": 14.405000000000001,
+            "forecast": 43.59992,
+            "hi": 49.32501,
+            "lo": 38.0284,
+            "poll_avg": 36.56281
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 90.125,
+            "forecast": 53.12425,
+            "hi": 58.42285,
+            "lo": 47.77607,
+            "poll_avg": 45.44884
+          },
+          "now": {
+            "winprob": 90.74,
+            "forecast": 52.96728,
+            "hi": 58.03385,
+            "lo": 47.91113,
+            "poll_avg": 45.5187
+          },
+          "polls": {
+            "winprob": 86.06,
+            "forecast": 52.56524,
+            "hi": 58.23067,
+            "lo": 46.73976,
+            "poll_avg": 45.4062
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 9.875,
+            "forecast": 42.93464,
+            "hi": 48.1468,
+            "lo": 37.6416,
+            "poll_avg": 36.26674
+          },
+          "now": {
+            "winprob": 9.26,
+            "forecast": 43.0862,
+            "hi": 48.00369,
+            "lo": 38.11513,
+            "poll_avg": 36.50743
+          },
+          "polls": {
+            "winprob": 13.94,
+            "forecast": 43.49857,
+            "hi": 49.18356,
+            "lo": 37.87749,
+            "poll_avg": 36.33892
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 89.985,
+            "forecast": 53.12689,
+            "hi": 58.58038,
+            "lo": 47.62624,
+            "poll_avg": 45.28472
+          },
+          "now": {
+            "winprob": 91.515,
+            "forecast": 53.27768,
+            "hi": 58.38981,
+            "lo": 48.05216,
+            "poll_avg": 45.51649
+          },
+          "polls": {
+            "winprob": 86.28,
+            "forecast": 52.64918,
+            "hi": 58.45596,
+            "lo": 46.74686,
+            "poll_avg": 45.26709
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 10.015,
+            "forecast": 42.8636,
+            "hi": 48.21584,
+            "lo": 37.54035,
+            "poll_avg": 35.87124
+          },
+          "now": {
+            "winprob": 8.485,
+            "forecast": 42.64716,
+            "hi": 47.69429,
+            "lo": 37.57609,
+            "poll_avg": 35.5942
+          },
+          "polls": {
+            "winprob": 13.719999999999999,
+            "forecast": 43.35221,
+            "hi": 49.12683,
+            "lo": 37.57878,
+            "poll_avg": 35.96947
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 90.09,
+            "forecast": 53.17138,
+            "hi": 58.58927,
+            "lo": 47.73531,
+            "poll_avg": 45.33453
+          },
+          "now": {
+            "winprob": 92.01,
+            "forecast": 53.45475,
+            "hi": 58.6343,
+            "lo": 48.1845,
+            "poll_avg": 45.72995
+          },
+          "polls": {
+            "winprob": 86.335,
+            "forecast": 52.66673,
+            "hi": 58.4771,
+            "lo": 46.7802,
+            "poll_avg": 45.42715
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 9.91,
+            "forecast": 42.85055,
+            "hi": 48.21135,
+            "lo": 37.49593,
+            "poll_avg": 36.07365
+          },
+          "now": {
+            "winprob": 7.99,
+            "forecast": 42.50843,
+            "hi": 47.53413,
+            "lo": 37.45604,
+            "poll_avg": 35.71507
+          },
+          "polls": {
+            "winprob": 13.665,
+            "forecast": 43.37263,
+            "hi": 49.17223,
+            "lo": 37.68219,
+            "poll_avg": 36.13353
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 88.86500000000001,
+            "forecast": 52.84538,
+            "hi": 58.2227,
+            "lo": 47.42548,
+            "poll_avg": 44.94608
+          },
+          "now": {
+            "winprob": 90.71000000000001,
+            "forecast": 53.06869,
+            "hi": 58.27062,
+            "lo": 47.83861,
+            "poll_avg": 45.26973
+          },
+          "polls": {
+            "winprob": 84.355,
+            "forecast": 52.28197,
+            "hi": 58.1256,
+            "lo": 46.46196,
+            "poll_avg": 44.94579
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 11.135,
+            "forecast": 43.16082,
+            "hi": 48.50365,
+            "lo": 37.8078,
+            "poll_avg": 36.26461
+          },
+          "now": {
+            "winprob": 9.29,
+            "forecast": 42.87475,
+            "hi": 47.99784,
+            "lo": 37.81897,
+            "poll_avg": 35.96657
+          },
+          "polls": {
+            "winprob": 15.645000000000001,
+            "forecast": 43.74266,
+            "hi": 49.53015,
+            "lo": 37.9222,
+            "poll_avg": 36.40694
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 88.345,
+            "forecast": 52.74461,
+            "hi": 58.11498,
+            "lo": 47.34351,
+            "poll_avg": 45.16294
+          },
+          "now": {
+            "winprob": 90.405,
+            "forecast": 52.93098,
+            "hi": 57.94659,
+            "lo": 47.74506,
+            "poll_avg": 45.49411
+          },
+          "polls": {
+            "winprob": 83.955,
+            "forecast": 52.12447,
+            "hi": 57.79501,
+            "lo": 46.37315,
+            "poll_avg": 45.07407
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 11.655,
+            "forecast": 43.35701,
+            "hi": 48.65246,
+            "lo": 38.0873,
+            "poll_avg": 36.82615
+          },
+          "now": {
+            "winprob": 9.594999999999999,
+            "forecast": 43.13108,
+            "hi": 48.11979,
+            "lo": 38.12935,
+            "poll_avg": 36.65211
+          },
+          "polls": {
+            "winprob": 16.045,
+            "forecast": 43.98117,
+            "hi": 49.65096,
+            "lo": 38.26994,
+            "poll_avg": 36.9286
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 87.91499999999999,
+            "forecast": 52.61261,
+            "hi": 58.01344,
+            "lo": 47.22671,
+            "poll_avg": 45.0368
+          },
+          "now": {
+            "winprob": 89.705,
+            "forecast": 52.71186,
+            "hi": 57.75537,
+            "lo": 47.62926,
+            "poll_avg": 45.31932
+          },
+          "polls": {
+            "winprob": 83.45,
+            "forecast": 52.05234,
+            "hi": 57.74897,
+            "lo": 46.32049,
+            "poll_avg": 45.04908
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 12.084999999999999,
+            "forecast": 43.50135,
+            "hi": 48.74426,
+            "lo": 38.18892,
+            "poll_avg": 37.02266
+          },
+          "now": {
+            "winprob": 10.295,
+            "forecast": 43.37568,
+            "hi": 48.30561,
+            "lo": 38.46157,
+            "poll_avg": 36.99266
+          },
+          "polls": {
+            "winprob": 16.55,
+            "forecast": 44.06858,
+            "hi": 49.74531,
+            "lo": 38.5121,
+            "poll_avg": 37.06652
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 88.395,
+            "forecast": 52.7508,
+            "hi": 58.08626,
+            "lo": 47.37723,
+            "poll_avg": 45.11015
+          },
+          "now": {
+            "winprob": 90.705,
+            "forecast": 52.92377,
+            "hi": 57.91755,
+            "lo": 47.86348,
+            "poll_avg": 45.44177
+          },
+          "polls": {
+            "winprob": 84.09,
+            "forecast": 52.15765,
+            "hi": 57.89885,
+            "lo": 46.4086,
+            "poll_avg": 45.05136
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 11.605,
+            "forecast": 43.33426,
+            "hi": 48.63321,
+            "lo": 38.04815,
+            "poll_avg": 36.74091
+          },
+          "now": {
+            "winprob": 9.295,
+            "forecast": 43.11478,
+            "hi": 48.08931,
+            "lo": 38.11691,
+            "poll_avg": 36.55798
+          },
+          "polls": {
+            "winprob": 15.909999999999998,
+            "forecast": 43.93201,
+            "hi": 49.63749,
+            "lo": 38.26588,
+            "poll_avg": 36.8236
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 86.32,
+            "forecast": 52.31574,
+            "hi": 57.71112,
+            "lo": 46.76341,
+            "poll_avg": 44.44206
+          },
+          "now": {
+            "winprob": 88.7,
+            "forecast": 52.50302,
+            "hi": 57.5797,
+            "lo": 47.36884,
+            "poll_avg": 44.71521
+          },
+          "polls": {
+            "winprob": 82.02000000000001,
+            "forecast": 51.84682,
+            "hi": 57.74805,
+            "lo": 45.9122,
+            "poll_avg": 44.44174
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 13.68,
+            "forecast": 43.7103,
+            "hi": 49.10355,
+            "lo": 38.32468,
+            "poll_avg": 36.82281
+          },
+          "now": {
+            "winprob": 11.3,
+            "forecast": 43.44524,
+            "hi": 48.47064,
+            "lo": 38.38939,
+            "poll_avg": 36.52666
+          },
+          "polls": {
+            "winprob": 17.98,
+            "forecast": 44.17247,
+            "hi": 49.97592,
+            "lo": 38.37174,
+            "poll_avg": 36.77097
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 86.765,
+            "forecast": 52.36462,
+            "hi": 57.80367,
+            "lo": 46.88414,
+            "poll_avg": 44.63652
+          },
+          "now": {
+            "winprob": 88.84,
+            "forecast": 52.57716,
+            "hi": 57.71056,
+            "lo": 47.36958,
+            "poll_avg": 44.93689
+          },
+          "polls": {
+            "winprob": 82.35,
+            "forecast": 51.93703,
+            "hi": 57.74458,
+            "lo": 46.05855,
+            "poll_avg": 44.59283
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 13.235,
+            "forecast": 43.66505,
+            "hi": 49.0291,
+            "lo": 38.36419,
+            "poll_avg": 36.69445
+          },
+          "now": {
+            "winprob": 11.16,
+            "forecast": 43.36893,
+            "hi": 48.42469,
+            "lo": 38.35607,
+            "poll_avg": 36.34741
+          },
+          "polls": {
+            "winprob": 17.65,
+            "forecast": 44.09518,
+            "hi": 49.92638,
+            "lo": 38.29527,
+            "poll_avg": 36.74921
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 86.17,
+            "forecast": 52.26109,
+            "hi": 57.625,
+            "lo": 46.79438,
+            "poll_avg": 44.69824
+          },
+          "now": {
+            "winprob": 87.19,
+            "forecast": 52.08939,
+            "hi": 57.02477,
+            "lo": 47.05653,
+            "poll_avg": 44.68689
+          },
+          "polls": {
+            "winprob": 82.78999999999999,
+            "forecast": 51.91273,
+            "hi": 57.70917,
+            "lo": 46.12263,
+            "poll_avg": 44.64582
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 13.83,
+            "forecast": 43.79862,
+            "hi": 49.14074,
+            "lo": 38.44276,
+            "poll_avg": 36.87648
+          },
+          "now": {
+            "winprob": 12.809999999999999,
+            "forecast": 43.9325,
+            "hi": 48.79212,
+            "lo": 39.02077,
+            "poll_avg": 37.10602
+          },
+          "polls": {
+            "winprob": 17.21,
+            "forecast": 44.14095,
+            "hi": 49.92006,
+            "lo": 38.34618,
+            "poll_avg": 36.87217
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 85.11999999999999,
+            "forecast": 52.06887,
+            "hi": 57.37592,
+            "lo": 46.66725,
+            "poll_avg": 44.68824
+          },
+          "now": {
+            "winprob": 86.785,
+            "forecast": 51.93837,
+            "hi": 56.81499,
+            "lo": 47.02493,
+            "poll_avg": 44.85818
+          },
+          "polls": {
+            "winprob": 81.36,
+            "forecast": 51.75517,
+            "hi": 57.50243,
+            "lo": 45.94708,
+            "poll_avg": 44.70469
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 14.879999999999999,
+            "forecast": 44.04937,
+            "hi": 49.31165,
+            "lo": 38.77359,
+            "poll_avg": 37.33588
+          },
+          "now": {
+            "winprob": 13.215,
+            "forecast": 44.17075,
+            "hi": 48.97177,
+            "lo": 39.37515,
+            "poll_avg": 37.5966
+          },
+          "polls": {
+            "winprob": 18.64,
+            "forecast": 44.36136,
+            "hi": 50.09265,
+            "lo": 38.66062,
+            "poll_avg": 37.30955
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 86.425,
+            "forecast": 52.31823,
+            "hi": 57.6522,
+            "lo": 46.90287,
+            "poll_avg": 44.76949
+          },
+          "now": {
+            "winprob": 88.235,
+            "forecast": 52.31102,
+            "hi": 57.26635,
+            "lo": 47.30096,
+            "poll_avg": 45.02979
+          },
+          "polls": {
+            "winprob": 82.685,
+            "forecast": 51.93041,
+            "hi": 57.63301,
+            "lo": 46.1035,
+            "poll_avg": 44.80145
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 13.575000000000001,
+            "forecast": 43.7646,
+            "hi": 49.06384,
+            "lo": 38.488,
+            "poll_avg": 36.99749
+          },
+          "now": {
+            "winprob": 11.765,
+            "forecast": 43.74562,
+            "hi": 48.60283,
+            "lo": 38.83762,
+            "poll_avg": 37.101
+          },
+          "polls": {
+            "winprob": 17.315,
+            "forecast": 44.16022,
+            "hi": 49.8503,
+            "lo": 38.48728,
+            "poll_avg": 37.03206
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 85.58,
+            "forecast": 52.12665,
+            "hi": 57.47898,
+            "lo": 46.73381,
+            "poll_avg": 44.59307
+          },
+          "now": {
+            "winprob": 86.665,
+            "forecast": 51.93466,
+            "hi": 56.83648,
+            "lo": 46.93272,
+            "poll_avg": 44.80282
+          },
+          "polls": {
+            "winprob": 81.75,
+            "forecast": 51.75799,
+            "hi": 57.52319,
+            "lo": 45.95703,
+            "poll_avg": 44.64837
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 14.42,
+            "forecast": 43.96634,
+            "hi": 49.27985,
+            "lo": 38.67543,
+            "poll_avg": 37.2177
+          },
+          "now": {
+            "winprob": 13.334999999999999,
+            "forecast": 44.16261,
+            "hi": 48.97587,
+            "lo": 39.28082,
+            "poll_avg": 37.58735
+          },
+          "polls": {
+            "winprob": 18.25,
+            "forecast": 44.34256,
+            "hi": 50.10571,
+            "lo": 38.6193,
+            "poll_avg": 37.23162
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 85.35000000000001,
+            "forecast": 52.10996,
+            "hi": 57.45517,
+            "lo": 46.69547,
+            "poll_avg": 44.57744
+          },
+          "now": {
+            "winprob": 85.745,
+            "forecast": 51.77468,
+            "hi": 56.71596,
+            "lo": 46.91911,
+            "poll_avg": 44.68211
+          },
+          "polls": {
+            "winprob": 81.425,
+            "forecast": 51.72666,
+            "hi": 57.61282,
+            "lo": 45.94474,
+            "poll_avg": 44.61843
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 14.649999999999999,
+            "forecast": 43.98336,
+            "hi": 49.26371,
+            "lo": 38.60318,
+            "poll_avg": 37.23287
+          },
+          "now": {
+            "winprob": 14.255,
+            "forecast": 44.33721,
+            "hi": 49.13986,
+            "lo": 39.52553,
+            "poll_avg": 37.80319
+          },
+          "polls": {
+            "winprob": 18.575,
+            "forecast": 44.37566,
+            "hi": 50.0869,
+            "lo": 38.63475,
+            "poll_avg": 37.26926
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 87.39,
+            "forecast": 52.52277,
+            "hi": 57.94719,
+            "lo": 47.12436,
+            "poll_avg": 44.93341
+          },
+          "now": {
+            "winprob": 89.58,
+            "forecast": 52.6499,
+            "hi": 57.59373,
+            "lo": 47.62743,
+            "poll_avg": 45.34225
+          },
+          "polls": {
+            "winprob": 83.39,
+            "forecast": 52.09404,
+            "hi": 57.90668,
+            "lo": 46.25948,
+            "poll_avg": 44.91066
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 12.61,
+            "forecast": 43.54191,
+            "hi": 48.89693,
+            "lo": 38.19735,
+            "poll_avg": 36.72575
+          },
+          "now": {
+            "winprob": 10.42,
+            "forecast": 43.37693,
+            "hi": 48.2884,
+            "lo": 38.494,
+            "poll_avg": 36.68108
+          },
+          "polls": {
+            "winprob": 16.61,
+            "forecast": 43.9767,
+            "hi": 49.72577,
+            "lo": 38.20031,
+            "poll_avg": 36.79075
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 87.28,
+            "forecast": 52.58503,
+            "hi": 58.08847,
+            "lo": 47.02698,
+            "poll_avg": 44.91141
+          },
+          "now": {
+            "winprob": 90.45,
+            "forecast": 52.8063,
+            "hi": 57.72397,
+            "lo": 47.75133,
+            "poll_avg": 45.40842
+          },
+          "polls": {
+            "winprob": 83.88,
+            "forecast": 52.20943,
+            "hi": 58.0677,
+            "lo": 46.33537,
+            "poll_avg": 44.95046
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 12.72,
+            "forecast": 43.45981,
+            "hi": 48.87919,
+            "lo": 38.08542,
+            "poll_avg": 36.59041
+          },
+          "now": {
+            "winprob": 9.55,
+            "forecast": 43.18507,
+            "hi": 48.06934,
+            "lo": 38.27522,
+            "poll_avg": 36.39542
+          },
+          "polls": {
+            "winprob": 16.12,
+            "forecast": 43.83834,
+            "hi": 49.65705,
+            "lo": 38.0047,
+            "poll_avg": 36.58165
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 76.97500000000001,
+            "forecast": 51.06204,
+            "hi": 56.98901,
+            "lo": 45.06272,
+            "poll_avg": 42.07148
+          },
+          "now": {
+            "winprob": 78.145,
+            "forecast": 50.95452,
+            "hi": 56.50687,
+            "lo": 45.32271,
+            "poll_avg": 42.10079
+          },
+          "polls": {
+            "winprob": 67.77499999999999,
+            "forecast": 50.01143,
+            "hi": 56.18278,
+            "lo": 43.7612,
+            "poll_avg": 42.07399
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 23.025000000000002,
+            "forecast": 44.89794,
+            "hi": 50.85069,
+            "lo": 38.9763,
+            "poll_avg": 37.98817
+          },
+          "now": {
+            "winprob": 21.855,
+            "forecast": 44.90119,
+            "hi": 50.47774,
+            "lo": 39.31821,
+            "poll_avg": 37.98893
+          },
+          "polls": {
+            "winprob": 32.225,
+            "forecast": 45.95179,
+            "hi": 52.10271,
+            "lo": 39.72553,
+            "poll_avg": 38.01194
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 74.42999999999999,
+            "forecast": 50.70338,
+            "hi": 56.67014,
+            "lo": 44.61357,
+            "poll_avg": 41.54189
+          },
+          "now": {
+            "winprob": 74.625,
+            "forecast": 50.45114,
+            "hi": 56.07713,
+            "lo": 44.79468,
+            "poll_avg": 41.36095
+          },
+          "polls": {
+            "winprob": 65.16499999999999,
+            "forecast": 49.65073,
+            "hi": 55.93579,
+            "lo": 43.32145,
+            "poll_avg": 41.56684
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 25.569999999999997,
+            "forecast": 45.23018,
+            "hi": 51.21578,
+            "lo": 39.26197,
+            "poll_avg": 38.20026
+          },
+          "now": {
+            "winprob": 25.374999999999996,
+            "forecast": 45.34007,
+            "hi": 50.86079,
+            "lo": 39.79909,
+            "poll_avg": 38.15747
+          },
+          "polls": {
+            "winprob": 34.835,
+            "forecast": 46.28543,
+            "hi": 52.62848,
+            "lo": 39.93156,
+            "poll_avg": 38.20105
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 74.2,
+            "forecast": 50.72603,
+            "hi": 56.79813,
+            "lo": 44.67655,
+            "poll_avg": 41.56227
+          },
+          "now": {
+            "winprob": 73.96000000000001,
+            "forecast": 50.4269,
+            "hi": 56.09701,
+            "lo": 44.77705,
+            "poll_avg": 41.37261
+          },
+          "polls": {
+            "winprob": 65.4,
+            "forecast": 49.71821,
+            "hi": 56.02402,
+            "lo": 43.36782,
+            "poll_avg": 41.64247
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 25.8,
+            "forecast": 45.21025,
+            "hi": 51.17836,
+            "lo": 39.14552,
+            "poll_avg": 38.20565
+          },
+          "now": {
+            "winprob": 26.040000000000003,
+            "forecast": 45.36376,
+            "hi": 50.92374,
+            "lo": 39.796,
+            "poll_avg": 38.16684
+          },
+          "polls": {
+            "winprob": 34.599999999999994,
+            "forecast": 46.21839,
+            "hi": 52.4804,
+            "lo": 39.90603,
+            "poll_avg": 38.14427
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 74.565,
+            "forecast": 50.73801,
+            "hi": 56.74172,
+            "lo": 44.65299,
+            "poll_avg": 41.57258
+          },
+          "now": {
+            "winprob": 74.45,
+            "forecast": 50.44249,
+            "hi": 56.05486,
+            "lo": 44.73904,
+            "poll_avg": 41.37243
+          },
+          "polls": {
+            "winprob": 65.4,
+            "forecast": 49.71821,
+            "hi": 56.02402,
+            "lo": 43.36782,
+            "poll_avg": 41.64247
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 25.435000000000002,
+            "forecast": 45.1974,
+            "hi": 51.18895,
+            "lo": 39.21516,
+            "poll_avg": 38.19053
+          },
+          "now": {
+            "winprob": 25.55,
+            "forecast": 45.34239,
+            "hi": 50.9538,
+            "lo": 39.83656,
+            "poll_avg": 38.14872
+          },
+          "polls": {
+            "winprob": 34.599999999999994,
+            "forecast": 46.21839,
+            "hi": 52.4804,
+            "lo": 39.90603,
+            "poll_avg": 38.14427
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 79.305,
+            "forecast": 51.4448,
+            "hi": 57.50743,
+            "lo": 45.36304,
+            "poll_avg": 42.31498
+          },
+          "now": {
+            "winprob": 80.925,
+            "forecast": 51.33303,
+            "hi": 56.89244,
+            "lo": 45.6506,
+            "poll_avg": 42.24667
+          },
+          "polls": {
+            "winprob": 70.705,
+            "forecast": 50.38008,
+            "hi": 56.63981,
+            "lo": 44.06951,
+            "poll_avg": 42.33669
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 20.695,
+            "forecast": 44.47387,
+            "hi": 50.44816,
+            "lo": 38.60606,
+            "poll_avg": 37.46508
+          },
+          "now": {
+            "winprob": 19.075,
+            "forecast": 44.41359,
+            "hi": 49.99369,
+            "lo": 38.83107,
+            "poll_avg": 37.18413
+          },
+          "polls": {
+            "winprob": 29.294999999999998,
+            "forecast": 45.54544,
+            "hi": 51.83852,
+            "lo": 39.27995,
+            "poll_avg": 37.5023
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 77.72,
+            "forecast": 51.24323,
+            "hi": 57.25856,
+            "lo": 45.29419,
+            "poll_avg": 42.31128
+          },
+          "now": {
+            "winprob": 79.225,
+            "forecast": 51.06452,
+            "hi": 56.58987,
+            "lo": 45.59672,
+            "poll_avg": 42.2203
+          },
+          "polls": {
+            "winprob": 68.955,
+            "forecast": 50.14179,
+            "hi": 56.41532,
+            "lo": 43.92499,
+            "poll_avg": 42.28033
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 22.28,
+            "forecast": 44.73927,
+            "hi": 50.67607,
+            "lo": 38.79716,
+            "poll_avg": 37.9762
+          },
+          "now": {
+            "winprob": 20.775,
+            "forecast": 44.76532,
+            "hi": 50.24738,
+            "lo": 39.25729,
+            "poll_avg": 37.81365
+          },
+          "polls": {
+            "winprob": 31.045,
+            "forecast": 45.8374,
+            "hi": 52.02858,
+            "lo": 39.57226,
+            "poll_avg": 37.9746
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 75.84,
+            "forecast": 50.90419,
+            "hi": 56.89125,
+            "lo": 44.92651,
+            "poll_avg": 42.06174
+          },
+          "now": {
+            "winprob": 75.735,
+            "forecast": 50.59742,
+            "hi": 56.19452,
+            "lo": 45.02013,
+            "poll_avg": 41.77838
+          },
+          "polls": {
+            "winprob": 67.425,
+            "forecast": 49.98532,
+            "hi": 56.29831,
+            "lo": 43.70395,
+            "poll_avg": 42.11685
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 24.16,
+            "forecast": 45.08739,
+            "hi": 50.99368,
+            "lo": 39.15852,
+            "poll_avg": 38.24754
+          },
+          "now": {
+            "winprob": 24.265,
+            "forecast": 45.22017,
+            "hi": 50.68599,
+            "lo": 39.80266,
+            "poll_avg": 38.11201
+          },
+          "polls": {
+            "winprob": 32.574999999999996,
+            "forecast": 45.99718,
+            "hi": 52.16848,
+            "lo": 39.7573,
+            "poll_avg": 38.13129
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 75.99000000000001,
+            "forecast": 50.97363,
+            "hi": 56.88639,
+            "lo": 44.97974,
+            "poll_avg": 42.26416
+          },
+          "now": {
+            "winprob": 77.60000000000001,
+            "forecast": 50.77585,
+            "hi": 56.25972,
+            "lo": 45.31132,
+            "poll_avg": 42.18274
+          },
+          "polls": {
+            "winprob": 67.985,
+            "forecast": 50.01451,
+            "hi": 56.20918,
+            "lo": 43.77237,
+            "poll_avg": 42.2442
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 24.01,
+            "forecast": 45.03965,
+            "hi": 50.86869,
+            "lo": 39.16835,
+            "poll_avg": 38.25878
+          },
+          "now": {
+            "winprob": 22.400000000000002,
+            "forecast": 45.08209,
+            "hi": 50.488,
+            "lo": 39.63352,
+            "poll_avg": 38.08299
+          },
+          "polls": {
+            "winprob": 32.015,
+            "forecast": 45.9919,
+            "hi": 52.22525,
+            "lo": 39.76715,
+            "poll_avg": 38.22011
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 74.74,
+            "forecast": 50.76791,
+            "hi": 56.79659,
+            "lo": 44.80904,
+            "poll_avg": 42.01574
+          },
+          "now": {
+            "winprob": 73.935,
+            "forecast": 50.34409,
+            "hi": 55.88226,
+            "lo": 44.87322,
+            "poll_avg": 41.67547
+          },
+          "polls": {
+            "winprob": 65.77,
+            "forecast": 49.7503,
+            "hi": 55.95629,
+            "lo": 43.53249,
+            "poll_avg": 42.02056
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 25.259999999999998,
+            "forecast": 45.25778,
+            "hi": 51.20152,
+            "lo": 39.4634,
+            "poll_avg": 38.55579
+          },
+          "now": {
+            "winprob": 26.064999999999998,
+            "forecast": 45.51886,
+            "hi": 50.9101,
+            "lo": 40.06223,
+            "poll_avg": 38.55557
+          },
+          "polls": {
+            "winprob": 34.23,
+            "forecast": 46.27444,
+            "hi": 52.42109,
+            "lo": 40.10245,
+            "poll_avg": 38.54443
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 76.18,
+            "forecast": 50.97539,
+            "hi": 56.82494,
+            "lo": 45.07535,
+            "poll_avg": 42.33182
+          },
+          "now": {
+            "winprob": 77.805,
+            "forecast": 50.82676,
+            "hi": 56.33125,
+            "lo": 45.20937,
+            "poll_avg": 42.15963
+          },
+          "polls": {
+            "winprob": 67.58,
+            "forecast": 49.96551,
+            "hi": 56.17762,
+            "lo": 43.6832,
+            "poll_avg": 42.29145
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 23.82,
+            "forecast": 45.06706,
+            "hi": 50.8857,
+            "lo": 39.2289,
+            "poll_avg": 38.43715
+          },
+          "now": {
+            "winprob": 22.195,
+            "forecast": 45.04049,
+            "hi": 50.46437,
+            "lo": 39.6187,
+            "poll_avg": 38.20718
+          },
+          "polls": {
+            "winprob": 32.42,
+            "forecast": 46.06731,
+            "hi": 52.29243,
+            "lo": 39.84723,
+            "poll_avg": 38.39266
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 76.4,
+            "forecast": 50.96431,
+            "hi": 56.88385,
+            "lo": 44.99821,
+            "poll_avg": 42.31543
+          },
+          "now": {
+            "winprob": 77.69500000000001,
+            "forecast": 50.8241,
+            "hi": 56.26818,
+            "lo": 45.21439,
+            "poll_avg": 42.17253
+          },
+          "polls": {
+            "winprob": 67.78999999999999,
+            "forecast": 49.98513,
+            "hi": 56.19374,
+            "lo": 43.70098,
+            "poll_avg": 42.31117
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 23.599999999999998,
+            "forecast": 45.07665,
+            "hi": 50.96813,
+            "lo": 39.16331,
+            "poll_avg": 38.43833
+          },
+          "now": {
+            "winprob": 22.305,
+            "forecast": 45.04202,
+            "hi": 50.47237,
+            "lo": 39.63695,
+            "poll_avg": 38.20857
+          },
+          "polls": {
+            "winprob": 32.21,
+            "forecast": 46.04727,
+            "hi": 52.23788,
+            "lo": 39.83056,
+            "poll_avg": 38.37363
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 76.08,
+            "forecast": 50.93051,
+            "hi": 56.78009,
+            "lo": 45.00754,
+            "poll_avg": 42.32622
+          },
+          "now": {
+            "winprob": 76.505,
+            "forecast": 50.66323,
+            "hi": 56.0576,
+            "lo": 45.24554,
+            "poll_avg": 42.13127
+          },
+          "polls": {
+            "winprob": 67.61,
+            "forecast": 50.01432,
+            "hi": 56.24675,
+            "lo": 43.77043,
+            "poll_avg": 42.26601
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 23.919999999999998,
+            "forecast": 45.09791,
+            "hi": 50.93914,
+            "lo": 39.25054,
+            "poll_avg": 38.32989
+          },
+          "now": {
+            "winprob": 23.494999999999997,
+            "forecast": 45.18807,
+            "hi": 50.57188,
+            "lo": 39.79852,
+            "poll_avg": 38.15997
+          },
+          "polls": {
+            "winprob": 32.39,
+            "forecast": 45.99785,
+            "hi": 52.24242,
+            "lo": 39.74833,
+            "poll_avg": 38.24857
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 77.265,
+            "forecast": 51.3738,
+            "hi": 57.74272,
+            "lo": 44.8784,
+            "poll_avg": 42.06618
+          },
+          "now": {
+            "winprob": 78.105,
+            "forecast": 51.09758,
+            "hi": 57.16865,
+            "lo": 44.93877,
+            "poll_avg": 41.52862
+          },
+          "polls": {
+            "winprob": 69.39,
+            "forecast": 50.32829,
+            "hi": 57.02661,
+            "lo": 43.54305,
+            "poll_avg": 42.07498
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 22.735,
+            "forecast": 44.5351,
+            "hi": 50.95038,
+            "lo": 38.17418,
+            "poll_avg": 37.458
+          },
+          "now": {
+            "winprob": 21.895,
+            "forecast": 44.49638,
+            "hi": 50.45215,
+            "lo": 38.46632,
+            "poll_avg": 36.77546
+          },
+          "polls": {
+            "winprob": 30.61,
+            "forecast": 45.57508,
+            "hi": 52.30547,
+            "lo": 38.85167,
+            "poll_avg": 37.40623
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 77.97,
+            "forecast": 51.46151,
+            "hi": 57.78428,
+            "lo": 44.97904,
+            "poll_avg": 42.28545
+          },
+          "now": {
+            "winprob": 77.21000000000001,
+            "forecast": 50.99856,
+            "hi": 57.05286,
+            "lo": 44.92085,
+            "poll_avg": 41.59135
+          },
+          "polls": {
+            "winprob": 69.08,
+            "forecast": 50.29792,
+            "hi": 56.96,
+            "lo": 43.65337,
+            "poll_avg": 42.30267
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 22.03,
+            "forecast": 44.50138,
+            "hi": 50.82874,
+            "lo": 38.25703,
+            "poll_avg": 37.7207
+          },
+          "now": {
+            "winprob": 22.79,
+            "forecast": 44.66595,
+            "hi": 50.71284,
+            "lo": 38.69891,
+            "poll_avg": 37.2415
+          },
+          "polls": {
+            "winprob": 30.919999999999998,
+            "forecast": 45.67195,
+            "hi": 52.2638,
+            "lo": 39.04705,
+            "poll_avg": 37.76349
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 81.195,
+            "forecast": 51.85743,
+            "hi": 57.4281,
+            "lo": 46.23387,
+            "poll_avg": 45.46572
+          },
+          "now": {
+            "winprob": 84.36,
+            "forecast": 51.96373,
+            "hi": 56.95283,
+            "lo": 46.92495,
+            "poll_avg": 46.13811
+          },
+          "polls": {
+            "winprob": 79.77499999999999,
+            "forecast": 51.79788,
+            "hi": 57.55991,
+            "lo": 46.00782,
+            "poll_avg": 45.55851
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 18.805,
+            "forecast": 44.78638,
+            "hi": 50.3474,
+            "lo": 39.29822,
+            "poll_avg": 40.38083
+          },
+          "now": {
+            "winprob": 15.64,
+            "forecast": 44.74054,
+            "hi": 49.67446,
+            "lo": 39.79141,
+            "poll_avg": 40.63365
+          },
+          "polls": {
+            "winprob": 20.225,
+            "forecast": 44.87564,
+            "hi": 50.61844,
+            "lo": 39.14637,
+            "poll_avg": 40.61399
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 80.955,
+            "forecast": 51.86719,
+            "hi": 57.47999,
+            "lo": 46.20892,
+            "poll_avg": 45.4576
+          },
+          "now": {
+            "winprob": 84.165,
+            "forecast": 51.96133,
+            "hi": 56.95926,
+            "lo": 46.91898,
+            "poll_avg": 46.20287
+          },
+          "polls": {
+            "winprob": 79.77499999999999,
+            "forecast": 51.79788,
+            "hi": 57.55991,
+            "lo": 46.00782,
+            "poll_avg": 45.55851
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 19.045,
+            "forecast": 44.77646,
+            "hi": 50.34642,
+            "lo": 39.23675,
+            "poll_avg": 40.38529
+          },
+          "now": {
+            "winprob": 15.834999999999999,
+            "forecast": 44.75648,
+            "hi": 49.67461,
+            "lo": 39.74865,
+            "poll_avg": 40.69872
+          },
+          "polls": {
+            "winprob": 20.225,
+            "forecast": 44.87564,
+            "hi": 50.61844,
+            "lo": 39.14637,
+            "poll_avg": 40.61399
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 80.765,
+            "forecast": 51.85463,
+            "hi": 57.48024,
+            "lo": 46.17999,
+            "poll_avg": 45.45221
+          },
+          "now": {
+            "winprob": 84.42,
+            "forecast": 51.9457,
+            "hi": 56.93026,
+            "lo": 46.94399,
+            "poll_avg": 46.08062
+          },
+          "polls": {
+            "winprob": 79.62,
+            "forecast": 51.80109,
+            "hi": 57.5812,
+            "lo": 45.98096,
+            "poll_avg": 45.54437
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 19.235,
+            "forecast": 44.78763,
+            "hi": 50.37158,
+            "lo": 39.24771,
+            "poll_avg": 40.37517
+          },
+          "now": {
+            "winprob": 15.58,
+            "forecast": 44.74786,
+            "hi": 49.63636,
+            "lo": 39.82159,
+            "poll_avg": 40.59381
+          },
+          "polls": {
+            "winprob": 20.380000000000003,
+            "forecast": 44.87141,
+            "hi": 50.69497,
+            "lo": 39.12706,
+            "poll_avg": 40.61405
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 80.735,
+            "forecast": 51.84815,
+            "hi": 57.45686,
+            "lo": 46.24631,
+            "poll_avg": 45.44873
+          },
+          "now": {
+            "winprob": 84.285,
+            "forecast": 51.95208,
+            "hi": 56.96957,
+            "lo": 46.92597,
+            "poll_avg": 46.14521
+          },
+          "polls": {
+            "winprob": 79.62,
+            "forecast": 51.80109,
+            "hi": 57.5812,
+            "lo": 45.98096,
+            "poll_avg": 45.54437
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 19.265,
+            "forecast": 44.79364,
+            "hi": 50.32991,
+            "lo": 39.30707,
+            "poll_avg": 40.37294
+          },
+          "now": {
+            "winprob": 15.715000000000002,
+            "forecast": 44.75237,
+            "hi": 49.63836,
+            "lo": 39.83565,
+            "poll_avg": 40.63632
+          },
+          "polls": {
+            "winprob": 20.380000000000003,
+            "forecast": 44.87141,
+            "hi": 50.69497,
+            "lo": 39.12706,
+            "poll_avg": 40.61405
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 78.445,
+            "forecast": 51.45564,
+            "hi": 57.12867,
+            "lo": 45.74022,
+            "poll_avg": 44.50281
+          },
+          "now": {
+            "winprob": 78.89,
+            "forecast": 51.15416,
+            "hi": 56.27831,
+            "lo": 45.90442,
+            "poll_avg": 44.42692
+          },
+          "polls": {
+            "winprob": 77.24,
+            "forecast": 51.41924,
+            "hi": 57.33572,
+            "lo": 45.46945,
+            "poll_avg": 44.5776
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 21.555,
+            "forecast": 45.09645,
+            "hi": 50.69579,
+            "lo": 39.45624,
+            "poll_avg": 40.16325
+          },
+          "now": {
+            "winprob": 21.11,
+            "forecast": 45.35132,
+            "hi": 50.46655,
+            "lo": 40.19025,
+            "poll_avg": 40.34027
+          },
+          "polls": {
+            "winprob": 22.759999999999998,
+            "forecast": 45.15475,
+            "hi": 51.0479,
+            "lo": 39.31997,
+            "poll_avg": 40.33031
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 78.13,
+            "forecast": 51.45784,
+            "hi": 57.23586,
+            "lo": 45.74507,
+            "poll_avg": 44.50684
+          },
+          "now": {
+            "winprob": 78.72,
+            "forecast": 51.09369,
+            "hi": 56.24085,
+            "lo": 45.94131,
+            "poll_avg": 44.39664
+          },
+          "polls": {
+            "winprob": 77.24,
+            "forecast": 51.41924,
+            "hi": 57.33572,
+            "lo": 45.46945,
+            "poll_avg": 44.5776
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 21.87,
+            "forecast": 45.09474,
+            "hi": 50.80514,
+            "lo": 39.42302,
+            "poll_avg": 40.16529
+          },
+          "now": {
+            "winprob": 21.279999999999998,
+            "forecast": 45.41465,
+            "hi": 50.48369,
+            "lo": 40.30694,
+            "poll_avg": 40.39683
+          },
+          "polls": {
+            "winprob": 22.759999999999998,
+            "forecast": 45.15475,
+            "hi": 51.0479,
+            "lo": 39.31997,
+            "poll_avg": 40.33031
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 80.35,
+            "forecast": 51.75619,
+            "hi": 57.4296,
+            "lo": 46.05713,
+            "poll_avg": 44.97055
+          },
+          "now": {
+            "winprob": 82.865,
+            "forecast": 51.74254,
+            "hi": 56.83206,
+            "lo": 46.59325,
+            "poll_avg": 45.32866
+          },
+          "polls": {
+            "winprob": 78.96,
+            "forecast": 51.71497,
+            "hi": 57.58363,
+            "lo": 45.77435,
+            "poll_avg": 45.04661
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 19.650000000000002,
+            "forecast": 44.81059,
+            "hi": 50.40171,
+            "lo": 39.20091,
+            "poll_avg": 39.96555
+          },
+          "now": {
+            "winprob": 17.135,
+            "forecast": 44.80194,
+            "hi": 49.83582,
+            "lo": 39.81519,
+            "poll_avg": 39.96769
+          },
+          "polls": {
+            "winprob": 21.04,
+            "forecast": 44.87685,
+            "hi": 50.76012,
+            "lo": 39.07362,
+            "poll_avg": 40.16357
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 78.965,
+            "forecast": 51.59517,
+            "hi": 57.3488,
+            "lo": 45.78589,
+            "poll_avg": 44.52364
+          },
+          "now": {
+            "winprob": 81.50500000000001,
+            "forecast": 51.54639,
+            "hi": 56.7202,
+            "lo": 46.29001,
+            "poll_avg": 44.70286
+          },
+          "polls": {
+            "winprob": 77.96,
+            "forecast": 51.54867,
+            "hi": 57.50201,
+            "lo": 45.58273,
+            "poll_avg": 44.61514
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 21.035,
+            "forecast": 44.91515,
+            "hi": 50.60529,
+            "lo": 39.22422,
+            "poll_avg": 39.72351
+          },
+          "now": {
+            "winprob": 18.495,
+            "forecast": 44.88072,
+            "hi": 50.05711,
+            "lo": 39.77756,
+            "poll_avg": 39.50415
+          },
+          "polls": {
+            "winprob": 22.040000000000003,
+            "forecast": 44.989,
+            "hi": 50.95506,
+            "lo": 39.01661,
+            "poll_avg": 39.93344
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 79.44,
+            "forecast": 51.65237,
+            "hi": 57.47799,
+            "lo": 45.78771,
+            "poll_avg": 44.51003
+          },
+          "now": {
+            "winprob": 82.28,
+            "forecast": 51.65292,
+            "hi": 56.78651,
+            "lo": 46.39896,
+            "poll_avg": 44.7687
+          },
+          "polls": {
+            "winprob": 78.3,
+            "forecast": 51.58702,
+            "hi": 57.57909,
+            "lo": 45.57588,
+            "poll_avg": 44.59986
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 20.560000000000002,
+            "forecast": 44.85435,
+            "hi": 50.61784,
+            "lo": 39.12101,
+            "poll_avg": 39.69699
+          },
+          "now": {
+            "winprob": 17.72,
+            "forecast": 44.77185,
+            "hi": 49.98442,
+            "lo": 39.61861,
+            "poll_avg": 39.44361
+          },
+          "polls": {
+            "winprob": 21.7,
+            "forecast": 44.94727,
+            "hi": 50.87595,
+            "lo": 38.9682,
+            "poll_avg": 39.9105
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 79.065,
+            "forecast": 51.60551,
+            "hi": 57.39999,
+            "lo": 45.68341,
+            "poll_avg": 44.51557
+          },
+          "now": {
+            "winprob": 81.54,
+            "forecast": 51.5444,
+            "hi": 56.66148,
+            "lo": 46.37138,
+            "poll_avg": 44.79947
+          },
+          "polls": {
+            "winprob": 78.02,
+            "forecast": 51.54254,
+            "hi": 57.53565,
+            "lo": 45.55286,
+            "poll_avg": 44.61672
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 20.935000000000002,
+            "forecast": 44.91866,
+            "hi": 50.7062,
+            "lo": 39.1791,
+            "poll_avg": 39.87014
+          },
+          "now": {
+            "winprob": 18.459999999999997,
+            "forecast": 44.92554,
+            "hi": 50.06368,
+            "lo": 39.78208,
+            "poll_avg": 39.7991
+          },
+          "polls": {
+            "winprob": 21.98,
+            "forecast": 45.01211,
+            "hi": 50.91438,
+            "lo": 39.03299,
+            "poll_avg": 40.10477
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 78.85,
+            "forecast": 51.53962,
+            "hi": 57.24241,
+            "lo": 45.72001,
+            "poll_avg": 44.50757
+          },
+          "now": {
+            "winprob": 81.75,
+            "forecast": 51.54834,
+            "hi": 56.60859,
+            "lo": 46.36214,
+            "poll_avg": 44.93184
+          },
+          "polls": {
+            "winprob": 77.375,
+            "forecast": 51.48097,
+            "hi": 57.39582,
+            "lo": 45.45729,
+            "poll_avg": 44.60735
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 21.15,
+            "forecast": 44.98849,
+            "hi": 50.73316,
+            "lo": 39.25028,
+            "poll_avg": 39.91611
+          },
+          "now": {
+            "winprob": 18.25,
+            "forecast": 44.94083,
+            "hi": 50.05005,
+            "lo": 39.89111,
+            "poll_avg": 39.86016
+          },
+          "polls": {
+            "winprob": 22.625,
+            "forecast": 45.07819,
+            "hi": 51.04108,
+            "lo": 39.14046,
+            "poll_avg": 40.15759
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 80.735,
+            "forecast": 51.87019,
+            "hi": 57.72219,
+            "lo": 46.1247,
+            "poll_avg": 44.75171
+          },
+          "now": {
+            "winprob": 85.21,
+            "forecast": 52.11512,
+            "hi": 57.14622,
+            "lo": 46.98677,
+            "poll_avg": 45.61421
+          },
+          "polls": {
+            "winprob": 79.29,
+            "forecast": 51.78646,
+            "hi": 57.74334,
+            "lo": 45.87011,
+            "poll_avg": 44.85104
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 19.265,
+            "forecast": 44.6638,
+            "hi": 50.3442,
+            "lo": 38.95776,
+            "poll_avg": 39.79469
+          },
+          "now": {
+            "winprob": 14.790000000000001,
+            "forecast": 44.42557,
+            "hi": 49.47824,
+            "lo": 39.43261,
+            "poll_avg": 39.74557
+          },
+          "polls": {
+            "winprob": 20.71,
+            "forecast": 44.77967,
+            "hi": 50.69511,
+            "lo": 38.79526,
+            "poll_avg": 40.04765
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 78.505,
+            "forecast": 51.55453,
+            "hi": 57.44769,
+            "lo": 45.54456,
+            "poll_avg": 43.71671
+          },
+          "now": {
+            "winprob": 80.015,
+            "forecast": 51.35334,
+            "hi": 56.78759,
+            "lo": 45.90175,
+            "poll_avg": 43.30663
+          },
+          "polls": {
+            "winprob": 77.295,
+            "forecast": 51.51772,
+            "hi": 57.72082,
+            "lo": 45.31215,
+            "poll_avg": 43.7706
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 21.495,
+            "forecast": 44.86314,
+            "hi": 50.78733,
+            "lo": 38.97088,
+            "poll_avg": 39.38073
+          },
+          "now": {
+            "winprob": 19.985,
+            "forecast": 44.83157,
+            "hi": 50.22487,
+            "lo": 39.41342,
+            "poll_avg": 38.70615
+          },
+          "polls": {
+            "winprob": 22.705000000000002,
+            "forecast": 44.91684,
+            "hi": 51.10933,
+            "lo": 38.81355,
+            "poll_avg": 39.51226
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 78.28500000000001,
+            "forecast": 51.51445,
+            "hi": 57.48843,
+            "lo": 45.456,
+            "poll_avg": 43.67864
+          },
+          "now": {
+            "winprob": 79.38499999999999,
+            "forecast": 51.24472,
+            "hi": 56.71956,
+            "lo": 45.82832,
+            "poll_avg": 43.30885
+          },
+          "polls": {
+            "winprob": 77.285,
+            "forecast": 51.48444,
+            "hi": 57.59495,
+            "lo": 45.3157,
+            "poll_avg": 43.71025
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 21.715,
+            "forecast": 44.90351,
+            "hi": 50.90298,
+            "lo": 38.98371,
+            "poll_avg": 39.41192
+          },
+          "now": {
+            "winprob": 20.615,
+            "forecast": 44.96613,
+            "hi": 50.38821,
+            "lo": 39.55351,
+            "poll_avg": 38.93134
+          },
+          "polls": {
+            "winprob": 22.715,
+            "forecast": 44.9437,
+            "hi": 51.11709,
+            "lo": 38.89042,
+            "poll_avg": 39.49189
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 76.225,
+            "forecast": 51.25787,
+            "hi": 57.09492,
+            "lo": 45.49551,
+            "poll_avg": 44.02557
+          },
+          "now": {
+            "winprob": 77.13,
+            "forecast": 50.9015,
+            "hi": 56.04896,
+            "lo": 45.60327,
+            "poll_avg": 43.80913
+          },
+          "polls": {
+            "winprob": 75.97500000000001,
+            "forecast": 51.2615,
+            "hi": 57.36655,
+            "lo": 45.15031,
+            "poll_avg": 44.0232
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 23.775,
+            "forecast": 45.23538,
+            "hi": 51.02247,
+            "lo": 39.38557,
+            "poll_avg": 39.91945
+          },
+          "now": {
+            "winprob": 22.869999999999997,
+            "forecast": 45.47007,
+            "hi": 50.67442,
+            "lo": 40.27969,
+            "poll_avg": 39.84244
+          },
+          "polls": {
+            "winprob": 24.025,
+            "forecast": 45.23317,
+            "hi": 51.37489,
+            "lo": 39.21206,
+            "poll_avg": 39.93567
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 76.92,
+            "forecast": 51.30402,
+            "hi": 57.22598,
+            "lo": 45.44443,
+            "poll_avg": 44.09051
+          },
+          "now": {
+            "winprob": 78.215,
+            "forecast": 50.98207,
+            "hi": 56.16095,
+            "lo": 45.76514,
+            "poll_avg": 43.95206
+          },
+          "polls": {
+            "winprob": 75.555,
+            "forecast": 51.30062,
+            "hi": 57.35038,
+            "lo": 45.27516,
+            "poll_avg": 44.0938
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 23.080000000000002,
+            "forecast": 45.19539,
+            "hi": 51.04582,
+            "lo": 39.40231,
+            "poll_avg": 39.93386
+          },
+          "now": {
+            "winprob": 21.785,
+            "forecast": 45.40375,
+            "hi": 50.55448,
+            "lo": 40.21243,
+            "poll_avg": 39.85514
+          },
+          "polls": {
+            "winprob": 24.445,
+            "forecast": 45.20031,
+            "hi": 51.28916,
+            "lo": 39.13785,
+            "poll_avg": 39.94683
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 78.305,
+            "forecast": 51.47313,
+            "hi": 57.27047,
+            "lo": 45.64028,
+            "poll_avg": 44.16332
+          },
+          "now": {
+            "winprob": 79.565,
+            "forecast": 51.20976,
+            "hi": 56.40279,
+            "lo": 46.0002,
+            "poll_avg": 44.10582
+          },
+          "polls": {
+            "winprob": 77.01,
+            "forecast": 51.46935,
+            "hi": 57.52393,
+            "lo": 45.25729,
+            "poll_avg": 44.16676
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 21.695,
+            "forecast": 45.02172,
+            "hi": 50.82151,
+            "lo": 39.25563,
+            "poll_avg": 39.83351
+          },
+          "now": {
+            "winprob": 20.435,
+            "forecast": 45.16798,
+            "hi": 50.31172,
+            "lo": 40.01047,
+            "poll_avg": 39.67976
+          },
+          "polls": {
+            "winprob": 22.99,
+            "forecast": 45.02738,
+            "hi": 51.18558,
+            "lo": 39.02975,
+            "poll_avg": 39.85006
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 77.34,
+            "forecast": 51.37677,
+            "hi": 57.27697,
+            "lo": 45.43955,
+            "poll_avg": 44.16398
+          },
+          "now": {
+            "winprob": 79.29,
+            "forecast": 51.11937,
+            "hi": 56.29062,
+            "lo": 45.87849,
+            "poll_avg": 44.11667
+          },
+          "polls": {
+            "winprob": 76.255,
+            "forecast": 51.38191,
+            "hi": 57.54725,
+            "lo": 45.17862,
+            "poll_avg": 44.16253
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 22.66,
+            "forecast": 45.12598,
+            "hi": 51.01038,
+            "lo": 39.24469,
+            "poll_avg": 39.91338
+          },
+          "now": {
+            "winprob": 20.71,
+            "forecast": 45.26957,
+            "hi": 50.40317,
+            "lo": 40.14366,
+            "poll_avg": 39.77207
+          },
+          "polls": {
+            "winprob": 23.745,
+            "forecast": 45.12203,
+            "hi": 51.16061,
+            "lo": 39.01662,
+            "poll_avg": 39.92652
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 79.245,
+            "forecast": 51.66869,
+            "hi": 57.49276,
+            "lo": 45.76579,
+            "poll_avg": 44.34282
+          },
+          "now": {
+            "winprob": 82.26,
+            "forecast": 51.61651,
+            "hi": 56.82367,
+            "lo": 46.44329,
+            "poll_avg": 44.57799
+          },
+          "polls": {
+            "winprob": 78.495,
+            "forecast": 51.67278,
+            "hi": 57.80877,
+            "lo": 45.52989,
+            "poll_avg": 44.35017
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 20.755000000000003,
+            "forecast": 44.83088,
+            "hi": 50.70447,
+            "lo": 39.01102,
+            "poll_avg": 39.74828
+          },
+          "now": {
+            "winprob": 17.740000000000002,
+            "forecast": 44.77715,
+            "hi": 49.90524,
+            "lo": 39.63038,
+            "poll_avg": 39.45276
+          },
+          "polls": {
+            "winprob": 21.505,
+            "forecast": 44.83045,
+            "hi": 50.8952,
+            "lo": 38.81532,
+            "poll_avg": 39.7801
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 78.145,
+            "forecast": 51.52677,
+            "hi": 57.34884,
+            "lo": 45.62545,
+            "poll_avg": 44.15774
+          },
+          "now": {
+            "winprob": 80.15,
+            "forecast": 51.28937,
+            "hi": 56.51456,
+            "lo": 46.09282,
+            "poll_avg": 44.17318
+          },
+          "polls": {
+            "winprob": 77.37,
+            "forecast": 51.54129,
+            "hi": 57.6346,
+            "lo": 45.41338,
+            "poll_avg": 44.17383
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 21.855,
+            "forecast": 44.96089,
+            "hi": 50.84393,
+            "lo": 39.12912,
+            "poll_avg": 39.76464
+          },
+          "now": {
+            "winprob": 19.85,
+            "forecast": 45.07841,
+            "hi": 50.26017,
+            "lo": 39.93313,
+            "poll_avg": 39.58239
+          },
+          "polls": {
+            "winprob": 22.63,
+            "forecast": 44.9521,
+            "hi": 51.05351,
+            "lo": 38.91689,
+            "poll_avg": 39.81086
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 78.21000000000001,
+            "forecast": 51.56367,
+            "hi": 57.40331,
+            "lo": 45.71854,
+            "poll_avg": 44.24594
+          },
+          "now": {
+            "winprob": 77.64999999999999,
+            "forecast": 50.97503,
+            "hi": 56.11331,
+            "lo": 45.81111,
+            "poll_avg": 43.96829
+          },
+          "polls": {
+            "winprob": 77.905,
+            "forecast": 51.5954,
+            "hi": 57.76714,
+            "lo": 45.44158,
+            "poll_avg": 44.19961
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 21.790000000000003,
+            "forecast": 44.93363,
+            "hi": 50.8201,
+            "lo": 39.09377,
+            "poll_avg": 39.79725
+          },
+          "now": {
+            "winprob": 22.35,
+            "forecast": 45.42722,
+            "hi": 50.48196,
+            "lo": 40.30094,
+            "poll_avg": 40.02971
+          },
+          "polls": {
+            "winprob": 22.095000000000002,
+            "forecast": 44.89063,
+            "hi": 51.02857,
+            "lo": 38.84287,
+            "poll_avg": 39.71696
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 79.375,
+            "forecast": 51.76459,
+            "hi": 57.62154,
+            "lo": 45.81618,
+            "poll_avg": 44.49373
+          },
+          "now": {
+            "winprob": 80.85,
+            "forecast": 51.34975,
+            "hi": 56.45964,
+            "lo": 46.17531,
+            "poll_avg": 44.56467
+          },
+          "polls": {
+            "winprob": 79.08,
+            "forecast": 51.79031,
+            "hi": 57.90019,
+            "lo": 45.68024,
+            "poll_avg": 44.45713
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 20.625,
+            "forecast": 44.74886,
+            "hi": 50.64115,
+            "lo": 38.97034,
+            "poll_avg": 39.77754
+          },
+          "now": {
+            "winprob": 19.15,
+            "forecast": 45.11188,
+            "hi": 50.16949,
+            "lo": 40.06184,
+            "poll_avg": 40.03018
+          },
+          "polls": {
+            "winprob": 20.919999999999998,
+            "forecast": 44.71471,
+            "hi": 50.77837,
+            "lo": 38.57239,
+            "poll_avg": 39.71896
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 79.89,
+            "forecast": 51.81696,
+            "hi": 57.68643,
+            "lo": 45.88376,
+            "poll_avg": 44.23966
+          },
+          "now": {
+            "winprob": 80.97999999999999,
+            "forecast": 51.4525,
+            "hi": 56.76444,
+            "lo": 46.24235,
+            "poll_avg": 44.18538
+          },
+          "polls": {
+            "winprob": 78.955,
+            "forecast": 51.817,
+            "hi": 57.94978,
+            "lo": 45.62029,
+            "poll_avg": 44.23566
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 20.11,
+            "forecast": 44.65424,
+            "hi": 50.57015,
+            "lo": 38.75451,
+            "poll_avg": 39.53671
+          },
+          "now": {
+            "winprob": 19.02,
+            "forecast": 44.90177,
+            "hi": 50.10938,
+            "lo": 39.64914,
+            "poll_avg": 39.50183
+          },
+          "polls": {
+            "winprob": 21.044999999999998,
+            "forecast": 44.65409,
+            "hi": 50.81591,
+            "lo": 38.57648,
+            "poll_avg": 39.53849
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 80.32000000000001,
+            "forecast": 51.85992,
+            "hi": 57.84767,
+            "lo": 45.85786,
+            "poll_avg": 44.4071
+          },
+          "now": {
+            "winprob": 81.315,
+            "forecast": 51.47912,
+            "hi": 56.67097,
+            "lo": 46.20532,
+            "poll_avg": 44.37029
+          },
+          "polls": {
+            "winprob": 79.325,
+            "forecast": 51.88253,
+            "hi": 57.9791,
+            "lo": 45.74479,
+            "poll_avg": 44.36678
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 19.68,
+            "forecast": 44.62502,
+            "hi": 50.50152,
+            "lo": 38.67158,
+            "poll_avg": 39.55199
+          },
+          "now": {
+            "winprob": 18.685,
+            "forecast": 44.90541,
+            "hi": 50.08434,
+            "lo": 39.76398,
+            "poll_avg": 39.60183
+          },
+          "polls": {
+            "winprob": 20.674999999999997,
+            "forecast": 44.5914,
+            "hi": 50.7449,
+            "lo": 38.46834,
+            "poll_avg": 39.47009
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 79.94,
+            "forecast": 51.88433,
+            "hi": 57.93699,
+            "lo": 45.80109,
+            "poll_avg": 44.06662
+          },
+          "now": {
+            "winprob": 80.80000000000001,
+            "forecast": 51.39288,
+            "hi": 56.70439,
+            "lo": 46.10611,
+            "poll_avg": 43.73073
+          },
+          "polls": {
+            "winprob": 79.47,
+            "forecast": 51.91715,
+            "hi": 58.09929,
+            "lo": 45.71532,
+            "poll_avg": 43.98868
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 20.06,
+            "forecast": 44.54926,
+            "hi": 50.50706,
+            "lo": 38.53672,
+            "poll_avg": 39.28289
+          },
+          "now": {
+            "winprob": 19.2,
+            "forecast": 44.87049,
+            "hi": 50.1487,
+            "lo": 39.57523,
+            "poll_avg": 39.1825
+          },
+          "polls": {
+            "winprob": 20.53,
+            "forecast": 44.49312,
+            "hi": 50.72588,
+            "lo": 38.31931,
+            "poll_avg": 39.10383
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 82.99499999999999,
+            "forecast": 52.37045,
+            "hi": 58.38529,
+            "lo": 46.29981,
+            "poll_avg": 44.45814
+          },
+          "now": {
+            "winprob": 85.355,
+            "forecast": 52.19284,
+            "hi": 57.59253,
+            "lo": 46.7084,
+            "poll_avg": 44.30177
+          },
+          "polls": {
+            "winprob": 82.185,
+            "forecast": 52.40771,
+            "hi": 58.67406,
+            "lo": 46.0607,
+            "poll_avg": 44.35261
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 17.005,
+            "forecast": 44.05782,
+            "hi": 50.06574,
+            "lo": 38.13576,
+            "poll_avg": 38.9385
+          },
+          "now": {
+            "winprob": 14.645,
+            "forecast": 44.02223,
+            "hi": 49.42877,
+            "lo": 38.66908,
+            "poll_avg": 38.36353
+          },
+          "polls": {
+            "winprob": 17.815,
+            "forecast": 43.98988,
+            "hi": 50.18771,
+            "lo": 37.74403,
+            "poll_avg": 38.70513
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 81.61,
+            "forecast": 52.19839,
+            "hi": 58.22662,
+            "lo": 46.12464,
+            "poll_avg": 44.34661
+          },
+          "now": {
+            "winprob": 82.78,
+            "forecast": 51.78711,
+            "hi": 57.16385,
+            "lo": 46.37293,
+            "poll_avg": 44.09288
+          },
+          "polls": {
+            "winprob": 81.34,
+            "forecast": 52.22866,
+            "hi": 58.50522,
+            "lo": 45.99258,
+            "poll_avg": 44.24366
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 18.39,
+            "forecast": 44.25464,
+            "hi": 50.31393,
+            "lo": 38.27551,
+            "poll_avg": 39.27276
+          },
+          "now": {
+            "winprob": 17.22,
+            "forecast": 44.50226,
+            "hi": 49.8713,
+            "lo": 39.28012,
+            "poll_avg": 39.12116
+          },
+          "polls": {
+            "winprob": 18.66,
+            "forecast": 44.1945,
+            "hi": 50.35095,
+            "lo": 37.98191,
+            "poll_avg": 39.0457
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 82.52000000000001,
+            "forecast": 52.30852,
+            "hi": 58.35147,
+            "lo": 46.24643,
+            "poll_avg": 44.51218
+          },
+          "now": {
+            "winprob": 83.96000000000001,
+            "forecast": 51.90906,
+            "hi": 57.17899,
+            "lo": 46.58698,
+            "poll_avg": 44.29996
+          },
+          "polls": {
+            "winprob": 81.695,
+            "forecast": 52.33573,
+            "hi": 58.6587,
+            "lo": 46.09294,
+            "poll_avg": 44.40152
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 17.48,
+            "forecast": 44.15504,
+            "hi": 50.11791,
+            "lo": 38.17689,
+            "poll_avg": 39.2569
+          },
+          "now": {
+            "winprob": 16.04,
+            "forecast": 44.40423,
+            "hi": 49.6489,
+            "lo": 39.18632,
+            "poll_avg": 39.15236
+          },
+          "polls": {
+            "winprob": 18.305,
+            "forecast": 44.09789,
+            "hi": 50.37182,
+            "lo": 37.855,
+            "poll_avg": 39.03489
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 81.83,
+            "forecast": 52.24429,
+            "hi": 58.30681,
+            "lo": 46.14499,
+            "poll_avg": 44.29306
+          },
+          "now": {
+            "winprob": 82.60499999999999,
+            "forecast": 51.70793,
+            "hi": 57.10456,
+            "lo": 46.2314,
+            "poll_avg": 43.77694
+          },
+          "polls": {
+            "winprob": 81.255,
+            "forecast": 52.25089,
+            "hi": 58.55603,
+            "lo": 45.95912,
+            "poll_avg": 44.23939
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 18.17,
+            "forecast": 44.18946,
+            "hi": 50.28574,
+            "lo": 38.1481,
+            "poll_avg": 39.11669
+          },
+          "now": {
+            "winprob": 17.395,
+            "forecast": 44.51721,
+            "hi": 49.85374,
+            "lo": 39.15873,
+            "poll_avg": 38.90781
+          },
+          "polls": {
+            "winprob": 18.745,
+            "forecast": 44.16739,
+            "hi": 50.47573,
+            "lo": 37.92406,
+            "poll_avg": 38.99918
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 81.965,
+            "forecast": 52.2466,
+            "hi": 58.27881,
+            "lo": 46.20701,
+            "poll_avg": 44.32284
+          },
+          "now": {
+            "winprob": 82.525,
+            "forecast": 51.71918,
+            "hi": 57.09841,
+            "lo": 46.2965,
+            "poll_avg": 43.84739
+          },
+          "polls": {
+            "winprob": 81.24,
+            "forecast": 52.2524,
+            "hi": 58.55984,
+            "lo": 45.99875,
+            "poll_avg": 44.27131
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 18.035,
+            "forecast": 44.18997,
+            "hi": 50.19956,
+            "lo": 38.18157,
+            "poll_avg": 39.12314
+          },
+          "now": {
+            "winprob": 17.474999999999998,
+            "forecast": 44.51425,
+            "hi": 49.82638,
+            "lo": 39.14396,
+            "poll_avg": 38.92939
+          },
+          "polls": {
+            "winprob": 18.759999999999998,
+            "forecast": 44.1689,
+            "hi": 50.40393,
+            "lo": 37.97472,
+            "poll_avg": 39.00625
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 81.73,
+            "forecast": 52.12348,
+            "hi": 58.03678,
+            "lo": 46.17908,
+            "poll_avg": 44.31818
+          },
+          "now": {
+            "winprob": 81.15,
+            "forecast": 51.49107,
+            "hi": 56.81194,
+            "lo": 46.15596,
+            "poll_avg": 43.78288
+          },
+          "polls": {
+            "winprob": 80.97,
+            "forecast": 52.13154,
+            "hi": 58.32137,
+            "lo": 45.88235,
+            "poll_avg": 44.26918
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 18.27,
+            "forecast": 44.32553,
+            "hi": 50.29498,
+            "lo": 38.36177,
+            "poll_avg": 39.25295
+          },
+          "now": {
+            "winprob": 18.85,
+            "forecast": 44.76672,
+            "hi": 50.04339,
+            "lo": 39.44623,
+            "poll_avg": 39.18195
+          },
+          "polls": {
+            "winprob": 19.03,
+            "forecast": 44.30315,
+            "hi": 50.49912,
+            "lo": 38.11331,
+            "poll_avg": 39.14384
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 81.025,
+            "forecast": 52.04587,
+            "hi": 57.95701,
+            "lo": 46.09135,
+            "poll_avg": 44.48389
+          },
+          "now": {
+            "winprob": 79.45,
+            "forecast": 51.1795,
+            "hi": 56.34786,
+            "lo": 45.9753,
+            "poll_avg": 43.78297
+          },
+          "polls": {
+            "winprob": 80.365,
+            "forecast": 52.06929,
+            "hi": 58.33688,
+            "lo": 45.80904,
+            "poll_avg": 44.40658
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 18.975,
+            "forecast": 44.43484,
+            "hi": 50.38853,
+            "lo": 38.45676,
+            "poll_avg": 39.45213
+          },
+          "now": {
+            "winprob": 20.549999999999997,
+            "forecast": 45.14113,
+            "hi": 50.35207,
+            "lo": 39.92174,
+            "poll_avg": 39.67438
+          },
+          "polls": {
+            "winprob": 19.634999999999998,
+            "forecast": 44.39129,
+            "hi": 50.57551,
+            "lo": 38.11611,
+            "poll_avg": 39.30499
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 81.72500000000001,
+            "forecast": 52.14545,
+            "hi": 58.11088,
+            "lo": 46.15174,
+            "poll_avg": 44.54762
+          },
+          "now": {
+            "winprob": 82.295,
+            "forecast": 51.54412,
+            "hi": 56.78527,
+            "lo": 46.33829,
+            "poll_avg": 44.09945
+          },
+          "polls": {
+            "winprob": 80.925,
+            "forecast": 52.17277,
+            "hi": 58.45113,
+            "lo": 45.95633,
+            "poll_avg": 44.47799
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 18.275,
+            "forecast": 44.32365,
+            "hi": 50.25021,
+            "lo": 38.42926,
+            "poll_avg": 39.28696
+          },
+          "now": {
+            "winprob": 17.705000000000002,
+            "forecast": 44.74773,
+            "hi": 49.93407,
+            "lo": 39.61649,
+            "poll_avg": 39.21274
+          },
+          "polls": {
+            "winprob": 19.075,
+            "forecast": 44.27689,
+            "hi": 50.41659,
+            "lo": 38.14244,
+            "poll_avg": 39.14102
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 81.635,
+            "forecast": 52.11069,
+            "hi": 58.13275,
+            "lo": 46.14372,
+            "poll_avg": 44.55609
+          },
+          "now": {
+            "winprob": 81.845,
+            "forecast": 51.51448,
+            "hi": 56.74345,
+            "lo": 46.32812,
+            "poll_avg": 44.15224
+          },
+          "polls": {
+            "winprob": 80.76,
+            "forecast": 52.13513,
+            "hi": 58.26724,
+            "lo": 45.88812,
+            "poll_avg": 44.49183
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 18.365000000000002,
+            "forecast": 44.36384,
+            "hi": 50.3698,
+            "lo": 38.42007,
+            "poll_avg": 39.33585
+          },
+          "now": {
+            "winprob": 18.154999999999998,
+            "forecast": 44.79422,
+            "hi": 49.90657,
+            "lo": 39.60245,
+            "poll_avg": 39.3103
+          },
+          "polls": {
+            "winprob": 19.24,
+            "forecast": 44.32087,
+            "hi": 50.53236,
+            "lo": 38.18352,
+            "poll_avg": 39.19519
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 81.095,
+            "forecast": 52.10018,
+            "hi": 58.0745,
+            "lo": 46.03815,
+            "poll_avg": 44.58504
+          },
+          "now": {
+            "winprob": 81.76,
+            "forecast": 51.51665,
+            "hi": 56.67477,
+            "lo": 46.28002,
+            "poll_avg": 44.23926
+          },
+          "polls": {
+            "winprob": 80.945,
+            "forecast": 52.12428,
+            "hi": 58.34645,
+            "lo": 45.78011,
+            "poll_avg": 44.52288
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 18.905,
+            "forecast": 44.3796,
+            "hi": 50.34983,
+            "lo": 38.47123,
+            "poll_avg": 39.36773
+          },
+          "now": {
+            "winprob": 18.240000000000002,
+            "forecast": 44.80689,
+            "hi": 49.96967,
+            "lo": 39.64854,
+            "poll_avg": 39.36422
+          },
+          "polls": {
+            "winprob": 19.055,
+            "forecast": 44.33723,
+            "hi": 50.51904,
+            "lo": 38.17936,
+            "poll_avg": 39.22811
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 81.395,
+            "forecast": 52.07851,
+            "hi": 58.09643,
+            "lo": 46.06999,
+            "poll_avg": 44.45305
+          },
+          "now": {
+            "winprob": 81.14,
+            "forecast": 51.37517,
+            "hi": 56.65888,
+            "lo": 46.11843,
+            "poll_avg": 43.83677
+          },
+          "polls": {
+            "winprob": 80.315,
+            "forecast": 52.06733,
+            "hi": 58.3396,
+            "lo": 45.77301,
+            "poll_avg": 44.45823
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 18.605,
+            "forecast": 44.38356,
+            "hi": 50.37228,
+            "lo": 38.4395,
+            "poll_avg": 39.28558
+          },
+          "now": {
+            "winprob": 18.86,
+            "forecast": 44.88108,
+            "hi": 50.08771,
+            "lo": 39.65726,
+            "poll_avg": 39.19508
+          },
+          "polls": {
+            "winprob": 19.685,
+            "forecast": 44.39523,
+            "hi": 50.64179,
+            "lo": 38.14908,
+            "poll_avg": 39.28677
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 81.55,
+            "forecast": 52.17197,
+            "hi": 58.18951,
+            "lo": 45.98685,
+            "poll_avg": 44.57542
+          },
+          "now": {
+            "winprob": 82.185,
+            "forecast": 51.56754,
+            "hi": 56.77797,
+            "lo": 46.36908,
+            "poll_avg": 44.11518
+          },
+          "polls": {
+            "winprob": 80.855,
+            "forecast": 52.16452,
+            "hi": 58.46692,
+            "lo": 45.84951,
+            "poll_avg": 44.5791
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 18.45,
+            "forecast": 44.29449,
+            "hi": 50.30649,
+            "lo": 38.21871,
+            "poll_avg": 39.23955
+          },
+          "now": {
+            "winprob": 17.815,
+            "forecast": 44.7047,
+            "hi": 49.84514,
+            "lo": 39.55052,
+            "poll_avg": 39.10313
+          },
+          "polls": {
+            "winprob": 19.145,
+            "forecast": 44.30316,
+            "hi": 50.56332,
+            "lo": 38.12783,
+            "poll_avg": 39.24918
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 82.5,
+            "forecast": 52.33047,
+            "hi": 58.27497,
+            "lo": 46.29784,
+            "poll_avg": 44.70572
+          },
+          "now": {
+            "winprob": 83.02000000000001,
+            "forecast": 51.71421,
+            "hi": 56.96468,
+            "lo": 46.39231,
+            "poll_avg": 44.22239
+          },
+          "polls": {
+            "winprob": 81.605,
+            "forecast": 52.31293,
+            "hi": 58.56683,
+            "lo": 46.02042,
+            "poll_avg": 44.71169
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 17.5,
+            "forecast": 44.14665,
+            "hi": 50.16749,
+            "lo": 38.17737,
+            "poll_avg": 39.25121
+          },
+          "now": {
+            "winprob": 16.98,
+            "forecast": 44.5681,
+            "hi": 49.71579,
+            "lo": 39.28645,
+            "poll_avg": 39.10442
+          },
+          "polls": {
+            "winprob": 18.395,
+            "forecast": 44.16666,
+            "hi": 50.39665,
+            "lo": 37.96028,
+            "poll_avg": 39.27186
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 81.92,
+            "forecast": 52.25277,
+            "hi": 58.2955,
+            "lo": 46.16888,
+            "poll_avg": 44.4511
+          },
+          "now": {
+            "winprob": 80.83,
+            "forecast": 51.38249,
+            "hi": 56.74916,
+            "lo": 45.99906,
+            "poll_avg": 43.51494
+          },
+          "polls": {
+            "winprob": 81.10000000000001,
+            "forecast": 52.22967,
+            "hi": 58.49763,
+            "lo": 45.83262,
+            "poll_avg": 44.46526
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 18.08,
+            "forecast": 44.19434,
+            "hi": 50.21644,
+            "lo": 38.15391,
+            "poll_avg": 39.13517
+          },
+          "now": {
+            "winprob": 19.17,
+            "forecast": 44.79956,
+            "hi": 50.06986,
+            "lo": 39.49353,
+            "poll_avg": 38.94264
+          },
+          "polls": {
+            "winprob": 18.9,
+            "forecast": 44.22125,
+            "hi": 50.45982,
+            "lo": 38.02819,
+            "poll_avg": 39.16333
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 82.69999999999999,
+            "forecast": 52.36102,
+            "hi": 58.37363,
+            "lo": 46.30295,
+            "poll_avg": 44.57374
+          },
+          "now": {
+            "winprob": 82.16499999999999,
+            "forecast": 51.58224,
+            "hi": 56.87402,
+            "lo": 46.18809,
+            "poll_avg": 43.73841
+          },
+          "polls": {
+            "winprob": 81.585,
+            "forecast": 52.3362,
+            "hi": 58.70842,
+            "lo": 45.97047,
+            "poll_avg": 44.58132
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 17.299999999999997,
+            "forecast": 44.09107,
+            "hi": 50.15168,
+            "lo": 38.13365,
+            "poll_avg": 39.09472
+          },
+          "now": {
+            "winprob": 17.835,
+            "forecast": 44.60597,
+            "hi": 49.85084,
+            "lo": 39.34694,
+            "poll_avg": 38.82219
+          },
+          "polls": {
+            "winprob": 18.415,
+            "forecast": 44.11961,
+            "hi": 50.37988,
+            "lo": 37.85929,
+            "poll_avg": 39.12693
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 82.13000000000001,
+            "forecast": 52.32117,
+            "hi": 58.3792,
+            "lo": 46.0924,
+            "poll_avg": 44.61618
+          },
+          "now": {
+            "winprob": 80.69,
+            "forecast": 51.35601,
+            "hi": 56.58596,
+            "lo": 46.00298,
+            "poll_avg": 43.60291
+          },
+          "polls": {
+            "winprob": 81.515,
+            "forecast": 52.28895,
+            "hi": 58.50098,
+            "lo": 46.00153,
+            "poll_avg": 44.63076
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 17.87,
+            "forecast": 44.13788,
+            "hi": 50.16403,
+            "lo": 38.13449,
+            "poll_avg": 39.13391
+          },
+          "now": {
+            "winprob": 19.31,
+            "forecast": 44.84049,
+            "hi": 50.09652,
+            "lo": 39.67416,
+            "poll_avg": 39.00826
+          },
+          "polls": {
+            "winprob": 18.485,
+            "forecast": 44.17516,
+            "hi": 50.39807,
+            "lo": 37.98795,
+            "poll_avg": 39.17459
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 82.54,
+            "forecast": 52.38362,
+            "hi": 58.56156,
+            "lo": 46.24571,
+            "poll_avg": 44.62815
+          },
+          "now": {
+            "winprob": 82.06,
+            "forecast": 51.53093,
+            "hi": 56.77625,
+            "lo": 46.22827,
+            "poll_avg": 43.78092
+          },
+          "polls": {
+            "winprob": 81.785,
+            "forecast": 52.34795,
+            "hi": 58.62727,
+            "lo": 46.0885,
+            "poll_avg": 44.65847
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 17.46,
+            "forecast": 44.0808,
+            "hi": 50.18275,
+            "lo": 38.04774,
+            "poll_avg": 39.17973
+          },
+          "now": {
+            "winprob": 17.94,
+            "forecast": 44.68232,
+            "hi": 49.92549,
+            "lo": 39.49875,
+            "poll_avg": 39.00196
+          },
+          "polls": {
+            "winprob": 18.215,
+            "forecast": 44.12435,
+            "hi": 50.36866,
+            "lo": 37.85493,
+            "poll_avg": 39.23722
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 83.44500000000001,
+            "forecast": 52.51319,
+            "hi": 58.52276,
+            "lo": 46.39939,
+            "poll_avg": 44.85192
+          },
+          "now": {
+            "winprob": 85.81,
+            "forecast": 52.15043,
+            "hi": 57.36455,
+            "lo": 46.90862,
+            "poll_avg": 44.70213
+          },
+          "polls": {
+            "winprob": 82.48,
+            "forecast": 52.47397,
+            "hi": 58.76815,
+            "lo": 46.21651,
+            "poll_avg": 44.88206
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 16.555,
+            "forecast": 43.96371,
+            "hi": 49.94217,
+            "lo": 38.03696,
+            "poll_avg": 39.1405
+          },
+          "now": {
+            "winprob": 14.19,
+            "forecast": 44.12641,
+            "hi": 49.27776,
+            "lo": 39.02083,
+            "poll_avg": 38.73564
+          },
+          "polls": {
+            "winprob": 17.52,
+            "forecast": 44.01272,
+            "hi": 50.24887,
+            "lo": 37.78674,
+            "poll_avg": 39.21762
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 83.565,
+            "forecast": 52.56122,
+            "hi": 58.60944,
+            "lo": 46.44055,
+            "poll_avg": 44.94912
+          },
+          "now": {
+            "winprob": 86.91,
+            "forecast": 52.3547,
+            "hi": 57.47636,
+            "lo": 47.19777,
+            "poll_avg": 45.18556
+          },
+          "polls": {
+            "winprob": 82.505,
+            "forecast": 52.51986,
+            "hi": 58.73666,
+            "lo": 46.29713,
+            "poll_avg": 44.98429
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 16.435,
+            "forecast": 43.92493,
+            "hi": 49.94495,
+            "lo": 37.93215,
+            "poll_avg": 39.16237
+          },
+          "now": {
+            "winprob": 13.089999999999998,
+            "forecast": 43.99638,
+            "hi": 49.09745,
+            "lo": 38.94148,
+            "poll_avg": 38.89964
+          },
+          "polls": {
+            "winprob": 17.495,
+            "forecast": 43.97698,
+            "hi": 50.18361,
+            "lo": 37.701,
+            "poll_avg": 39.2449
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 82.205,
+            "forecast": 52.29983,
+            "hi": 58.29839,
+            "lo": 46.30834,
+            "poll_avg": 44.75789
+          },
+          "now": {
+            "winprob": 85.5,
+            "forecast": 52.04317,
+            "hi": 56.9683,
+            "lo": 47.11603,
+            "poll_avg": 45.39941
+          },
+          "polls": {
+            "winprob": 81.45,
+            "forecast": 52.27044,
+            "hi": 58.41632,
+            "lo": 46.04818,
+            "poll_avg": 44.76661
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 17.794999999999998,
+            "forecast": 44.20372,
+            "hi": 50.20822,
+            "lo": 38.24881,
+            "poll_avg": 39.48093
+          },
+          "now": {
+            "winprob": 14.499999999999998,
+            "forecast": 44.46559,
+            "hi": 49.32842,
+            "lo": 39.52094,
+            "poll_avg": 39.89025
+          },
+          "polls": {
+            "winprob": 18.55,
+            "forecast": 44.23532,
+            "hi": 50.39378,
+            "lo": 38.15097,
+            "poll_avg": 39.49698
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 81.02000000000001,
+            "forecast": 52.16034,
+            "hi": 58.21151,
+            "lo": 46.06461,
+            "poll_avg": 44.62164
+          },
+          "now": {
+            "winprob": 84.71,
+            "forecast": 51.92859,
+            "hi": 56.84576,
+            "lo": 47.0185,
+            "poll_avg": 45.62786
+          },
+          "polls": {
+            "winprob": 80.15,
+            "forecast": 52.1424,
+            "hi": 58.45576,
+            "lo": 45.80822,
+            "poll_avg": 44.62774
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 18.98,
+            "forecast": 44.33821,
+            "hi": 50.33689,
+            "lo": 38.32015,
+            "poll_avg": 39.53113
+          },
+          "now": {
+            "winprob": 15.290000000000001,
+            "forecast": 44.66477,
+            "hi": 49.50835,
+            "lo": 39.86666,
+            "poll_avg": 40.32825
+          },
+          "polls": {
+            "winprob": 19.85,
+            "forecast": 44.35858,
+            "hi": 50.65623,
+            "lo": 38.15017,
+            "poll_avg": 39.55145
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 80.17999999999999,
+            "forecast": 51.95844,
+            "hi": 57.96199,
+            "lo": 45.96577,
+            "poll_avg": 44.65755
+          },
+          "now": {
+            "winprob": 81.82000000000001,
+            "forecast": 51.44955,
+            "hi": 55.78664,
+            "lo": 47.06143,
+            "poll_avg": 47.22397
+          },
+          "polls": {
+            "winprob": 79.56,
+            "forecast": 51.93152,
+            "hi": 58.06417,
+            "lo": 45.73521,
+            "poll_avg": 44.66395
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 19.82,
+            "forecast": 44.58609,
+            "hi": 50.52285,
+            "lo": 38.57065,
+            "poll_avg": 39.9717
+          },
+          "now": {
+            "winprob": 18.18,
+            "forecast": 45.74191,
+            "hi": 50.13668,
+            "lo": 41.36777,
+            "poll_avg": 43.3859
+          },
+          "polls": {
+            "winprob": 20.44,
+            "forecast": 44.61603,
+            "hi": 50.744,
+            "lo": 38.53018,
+            "poll_avg": 39.99759
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 81.47,
+            "forecast": 52.23572,
+            "hi": 58.53126,
+            "lo": 45.88738,
+            "poll_avg": 43.8818
+          },
+          "now": {
+            "winprob": 87.765,
+            "forecast": 52.59464,
+            "hi": 57.90137,
+            "lo": 47.1842,
+            "poll_avg": 44.69947
+          },
+          "polls": {
+            "winprob": 80.39,
+            "forecast": 52.20879,
+            "hi": 58.69123,
+            "lo": 45.75806,
+            "poll_avg": 43.8955
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 18.529999999999998,
+            "forecast": 44.10369,
+            "hi": 50.34523,
+            "lo": 37.87169,
+            "poll_avg": 38.46326
+          },
+          "now": {
+            "winprob": 12.235,
+            "forecast": 43.49119,
+            "hi": 48.82895,
+            "lo": 38.23963,
+            "poll_avg": 37.41029
+          },
+          "polls": {
+            "winprob": 19.61,
+            "forecast": 44.13425,
+            "hi": 50.61311,
+            "lo": 37.76985,
+            "poll_avg": 38.49003
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 80.095,
+            "forecast": 52.0035,
+            "hi": 58.24327,
+            "lo": 45.82,
+            "poll_avg": 43.7661
+          },
+          "now": {
+            "winprob": 87.165,
+            "forecast": 52.38853,
+            "hi": 57.62902,
+            "lo": 47.06131,
+            "poll_avg": 44.62136
+          },
+          "polls": {
+            "winprob": 79.27,
+            "forecast": 51.97586,
+            "hi": 58.39079,
+            "lo": 45.55566,
+            "poll_avg": 43.78074
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 19.905,
+            "forecast": 44.34991,
+            "hi": 50.48962,
+            "lo": 38.15866,
+            "poll_avg": 38.69126
+          },
+          "now": {
+            "winprob": 12.834999999999999,
+            "forecast": 43.72274,
+            "hi": 48.92472,
+            "lo": 38.50129,
+            "poll_avg": 37.67376
+          },
+          "polls": {
+            "winprob": 20.73,
+            "forecast": 44.38302,
+            "hi": 50.83849,
+            "lo": 37.95556,
+            "poll_avg": 38.73594
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 80.52,
+            "forecast": 52.02258,
+            "hi": 58.21898,
+            "lo": 45.74332,
+            "poll_avg": 43.76532
+          },
+          "now": {
+            "winprob": 88.75999999999999,
+            "forecast": 52.74458,
+            "hi": 58.03867,
+            "lo": 47.40125,
+            "poll_avg": 44.92397
+          },
+          "polls": {
+            "winprob": 79.54,
+            "forecast": 51.98743,
+            "hi": 58.40343,
+            "lo": 45.42949,
+            "poll_avg": 43.78285
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 19.48,
+            "forecast": 44.32681,
+            "hi": 50.48193,
+            "lo": 38.16782,
+            "poll_avg": 38.651
+          },
+          "now": {
+            "winprob": 11.24,
+            "forecast": 43.34403,
+            "hi": 48.60844,
+            "lo": 38.15957,
+            "poll_avg": 37.27823
+          },
+          "polls": {
+            "winprob": 20.46,
+            "forecast": 44.3683,
+            "hi": 50.82566,
+            "lo": 37.93585,
+            "poll_avg": 38.70247
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 77.285,
+            "forecast": 51.48923,
+            "hi": 57.73222,
+            "lo": 45.30346,
+            "poll_avg": 43.32049
+          },
+          "now": {
+            "winprob": 83.49,
+            "forecast": 51.689,
+            "hi": 56.90967,
+            "lo": 46.43832,
+            "poll_avg": 44.03275
+          },
+          "polls": {
+            "winprob": 76.44999999999999,
+            "forecast": 51.45155,
+            "hi": 57.88249,
+            "lo": 45.0038,
+            "poll_avg": 43.34938
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 22.715,
+            "forecast": 44.88169,
+            "hi": 50.99178,
+            "lo": 38.76519,
+            "poll_avg": 39.19963
+          },
+          "now": {
+            "winprob": 16.509999999999998,
+            "forecast": 44.47774,
+            "hi": 49.69186,
+            "lo": 39.25761,
+            "poll_avg": 38.58384
+          },
+          "polls": {
+            "winprob": 23.549999999999997,
+            "forecast": 44.92808,
+            "hi": 51.32272,
+            "lo": 38.53584,
+            "poll_avg": 39.2667
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 75.39,
+            "forecast": 51.21425,
+            "hi": 57.31971,
+            "lo": 45.02068,
+            "poll_avg": 43.05959
+          },
+          "now": {
+            "winprob": 80.96,
+            "forecast": 51.27312,
+            "hi": 56.48598,
+            "lo": 46.0855,
+            "poll_avg": 43.59286
+          },
+          "polls": {
+            "winprob": 74.30499999999999,
+            "forecast": 51.18432,
+            "hi": 57.70593,
+            "lo": 44.66892,
+            "poll_avg": 43.08517
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 24.610000000000003,
+            "forecast": 45.15979,
+            "hi": 51.37033,
+            "lo": 38.95568,
+            "poll_avg": 39.42486
+          },
+          "now": {
+            "winprob": 19.040000000000003,
+            "forecast": 44.90356,
+            "hi": 49.98592,
+            "lo": 39.72258,
+            "poll_avg": 39.02876
+          },
+          "polls": {
+            "winprob": 25.695,
+            "forecast": 45.19728,
+            "hi": 51.61497,
+            "lo": 38.78755,
+            "poll_avg": 39.48269
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 72.545,
+            "forecast": 50.78591,
+            "hi": 57.02445,
+            "lo": 44.5826,
+            "poll_avg": 42.7918
+          },
+          "now": {
+            "winprob": 68.94,
+            "forecast": 49.81938,
+            "hi": 55.20428,
+            "lo": 44.3675,
+            "poll_avg": 41.50432
+          },
+          "polls": {
+            "winprob": 71.675,
+            "forecast": 50.8082,
+            "hi": 57.2254,
+            "lo": 44.28352,
+            "poll_avg": 42.79336
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 27.455000000000002,
+            "forecast": 45.57923,
+            "hi": 51.74111,
+            "lo": 39.4397,
+            "poll_avg": 39.53301
+          },
+          "now": {
+            "winprob": 31.06,
+            "forecast": 46.15832,
+            "hi": 51.57573,
+            "lo": 40.76337,
+            "poll_avg": 39.32822
+          },
+          "polls": {
+            "winprob": 28.325,
+            "forecast": 45.55666,
+            "hi": 52.07561,
+            "lo": 39.10391,
+            "poll_avg": 39.52901
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 73.405,
+            "forecast": 50.92395,
+            "hi": 57.14986,
+            "lo": 44.66648,
+            "poll_avg": 42.98325
+          },
+          "now": {
+            "winprob": 70.475,
+            "forecast": 49.9768,
+            "hi": 55.29912,
+            "lo": 44.60457,
+            "poll_avg": 41.7967
+          },
+          "polls": {
+            "winprob": 72.495,
+            "forecast": 50.94094,
+            "hi": 57.41937,
+            "lo": 44.39509,
+            "poll_avg": 42.98058
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 26.595000000000002,
+            "forecast": 45.45346,
+            "hi": 51.67768,
+            "lo": 39.3541,
+            "poll_avg": 39.51574
+          },
+          "now": {
+            "winprob": 29.525000000000002,
+            "forecast": 46.04067,
+            "hi": 51.33447,
+            "lo": 40.76534,
+            "poll_avg": 39.39158
+          },
+          "polls": {
+            "winprob": 27.505000000000003,
+            "forecast": 45.43595,
+            "hi": 51.94768,
+            "lo": 39.02668,
+            "poll_avg": 39.51241
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 73.72999999999999,
+            "forecast": 51.00951,
+            "hi": 57.2466,
+            "lo": 44.7884,
+            "poll_avg": 43.1862
+          },
+          "now": {
+            "winprob": 70.695,
+            "forecast": 50.00787,
+            "hi": 55.26398,
+            "lo": 44.71334,
+            "poll_avg": 42.08344
+          },
+          "polls": {
+            "winprob": 73.03,
+            "forecast": 51.02584,
+            "hi": 57.46778,
+            "lo": 44.57493,
+            "poll_avg": 43.18192
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 26.27,
+            "forecast": 45.38346,
+            "hi": 51.52861,
+            "lo": 39.25778,
+            "poll_avg": 39.52325
+          },
+          "now": {
+            "winprob": 29.304999999999996,
+            "forecast": 46.07474,
+            "hi": 51.30475,
+            "lo": 40.80768,
+            "poll_avg": 39.63799
+          },
+          "polls": {
+            "winprob": 26.97,
+            "forecast": 45.36631,
+            "hi": 51.87739,
+            "lo": 38.93814,
+            "poll_avg": 39.51812
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 74.185,
+            "forecast": 51.07205,
+            "hi": 57.24231,
+            "lo": 44.88677,
+            "poll_avg": 43.32974
+          },
+          "now": {
+            "winprob": 71.85000000000001,
+            "forecast": 50.1437,
+            "hi": 55.38262,
+            "lo": 45.04123,
+            "poll_avg": 42.52447
+          },
+          "polls": {
+            "winprob": 73.65,
+            "forecast": 51.09169,
+            "hi": 57.56726,
+            "lo": 44.61259,
+            "poll_avg": 43.32936
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 25.814999999999998,
+            "forecast": 45.32861,
+            "hi": 51.56493,
+            "lo": 39.09408,
+            "poll_avg": 39.49495
+          },
+          "now": {
+            "winprob": 28.15,
+            "forecast": 46.01062,
+            "hi": 51.11565,
+            "lo": 40.83061,
+            "poll_avg": 39.80142
+          },
+          "polls": {
+            "winprob": 26.35,
+            "forecast": 45.30861,
+            "hi": 51.76504,
+            "lo": 38.86658,
+            "poll_avg": 39.49157
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 74.3,
+            "forecast": 51.07796,
+            "hi": 57.17568,
+            "lo": 44.9004,
+            "poll_avg": 43.36595
+          },
+          "now": {
+            "winprob": 71.655,
+            "forecast": 50.08849,
+            "hi": 55.1691,
+            "lo": 45.04185,
+            "poll_avg": 42.67741
+          },
+          "polls": {
+            "winprob": 73.735,
+            "forecast": 51.08974,
+            "hi": 57.50339,
+            "lo": 44.58295,
+            "poll_avg": 43.36988
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 25.7,
+            "forecast": 45.32963,
+            "hi": 51.45473,
+            "lo": 39.25767,
+            "poll_avg": 39.53848
+          },
+          "now": {
+            "winprob": 28.345,
+            "forecast": 46.10656,
+            "hi": 51.14964,
+            "lo": 40.98109,
+            "poll_avg": 39.97864
+          },
+          "polls": {
+            "winprob": 26.265,
+            "forecast": 45.31871,
+            "hi": 51.74985,
+            "lo": 38.98184,
+            "poll_avg": 39.54428
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 75.87,
+            "forecast": 51.26142,
+            "hi": 57.44047,
+            "lo": 45.09419,
+            "poll_avg": 43.51944
+          },
+          "now": {
+            "winprob": 72.74000000000001,
+            "forecast": 50.22421,
+            "hi": 55.25767,
+            "lo": 45.09898,
+            "poll_avg": 42.84187
+          },
+          "polls": {
+            "winprob": 74.995,
+            "forecast": 51.28018,
+            "hi": 57.69468,
+            "lo": 44.83826,
+            "poll_avg": 43.52311
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 24.13,
+            "forecast": 45.15746,
+            "hi": 51.36806,
+            "lo": 39.05095,
+            "poll_avg": 39.53939
+          },
+          "now": {
+            "winprob": 27.26,
+            "forecast": 46.00325,
+            "hi": 51.07169,
+            "lo": 40.9686,
+            "poll_avg": 40.08577
+          },
+          "polls": {
+            "winprob": 25.005,
+            "forecast": 45.13894,
+            "hi": 51.5453,
+            "lo": 38.79101,
+            "poll_avg": 39.53902
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 78.235,
+            "forecast": 51.672,
+            "hi": 57.82323,
+            "lo": 45.57779,
+            "poll_avg": 43.87498
+          },
+          "now": {
+            "winprob": 70.28,
+            "forecast": 49.94591,
+            "hi": 55.08669,
+            "lo": 44.72719,
+            "poll_avg": 42.25935
+          },
+          "polls": {
+            "winprob": 77.325,
+            "forecast": 51.66965,
+            "hi": 58.02,
+            "lo": 45.22414,
+            "poll_avg": 43.8644
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 21.765,
+            "forecast": 44.74627,
+            "hi": 50.81001,
+            "lo": 38.63332,
+            "poll_avg": 39.26947
+          },
+          "now": {
+            "winprob": 29.720000000000002,
+            "forecast": 46.19995,
+            "hi": 51.37452,
+            "lo": 41.10394,
+            "poll_avg": 40.00339
+          },
+          "polls": {
+            "winprob": 22.675,
+            "forecast": 44.74747,
+            "hi": 51.08871,
+            "lo": 38.4437,
+            "poll_avg": 39.26553
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 79.65,
+            "forecast": 51.93457,
+            "hi": 58.15678,
+            "lo": 45.69833,
+            "poll_avg": 44.07314
+          },
+          "now": {
+            "winprob": 74.57000000000001,
+            "forecast": 50.4379,
+            "hi": 55.61017,
+            "lo": 45.27205,
+            "poll_avg": 42.87174
+          },
+          "polls": {
+            "winprob": 78.975,
+            "forecast": 51.92055,
+            "hi": 58.34127,
+            "lo": 45.45387,
+            "poll_avg": 44.06469
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 20.349999999999998,
+            "forecast": 44.48879,
+            "hi": 50.70071,
+            "lo": 38.33822,
+            "poll_avg": 39.17416
+          },
+          "now": {
+            "winprob": 25.430000000000003,
+            "forecast": 45.75194,
+            "hi": 50.79176,
+            "lo": 40.61041,
+            "poll_avg": 39.8232
+          },
+          "polls": {
+            "winprob": 21.025,
+            "forecast": 44.50216,
+            "hi": 50.90722,
+            "lo": 38.12064,
+            "poll_avg": 39.17385
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 82.155,
+            "forecast": 52.41616,
+            "hi": 58.66626,
+            "lo": 46.08881,
+            "poll_avg": 44.21756
+          },
+          "now": {
+            "winprob": 82.49,
+            "forecast": 51.58309,
+            "hi": 56.80968,
+            "lo": 46.23211,
+            "poll_avg": 43.6953
+          },
+          "polls": {
+            "winprob": 81.39,
+            "forecast": 52.38968,
+            "hi": 58.8877,
+            "lo": 45.9156,
+            "poll_avg": 44.21744
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 17.845,
+            "forecast": 44.00058,
+            "hi": 50.32473,
+            "lo": 37.76283,
+            "poll_avg": 38.99983
+          },
+          "now": {
+            "winprob": 17.51,
+            "forecast": 44.55717,
+            "hi": 49.8186,
+            "lo": 39.31403,
+            "poll_avg": 38.81289
+          },
+          "polls": {
+            "winprob": 18.61,
+            "forecast": 44.02659,
+            "hi": 50.50468,
+            "lo": 37.60446,
+            "poll_avg": 38.99503
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 82.69999999999999,
+            "forecast": 52.52243,
+            "hi": 58.71607,
+            "lo": 46.25954,
+            "poll_avg": 44.27285
+          },
+          "now": {
+            "winprob": 84.235,
+            "forecast": 51.81572,
+            "hi": 57.03702,
+            "lo": 46.52695,
+            "poll_avg": 43.95702
+          },
+          "polls": {
+            "winprob": 81.88,
+            "forecast": 52.48426,
+            "hi": 58.86776,
+            "lo": 46.11761,
+            "poll_avg": 44.27137
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 17.299999999999997,
+            "forecast": 43.8968,
+            "hi": 50.11237,
+            "lo": 37.72215,
+            "poll_avg": 38.98407
+          },
+          "now": {
+            "winprob": 15.765,
+            "forecast": 44.34122,
+            "hi": 49.53779,
+            "lo": 39.2123,
+            "poll_avg": 38.72775
+          },
+          "polls": {
+            "winprob": 18.12,
+            "forecast": 43.93482,
+            "hi": 50.29329,
+            "lo": 37.56028,
+            "poll_avg": 38.98364
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 82.60499999999999,
+            "forecast": 52.51766,
+            "hi": 58.8548,
+            "lo": 46.18272,
+            "poll_avg": 44.2883
+          },
+          "now": {
+            "winprob": 84.075,
+            "forecast": 51.84194,
+            "hi": 57.05317,
+            "lo": 46.59704,
+            "poll_avg": 44.18517
+          },
+          "polls": {
+            "winprob": 81.965,
+            "forecast": 52.48237,
+            "hi": 58.9435,
+            "lo": 45.94544,
+            "poll_avg": 44.29083
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 17.395,
+            "forecast": 43.90342,
+            "hi": 50.14613,
+            "lo": 37.60062,
+            "poll_avg": 38.99137
+          },
+          "now": {
+            "winprob": 15.925,
+            "forecast": 44.3678,
+            "hi": 49.57722,
+            "lo": 39.17913,
+            "poll_avg": 38.92038
+          },
+          "polls": {
+            "winprob": 18.035,
+            "forecast": 43.9389,
+            "hi": 50.42822,
+            "lo": 37.54336,
+            "poll_avg": 38.99154
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 82.83500000000001,
+            "forecast": 52.54855,
+            "hi": 58.91565,
+            "lo": 46.13932,
+            "poll_avg": 44.2979
+          },
+          "now": {
+            "winprob": 84.61,
+            "forecast": 51.90165,
+            "hi": 57.12302,
+            "lo": 46.71096,
+            "poll_avg": 44.26269
+          },
+          "polls": {
+            "winprob": 82.045,
+            "forecast": 52.51505,
+            "hi": 58.92955,
+            "lo": 46.02836,
+            "poll_avg": 44.29895
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 17.165,
+            "forecast": 43.87318,
+            "hi": 50.17648,
+            "lo": 37.64062,
+            "poll_avg": 38.99083
+          },
+          "now": {
+            "winprob": 15.39,
+            "forecast": 44.31641,
+            "hi": 49.43113,
+            "lo": 39.15345,
+            "poll_avg": 38.92641
+          },
+          "polls": {
+            "winprob": 17.955,
+            "forecast": 43.90609,
+            "hi": 50.30579,
+            "lo": 37.53223,
+            "poll_avg": 38.98419
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 82.88,
+            "forecast": 52.58816,
+            "hi": 58.92622,
+            "lo": 46.20784,
+            "poll_avg": 44.28056
+          },
+          "now": {
+            "winprob": 85.235,
+            "forecast": 51.99987,
+            "hi": 57.20165,
+            "lo": 46.78158,
+            "poll_avg": 44.34134
+          },
+          "polls": {
+            "winprob": 82.35,
+            "forecast": 52.53999,
+            "hi": 58.9678,
+            "lo": 46.15211,
+            "poll_avg": 44.28078
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 17.119999999999997,
+            "forecast": 43.83377,
+            "hi": 50.11324,
+            "lo": 37.52218,
+            "poll_avg": 39.00573
+          },
+          "now": {
+            "winprob": 14.765,
+            "forecast": 44.2212,
+            "hi": 49.34918,
+            "lo": 39.05762,
+            "poll_avg": 38.89426
+          },
+          "polls": {
+            "winprob": 17.65,
+            "forecast": 43.88203,
+            "hi": 50.23915,
+            "lo": 37.43726,
+            "poll_avg": 39.0066
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 83.045,
+            "forecast": 52.56757,
+            "hi": 58.81222,
+            "lo": 46.29262,
+            "poll_avg": 44.29102
+          },
+          "now": {
+            "winprob": 85.25,
+            "forecast": 52.0336,
+            "hi": 57.15908,
+            "lo": 46.78513,
+            "poll_avg": 44.43765
+          },
+          "polls": {
+            "winprob": 82.205,
+            "forecast": 52.52411,
+            "hi": 59.03388,
+            "lo": 46.08727,
+            "poll_avg": 44.29041
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 16.955000000000002,
+            "forecast": 43.85389,
+            "hi": 50.03112,
+            "lo": 37.5878,
+            "poll_avg": 38.99326
+          },
+          "now": {
+            "winprob": 14.75,
+            "forecast": 44.19981,
+            "hi": 49.33349,
+            "lo": 39.08989,
+            "poll_avg": 38.91156
+          },
+          "polls": {
+            "winprob": 17.794999999999998,
+            "forecast": 43.89701,
+            "hi": 50.326,
+            "lo": 37.47904,
+            "poll_avg": 38.99018
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Tammy Duckworth",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 78.38000000000001,
+            "forecast": 52.37676,
+            "hi": 59.88572,
+            "lo": 44.8606,
+            "poll_avg": 40.53381
+          },
+          "now": {
+            "winprob": 72.425,
+            "forecast": 50.76709,
+            "hi": 57.24865,
+            "lo": 44.35767,
+            "poll_avg": 40.56348
+          },
+          "polls": {
+            "winprob": 79.67,
+            "forecast": 52.54572,
+            "hi": 59.76363,
+            "lo": 45.30086,
+            "poll_avg": 40.53371
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Mark Kirk",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 21.62,
+            "forecast": 44.03046,
+            "hi": 51.53794,
+            "lo": 36.63717,
+            "poll_avg": 41.93601
+          },
+          "now": {
+            "winprob": 27.575,
+            "forecast": 45.40624,
+            "hi": 51.74044,
+            "lo": 38.89644,
+            "poll_avg": 41.89892
+          },
+          "polls": {
+            "winprob": 20.330000000000002,
+            "forecast": 43.86153,
+            "hi": 51.05226,
+            "lo": 36.71837,
+            "poll_avg": 41.93656
+          }
+        }
+      }
+    ]
+  },
+  "polls": [
+    {
+      "id": "44612",
+      "population": "lv",
+      "sampleSize": "1200",
+      "state": "IL",
+      "pollster": "Victory Research",
+      "startDate": "2016-07-14",
+      "endDate": "2016-07-16",
+      "tracking": null,
+      "url": "https://drive.google.com/file/d/0B1XFXSmJVNknekxJbE1hQkV4T25Vbmk4Zno5OEZNc0pSX3BB/view",
+      "created_at": 1473955080,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 46.2,
+          "adj_pct": {
+            "polls": 46.84433,
+            "plus": 46.97384,
+            "now": 46.84433
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 37.3,
+          "adj_pct": {
+            "polls": 39.33733,
+            "plus": 39.1249,
+            "now": 39.33733
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0053997,
+        "plus": 0.0053997,
+        "now": 0.0053997
+      },
+      "pollsterRating": "",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 8.900000000000006
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 7.506999999999998
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 7.848940000000006
+          },
+          "now": {
+            "choice": "D",
+            "margin": 7.506999999999998
+          }
+        }
+      }
+    },
+    {
+      "id": "44748",
+      "population": "lv",
+      "sampleSize": null,
+      "state": "IL",
+      "pollster": "Basswood Research",
+      "startDate": "2016-07-11",
+      "endDate": "2016-07-12",
+      "tracking": null,
+      "url": "http://www.chicagobusiness.com/article/20160722/BLOGS02/160729927/poll-gives-kirk-edge-over-duckworth-but-clinton-clobbering-trump",
+      "created_at": 1473956160,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 41.9,
+          "adj_pct": {
+            "polls": 43.02872,
+            "plus": 42.82455,
+            "now": 43.02872
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 40.4,
+          "adj_pct": {
+            "polls": 42.95449,
+            "plus": 43.01246,
+            "now": 42.95449
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0074505,
+        "plus": 0.0074505,
+        "now": 0.0074505
+      },
+      "pollsterRating": "C+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 1.5
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 0.07423000000000002
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 0.18790999999999514
+          },
+          "now": {
+            "choice": "R",
+            "margin": 0.07423000000000002
+          }
+        }
+      }
+    },
+    {
+      "id": "47896",
+      "population": "lv",
+      "sampleSize": "1003",
+      "state": "IL",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-25",
+      "endDate": "2016-10-31",
+      "tracking": "TRUE",
+      "url": "https://drive.google.com/file/d/0BxxpEMTW3kAraEFpRXdFc21TVG8/view",
+      "created_at": 1478025840,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 57.0,
+          "adj_pct": {
+            "polls": 53.78605,
+            "plus": 53.70923,
+            "now": 53.78605
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 38.0,
+          "adj_pct": {
+            "polls": 37.92884,
+            "plus": 37.96502,
+            "now": 37.92884
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0205151,
+        "plus": 0.0205151,
+        "now": 0.0205151
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 19.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 15.857210000000002
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 15.744209999999995
+          },
+          "now": {
+            "choice": "D",
+            "margin": 15.857210000000002
+          }
+        }
+      }
+    },
+    {
+      "id": "48034",
+      "population": "lv",
+      "sampleSize": "911",
+      "state": "IL",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-26",
+      "endDate": "2016-11-01",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478098920,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 55.0,
+          "adj_pct": {
+            "polls": 51.78682,
+            "plus": 51.71037,
+            "now": 51.78682
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 39.0,
+          "adj_pct": {
+            "polls": 38.85078,
+            "plus": 38.88788,
+            "now": 38.85078
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0214868,
+        "plus": 0.0214868,
+        "now": 0.0214868
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 16.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 12.936039999999998
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 12.822489999999995
+          },
+          "now": {
+            "choice": "D",
+            "margin": 12.936039999999998
+          }
+        }
+      }
+    },
+    {
+      "id": "48142",
+      "population": "lv",
+      "sampleSize": "997",
+      "state": "IL",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-27",
+      "endDate": "2016-11-02",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478216700,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 55.0,
+          "adj_pct": {
+            "polls": 51.79206,
+            "plus": 51.71588,
+            "now": 51.79206
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 40.0,
+          "adj_pct": {
+            "polls": 39.77384,
+            "plus": 39.81159,
+            "now": 39.77384
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0272452,
+        "plus": 0.0272452,
+        "now": 0.0272452
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 15.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 12.01822
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 11.904289999999996
+          },
+          "now": {
+            "choice": "D",
+            "margin": 12.01822
+          }
+        }
+      }
+    },
+    {
+      "id": "45887",
+      "population": "lv",
+      "sampleSize": "600",
+      "state": "IL",
+      "pollster": "Loras College",
+      "startDate": "2016-09-13",
+      "endDate": "2016-09-16",
+      "tracking": null,
+      "url": "http://www.loras.edu/news/duckworth-edge-kirk-illinois-voters-sour-direction-state-loras-college-poll-finds/",
+      "created_at": 1474373580,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 40.7,
+          "adj_pct": {
+            "polls": 43.33873,
+            "plus": 43.27379,
+            "now": 43.33873
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 36.0,
+          "adj_pct": {
+            "polls": 38.30871,
+            "plus": 38.25278,
+            "now": 38.30871
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0855801,
+        "plus": 0.0855801,
+        "now": 0.0855801
+      },
+      "pollsterRating": "B-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 4.700000000000003
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 5.03002
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 5.021009999999997
+          },
+          "now": {
+            "choice": "D",
+            "margin": 5.03002
+          }
+        }
+      }
+    },
+    {
+      "id": "48282",
+      "population": "lv",
+      "sampleSize": "1120",
+      "state": "IL",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-28",
+      "endDate": "2016-11-03",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478277840,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 54.0,
+          "adj_pct": {
+            "polls": 50.80008,
+            "plus": 50.72469,
+            "now": 50.80008
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 40.0,
+          "adj_pct": {
+            "polls": 39.67959,
+            "plus": 39.7193,
+            "now": 39.67959
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.1248391,
+        "plus": 0.1248391,
+        "now": 0.1248391
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 14.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 11.120490000000004
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 11.005390000000006
+          },
+          "now": {
+            "choice": "D",
+            "margin": 11.120490000000004
+          }
+        }
+      }
+    },
+    {
+      "id": "45937",
+      "population": "lv",
+      "sampleSize": "700",
+      "state": "IL",
+      "pollster": "Emerson College",
+      "startDate": "2016-09-19",
+      "endDate": "2016-09-21",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_4b2b9517da414c0fb1c825dfe5416794.pdf",
+      "created_at": 1474532940,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 40.9,
+          "adj_pct": {
+            "polls": 43.24365,
+            "plus": 43.36678,
+            "now": 43.24365
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 39.2,
+          "adj_pct": {
+            "polls": 40.70153,
+            "plus": 40.76922,
+            "now": 40.70153
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.1559518,
+        "plus": 0.1559518,
+        "now": 0.1559518
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 1.6999999999999957
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 2.542120000000004
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 2.5975600000000014
+          },
+          "now": {
+            "choice": "D",
+            "margin": 2.542120000000004
+          }
+        }
+      }
+    },
+    {
+      "id": "46447",
+      "population": "lv",
+      "sampleSize": "865",
+      "state": "IL",
+      "pollster": "Southern Illinois University",
+      "startDate": "2016-09-27",
+      "endDate": "2016-10-02",
+      "tracking": null,
+      "url": "http://paulsimoninstitute.siu.edu/_common/documents/opinion-polling/simon-institute-poll/2016/oct-3-psppi-simon-poll-clinton-leads-trump.pdf",
+      "created_at": 1475578860,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 48.4,
+          "adj_pct": {
+            "polls": 48.88094,
+            "plus": 49.00148,
+            "now": 48.88094
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 34.0,
+          "adj_pct": {
+            "polls": 36.86805,
+            "plus": 36.76391,
+            "now": 36.86805
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.5648371,
+        "plus": 0.5648371,
+        "now": 0.5648371
+      },
+      "pollsterRating": "",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 14.399999999999999
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 12.012890000000006
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 12.237569999999998
+          },
+          "now": {
+            "choice": "D",
+            "margin": 12.012890000000006
+          }
+        }
+      }
+    },
+    {
+      "id": "47315",
+      "population": "lv",
+      "sampleSize": "1200",
+      "state": "IL",
+      "pollster": "Victory Research",
+      "startDate": "2016-10-16",
+      "endDate": "2016-10-18",
+      "tracking": null,
+      "url": "http://big.assets.huffingtonpost.com/Victory.Research.Illinois.10.18.16.pdf",
+      "created_at": 1477327500,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 49.8,
+          "adj_pct": {
+            "polls": 50.08377,
+            "plus": 50.27425,
+            "now": 50.08377
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 39.1,
+          "adj_pct": {
+            "polls": 40.58693,
+            "plus": 40.52689,
+            "now": 40.58693
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.276969,
+        "plus": 1.276969,
+        "now": 1.276969
+      },
+      "pollsterRating": "",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 10.699999999999996
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 9.496839999999999
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 9.74736
+          },
+          "now": {
+            "choice": "D",
+            "margin": 9.496839999999999
+          }
+        }
+      }
+    },
+    {
+      "id": "48000",
+      "population": "lv",
+      "sampleSize": "600",
+      "state": "IL",
+      "pollster": "Loras College",
+      "startDate": "2016-10-26",
+      "endDate": "2016-10-27",
+      "tracking": null,
+      "url": "http://www.loras.edu/news/clinton-tops-trump-illinois-duckworth-remains-lead-senate-loras-college-poll-finds/",
+      "created_at": 1478011140,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 42.0,
+          "adj_pct": {
+            "polls": 43.72704,
+            "plus": 43.6781,
+            "now": 43.72704
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 34.0,
+          "adj_pct": {
+            "polls": 35.58573,
+            "plus": 35.56959,
+            "now": 35.58573
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.293767,
+        "plus": 1.293767,
+        "now": 1.293767
+      },
+      "pollsterRating": "B-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 8.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 8.141310000000004
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 8.108510000000003
+          },
+          "now": {
+            "choice": "D",
+            "margin": 8.141310000000004
+          }
+        }
+      }
+    },
+    {
+      "id": "47878",
+      "population": "lv",
+      "sampleSize": "500",
+      "state": "IL",
+      "pollster": "Emerson College",
+      "startDate": "2016-10-27",
+      "endDate": "2016-10-30",
+      "tracking": null,
+      "url": "https://web.archive.org/web/2018/https://projects.fivethirtyeight.com/polls/20161101_Swing_1.pdf",
+      "created_at": 1477987860,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 53.7,
+          "adj_pct": {
+            "polls": 55.14522,
+            "plus": 55.28552,
+            "now": 55.14522
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 36.2,
+          "adj_pct": {
+            "polls": 36.83009,
+            "plus": 36.9399,
+            "now": 36.83009
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.332786,
+        "plus": 1.332786,
+        "now": 1.332786
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 17.5
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 18.315130000000003
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 18.345619999999997
+          },
+          "now": {
+            "choice": "D",
+            "margin": 18.315130000000003
+          }
+        }
+      }
+    },
+    {
+      "id": "48590",
+      "population": "lv",
+      "sampleSize": "1505",
+      "state": "IL",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-31",
+      "endDate": "2016-11-06",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478508480,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 56.0,
+          "adj_pct": {
+            "polls": 52.89753,
+            "plus": 52.82949,
+            "now": 52.89753
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 39.0,
+          "adj_pct": {
+            "polls": 38.38314,
+            "plus": 38.44123,
+            "now": 38.38314
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.979293,
+        "plus": 1.979293,
+        "now": 1.979293
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 17.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 14.514390000000006
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 14.388260000000002
+          },
+          "now": {
+            "choice": "D",
+            "margin": 14.514390000000006
+          }
+        }
+      }
+    }
+  ]
+}

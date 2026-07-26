@@ -1,0 +1,7412 @@
+{
+  "state": "AR",
+  "candidates": [
+    {
+      "state": "AR",
+      "party": "D",
+      "candidate": "Conner Eldridge",
+      "incumbent": null
+    },
+    {
+      "state": "AR",
+      "party": "R",
+      "candidate": "John Boozman",
+      "incumbent": "y"
+    }
+  ],
+  "forecasts": {
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 1.2550000000000001,
+            "forecast": 39.48572,
+            "hi": 43.79684,
+            "lo": 35.14529,
+            "poll_avg": 35.79182,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2080765,
+            "house_adjust": -1.043457,
+            "adj_avg": 34.95644,
+            "undecided_adjust": 4.478374,
+            "reallocate_avg": 39.43482,
+            "demo_regress": 39.66804,
+            "demo_weight": 21.84572,
+            "snapshot": 39.48577
+          },
+          "polls": {
+            "winprob": 1.7500000000000002,
+            "forecast": 39.45987,
+            "hi": 44.32111,
+            "lo": 34.6147,
+            "poll_avg": 35.79182,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2264404,
+            "house_adjust": -1.001595,
+            "adj_avg": 35.01667,
+            "undecided_adjust": 4.443275,
+            "reallocate_avg": 39.45995,
+            "demo_regress": 39.45995,
+            "demo_weight": 0.0,
+            "snapshot": 39.45995
+          },
+          "now": {
+            "winprob": 1.7500000000000002,
+            "forecast": 39.45987,
+            "hi": 44.32111,
+            "lo": 34.6147,
+            "poll_avg": 35.79182,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2264404,
+            "house_adjust": -1.001595,
+            "adj_avg": 35.01667,
+            "undecided_adjust": 4.443275,
+            "reallocate_avg": 39.45995,
+            "demo_regress": 39.45995,
+            "demo_weight": 0.0,
+            "snapshot": 39.45995
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 98.745,
+            "forecast": 57.16687,
+            "hi": 61.62726,
+            "lo": 52.61807,
+            "poll_avg": 52.20734,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.8621941,
+            "house_adjust": -0.3301277,
+            "adj_avg": 52.7394,
+            "undecided_adjust": 4.478374,
+            "reallocate_avg": 57.21778,
+            "demo_regress": 56.98455,
+            "demo_weight": 21.84572,
+            "snapshot": 57.16683
+          },
+          "polls": {
+            "winprob": 98.25,
+            "forecast": 57.2039,
+            "hi": 62.10483,
+            "lo": 52.22514,
+            "poll_avg": 52.20734,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.907814,
+            "house_adjust": -0.3546104,
+            "adj_avg": 52.76054,
+            "undecided_adjust": 4.443275,
+            "reallocate_avg": 57.20382,
+            "demo_regress": 57.20382,
+            "demo_weight": 0.0,
+            "snapshot": 57.20382
+          },
+          "now": {
+            "winprob": 98.25,
+            "forecast": 57.2039,
+            "hi": 62.10483,
+            "lo": 52.22514,
+            "poll_avg": 52.20734,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.907814,
+            "house_adjust": -0.3546104,
+            "adj_avg": 52.76054,
+            "undecided_adjust": 4.443275,
+            "reallocate_avg": 57.20382,
+            "demo_regress": 57.20382,
+            "demo_weight": 0.0,
+            "snapshot": 57.20382
+          }
+        }
+      }
+    },
+    "all": [
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 1.2550000000000001,
+            "forecast": 39.48572,
+            "hi": 43.79684,
+            "lo": 35.14529,
+            "poll_avg": 35.79182,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2080765,
+            "house_adjust": -1.043457,
+            "adj_avg": 34.95644,
+            "undecided_adjust": 4.478374,
+            "reallocate_avg": 39.43482,
+            "demo_regress": 39.66804,
+            "demo_weight": 21.84572,
+            "snapshot": 39.48577
+          },
+          "polls": {
+            "winprob": 1.7500000000000002,
+            "forecast": 39.45987,
+            "hi": 44.32111,
+            "lo": 34.6147,
+            "poll_avg": 35.79182,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2264404,
+            "house_adjust": -1.001595,
+            "adj_avg": 35.01667,
+            "undecided_adjust": 4.443275,
+            "reallocate_avg": 39.45995,
+            "demo_regress": 39.45995,
+            "demo_weight": 0.0,
+            "snapshot": 39.45995
+          },
+          "now": {
+            "winprob": 1.7500000000000002,
+            "forecast": 39.45987,
+            "hi": 44.32111,
+            "lo": 34.6147,
+            "poll_avg": 35.79182,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.2264404,
+            "house_adjust": -1.001595,
+            "adj_avg": 35.01667,
+            "undecided_adjust": 4.443275,
+            "reallocate_avg": 39.45995,
+            "demo_regress": 39.45995,
+            "demo_weight": 0.0,
+            "snapshot": 39.45995
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 98.745,
+            "forecast": 57.16687,
+            "hi": 61.62726,
+            "lo": 52.61807,
+            "poll_avg": 52.20734,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.8621941,
+            "house_adjust": -0.3301277,
+            "adj_avg": 52.7394,
+            "undecided_adjust": 4.478374,
+            "reallocate_avg": 57.21778,
+            "demo_regress": 56.98455,
+            "demo_weight": 21.84572,
+            "snapshot": 57.16683
+          },
+          "polls": {
+            "winprob": 98.25,
+            "forecast": 57.2039,
+            "hi": 62.10483,
+            "lo": 52.22514,
+            "poll_avg": 52.20734,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.907814,
+            "house_adjust": -0.3546104,
+            "adj_avg": 52.76054,
+            "undecided_adjust": 4.443275,
+            "reallocate_avg": 57.20382,
+            "demo_regress": 57.20382,
+            "demo_weight": 0.0,
+            "snapshot": 57.20382
+          },
+          "now": {
+            "winprob": 98.25,
+            "forecast": 57.2039,
+            "hi": 62.10483,
+            "lo": 52.22514,
+            "poll_avg": 52.20734,
+            "likely_adjust": 0.0,
+            "trend_adjust": 0.907814,
+            "house_adjust": -0.3546104,
+            "adj_avg": 52.76054,
+            "undecided_adjust": 4.443275,
+            "reallocate_avg": 57.20382,
+            "demo_regress": 57.20382,
+            "demo_weight": 0.0,
+            "snapshot": 57.20382
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 1.425,
+            "forecast": 39.76738,
+            "hi": 44.1247,
+            "lo": 35.46425,
+            "poll_avg": 35.2332
+          },
+          "now": {
+            "winprob": 1.455,
+            "forecast": 39.79908,
+            "hi": 44.16603,
+            "lo": 35.45335,
+            "poll_avg": 35.20156
+          },
+          "polls": {
+            "winprob": 2.21,
+            "forecast": 39.73961,
+            "hi": 44.62965,
+            "lo": 34.85758,
+            "poll_avg": 35.10388
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 98.575,
+            "forecast": 56.86332,
+            "hi": 61.35186,
+            "lo": 52.28147,
+            "poll_avg": 52.2184
+          },
+          "now": {
+            "winprob": 98.545,
+            "forecast": 56.81783,
+            "hi": 61.29151,
+            "lo": 52.25411,
+            "poll_avg": 52.14032
+          },
+          "polls": {
+            "winprob": 97.78999999999999,
+            "forecast": 56.87487,
+            "hi": 61.91324,
+            "lo": 51.84391,
+            "poll_avg": 52.23815
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 1.755,
+            "forecast": 39.9172,
+            "hi": 44.4211,
+            "lo": 35.38529,
+            "poll_avg": 34.66177
+          },
+          "now": {
+            "winprob": 1.7399999999999998,
+            "forecast": 39.976,
+            "hi": 44.43365,
+            "lo": 35.49672,
+            "poll_avg": 34.84404
+          },
+          "polls": {
+            "winprob": 2.58,
+            "forecast": 39.87383,
+            "hi": 44.8568,
+            "lo": 34.84973,
+            "poll_avg": 34.73757
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 98.245,
+            "forecast": 56.53823,
+            "hi": 61.17208,
+            "lo": 51.88323,
+            "poll_avg": 51.41387
+          },
+          "now": {
+            "winprob": 98.26,
+            "forecast": 56.51156,
+            "hi": 61.08974,
+            "lo": 51.8633,
+            "poll_avg": 51.47483
+          },
+          "polls": {
+            "winprob": 97.42,
+            "forecast": 56.59796,
+            "hi": 61.68514,
+            "lo": 51.34386,
+            "poll_avg": 51.46164
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 1.6549999999999998,
+            "forecast": 39.84733,
+            "hi": 44.30637,
+            "lo": 35.42443,
+            "poll_avg": 34.97954
+          },
+          "now": {
+            "winprob": 1.585,
+            "forecast": 39.86808,
+            "hi": 44.23448,
+            "lo": 35.47028,
+            "poll_avg": 35.18615
+          },
+          "polls": {
+            "winprob": 2.235,
+            "forecast": 39.85372,
+            "hi": 44.76303,
+            "lo": 34.94713,
+            "poll_avg": 35.12234
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 98.345,
+            "forecast": 56.71346,
+            "hi": 61.29721,
+            "lo": 52.04774,
+            "poll_avg": 51.92892
+          },
+          "now": {
+            "winprob": 98.41499999999999,
+            "forecast": 56.74301,
+            "hi": 61.27416,
+            "lo": 52.22033,
+            "poll_avg": 52.10949
+          },
+          "polls": {
+            "winprob": 97.765,
+            "forecast": 56.73616,
+            "hi": 61.72049,
+            "lo": 51.69236,
+            "poll_avg": 52.00413
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 1.745,
+            "forecast": 40.19347,
+            "hi": 44.56315,
+            "lo": 35.75745,
+            "poll_avg": 35.4201
+          },
+          "now": {
+            "winprob": 1.685,
+            "forecast": 40.17025,
+            "hi": 44.4952,
+            "lo": 35.89403,
+            "poll_avg": 35.45148
+          },
+          "polls": {
+            "winprob": 2.5250000000000004,
+            "forecast": 40.23214,
+            "hi": 45.09319,
+            "lo": 35.41826,
+            "poll_avg": 35.59573
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 98.25500000000001,
+            "forecast": 56.41071,
+            "hi": 60.92523,
+            "lo": 51.78989,
+            "poll_avg": 51.76389
+          },
+          "now": {
+            "winprob": 98.315,
+            "forecast": 56.45194,
+            "hi": 60.87066,
+            "lo": 51.92317,
+            "poll_avg": 51.8814
+          },
+          "polls": {
+            "winprob": 97.475,
+            "forecast": 56.39672,
+            "hi": 61.28343,
+            "lo": 51.44551,
+            "poll_avg": 51.76137
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 2.76,
+            "forecast": 40.7168,
+            "hi": 45.30969,
+            "lo": 36.16414,
+            "poll_avg": 35.47943
+          },
+          "now": {
+            "winprob": 2.54,
+            "forecast": 40.7275,
+            "hi": 45.22772,
+            "lo": 36.20566,
+            "poll_avg": 35.45718
+          },
+          "polls": {
+            "winprob": 3.565,
+            "forecast": 40.66524,
+            "hi": 45.69795,
+            "lo": 35.64971,
+            "poll_avg": 35.44238
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 97.24000000000001,
+            "forecast": 55.75283,
+            "hi": 60.42012,
+            "lo": 51.02653,
+            "poll_avg": 50.53484
+          },
+          "now": {
+            "winprob": 97.46000000000001,
+            "forecast": 55.73107,
+            "hi": 60.35736,
+            "lo": 51.06097,
+            "poll_avg": 50.49294
+          },
+          "polls": {
+            "winprob": 96.435,
+            "forecast": 55.80462,
+            "hi": 60.8899,
+            "lo": 50.61217,
+            "poll_avg": 50.58201
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 3.51,
+            "forecast": 41.19293,
+            "hi": 45.82584,
+            "lo": 36.55826,
+            "poll_avg": 35.87116
+          },
+          "now": {
+            "winprob": 3.18,
+            "forecast": 41.32144,
+            "hi": 45.80715,
+            "lo": 36.78695,
+            "poll_avg": 36.11313
+          },
+          "polls": {
+            "winprob": 4.595,
+            "forecast": 41.36452,
+            "hi": 46.42537,
+            "lo": 36.33486,
+            "poll_avg": 36.00724
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 96.49,
+            "forecast": 55.24322,
+            "hi": 59.98437,
+            "lo": 50.46555,
+            "poll_avg": 49.7637
+          },
+          "now": {
+            "winprob": 96.82,
+            "forecast": 55.14146,
+            "hi": 59.71349,
+            "lo": 50.48555,
+            "poll_avg": 49.73271
+          },
+          "polls": {
+            "winprob": 95.405,
+            "forecast": 55.08696,
+            "hi": 60.20699,
+            "lo": 49.88594,
+            "poll_avg": 49.72994
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 3.4299999999999997,
+            "forecast": 41.46749,
+            "hi": 46.07475,
+            "lo": 36.8209,
+            "poll_avg": 38.14702
+          },
+          "now": {
+            "winprob": 3.105,
+            "forecast": 41.50847,
+            "hi": 45.93016,
+            "lo": 37.06292,
+            "poll_avg": 38.27558
+          },
+          "polls": {
+            "winprob": 4.315,
+            "forecast": 41.52389,
+            "hi": 46.48179,
+            "lo": 36.61683,
+            "poll_avg": 38.08651
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 96.57,
+            "forecast": 55.55216,
+            "hi": 60.21214,
+            "lo": 50.80367,
+            "poll_avg": 52.02883
+          },
+          "now": {
+            "winprob": 96.895,
+            "forecast": 55.54947,
+            "hi": 60.08708,
+            "lo": 50.9918,
+            "poll_avg": 52.13024
+          },
+          "polls": {
+            "winprob": 95.685,
+            "forecast": 55.48966,
+            "hi": 60.4863,
+            "lo": 50.46469,
+            "poll_avg": 52.04979
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 3.4299999999999997,
+            "forecast": 39.91173,
+            "hi": 45.25946,
+            "lo": 34.62566,
+            "poll_avg": 33.82323
+          },
+          "now": {
+            "winprob": 2.87,
+            "forecast": 39.82464,
+            "hi": 45.05,
+            "lo": 34.63701,
+            "poll_avg": 33.8656
+          },
+          "polls": {
+            "winprob": 3.8899999999999997,
+            "forecast": 39.7486,
+            "hi": 45.52654,
+            "lo": 34.02655,
+            "poll_avg": 33.84263
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 96.57,
+            "forecast": 56.42033,
+            "hi": 61.81291,
+            "lo": 50.89425,
+            "poll_avg": 51.2984
+          },
+          "now": {
+            "winprob": 97.13000000000001,
+            "forecast": 56.52484,
+            "hi": 61.80735,
+            "lo": 51.15277,
+            "poll_avg": 51.46174
+          },
+          "polls": {
+            "winprob": 96.11,
+            "forecast": 56.57935,
+            "hi": 62.42197,
+            "lo": 50.73642,
+            "poll_avg": 51.23816
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 3.5900000000000003,
+            "forecast": 40.10489,
+            "hi": 45.52705,
+            "lo": 34.75251,
+            "poll_avg": 33.93404
+          },
+          "now": {
+            "winprob": 3.385,
+            "forecast": 40.12115,
+            "hi": 45.36269,
+            "lo": 34.95095,
+            "poll_avg": 34.22044
+          },
+          "polls": {
+            "winprob": 4.18,
+            "forecast": 39.89463,
+            "hi": 45.66136,
+            "lo": 34.13647,
+            "poll_avg": 33.91269
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 96.41,
+            "forecast": 56.21449,
+            "hi": 61.69305,
+            "lo": 50.718,
+            "poll_avg": 51.05012
+          },
+          "now": {
+            "winprob": 96.615,
+            "forecast": 56.25895,
+            "hi": 61.55991,
+            "lo": 50.85592,
+            "poll_avg": 51.29981
+          },
+          "polls": {
+            "winprob": 95.82000000000001,
+            "forecast": 56.43002,
+            "hi": 62.22854,
+            "lo": 50.57034,
+            "poll_avg": 51.12307
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 3.8899999999999997,
+            "forecast": 40.18854,
+            "hi": 45.58516,
+            "lo": 34.7291,
+            "poll_avg": 33.95263
+          },
+          "now": {
+            "winprob": 3.485,
+            "forecast": 40.21817,
+            "hi": 45.38518,
+            "lo": 35.06923,
+            "poll_avg": 34.2608
+          },
+          "polls": {
+            "winprob": 4.36,
+            "forecast": 39.9999,
+            "hi": 45.84099,
+            "lo": 34.13767,
+            "poll_avg": 33.94545
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 96.11,
+            "forecast": 56.11334,
+            "hi": 61.58791,
+            "lo": 50.52882,
+            "poll_avg": 50.87215
+          },
+          "now": {
+            "winprob": 96.515,
+            "forecast": 56.14959,
+            "hi": 61.42237,
+            "lo": 50.85253,
+            "poll_avg": 51.15162
+          },
+          "polls": {
+            "winprob": 95.64,
+            "forecast": 56.30495,
+            "hi": 62.18684,
+            "lo": 50.39383,
+            "poll_avg": 50.9073
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 3.95,
+            "forecast": 40.17585,
+            "hi": 45.65378,
+            "lo": 34.6276,
+            "poll_avg": 33.73865
+          },
+          "now": {
+            "winprob": 3.5900000000000003,
+            "forecast": 40.20307,
+            "hi": 45.44133,
+            "lo": 34.97263,
+            "poll_avg": 33.98079
+          },
+          "polls": {
+            "winprob": 4.595,
+            "forecast": 39.93879,
+            "hi": 45.87144,
+            "lo": 34.09296,
+            "poll_avg": 33.68111
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 96.05,
+            "forecast": 56.06612,
+            "hi": 61.63313,
+            "lo": 50.4203,
+            "poll_avg": 50.60307
+          },
+          "now": {
+            "winprob": 96.41,
+            "forecast": 56.0913,
+            "hi": 61.49274,
+            "lo": 50.6259,
+            "poll_avg": 50.87333
+          },
+          "polls": {
+            "winprob": 95.405,
+            "forecast": 56.30612,
+            "hi": 62.37003,
+            "lo": 50.23839,
+            "poll_avg": 50.69961
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 3.7900000000000005,
+            "forecast": 39.83104,
+            "hi": 45.4271,
+            "lo": 34.29675,
+            "poll_avg": 33.15436
+          },
+          "now": {
+            "winprob": 3.17,
+            "forecast": 39.81021,
+            "hi": 45.15802,
+            "lo": 34.47872,
+            "poll_avg": 33.36287
+          },
+          "polls": {
+            "winprob": 4.295,
+            "forecast": 39.68045,
+            "hi": 45.58748,
+            "lo": 33.74876,
+            "poll_avg": 33.21977
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 96.21,
+            "forecast": 56.33034,
+            "hi": 62.03168,
+            "lo": 50.54799,
+            "poll_avg": 50.60436
+          },
+          "now": {
+            "winprob": 96.83,
+            "forecast": 56.37829,
+            "hi": 61.8211,
+            "lo": 50.88949,
+            "poll_avg": 50.73364
+          },
+          "polls": {
+            "winprob": 95.705,
+            "forecast": 56.48576,
+            "hi": 62.56051,
+            "lo": 50.35392,
+            "poll_avg": 50.56706
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 3.515,
+            "forecast": 39.68828,
+            "hi": 45.3059,
+            "lo": 34.07358,
+            "poll_avg": 32.95554
+          },
+          "now": {
+            "winprob": 3.085,
+            "forecast": 39.67418,
+            "hi": 45.04104,
+            "lo": 34.27318,
+            "poll_avg": 33.18348
+          },
+          "polls": {
+            "winprob": 4.2250000000000005,
+            "forecast": 39.5423,
+            "hi": 45.55158,
+            "lo": 33.60514,
+            "poll_avg": 32.98753
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 96.485,
+            "forecast": 56.44374,
+            "hi": 62.16704,
+            "lo": 50.69632,
+            "poll_avg": 50.58767
+          },
+          "now": {
+            "winprob": 96.91499999999999,
+            "forecast": 56.49937,
+            "hi": 61.89098,
+            "lo": 51.06265,
+            "poll_avg": 50.8365
+          },
+          "polls": {
+            "winprob": 95.775,
+            "forecast": 56.59334,
+            "hi": 62.62914,
+            "lo": 50.53479,
+            "poll_avg": 50.58059
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 3.8600000000000003,
+            "forecast": 39.74046,
+            "hi": 45.43148,
+            "lo": 34.09132,
+            "poll_avg": 32.65409
+          },
+          "now": {
+            "winprob": 3.245,
+            "forecast": 39.59037,
+            "hi": 45.00763,
+            "lo": 34.16991,
+            "poll_avg": 32.65946
+          },
+          "polls": {
+            "winprob": 4.62,
+            "forecast": 39.56744,
+            "hi": 45.73519,
+            "lo": 33.57944,
+            "poll_avg": 32.65273
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 96.14,
+            "forecast": 56.29438,
+            "hi": 62.10252,
+            "lo": 50.40886,
+            "poll_avg": 50.09523
+          },
+          "now": {
+            "winprob": 96.755,
+            "forecast": 56.44598,
+            "hi": 61.96059,
+            "lo": 50.84273,
+            "poll_avg": 50.32627
+          },
+          "polls": {
+            "winprob": 95.38,
+            "forecast": 56.46636,
+            "hi": 62.66371,
+            "lo": 50.16602,
+            "poll_avg": 50.08759
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 3.465,
+            "forecast": 39.19933,
+            "hi": 44.93792,
+            "lo": 33.51529,
+            "poll_avg": 30.7448
+          },
+          "now": {
+            "winprob": 3.205,
+            "forecast": 39.11066,
+            "hi": 44.71267,
+            "lo": 33.56691,
+            "poll_avg": 30.77117
+          },
+          "polls": {
+            "winprob": 4.265,
+            "forecast": 39.08894,
+            "hi": 45.27737,
+            "lo": 32.87022,
+            "poll_avg": 30.80498
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 96.53500000000001,
+            "forecast": 56.6235,
+            "hi": 62.55019,
+            "lo": 50.58472,
+            "poll_avg": 49.67057
+          },
+          "now": {
+            "winprob": 96.795,
+            "forecast": 56.68772,
+            "hi": 62.42862,
+            "lo": 50.76771,
+            "poll_avg": 49.81242
+          },
+          "polls": {
+            "winprob": 95.735,
+            "forecast": 56.74921,
+            "hi": 63.1432,
+            "lo": 50.36739,
+            "poll_avg": 49.75043
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 3.1199999999999997,
+            "forecast": 38.87388,
+            "hi": 44.68762,
+            "lo": 33.03064,
+            "poll_avg": 30.42359
+          },
+          "now": {
+            "winprob": 2.545,
+            "forecast": 38.53454,
+            "hi": 44.15469,
+            "lo": 32.96926,
+            "poll_avg": 30.18548
+          },
+          "polls": {
+            "winprob": 3.9800000000000004,
+            "forecast": 38.77325,
+            "hi": 44.98141,
+            "lo": 32.61051,
+            "poll_avg": 30.44371
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 96.88,
+            "forecast": 56.93979,
+            "hi": 62.90254,
+            "lo": 50.94131,
+            "poll_avg": 49.98174
+          },
+          "now": {
+            "winprob": 97.455,
+            "forecast": 57.24416,
+            "hi": 63.04984,
+            "lo": 51.42597,
+            "poll_avg": 50.37899
+          },
+          "polls": {
+            "winprob": 96.02000000000001,
+            "forecast": 57.04615,
+            "hi": 63.44997,
+            "lo": 50.67474,
+            "poll_avg": 50.01455
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 3.45,
+            "forecast": 38.93388,
+            "hi": 44.72543,
+            "lo": 33.13804,
+            "poll_avg": 30.46143
+          },
+          "now": {
+            "winprob": 2.665,
+            "forecast": 38.59737,
+            "hi": 44.17417,
+            "lo": 33.07273,
+            "poll_avg": 30.23286
+          },
+          "polls": {
+            "winprob": 3.94,
+            "forecast": 38.80022,
+            "hi": 45.1327,
+            "lo": 32.60865,
+            "poll_avg": 30.45552
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 96.55,
+            "forecast": 56.87912,
+            "hi": 62.78226,
+            "lo": 50.90797,
+            "poll_avg": 49.92732
+          },
+          "now": {
+            "winprob": 97.33500000000001,
+            "forecast": 57.17297,
+            "hi": 62.89737,
+            "lo": 51.27388,
+            "poll_avg": 50.26745
+          },
+          "polls": {
+            "winprob": 96.06,
+            "forecast": 57.01546,
+            "hi": 63.40625,
+            "lo": 50.56563,
+            "poll_avg": 49.96206
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 3.19,
+            "forecast": 38.90058,
+            "hi": 44.70028,
+            "lo": 33.13331,
+            "poll_avg": 30.46517
+          },
+          "now": {
+            "winprob": 2.625,
+            "forecast": 38.51966,
+            "hi": 44.14106,
+            "lo": 32.97011,
+            "poll_avg": 30.15697
+          },
+          "polls": {
+            "winprob": 4.035,
+            "forecast": 38.78189,
+            "hi": 44.9925,
+            "lo": 32.56543,
+            "poll_avg": 30.47721
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 96.81,
+            "forecast": 56.91818,
+            "hi": 62.86746,
+            "lo": 50.97189,
+            "poll_avg": 49.9811
+          },
+          "now": {
+            "winprob": 97.375,
+            "forecast": 57.24704,
+            "hi": 62.98612,
+            "lo": 51.34983,
+            "poll_avg": 50.35381
+          },
+          "polls": {
+            "winprob": 95.965,
+            "forecast": 57.04033,
+            "hi": 63.35732,
+            "lo": 50.56312,
+            "poll_avg": 50.00105
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 3.5999999999999996,
+            "forecast": 39.24223,
+            "hi": 45.09363,
+            "lo": 33.45058,
+            "poll_avg": 30.70475
+          },
+          "now": {
+            "winprob": 2.78,
+            "forecast": 38.82687,
+            "hi": 44.43825,
+            "lo": 33.32628,
+            "poll_avg": 30.455
+          },
+          "polls": {
+            "winprob": 4.49,
+            "forecast": 39.13451,
+            "hi": 45.44208,
+            "lo": 32.90665,
+            "poll_avg": 30.70945
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 96.39999999999999,
+            "forecast": 56.56438,
+            "hi": 62.53578,
+            "lo": 50.53118,
+            "poll_avg": 49.55645
+          },
+          "now": {
+            "winprob": 97.22,
+            "forecast": 56.94085,
+            "hi": 62.62738,
+            "lo": 51.11304,
+            "poll_avg": 50.0204
+          },
+          "polls": {
+            "winprob": 95.50999999999999,
+            "forecast": 56.67017,
+            "hi": 63.05079,
+            "lo": 50.21135,
+            "poll_avg": 49.53098
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 4.015,
+            "forecast": 39.41915,
+            "hi": 45.28033,
+            "lo": 33.54346,
+            "poll_avg": 30.7291
+          },
+          "now": {
+            "winprob": 3.2849999999999997,
+            "forecast": 39.09119,
+            "hi": 44.72913,
+            "lo": 33.50054,
+            "poll_avg": 30.57224
+          },
+          "polls": {
+            "winprob": 4.745,
+            "forecast": 39.29748,
+            "hi": 45.62659,
+            "lo": 32.97763,
+            "poll_avg": 30.73921
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 95.985,
+            "forecast": 56.35978,
+            "hi": 62.3519,
+            "lo": 50.30509,
+            "poll_avg": 49.24488
+          },
+          "now": {
+            "winprob": 96.71499999999999,
+            "forecast": 56.64501,
+            "hi": 62.43311,
+            "lo": 50.8052,
+            "poll_avg": 49.6062
+          },
+          "polls": {
+            "winprob": 95.255,
+            "forecast": 56.4837,
+            "hi": 62.90254,
+            "lo": 49.89901,
+            "poll_avg": 49.25504
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 4.16,
+            "forecast": 39.43873,
+            "hi": 45.4086,
+            "lo": 33.47098,
+            "poll_avg": 30.60005
+          },
+          "now": {
+            "winprob": 3.7350000000000003,
+            "forecast": 39.39148,
+            "hi": 45.14093,
+            "lo": 33.64586,
+            "poll_avg": 30.56528
+          },
+          "polls": {
+            "winprob": 5.09,
+            "forecast": 39.31514,
+            "hi": 45.72438,
+            "lo": 32.91534,
+            "poll_avg": 30.60524
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 95.84,
+            "forecast": 56.27831,
+            "hi": 62.39026,
+            "lo": 50.04561,
+            "poll_avg": 48.77933
+          },
+          "now": {
+            "winprob": 96.265,
+            "forecast": 56.24296,
+            "hi": 62.16342,
+            "lo": 50.26381,
+            "poll_avg": 48.69194
+          },
+          "polls": {
+            "winprob": 94.91000000000001,
+            "forecast": 56.40823,
+            "hi": 62.96911,
+            "lo": 49.84782,
+            "poll_avg": 48.83702
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 3.9899999999999998,
+            "forecast": 39.50795,
+            "hi": 45.41161,
+            "lo": 33.59393,
+            "poll_avg": 30.6666
+          },
+          "now": {
+            "winprob": 3.925,
+            "forecast": 39.60764,
+            "hi": 45.23186,
+            "lo": 33.95313,
+            "poll_avg": 30.79289
+          },
+          "polls": {
+            "winprob": 4.99,
+            "forecast": 39.38552,
+            "hi": 45.7439,
+            "lo": 33.14133,
+            "poll_avg": 30.6983
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 96.00999999999999,
+            "forecast": 56.2412,
+            "hi": 62.26472,
+            "lo": 50.10131,
+            "poll_avg": 49.02145
+          },
+          "now": {
+            "winprob": 96.075,
+            "forecast": 56.06559,
+            "hi": 61.85397,
+            "lo": 50.1472,
+            "poll_avg": 48.80228
+          },
+          "polls": {
+            "winprob": 95.00999999999999,
+            "forecast": 56.37228,
+            "hi": 62.83201,
+            "lo": 49.83183,
+            "poll_avg": 49.06937
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 3.795,
+            "forecast": 39.13477,
+            "hi": 45.05926,
+            "lo": 33.26305,
+            "poll_avg": 30.19427
+          },
+          "now": {
+            "winprob": 3.63,
+            "forecast": 39.17962,
+            "hi": 44.92939,
+            "lo": 33.5378,
+            "poll_avg": 30.27886
+          },
+          "polls": {
+            "winprob": 4.565,
+            "forecast": 38.99551,
+            "hi": 45.46115,
+            "lo": 32.69691,
+            "poll_avg": 30.21791
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 96.205,
+            "forecast": 56.57475,
+            "hi": 62.63381,
+            "lo": 50.36082,
+            "poll_avg": 49.21345
+          },
+          "now": {
+            "winprob": 96.37,
+            "forecast": 56.45091,
+            "hi": 62.25867,
+            "lo": 50.44897,
+            "poll_avg": 49.07111
+          },
+          "polls": {
+            "winprob": 95.435,
+            "forecast": 56.72683,
+            "hi": 63.22247,
+            "lo": 50.07588,
+            "poll_avg": 49.31374
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 3.44,
+            "forecast": 38.96783,
+            "hi": 44.80524,
+            "lo": 33.15485,
+            "poll_avg": 30.35202
+          },
+          "now": {
+            "winprob": 2.98,
+            "forecast": 38.98083,
+            "hi": 44.51837,
+            "lo": 33.34867,
+            "poll_avg": 30.44012
+          },
+          "polls": {
+            "winprob": 4.15,
+            "forecast": 38.84402,
+            "hi": 45.23259,
+            "lo": 32.62495,
+            "poll_avg": 30.34267
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 96.56,
+            "forecast": 56.82874,
+            "hi": 62.87163,
+            "lo": 50.82717,
+            "poll_avg": 49.89816
+          },
+          "now": {
+            "winprob": 97.02,
+            "forecast": 56.75364,
+            "hi": 62.39295,
+            "lo": 51.01054,
+            "poll_avg": 49.86217
+          },
+          "polls": {
+            "winprob": 95.85000000000001,
+            "forecast": 56.94888,
+            "hi": 63.34302,
+            "lo": 50.41563,
+            "poll_avg": 49.87274
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 3.5000000000000004,
+            "forecast": 38.87413,
+            "hi": 44.82374,
+            "lo": 32.975,
+            "poll_avg": 30.25751
+          },
+          "now": {
+            "winprob": 2.785,
+            "forecast": 38.79776,
+            "hi": 44.4001,
+            "lo": 33.26815,
+            "poll_avg": 30.30289
+          },
+          "polls": {
+            "winprob": 3.9,
+            "forecast": 38.72057,
+            "hi": 45.00522,
+            "lo": 32.41315,
+            "poll_avg": 30.25945
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 96.5,
+            "forecast": 56.92262,
+            "hi": 62.9645,
+            "lo": 50.75893,
+            "poll_avg": 50.01888
+          },
+          "now": {
+            "winprob": 97.21499999999999,
+            "forecast": 56.94457,
+            "hi": 62.61375,
+            "lo": 51.11195,
+            "poll_avg": 50.1304
+          },
+          "polls": {
+            "winprob": 96.1,
+            "forecast": 57.08347,
+            "hi": 63.54423,
+            "lo": 50.64486,
+            "poll_avg": 50.09046
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 3.53,
+            "forecast": 38.994,
+            "hi": 44.90475,
+            "lo": 33.11658,
+            "poll_avg": 30.29733
+          },
+          "now": {
+            "winprob": 3.075,
+            "forecast": 38.94321,
+            "hi": 44.564,
+            "lo": 33.40112,
+            "poll_avg": 30.31553
+          },
+          "polls": {
+            "winprob": 4.205,
+            "forecast": 38.83961,
+            "hi": 45.14835,
+            "lo": 32.47731,
+            "poll_avg": 30.27255
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 96.47,
+            "forecast": 56.78139,
+            "hi": 62.81444,
+            "lo": 50.60493,
+            "poll_avg": 49.75211
+          },
+          "now": {
+            "winprob": 96.925,
+            "forecast": 56.75714,
+            "hi": 62.40623,
+            "lo": 50.90977,
+            "poll_avg": 49.75615
+          },
+          "polls": {
+            "winprob": 95.795,
+            "forecast": 56.9404,
+            "hi": 63.41679,
+            "lo": 50.41547,
+            "poll_avg": 49.83028
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 3.175,
+            "forecast": 38.55796,
+            "hi": 44.53288,
+            "lo": 32.64659,
+            "poll_avg": 29.63262
+          },
+          "now": {
+            "winprob": 2.8850000000000002,
+            "forecast": 38.50231,
+            "hi": 44.21817,
+            "lo": 32.85197,
+            "poll_avg": 29.57032
+          },
+          "polls": {
+            "winprob": 4.1000000000000005,
+            "forecast": 38.46154,
+            "hi": 44.94559,
+            "lo": 32.09904,
+            "poll_avg": 29.6235
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 96.825,
+            "forecast": 57.13953,
+            "hi": 63.21144,
+            "lo": 51.00336,
+            "poll_avg": 49.798
+          },
+          "now": {
+            "winprob": 97.115,
+            "forecast": 57.09069,
+            "hi": 62.93061,
+            "lo": 51.19066,
+            "poll_avg": 49.72136
+          },
+          "polls": {
+            "winprob": 95.89999999999999,
+            "forecast": 57.23174,
+            "hi": 63.8147,
+            "lo": 50.53378,
+            "poll_avg": 49.76673
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 3.1649999999999996,
+            "forecast": 38.56278,
+            "hi": 44.46041,
+            "lo": 32.7063,
+            "poll_avg": 29.82122
+          },
+          "now": {
+            "winprob": 2.87,
+            "forecast": 38.54304,
+            "hi": 44.15811,
+            "lo": 32.87096,
+            "poll_avg": 29.79385
+          },
+          "polls": {
+            "winprob": 3.9849999999999994,
+            "forecast": 38.46431,
+            "hi": 44.84383,
+            "lo": 32.03148,
+            "poll_avg": 29.82326
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 96.83500000000001,
+            "forecast": 57.14882,
+            "hi": 63.11937,
+            "lo": 50.9917,
+            "poll_avg": 49.70383
+          },
+          "now": {
+            "winprob": 97.13000000000001,
+            "forecast": 57.05724,
+            "hi": 62.80084,
+            "lo": 51.21826,
+            "poll_avg": 49.54238
+          },
+          "polls": {
+            "winprob": 96.015,
+            "forecast": 57.24386,
+            "hi": 63.84002,
+            "lo": 50.65637,
+            "poll_avg": 49.66647
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 3.01,
+            "forecast": 38.41961,
+            "hi": 44.30951,
+            "lo": 32.55676,
+            "poll_avg": 29.86048
+          },
+          "now": {
+            "winprob": 2.22,
+            "forecast": 38.06899,
+            "hi": 43.63007,
+            "lo": 32.54063,
+            "poll_avg": 29.60981
+          },
+          "polls": {
+            "winprob": 3.94,
+            "forecast": 38.36691,
+            "hi": 44.83082,
+            "lo": 31.9664,
+            "poll_avg": 29.84921
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 96.99,
+            "forecast": 57.31832,
+            "hi": 63.38284,
+            "lo": 51.19192,
+            "poll_avg": 49.92164
+          },
+          "now": {
+            "winprob": 97.78,
+            "forecast": 57.5837,
+            "hi": 63.32092,
+            "lo": 51.74612,
+            "poll_avg": 50.27372
+          },
+          "polls": {
+            "winprob": 96.06,
+            "forecast": 57.36411,
+            "hi": 63.90083,
+            "lo": 50.68795,
+            "poll_avg": 49.86565
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 2.8049999999999997,
+            "forecast": 38.33376,
+            "hi": 44.19395,
+            "lo": 32.45743,
+            "poll_avg": 30.02254
+          },
+          "now": {
+            "winprob": 2.02,
+            "forecast": 37.94064,
+            "hi": 43.3739,
+            "lo": 32.48821,
+            "poll_avg": 29.86504
+          },
+          "polls": {
+            "winprob": 3.755,
+            "forecast": 38.27069,
+            "hi": 44.57734,
+            "lo": 31.97259,
+            "poll_avg": 30.04103
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 97.195,
+            "forecast": 57.45673,
+            "hi": 63.39556,
+            "lo": 51.37427,
+            "poll_avg": 50.251
+          },
+          "now": {
+            "winprob": 97.98,
+            "forecast": 57.79545,
+            "hi": 63.37132,
+            "lo": 52.04291,
+            "poll_avg": 50.74079
+          },
+          "polls": {
+            "winprob": 96.245,
+            "forecast": 57.5183,
+            "hi": 63.9735,
+            "lo": 50.92075,
+            "poll_avg": 50.21259
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 3.0949999999999998,
+            "forecast": 38.61892,
+            "hi": 44.58627,
+            "lo": 32.66929,
+            "poll_avg": 30.11422
+          },
+          "now": {
+            "winprob": 2.42,
+            "forecast": 38.38751,
+            "hi": 43.87124,
+            "lo": 32.87977,
+            "poll_avg": 30.10892
+          },
+          "polls": {
+            "winprob": 3.94,
+            "forecast": 38.52259,
+            "hi": 44.93499,
+            "lo": 32.23078,
+            "poll_avg": 30.14288
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 96.905,
+            "forecast": 57.14631,
+            "hi": 63.22242,
+            "lo": 51.02047,
+            "poll_avg": 49.87943
+          },
+          "now": {
+            "winprob": 97.58,
+            "forecast": 57.31927,
+            "hi": 62.97423,
+            "lo": 51.53767,
+            "poll_avg": 50.20228
+          },
+          "polls": {
+            "winprob": 96.06,
+            "forecast": 57.25256,
+            "hi": 63.75189,
+            "lo": 50.53331,
+            "poll_avg": 49.94403
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 2.98,
+            "forecast": 38.39281,
+            "hi": 44.32661,
+            "lo": 32.58792,
+            "poll_avg": 29.91484
+          },
+          "now": {
+            "winprob": 1.9349999999999998,
+            "forecast": 37.91219,
+            "hi": 43.35875,
+            "lo": 32.46566,
+            "poll_avg": 29.78877
+          },
+          "polls": {
+            "winprob": 3.71,
+            "forecast": 38.28985,
+            "hi": 44.69323,
+            "lo": 31.85659,
+            "poll_avg": 29.9279
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 97.02,
+            "forecast": 57.37637,
+            "hi": 63.32165,
+            "lo": 51.24062,
+            "poll_avg": 50.17029
+          },
+          "now": {
+            "winprob": 98.065,
+            "forecast": 57.81475,
+            "hi": 63.47562,
+            "lo": 52.06968,
+            "poll_avg": 50.80212
+          },
+          "polls": {
+            "winprob": 96.28999999999999,
+            "forecast": 57.48461,
+            "hi": 64.0399,
+            "lo": 50.84495,
+            "poll_avg": 50.20744
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 2.87,
+            "forecast": 38.37453,
+            "hi": 44.28731,
+            "lo": 32.51427,
+            "poll_avg": 29.90151
+          },
+          "now": {
+            "winprob": 1.905,
+            "forecast": 37.78271,
+            "hi": 43.20357,
+            "lo": 32.25516,
+            "poll_avg": 29.68242
+          },
+          "polls": {
+            "winprob": 3.655,
+            "forecast": 38.28361,
+            "hi": 44.69118,
+            "lo": 31.9147,
+            "poll_avg": 29.94234
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 97.13000000000001,
+            "forecast": 57.39491,
+            "hi": 63.42178,
+            "lo": 51.24641,
+            "poll_avg": 50.18972
+          },
+          "now": {
+            "winprob": 98.095,
+            "forecast": 57.94149,
+            "hi": 63.53986,
+            "lo": 52.29554,
+            "poll_avg": 50.93293
+          },
+          "polls": {
+            "winprob": 96.345,
+            "forecast": 57.49322,
+            "hi": 64.00923,
+            "lo": 50.92604,
+            "poll_avg": 50.21337
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 3.3649999999999998,
+            "forecast": 38.82707,
+            "hi": 44.72299,
+            "lo": 32.88021,
+            "poll_avg": 30.30368
+          },
+          "now": {
+            "winprob": 2.685,
+            "forecast": 38.74929,
+            "hi": 44.23313,
+            "lo": 33.2485,
+            "poll_avg": 30.46629
+          },
+          "polls": {
+            "winprob": 4.01,
+            "forecast": 38.76348,
+            "hi": 45.1543,
+            "lo": 32.44173,
+            "poll_avg": 30.30832
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 96.635,
+            "forecast": 56.93917,
+            "hi": 63.00971,
+            "lo": 50.84766,
+            "poll_avg": 49.65138
+          },
+          "now": {
+            "winprob": 97.315,
+            "forecast": 56.95044,
+            "hi": 62.68346,
+            "lo": 51.14405,
+            "poll_avg": 49.77839
+          },
+          "polls": {
+            "winprob": 95.99,
+            "forecast": 57.00177,
+            "hi": 63.51238,
+            "lo": 50.49383,
+            "poll_avg": 49.63544
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 3.615,
+            "forecast": 38.93407,
+            "hi": 44.92147,
+            "lo": 33.00659,
+            "poll_avg": 30.31826
+          },
+          "now": {
+            "winprob": 2.8000000000000003,
+            "forecast": 38.9174,
+            "hi": 44.41532,
+            "lo": 33.43366,
+            "poll_avg": 30.51417
+          },
+          "polls": {
+            "winprob": 4.445,
+            "forecast": 38.87273,
+            "hi": 45.2617,
+            "lo": 32.41772,
+            "poll_avg": 30.31578
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 96.385,
+            "forecast": 56.81183,
+            "hi": 63.00194,
+            "lo": 50.5892,
+            "poll_avg": 49.42665
+          },
+          "now": {
+            "winprob": 97.2,
+            "forecast": 56.74833,
+            "hi": 62.40137,
+            "lo": 50.9669,
+            "poll_avg": 49.44419
+          },
+          "polls": {
+            "winprob": 95.555,
+            "forecast": 56.87004,
+            "hi": 63.52891,
+            "lo": 50.21749,
+            "poll_avg": 49.39798
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 3.61,
+            "forecast": 38.75368,
+            "hi": 44.74615,
+            "lo": 32.79291,
+            "poll_avg": 29.88533
+          },
+          "now": {
+            "winprob": 2.765,
+            "forecast": 38.73736,
+            "hi": 44.3373,
+            "lo": 33.15392,
+            "poll_avg": 30.01482
+          },
+          "polls": {
+            "winprob": 4.32,
+            "forecast": 38.674,
+            "hi": 45.24649,
+            "lo": 32.26089,
+            "poll_avg": 29.89693
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 96.39,
+            "forecast": 56.92693,
+            "hi": 63.05428,
+            "lo": 50.75014,
+            "poll_avg": 49.30882
+          },
+          "now": {
+            "winprob": 97.235,
+            "forecast": 56.83828,
+            "hi": 62.56859,
+            "lo": 51.05794,
+            "poll_avg": 49.28636
+          },
+          "polls": {
+            "winprob": 95.67999999999999,
+            "forecast": 57.01057,
+            "hi": 63.61288,
+            "lo": 50.28174,
+            "poll_avg": 49.33432
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 3.215,
+            "forecast": 38.43383,
+            "hi": 44.49337,
+            "lo": 32.45422,
+            "poll_avg": 29.43027
+          },
+          "now": {
+            "winprob": 2.605,
+            "forecast": 38.17997,
+            "hi": 43.85594,
+            "lo": 32.51353,
+            "poll_avg": 29.21978
+          },
+          "polls": {
+            "winprob": 4.115,
+            "forecast": 38.34238,
+            "hi": 44.91224,
+            "lo": 31.84179,
+            "poll_avg": 29.44915
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 96.785,
+            "forecast": 57.20623,
+            "hi": 63.43901,
+            "lo": 50.88624,
+            "poll_avg": 49.46995
+          },
+          "now": {
+            "winprob": 97.395,
+            "forecast": 57.30937,
+            "hi": 63.16468,
+            "lo": 51.42375,
+            "poll_avg": 49.52853
+          },
+          "polls": {
+            "winprob": 95.88499999999999,
+            "forecast": 57.30159,
+            "hi": 64.01315,
+            "lo": 50.52102,
+            "poll_avg": 49.48574
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 3.3649999999999998,
+            "forecast": 38.4698,
+            "hi": 44.5256,
+            "lo": 32.38172,
+            "poll_avg": 29.44224
+          },
+          "now": {
+            "winprob": 2.545,
+            "forecast": 38.15398,
+            "hi": 43.77835,
+            "lo": 32.53382,
+            "poll_avg": 29.21889
+          },
+          "polls": {
+            "winprob": 3.9149999999999996,
+            "forecast": 38.3527,
+            "hi": 44.93705,
+            "lo": 31.90318,
+            "poll_avg": 29.44673
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 96.635,
+            "forecast": 57.16805,
+            "hi": 63.40302,
+            "lo": 50.87334,
+            "poll_avg": 49.43229
+          },
+          "now": {
+            "winprob": 97.455,
+            "forecast": 57.33212,
+            "hi": 63.20238,
+            "lo": 51.42463,
+            "poll_avg": 49.5321
+          },
+          "polls": {
+            "winprob": 96.085,
+            "forecast": 57.29248,
+            "hi": 63.95683,
+            "lo": 50.46554,
+            "poll_avg": 49.50107
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 3.405,
+            "forecast": 38.46484,
+            "hi": 44.59937,
+            "lo": 32.46795,
+            "poll_avg": 29.44781
+          },
+          "now": {
+            "winprob": 2.455,
+            "forecast": 38.16809,
+            "hi": 43.78124,
+            "lo": 32.54122,
+            "poll_avg": 29.19729
+          },
+          "polls": {
+            "winprob": 3.9149999999999996,
+            "forecast": 38.3527,
+            "hi": 44.93705,
+            "lo": 31.90318,
+            "poll_avg": 29.44673
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 96.595,
+            "forecast": 57.17704,
+            "hi": 63.45359,
+            "lo": 50.90252,
+            "poll_avg": 49.46625
+          },
+          "now": {
+            "winprob": 97.545,
+            "forecast": 57.30701,
+            "hi": 63.10007,
+            "lo": 51.45096,
+            "poll_avg": 49.49318
+          },
+          "polls": {
+            "winprob": 96.085,
+            "forecast": 57.29248,
+            "hi": 63.95683,
+            "lo": 50.46554,
+            "poll_avg": 49.50107
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 4.22,
+            "forecast": 39.15278,
+            "hi": 45.28535,
+            "lo": 33.08736,
+            "poll_avg": 30.13433
+          },
+          "now": {
+            "winprob": 3.435,
+            "forecast": 39.15309,
+            "hi": 44.85558,
+            "lo": 33.4372,
+            "poll_avg": 30.17143
+          },
+          "polls": {
+            "winprob": 5.244999999999999,
+            "forecast": 39.07314,
+            "hi": 45.7209,
+            "lo": 32.60382,
+            "poll_avg": 30.1593
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 95.78,
+            "forecast": 56.50563,
+            "hi": 62.77462,
+            "lo": 50.15455,
+            "poll_avg": 48.77031
+          },
+          "now": {
+            "winprob": 96.565,
+            "forecast": 56.33544,
+            "hi": 62.1722,
+            "lo": 50.51315,
+            "poll_avg": 48.45109
+          },
+          "polls": {
+            "winprob": 94.755,
+            "forecast": 56.58855,
+            "hi": 63.17836,
+            "lo": 49.73451,
+            "poll_avg": 48.77216
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 3.895,
+            "forecast": 38.99539,
+            "hi": 45.06731,
+            "lo": 33.02513,
+            "poll_avg": 30.19887
+          },
+          "now": {
+            "winprob": 2.8649999999999998,
+            "forecast": 38.89706,
+            "hi": 44.56492,
+            "lo": 33.27915,
+            "poll_avg": 30.14753
+          },
+          "polls": {
+            "winprob": 4.74,
+            "forecast": 38.89446,
+            "hi": 45.43436,
+            "lo": 32.40753,
+            "poll_avg": 30.18171
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 96.10499999999999,
+            "forecast": 56.71439,
+            "hi": 62.8151,
+            "lo": 50.47038,
+            "poll_avg": 49.2103
+          },
+          "now": {
+            "winprob": 97.135,
+            "forecast": 56.65099,
+            "hi": 62.37882,
+            "lo": 50.94294,
+            "poll_avg": 49.02809
+          },
+          "polls": {
+            "winprob": 95.26,
+            "forecast": 56.81364,
+            "hi": 63.40116,
+            "lo": 50.08641,
+            "poll_avg": 49.21494
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 3.54,
+            "forecast": 38.65099,
+            "hi": 44.6898,
+            "lo": 32.69249,
+            "poll_avg": 29.92292
+          },
+          "now": {
+            "winprob": 2.4899999999999998,
+            "forecast": 38.39424,
+            "hi": 43.90958,
+            "lo": 32.88169,
+            "poll_avg": 29.6938
+          },
+          "polls": {
+            "winprob": 4.255,
+            "forecast": 38.5855,
+            "hi": 45.05747,
+            "lo": 32.03797,
+            "poll_avg": 29.90069
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 96.46000000000001,
+            "forecast": 57.0455,
+            "hi": 63.21902,
+            "lo": 50.75922,
+            "poll_avg": 49.42261
+          },
+          "now": {
+            "winprob": 97.50999999999999,
+            "forecast": 57.12757,
+            "hi": 62.89236,
+            "lo": 51.30405,
+            "poll_avg": 49.38359
+          },
+          "polls": {
+            "winprob": 95.745,
+            "forecast": 57.10261,
+            "hi": 63.75182,
+            "lo": 50.38155,
+            "poll_avg": 49.36554
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 8.615,
+            "forecast": 40.5427,
+            "hi": 47.46555,
+            "lo": 33.74156,
+            "poll_avg": 31.36298
+          },
+          "now": {
+            "winprob": 8.27,
+            "forecast": 40.70215,
+            "hi": 47.18198,
+            "lo": 34.25558,
+            "poll_avg": 31.39285
+          },
+          "polls": {
+            "winprob": 10.375,
+            "forecast": 40.63726,
+            "hi": 47.97742,
+            "lo": 33.34937,
+            "poll_avg": 31.34723
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 91.385,
+            "forecast": 54.885,
+            "hi": 61.88752,
+            "lo": 47.88052,
+            "poll_avg": 44.64874
+          },
+          "now": {
+            "winprob": 91.73,
+            "forecast": 54.46535,
+            "hi": 61.09192,
+            "lo": 47.7673,
+            "poll_avg": 44.0778
+          },
+          "polls": {
+            "winprob": 89.625,
+            "forecast": 54.78331,
+            "hi": 62.2353,
+            "lo": 47.22424,
+            "poll_avg": 44.59475
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 8.37,
+            "forecast": 40.37515,
+            "hi": 47.17093,
+            "lo": 33.5563,
+            "poll_avg": 31.14778
+          },
+          "now": {
+            "winprob": 7.7700000000000005,
+            "forecast": 40.37599,
+            "hi": 46.94174,
+            "lo": 33.88854,
+            "poll_avg": 30.96179
+          },
+          "polls": {
+            "winprob": 9.795,
+            "forecast": 40.45298,
+            "hi": 47.79904,
+            "lo": 33.10308,
+            "poll_avg": 31.14961
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 91.63,
+            "forecast": 55.05256,
+            "hi": 61.97763,
+            "lo": 47.97959,
+            "poll_avg": 44.92073
+          },
+          "now": {
+            "winprob": 92.23,
+            "forecast": 54.75967,
+            "hi": 61.34909,
+            "lo": 47.98441,
+            "poll_avg": 44.36862
+          },
+          "polls": {
+            "winprob": 90.205,
+            "forecast": 54.97455,
+            "hi": 62.3712,
+            "lo": 47.52053,
+            "poll_avg": 44.91651
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 9.145,
+            "forecast": 40.69869,
+            "hi": 47.58723,
+            "lo": 33.83832,
+            "poll_avg": 31.68974
+          },
+          "now": {
+            "winprob": 9.775,
+            "forecast": 41.20242,
+            "hi": 47.74538,
+            "lo": 34.72216,
+            "poll_avg": 31.91455
+          },
+          "polls": {
+            "winprob": 10.290000000000001,
+            "forecast": 40.76716,
+            "hi": 48.04093,
+            "lo": 33.47913,
+            "poll_avg": 31.62486
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 90.85499999999999,
+            "forecast": 54.76823,
+            "hi": 61.71547,
+            "lo": 47.74534,
+            "poll_avg": 44.64219
+          },
+          "now": {
+            "winprob": 90.225,
+            "forecast": 53.97551,
+            "hi": 60.49953,
+            "lo": 47.2217,
+            "poll_avg": 43.61589
+          },
+          "polls": {
+            "winprob": 89.71000000000001,
+            "forecast": 54.68696,
+            "hi": 62.0644,
+            "lo": 47.24038,
+            "poll_avg": 44.59154
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 9.025,
+            "forecast": 40.68466,
+            "hi": 47.57631,
+            "lo": 33.91768,
+            "poll_avg": 31.69025
+          },
+          "now": {
+            "winprob": 9.475,
+            "forecast": 41.21704,
+            "hi": 47.70621,
+            "lo": 34.74175,
+            "poll_avg": 31.95098
+          },
+          "polls": {
+            "winprob": 10.555,
+            "forecast": 40.81755,
+            "hi": 48.10726,
+            "lo": 33.59019,
+            "poll_avg": 31.68584
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 90.975,
+            "forecast": 54.78461,
+            "hi": 61.74591,
+            "lo": 47.76216,
+            "poll_avg": 44.66585
+          },
+          "now": {
+            "winprob": 90.525,
+            "forecast": 53.96156,
+            "hi": 60.5165,
+            "lo": 47.38733,
+            "poll_avg": 43.61922
+          },
+          "polls": {
+            "winprob": 89.445,
+            "forecast": 54.64375,
+            "hi": 61.95937,
+            "lo": 47.21635,
+            "poll_avg": 44.5889
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 8.9,
+            "forecast": 40.64497,
+            "hi": 47.45728,
+            "lo": 33.77869,
+            "poll_avg": 31.69682
+          },
+          "now": {
+            "winprob": 9.07,
+            "forecast": 40.98529,
+            "hi": 47.4816,
+            "lo": 34.57477,
+            "poll_avg": 31.81855
+          },
+          "polls": {
+            "winprob": 10.495000000000001,
+            "forecast": 40.75568,
+            "hi": 48.07368,
+            "lo": 33.51515,
+            "poll_avg": 31.59839
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 91.10000000000001,
+            "forecast": 54.80297,
+            "hi": 61.76178,
+            "lo": 47.81513,
+            "poll_avg": 44.43668
+          },
+          "now": {
+            "winprob": 90.93,
+            "forecast": 54.1555,
+            "hi": 60.70373,
+            "lo": 47.47023,
+            "poll_avg": 43.49531
+          },
+          "polls": {
+            "winprob": 89.505,
+            "forecast": 54.66927,
+            "hi": 62.05096,
+            "lo": 47.22187,
+            "poll_avg": 44.32288
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 8.555,
+            "forecast": 40.50973,
+            "hi": 47.34985,
+            "lo": 33.67191,
+            "poll_avg": 31.51654
+          },
+          "now": {
+            "winprob": 8.27,
+            "forecast": 40.76286,
+            "hi": 47.15059,
+            "lo": 34.38978,
+            "poll_avg": 31.61029
+          },
+          "polls": {
+            "winprob": 10.125,
+            "forecast": 40.63381,
+            "hi": 47.95081,
+            "lo": 33.35243,
+            "poll_avg": 31.48677
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 91.445,
+            "forecast": 54.95119,
+            "hi": 61.82407,
+            "lo": 47.90619,
+            "poll_avg": 44.79882
+          },
+          "now": {
+            "winprob": 91.73,
+            "forecast": 54.40501,
+            "hi": 60.94044,
+            "lo": 47.83516,
+            "poll_avg": 44.025
+          },
+          "polls": {
+            "winprob": 89.875,
+            "forecast": 54.81144,
+            "hi": 62.21837,
+            "lo": 47.2587,
+            "poll_avg": 44.67414
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 8.58,
+            "forecast": 40.62119,
+            "hi": 47.36163,
+            "lo": 33.82741,
+            "poll_avg": 31.82939
+          },
+          "now": {
+            "winprob": 7.715,
+            "forecast": 40.71318,
+            "hi": 47.0344,
+            "lo": 34.44617,
+            "poll_avg": 31.85476
+          },
+          "polls": {
+            "winprob": 9.934999999999999,
+            "forecast": 40.72213,
+            "hi": 47.9473,
+            "lo": 33.54204,
+            "poll_avg": 31.83773
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 91.42,
+            "forecast": 54.9073,
+            "hi": 61.70828,
+            "lo": 47.89043,
+            "poll_avg": 45.10354
+          },
+          "now": {
+            "winprob": 92.285,
+            "forecast": 54.55124,
+            "hi": 60.96799,
+            "lo": 48.11788,
+            "poll_avg": 44.59762
+          },
+          "polls": {
+            "winprob": 90.065,
+            "forecast": 54.80487,
+            "hi": 62.14725,
+            "lo": 47.53659,
+            "poll_avg": 45.07754
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 8.48,
+            "forecast": 40.59109,
+            "hi": 47.40868,
+            "lo": 33.92162,
+            "poll_avg": 31.88387
+          },
+          "now": {
+            "winprob": 7.5649999999999995,
+            "forecast": 40.89814,
+            "hi": 46.98815,
+            "lo": 34.86098,
+            "poll_avg": 32.41194
+          },
+          "polls": {
+            "winprob": 10.100000000000001,
+            "forecast": 40.69717,
+            "hi": 47.90408,
+            "lo": 33.57511,
+            "poll_avg": 31.85168
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 91.52,
+            "forecast": 54.96579,
+            "hi": 61.84805,
+            "lo": 48.06062,
+            "poll_avg": 45.32882
+          },
+          "now": {
+            "winprob": 92.435,
+            "forecast": 54.49313,
+            "hi": 60.76536,
+            "lo": 48.14814,
+            "poll_avg": 45.04336
+          },
+          "polls": {
+            "winprob": 89.9,
+            "forecast": 54.84914,
+            "hi": 62.08775,
+            "lo": 47.40231,
+            "poll_avg": 45.26004
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 8.52,
+            "forecast": 40.60595,
+            "hi": 47.3882,
+            "lo": 33.89613,
+            "poll_avg": 31.87908
+          },
+          "now": {
+            "winprob": 7.489999999999999,
+            "forecast": 40.91065,
+            "hi": 47.01619,
+            "lo": 34.80728,
+            "poll_avg": 32.47425
+          },
+          "polls": {
+            "winprob": 10.100000000000001,
+            "forecast": 40.69717,
+            "hi": 47.90408,
+            "lo": 33.57511,
+            "poll_avg": 31.85168
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 91.47999999999999,
+            "forecast": 54.95092,
+            "hi": 61.78698,
+            "lo": 48.00986,
+            "poll_avg": 45.33472
+          },
+          "now": {
+            "winprob": 92.51,
+            "forecast": 54.48944,
+            "hi": 60.71891,
+            "lo": 48.23032,
+            "poll_avg": 45.0773
+          },
+          "polls": {
+            "winprob": 89.9,
+            "forecast": 54.84914,
+            "hi": 62.08775,
+            "lo": 47.40231,
+            "poll_avg": 45.26004
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 8.450000000000001,
+            "forecast": 40.59929,
+            "hi": 47.35993,
+            "lo": 33.95309,
+            "poll_avg": 31.88888
+          },
+          "now": {
+            "winprob": 7.745,
+            "forecast": 40.91363,
+            "hi": 47.0826,
+            "lo": 34.71161,
+            "poll_avg": 32.40666
+          },
+          "polls": {
+            "winprob": 9.9,
+            "forecast": 40.71158,
+            "hi": 47.89178,
+            "lo": 33.63316,
+            "poll_avg": 31.8662
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 91.55,
+            "forecast": 54.95599,
+            "hi": 61.77352,
+            "lo": 48.01154,
+            "poll_avg": 45.30596
+          },
+          "now": {
+            "winprob": 92.255,
+            "forecast": 54.46322,
+            "hi": 60.79855,
+            "lo": 48.15321,
+            "poll_avg": 44.99601
+          },
+          "polls": {
+            "winprob": 90.10000000000001,
+            "forecast": 54.83658,
+            "hi": 62.1512,
+            "lo": 47.55665,
+            "poll_avg": 45.26083
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 8.195,
+            "forecast": 40.59163,
+            "hi": 47.27088,
+            "lo": 33.91988,
+            "poll_avg": 31.90399
+          },
+          "now": {
+            "winprob": 7.64,
+            "forecast": 40.91342,
+            "hi": 47.09063,
+            "lo": 34.78408,
+            "poll_avg": 32.42008
+          },
+          "polls": {
+            "winprob": 9.9,
+            "forecast": 40.71158,
+            "hi": 47.89178,
+            "lo": 33.63316,
+            "poll_avg": 31.8662
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 91.805,
+            "forecast": 54.96782,
+            "hi": 61.77726,
+            "lo": 48.07453,
+            "poll_avg": 45.33008
+          },
+          "now": {
+            "winprob": 92.36,
+            "forecast": 54.46262,
+            "hi": 60.72565,
+            "lo": 48.1574,
+            "poll_avg": 45.00739
+          },
+          "polls": {
+            "winprob": 90.10000000000001,
+            "forecast": 54.83658,
+            "hi": 62.1512,
+            "lo": 47.55665,
+            "poll_avg": 45.26083
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 8.18,
+            "forecast": 40.32401,
+            "hi": 47.17745,
+            "lo": 33.50925,
+            "poll_avg": 31.40836
+          },
+          "now": {
+            "winprob": 7.06,
+            "forecast": 40.38478,
+            "hi": 46.62423,
+            "lo": 34.14502,
+            "poll_avg": 31.48346
+          },
+          "polls": {
+            "winprob": 9.635,
+            "forecast": 40.47077,
+            "hi": 47.66724,
+            "lo": 33.1708,
+            "poll_avg": 31.39206
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 91.82000000000001,
+            "forecast": 55.16389,
+            "hi": 62.01656,
+            "lo": 48.09592,
+            "poll_avg": 45.21502
+          },
+          "now": {
+            "winprob": 92.94,
+            "forecast": 54.83028,
+            "hi": 61.1685,
+            "lo": 48.33794,
+            "poll_avg": 44.82008
+          },
+          "polls": {
+            "winprob": 90.365,
+            "forecast": 55.00366,
+            "hi": 62.32753,
+            "lo": 47.59469,
+            "poll_avg": 45.09605
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 8.04,
+            "forecast": 40.33303,
+            "hi": 47.11443,
+            "lo": 33.5499,
+            "poll_avg": 31.40975
+          },
+          "now": {
+            "winprob": 6.72,
+            "forecast": 40.33624,
+            "hi": 46.52412,
+            "lo": 34.1817,
+            "poll_avg": 31.4642
+          },
+          "polls": {
+            "winprob": 9.635,
+            "forecast": 40.47077,
+            "hi": 47.66724,
+            "lo": 33.1708,
+            "poll_avg": 31.39206
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 91.96,
+            "forecast": 55.15343,
+            "hi": 62.02297,
+            "lo": 48.20263,
+            "poll_avg": 45.19833
+          },
+          "now": {
+            "winprob": 93.28,
+            "forecast": 54.87648,
+            "hi": 61.26022,
+            "lo": 48.42386,
+            "poll_avg": 44.8618
+          },
+          "polls": {
+            "winprob": 90.365,
+            "forecast": 55.00366,
+            "hi": 62.32753,
+            "lo": 47.59469,
+            "poll_avg": 45.09605
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 8.355,
+            "forecast": 40.49799,
+            "hi": 47.30426,
+            "lo": 33.75127,
+            "poll_avg": 31.5917
+          },
+          "now": {
+            "winprob": 7.664999999999999,
+            "forecast": 40.68042,
+            "hi": 46.97369,
+            "lo": 34.49128,
+            "poll_avg": 31.77157
+          },
+          "polls": {
+            "winprob": 9.75,
+            "forecast": 40.61807,
+            "hi": 47.87746,
+            "lo": 33.35302,
+            "poll_avg": 31.53349
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 91.645,
+            "forecast": 55.00338,
+            "hi": 61.9498,
+            "lo": 47.98564,
+            "poll_avg": 45.12294
+          },
+          "now": {
+            "winprob": 92.335,
+            "forecast": 54.54767,
+            "hi": 60.89676,
+            "lo": 48.13978,
+            "poll_avg": 44.65553
+          },
+          "polls": {
+            "winprob": 90.25,
+            "forecast": 54.8674,
+            "hi": 62.29642,
+            "lo": 47.53538,
+            "poll_avg": 45.03181
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 3.8249999999999997,
+            "forecast": 38.21635,
+            "hi": 44.76886,
+            "lo": 31.65353,
+            "poll_avg": 29.21323
+          },
+          "now": {
+            "winprob": 2.8850000000000002,
+            "forecast": 37.96034,
+            "hi": 44.20757,
+            "lo": 31.84222,
+            "poll_avg": 29.31424
+          },
+          "polls": {
+            "winprob": 4.38,
+            "forecast": 38.27924,
+            "hi": 45.2521,
+            "lo": 31.41737,
+            "poll_avg": 29.32327
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 96.175,
+            "forecast": 57.87539,
+            "hi": 64.63129,
+            "lo": 51.05139,
+            "poll_avg": 52.15118
+          },
+          "now": {
+            "winprob": 97.115,
+            "forecast": 58.00947,
+            "hi": 64.27788,
+            "lo": 51.57687,
+            "poll_avg": 52.23438
+          },
+          "polls": {
+            "winprob": 95.62,
+            "forecast": 57.83845,
+            "hi": 64.81529,
+            "lo": 50.73981,
+            "poll_avg": 52.40702
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 4.01,
+            "forecast": 38.30062,
+            "hi": 44.9436,
+            "lo": 31.66007,
+            "poll_avg": 29.19535
+          },
+          "now": {
+            "winprob": 3.09,
+            "forecast": 38.08631,
+            "hi": 44.29918,
+            "lo": 31.97051,
+            "poll_avg": 29.37093
+          },
+          "polls": {
+            "winprob": 4.475,
+            "forecast": 38.34167,
+            "hi": 45.28818,
+            "lo": 31.4982,
+            "poll_avg": 29.30448
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 95.99,
+            "forecast": 57.78787,
+            "hi": 64.61884,
+            "lo": 50.90427,
+            "poll_avg": 52.12488
+          },
+          "now": {
+            "winprob": 96.91,
+            "forecast": 57.88235,
+            "hi": 64.1279,
+            "lo": 51.50292,
+            "poll_avg": 52.17535
+          },
+          "polls": {
+            "winprob": 95.525,
+            "forecast": 57.77304,
+            "hi": 64.75774,
+            "lo": 50.72378,
+            "poll_avg": 52.38622
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 3.8899999999999997,
+            "forecast": 38.26878,
+            "hi": 44.96897,
+            "lo": 31.69994,
+            "poll_avg": 29.21812
+          },
+          "now": {
+            "winprob": 3.05,
+            "forecast": 38.01304,
+            "hi": 44.18578,
+            "lo": 31.85593,
+            "poll_avg": 29.40653
+          },
+          "polls": {
+            "winprob": 4.569999999999999,
+            "forecast": 38.31861,
+            "hi": 45.2578,
+            "lo": 31.4322,
+            "poll_avg": 29.33842
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 96.11,
+            "forecast": 57.832,
+            "hi": 64.56799,
+            "lo": 50.97453,
+            "poll_avg": 52.2871
+          },
+          "now": {
+            "winprob": 96.95,
+            "forecast": 57.98014,
+            "hi": 64.3101,
+            "lo": 51.61256,
+            "poll_avg": 52.43805
+          },
+          "polls": {
+            "winprob": 95.43,
+            "forecast": 57.81068,
+            "hi": 64.83815,
+            "lo": 50.71521,
+            "poll_avg": 52.56917
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 3.8249999999999997,
+            "forecast": 38.18393,
+            "hi": 44.80705,
+            "lo": 31.66679,
+            "poll_avg": 29.20865
+          },
+          "now": {
+            "winprob": 2.68,
+            "forecast": 37.97581,
+            "hi": 43.98756,
+            "lo": 31.89769,
+            "poll_avg": 29.55348
+          },
+          "polls": {
+            "winprob": 4.3999999999999995,
+            "forecast": 38.23606,
+            "hi": 45.14328,
+            "lo": 31.38758,
+            "poll_avg": 29.32763
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 96.175,
+            "forecast": 57.91898,
+            "hi": 64.67967,
+            "lo": 51.08381,
+            "poll_avg": 52.33417
+          },
+          "now": {
+            "winprob": 97.32,
+            "forecast": 58.04401,
+            "hi": 64.29688,
+            "lo": 51.71897,
+            "poll_avg": 52.57833
+          },
+          "polls": {
+            "winprob": 95.6,
+            "forecast": 57.89569,
+            "hi": 64.87025,
+            "lo": 50.89429,
+            "poll_avg": 52.62319
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 4.405,
+            "forecast": 38.58803,
+            "hi": 45.22465,
+            "lo": 32.01418,
+            "poll_avg": 29.45647
+          },
+          "now": {
+            "winprob": 3.47,
+            "forecast": 38.62719,
+            "hi": 44.68587,
+            "lo": 32.57522,
+            "poll_avg": 30.25039
+          },
+          "polls": {
+            "winprob": 4.795,
+            "forecast": 38.62471,
+            "hi": 45.54285,
+            "lo": 31.74856,
+            "poll_avg": 29.57518
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 95.595,
+            "forecast": 57.52898,
+            "hi": 64.2427,
+            "lo": 50.76488,
+            "poll_avg": 52.20966
+          },
+          "now": {
+            "winprob": 96.53,
+            "forecast": 57.4598,
+            "hi": 63.64544,
+            "lo": 51.20116,
+            "poll_avg": 52.46772
+          },
+          "polls": {
+            "winprob": 95.205,
+            "forecast": 57.52188,
+            "hi": 64.547,
+            "lo": 50.49968,
+            "poll_avg": 52.51064
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 4.115,
+            "forecast": 38.28469,
+            "hi": 45.14785,
+            "lo": 31.53536,
+            "poll_avg": 28.34056
+          },
+          "now": {
+            "winprob": 3.39,
+            "forecast": 37.86201,
+            "hi": 44.35534,
+            "lo": 31.49791,
+            "poll_avg": 27.80359
+          },
+          "polls": {
+            "winprob": 5.135,
+            "forecast": 38.37996,
+            "hi": 45.47948,
+            "lo": 31.28437,
+            "poll_avg": 28.41487
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 95.88499999999999,
+            "forecast": 57.70821,
+            "hi": 64.62012,
+            "lo": 50.65648,
+            "poll_avg": 51.81235
+          },
+          "now": {
+            "winprob": 96.61,
+            "forecast": 57.85645,
+            "hi": 64.44366,
+            "lo": 51.23068,
+            "poll_avg": 51.47192
+          },
+          "polls": {
+            "winprob": 94.865,
+            "forecast": 57.63106,
+            "hi": 64.86456,
+            "lo": 50.32184,
+            "poll_avg": 51.99456
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 4.4350000000000005,
+            "forecast": 38.23763,
+            "hi": 45.13298,
+            "lo": 31.54337,
+            "poll_avg": 28.29641
+          },
+          "now": {
+            "winprob": 3.32,
+            "forecast": 37.74632,
+            "hi": 44.17044,
+            "lo": 31.41483,
+            "poll_avg": 27.80272
+          },
+          "polls": {
+            "winprob": 4.984999999999999,
+            "forecast": 38.34164,
+            "hi": 45.56221,
+            "lo": 31.33343,
+            "poll_avg": 28.34765
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 95.565,
+            "forecast": 57.7535,
+            "hi": 64.66994,
+            "lo": 50.77618,
+            "poll_avg": 51.84628
+          },
+          "now": {
+            "winprob": 96.67999999999999,
+            "forecast": 57.98777,
+            "hi": 64.49778,
+            "lo": 51.4112,
+            "poll_avg": 51.6862
+          },
+          "polls": {
+            "winprob": 95.015,
+            "forecast": 57.66217,
+            "hi": 64.81377,
+            "lo": 50.43009,
+            "poll_avg": 51.97495
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 3.65,
+            "forecast": 37.86054,
+            "hi": 44.52816,
+            "lo": 31.12487,
+            "poll_avg": 28.64804
+          },
+          "now": {
+            "winprob": 2.4699999999999998,
+            "forecast": 37.25567,
+            "hi": 43.42648,
+            "lo": 31.09678,
+            "poll_avg": 28.30852
+          },
+          "polls": {
+            "winprob": 4.35,
+            "forecast": 37.98276,
+            "hi": 45.02749,
+            "lo": 31.03836,
+            "poll_avg": 28.6651
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 96.35000000000001,
+            "forecast": 58.19533,
+            "hi": 65.01758,
+            "lo": 51.35073,
+            "poll_avg": 52.37652
+          },
+          "now": {
+            "winprob": 97.53,
+            "forecast": 58.61806,
+            "hi": 64.98468,
+            "lo": 52.12887,
+            "poll_avg": 52.63731
+          },
+          "polls": {
+            "winprob": 95.65,
+            "forecast": 58.0787,
+            "hi": 65.26228,
+            "lo": 50.85038,
+            "poll_avg": 52.44092
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 3.5999999999999996,
+            "forecast": 37.91453,
+            "hi": 44.69164,
+            "lo": 31.27628,
+            "poll_avg": 28.70741
+          },
+          "now": {
+            "winprob": 2.685,
+            "forecast": 37.34005,
+            "hi": 43.47385,
+            "lo": 31.24627,
+            "poll_avg": 28.45063
+          },
+          "polls": {
+            "winprob": 4.22,
+            "forecast": 38.02823,
+            "hi": 44.99321,
+            "lo": 31.07901,
+            "poll_avg": 28.73019
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 96.39999999999999,
+            "forecast": 58.1473,
+            "hi": 64.96532,
+            "lo": 51.22107,
+            "poll_avg": 52.38741
+          },
+          "now": {
+            "winprob": 97.315,
+            "forecast": 58.54858,
+            "hi": 64.86305,
+            "lo": 52.28133,
+            "poll_avg": 52.65062
+          },
+          "polls": {
+            "winprob": 95.78,
+            "forecast": 58.03949,
+            "hi": 65.13699,
+            "lo": 50.89776,
+            "poll_avg": 52.44868
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 4.03,
+            "forecast": 38.13057,
+            "hi": 44.83727,
+            "lo": 31.44519,
+            "poll_avg": 28.78396
+          },
+          "now": {
+            "winprob": 2.76,
+            "forecast": 37.60686,
+            "hi": 43.85439,
+            "lo": 31.45934,
+            "poll_avg": 28.60593
+          },
+          "polls": {
+            "winprob": 4.505,
+            "forecast": 38.25498,
+            "hi": 45.31689,
+            "lo": 31.30138,
+            "poll_avg": 28.80686
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 95.97,
+            "forecast": 57.93137,
+            "hi": 64.76642,
+            "lo": 51.03286,
+            "poll_avg": 52.28205
+          },
+          "now": {
+            "winprob": 97.24000000000001,
+            "forecast": 58.28091,
+            "hi": 64.59023,
+            "lo": 51.87366,
+            "poll_avg": 52.4704
+          },
+          "polls": {
+            "winprob": 95.49499999999999,
+            "forecast": 57.8131,
+            "hi": 64.91022,
+            "lo": 50.76577,
+            "poll_avg": 52.34682
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 3.755,
+            "forecast": 38.0078,
+            "hi": 44.71622,
+            "lo": 31.34993,
+            "poll_avg": 28.8073
+          },
+          "now": {
+            "winprob": 2.64,
+            "forecast": 37.48021,
+            "hi": 43.7787,
+            "lo": 31.37222,
+            "poll_avg": 28.61654
+          },
+          "polls": {
+            "winprob": 4.295,
+            "forecast": 38.13838,
+            "hi": 45.14124,
+            "lo": 31.14075,
+            "poll_avg": 28.82508
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 96.245,
+            "forecast": 58.06144,
+            "hi": 64.8671,
+            "lo": 51.20009,
+            "poll_avg": 52.36469
+          },
+          "now": {
+            "winprob": 97.36,
+            "forecast": 58.41626,
+            "hi": 64.68916,
+            "lo": 52.04876,
+            "poll_avg": 52.58149
+          },
+          "polls": {
+            "winprob": 95.705,
+            "forecast": 57.93629,
+            "hi": 65.09151,
+            "lo": 50.80797,
+            "poll_avg": 52.42556
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 4.08,
+            "forecast": 38.35729,
+            "hi": 45.06941,
+            "lo": 31.59437,
+            "poll_avg": 28.97064
+          },
+          "now": {
+            "winprob": 3.04,
+            "forecast": 38.04082,
+            "hi": 44.23362,
+            "lo": 31.81703,
+            "poll_avg": 29.08202
+          },
+          "polls": {
+            "winprob": 4.87,
+            "forecast": 38.50272,
+            "hi": 45.55751,
+            "lo": 31.48672,
+            "poll_avg": 28.99713
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 95.92,
+            "forecast": 57.71622,
+            "hi": 64.6404,
+            "lo": 50.88255,
+            "poll_avg": 52.20301
+          },
+          "now": {
+            "winprob": 96.96000000000001,
+            "forecast": 57.87823,
+            "hi": 64.24632,
+            "lo": 51.46359,
+            "poll_avg": 52.26215
+          },
+          "polls": {
+            "winprob": 95.13000000000001,
+            "forecast": 57.57816,
+            "hi": 64.70593,
+            "lo": 50.3089,
+            "poll_avg": 52.28235
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 4.045,
+            "forecast": 38.18726,
+            "hi": 45.03765,
+            "lo": 31.55211,
+            "poll_avg": 28.74855
+          },
+          "now": {
+            "winprob": 2.8899999999999997,
+            "forecast": 37.65573,
+            "hi": 43.80972,
+            "lo": 31.52407,
+            "poll_avg": 28.58937
+          },
+          "polls": {
+            "winprob": 4.68,
+            "forecast": 38.34495,
+            "hi": 45.2776,
+            "lo": 31.43552,
+            "poll_avg": 28.78445
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 95.955,
+            "forecast": 57.86767,
+            "hi": 64.71887,
+            "lo": 50.90688,
+            "poll_avg": 52.22064
+          },
+          "now": {
+            "winprob": 97.11,
+            "forecast": 58.21608,
+            "hi": 64.56796,
+            "lo": 51.79783,
+            "poll_avg": 52.40152
+          },
+          "polls": {
+            "winprob": 95.32000000000001,
+            "forecast": 57.7192,
+            "hi": 64.81764,
+            "lo": 50.47391,
+            "poll_avg": 52.31614
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 4.095,
+            "forecast": 38.21874,
+            "hi": 44.967,
+            "lo": 31.60041,
+            "poll_avg": 28.82814
+          },
+          "now": {
+            "winprob": 2.56,
+            "forecast": 37.31787,
+            "hi": 43.51383,
+            "lo": 31.18958,
+            "poll_avg": 28.36709
+          },
+          "polls": {
+            "winprob": 4.89,
+            "forecast": 38.39296,
+            "hi": 45.45648,
+            "lo": 31.38164,
+            "poll_avg": 28.79813
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 95.905,
+            "forecast": 57.84682,
+            "hi": 64.63959,
+            "lo": 50.9288,
+            "poll_avg": 52.27727
+          },
+          "now": {
+            "winprob": 97.44,
+            "forecast": 58.56978,
+            "hi": 64.76089,
+            "lo": 52.23371,
+            "poll_avg": 52.8868
+          },
+          "polls": {
+            "winprob": 95.11,
+            "forecast": 57.66748,
+            "hi": 64.85684,
+            "lo": 50.5003,
+            "poll_avg": 52.23829
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 4.37,
+            "forecast": 38.45199,
+            "hi": 45.17467,
+            "lo": 31.86611,
+            "poll_avg": 29.09308
+          },
+          "now": {
+            "winprob": 2.7,
+            "forecast": 37.72057,
+            "hi": 43.7994,
+            "lo": 31.64572,
+            "poll_avg": 28.97914
+          },
+          "polls": {
+            "winprob": 5.21,
+            "forecast": 38.63415,
+            "hi": 45.72501,
+            "lo": 31.66208,
+            "poll_avg": 29.07301
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 95.63000000000001,
+            "forecast": 57.6355,
+            "hi": 64.46202,
+            "lo": 50.70597,
+            "poll_avg": 52.25234
+          },
+          "now": {
+            "winprob": 97.3,
+            "forecast": 58.23502,
+            "hi": 64.46114,
+            "lo": 51.9564,
+            "poll_avg": 52.87085
+          },
+          "polls": {
+            "winprob": 94.78999999999999,
+            "forecast": 57.4505,
+            "hi": 64.50601,
+            "lo": 50.20802,
+            "poll_avg": 52.23554
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 4.73,
+            "forecast": 38.55201,
+            "hi": 45.43711,
+            "lo": 31.89431,
+            "poll_avg": 28.83245
+          },
+          "now": {
+            "winprob": 3.2,
+            "forecast": 37.87038,
+            "hi": 44.14311,
+            "lo": 31.6865,
+            "poll_avg": 28.56793
+          },
+          "polls": {
+            "winprob": 5.465,
+            "forecast": 38.70681,
+            "hi": 45.84708,
+            "lo": 31.70227,
+            "poll_avg": 28.84436
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 95.27,
+            "forecast": 57.49652,
+            "hi": 64.4183,
+            "lo": 50.54752,
+            "poll_avg": 52.00203
+          },
+          "now": {
+            "winprob": 96.8,
+            "forecast": 57.98637,
+            "hi": 64.3726,
+            "lo": 51.48171,
+            "poll_avg": 52.35084
+          },
+          "polls": {
+            "winprob": 94.535,
+            "forecast": 57.34544,
+            "hi": 64.39753,
+            "lo": 50.09354,
+            "poll_avg": 52.0441
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 4.575,
+            "forecast": 38.56728,
+            "hi": 45.33424,
+            "lo": 31.81957,
+            "poll_avg": 28.98765
+          },
+          "now": {
+            "winprob": 3.145,
+            "forecast": 37.87594,
+            "hi": 44.12075,
+            "lo": 31.64037,
+            "poll_avg": 28.7548
+          },
+          "polls": {
+            "winprob": 5.26,
+            "forecast": 38.74137,
+            "hi": 45.79036,
+            "lo": 31.72866,
+            "poll_avg": 28.96147
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 95.42500000000001,
+            "forecast": 57.49654,
+            "hi": 64.31828,
+            "lo": 50.55957,
+            "poll_avg": 52.02607
+          },
+          "now": {
+            "winprob": 96.855,
+            "forecast": 58.0106,
+            "hi": 64.396,
+            "lo": 51.57617,
+            "poll_avg": 52.46193
+          },
+          "polls": {
+            "winprob": 94.74000000000001,
+            "forecast": 57.31723,
+            "hi": 64.55847,
+            "lo": 50.17088,
+            "poll_avg": 51.98037
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 5.0,
+            "forecast": 38.63175,
+            "hi": 45.48493,
+            "lo": 31.78714,
+            "poll_avg": 28.60554
+          },
+          "now": {
+            "winprob": 3.2199999999999998,
+            "forecast": 37.81504,
+            "hi": 44.10065,
+            "lo": 31.50452,
+            "poll_avg": 28.02732
+          },
+          "polls": {
+            "winprob": 5.89,
+            "forecast": 38.82225,
+            "hi": 46.07554,
+            "lo": 31.63996,
+            "poll_avg": 28.53874
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 95.0,
+            "forecast": 57.38032,
+            "hi": 64.2774,
+            "lo": 50.34274,
+            "poll_avg": 51.74391
+          },
+          "now": {
+            "winprob": 96.78,
+            "forecast": 57.94559,
+            "hi": 64.39966,
+            "lo": 51.36841,
+            "poll_avg": 52.06517
+          },
+          "polls": {
+            "winprob": 94.11,
+            "forecast": 57.1744,
+            "hi": 64.51202,
+            "lo": 49.65811,
+            "poll_avg": 51.59379
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 5.33,
+            "forecast": 39.19921,
+            "hi": 46.06903,
+            "lo": 32.34713,
+            "poll_avg": 29.01934
+          },
+          "now": {
+            "winprob": 4.2700000000000005,
+            "forecast": 38.72261,
+            "hi": 45.05295,
+            "lo": 32.37259,
+            "poll_avg": 28.64344
+          },
+          "polls": {
+            "winprob": 6.76,
+            "forecast": 39.40617,
+            "hi": 46.64479,
+            "lo": 32.31798,
+            "poll_avg": 28.92496
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 94.67,
+            "forecast": 56.82709,
+            "hi": 63.77072,
+            "lo": 49.85938,
+            "poll_avg": 51.38867
+          },
+          "now": {
+            "winprob": 95.73,
+            "forecast": 57.03052,
+            "hi": 63.51281,
+            "lo": 50.47927,
+            "poll_avg": 51.23348
+          },
+          "polls": {
+            "winprob": 93.24,
+            "forecast": 56.59883,
+            "hi": 63.82878,
+            "lo": 49.21239,
+            "poll_avg": 51.18429
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 5.305,
+            "forecast": 39.03221,
+            "hi": 45.97044,
+            "lo": 32.15536,
+            "poll_avg": 28.89037
+          },
+          "now": {
+            "winprob": 3.765,
+            "forecast": 38.32028,
+            "hi": 44.74588,
+            "lo": 32.01604,
+            "poll_avg": 28.3926
+          },
+          "polls": {
+            "winprob": 6.375,
+            "forecast": 39.23019,
+            "hi": 46.40282,
+            "lo": 32.11734,
+            "poll_avg": 28.79931
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 94.695,
+            "forecast": 57.00422,
+            "hi": 63.99411,
+            "lo": 49.98345,
+            "poll_avg": 51.72945
+          },
+          "now": {
+            "winprob": 96.235,
+            "forecast": 57.46683,
+            "hi": 63.86287,
+            "lo": 50.88986,
+            "poll_avg": 51.9458
+          },
+          "polls": {
+            "winprob": 93.625,
+            "forecast": 56.78574,
+            "hi": 64.10246,
+            "lo": 49.44331,
+            "poll_avg": 51.53307
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 5.615,
+            "forecast": 39.15379,
+            "hi": 46.09891,
+            "lo": 32.26062,
+            "poll_avg": 29.07298
+          },
+          "now": {
+            "winprob": 3.85,
+            "forecast": 38.45879,
+            "hi": 44.79681,
+            "lo": 32.14363,
+            "poll_avg": 28.60934
+          },
+          "polls": {
+            "winprob": 6.575,
+            "forecast": 39.36062,
+            "hi": 46.51815,
+            "lo": 32.31552,
+            "poll_avg": 28.97369
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 94.38499999999999,
+            "forecast": 56.89746,
+            "hi": 63.98495,
+            "lo": 49.89507,
+            "poll_avg": 51.70789
+          },
+          "now": {
+            "winprob": 96.15,
+            "forecast": 57.35429,
+            "hi": 63.78428,
+            "lo": 50.90146,
+            "poll_avg": 51.97601
+          },
+          "polls": {
+            "winprob": 93.425,
+            "forecast": 56.66965,
+            "hi": 63.93568,
+            "lo": 49.38848,
+            "poll_avg": 51.51541
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 5.510000000000001,
+            "forecast": 39.08828,
+            "hi": 46.03979,
+            "lo": 32.24801,
+            "poll_avg": 28.83915
+          },
+          "now": {
+            "winprob": 3.8600000000000003,
+            "forecast": 38.24253,
+            "hi": 44.62989,
+            "lo": 31.91994,
+            "poll_avg": 28.06021
+          },
+          "polls": {
+            "winprob": 6.41,
+            "forecast": 39.26438,
+            "hi": 46.36114,
+            "lo": 32.09776,
+            "poll_avg": 28.79872
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 94.49,
+            "forecast": 56.93346,
+            "hi": 63.91629,
+            "lo": 49.82823,
+            "poll_avg": 51.56917
+          },
+          "now": {
+            "winprob": 96.14,
+            "forecast": 57.47884,
+            "hi": 63.99879,
+            "lo": 50.84783,
+            "poll_avg": 51.73528
+          },
+          "polls": {
+            "winprob": 93.58999999999999,
+            "forecast": 56.74847,
+            "hi": 64.03611,
+            "lo": 49.45521,
+            "poll_avg": 51.4854
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 5.42,
+            "forecast": 39.08496,
+            "hi": 46.06699,
+            "lo": 32.24598,
+            "poll_avg": 28.87161
+          },
+          "now": {
+            "winprob": 3.7900000000000005,
+            "forecast": 38.24303,
+            "hi": 44.65447,
+            "lo": 31.9131,
+            "poll_avg": 28.13114
+          },
+          "polls": {
+            "winprob": 6.494999999999999,
+            "forecast": 39.2549,
+            "hi": 46.42981,
+            "lo": 32.16721,
+            "poll_avg": 28.83318
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 94.58,
+            "forecast": 56.93987,
+            "hi": 63.88623,
+            "lo": 49.83031,
+            "poll_avg": 51.57246
+          },
+          "now": {
+            "winprob": 96.21,
+            "forecast": 57.48592,
+            "hi": 64.03322,
+            "lo": 50.80979,
+            "poll_avg": 51.75753
+          },
+          "polls": {
+            "winprob": 93.50500000000001,
+            "forecast": 56.76123,
+            "hi": 64.10262,
+            "lo": 49.45065,
+            "poll_avg": 51.48897
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 5.335,
+            "forecast": 38.92266,
+            "hi": 45.8376,
+            "lo": 32.09487,
+            "poll_avg": 28.87016
+          },
+          "now": {
+            "winprob": 3.4250000000000003,
+            "forecast": 37.95248,
+            "hi": 44.31708,
+            "lo": 31.72205,
+            "poll_avg": 28.05512
+          },
+          "polls": {
+            "winprob": 6.09,
+            "forecast": 39.09263,
+            "hi": 46.27503,
+            "lo": 31.99699,
+            "poll_avg": 28.83393
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 94.66499999999999,
+            "forecast": 57.11073,
+            "hi": 64.09744,
+            "lo": 50.06077,
+            "poll_avg": 51.70988
+          },
+          "now": {
+            "winprob": 96.575,
+            "forecast": 57.79065,
+            "hi": 64.23324,
+            "lo": 51.16287,
+            "poll_avg": 52.0338
+          },
+          "polls": {
+            "winprob": 93.91000000000001,
+            "forecast": 56.9327,
+            "hi": 64.15271,
+            "lo": 49.57751,
+            "poll_avg": 51.63337
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 5.07,
+            "forecast": 38.80648,
+            "hi": 45.68407,
+            "lo": 32.06335,
+            "poll_avg": 29.03693
+          },
+          "now": {
+            "winprob": 2.685,
+            "forecast": 37.57285,
+            "hi": 43.92165,
+            "lo": 31.32833,
+            "poll_avg": 28.04936
+          },
+          "polls": {
+            "winprob": 5.94,
+            "forecast": 38.98563,
+            "hi": 46.09866,
+            "lo": 31.86696,
+            "poll_avg": 28.97252
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 94.93,
+            "forecast": 57.25498,
+            "hi": 64.21307,
+            "lo": 50.23302,
+            "poll_avg": 51.91965
+          },
+          "now": {
+            "winprob": 97.315,
+            "forecast": 58.21524,
+            "hi": 64.62183,
+            "lo": 51.68713,
+            "poll_avg": 52.53979
+          },
+          "polls": {
+            "winprob": 94.06,
+            "forecast": 57.06289,
+            "hi": 64.36292,
+            "lo": 49.82912,
+            "poll_avg": 51.80551
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 5.16,
+            "forecast": 38.90386,
+            "hi": 45.77383,
+            "lo": 32.16135,
+            "poll_avg": 29.12979
+          },
+          "now": {
+            "winprob": 3.02,
+            "forecast": 37.95857,
+            "hi": 44.17175,
+            "lo": 31.82493,
+            "poll_avg": 28.44045
+          },
+          "polls": {
+            "winprob": 5.88,
+            "forecast": 39.08953,
+            "hi": 46.22716,
+            "lo": 31.89953,
+            "poll_avg": 29.0736
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 94.84,
+            "forecast": 57.1564,
+            "hi": 64.05247,
+            "lo": 50.1209,
+            "poll_avg": 51.77059
+          },
+          "now": {
+            "winprob": 96.98,
+            "forecast": 57.83191,
+            "hi": 64.26547,
+            "lo": 51.31917,
+            "poll_avg": 52.09921
+          },
+          "polls": {
+            "winprob": 94.12,
+            "forecast": 56.95867,
+            "hi": 64.18106,
+            "lo": 49.69106,
+            "poll_avg": 51.65871
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 4.91,
+            "forecast": 38.85942,
+            "hi": 45.6913,
+            "lo": 32.10923,
+            "poll_avg": 29.13904
+          },
+          "now": {
+            "winprob": 2.965,
+            "forecast": 37.92867,
+            "hi": 44.10896,
+            "lo": 31.81782,
+            "poll_avg": 28.52318
+          },
+          "polls": {
+            "winprob": 5.99,
+            "forecast": 39.0381,
+            "hi": 46.21491,
+            "lo": 31.90171,
+            "poll_avg": 29.08804
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 95.09,
+            "forecast": 57.20501,
+            "hi": 64.17606,
+            "lo": 50.19742,
+            "poll_avg": 51.82352
+          },
+          "now": {
+            "winprob": 97.03500000000001,
+            "forecast": 57.87851,
+            "hi": 64.36105,
+            "lo": 51.47876,
+            "poll_avg": 52.19599
+          },
+          "polls": {
+            "winprob": 94.01,
+            "forecast": 57.01503,
+            "hi": 64.3017,
+            "lo": 49.69303,
+            "poll_avg": 51.71648
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 4.984999999999999,
+            "forecast": 38.84288,
+            "hi": 45.72115,
+            "lo": 32.08931,
+            "poll_avg": 29.16776
+          },
+          "now": {
+            "winprob": 3.1649999999999996,
+            "forecast": 37.91996,
+            "hi": 44.13303,
+            "lo": 31.80741,
+            "poll_avg": 28.60857
+          },
+          "polls": {
+            "winprob": 5.865,
+            "forecast": 39.0167,
+            "hi": 46.19753,
+            "lo": 31.97077,
+            "poll_avg": 29.11858
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 95.015,
+            "forecast": 57.22586,
+            "hi": 64.15192,
+            "lo": 50.17147,
+            "poll_avg": 51.85133
+          },
+          "now": {
+            "winprob": 96.83500000000001,
+            "forecast": 57.90057,
+            "hi": 64.15873,
+            "lo": 51.47625,
+            "poll_avg": 52.25339
+          },
+          "polls": {
+            "winprob": 94.135,
+            "forecast": 57.04092,
+            "hi": 64.2227,
+            "lo": 49.78813,
+            "poll_avg": 51.74464
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 4.96,
+            "forecast": 38.831,
+            "hi": 45.72656,
+            "lo": 32.07935,
+            "poll_avg": 29.0416
+          },
+          "now": {
+            "winprob": 3.18,
+            "forecast": 37.78134,
+            "hi": 44.01627,
+            "lo": 31.54559,
+            "poll_avg": 28.19176
+          },
+          "polls": {
+            "winprob": 5.665,
+            "forecast": 38.96674,
+            "hi": 46.10307,
+            "lo": 31.90346,
+            "poll_avg": 29.0618
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 95.04,
+            "forecast": 57.22073,
+            "hi": 64.11992,
+            "lo": 50.16403,
+            "poll_avg": 51.75937
+          },
+          "now": {
+            "winprob": 96.82,
+            "forecast": 57.96839,
+            "hi": 64.35361,
+            "lo": 51.52017,
+            "poll_avg": 52.0816
+          },
+          "polls": {
+            "winprob": 94.33500000000001,
+            "forecast": 57.08923,
+            "hi": 64.36603,
+            "lo": 49.72865,
+            "poll_avg": 51.79812
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 5.220000000000001,
+            "forecast": 38.93276,
+            "hi": 45.7602,
+            "lo": 32.09082,
+            "poll_avg": 29.1727
+          },
+          "now": {
+            "winprob": 3.2800000000000002,
+            "forecast": 37.98835,
+            "hi": 44.24352,
+            "lo": 31.813,
+            "poll_avg": 28.50391
+          },
+          "polls": {
+            "winprob": 6.215,
+            "forecast": 39.08072,
+            "hi": 46.24147,
+            "lo": 32.05895,
+            "poll_avg": 29.19144
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 94.78,
+            "forecast": 57.12742,
+            "hi": 64.07274,
+            "lo": 50.10976,
+            "poll_avg": 51.70916
+          },
+          "now": {
+            "winprob": 96.72,
+            "forecast": 57.7878,
+            "hi": 64.1881,
+            "lo": 51.29572,
+            "poll_avg": 51.98735
+          },
+          "polls": {
+            "winprob": 93.785,
+            "forecast": 56.98412,
+            "hi": 64.18081,
+            "lo": 49.69997,
+            "poll_avg": 51.75645
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 5.47,
+            "forecast": 39.14467,
+            "hi": 46.07088,
+            "lo": 32.32973,
+            "poll_avg": 29.31256
+          },
+          "now": {
+            "winprob": 3.52,
+            "forecast": 38.20331,
+            "hi": 44.44141,
+            "lo": 31.9899,
+            "poll_avg": 28.60377
+          },
+          "polls": {
+            "winprob": 6.35,
+            "forecast": 39.28698,
+            "hi": 46.51855,
+            "lo": 32.21122,
+            "poll_avg": 29.33409
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 94.53,
+            "forecast": 56.92833,
+            "hi": 63.92677,
+            "lo": 49.83807,
+            "poll_avg": 51.71558
+          },
+          "now": {
+            "winprob": 96.48,
+            "forecast": 57.57475,
+            "hi": 63.91119,
+            "lo": 51.06887,
+            "poll_avg": 51.90971
+          },
+          "polls": {
+            "winprob": 93.65,
+            "forecast": 56.79169,
+            "hi": 64.02873,
+            "lo": 49.46629,
+            "poll_avg": 51.77514
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 5.605,
+            "forecast": 39.0542,
+            "hi": 45.99689,
+            "lo": 32.21227,
+            "poll_avg": 28.99968
+          },
+          "now": {
+            "winprob": 3.34,
+            "forecast": 37.82779,
+            "hi": 44.19471,
+            "lo": 31.55365,
+            "poll_avg": 27.8352
+          },
+          "polls": {
+            "winprob": 6.43,
+            "forecast": 39.18804,
+            "hi": 46.35962,
+            "lo": 32.12584,
+            "poll_avg": 29.03017
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 94.395,
+            "forecast": 56.98362,
+            "hi": 64.04291,
+            "lo": 49.88417,
+            "poll_avg": 51.59837
+          },
+          "now": {
+            "winprob": 96.66,
+            "forecast": 57.84474,
+            "hi": 64.25757,
+            "lo": 51.2795,
+            "poll_avg": 51.83776
+          },
+          "polls": {
+            "winprob": 93.57,
+            "forecast": 56.85685,
+            "hi": 64.0901,
+            "lo": 49.6037,
+            "poll_avg": 51.66735
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 5.54,
+            "forecast": 39.1814,
+            "hi": 46.10644,
+            "lo": 32.29229,
+            "poll_avg": 29.13303
+          },
+          "now": {
+            "winprob": 3.375,
+            "forecast": 38.04771,
+            "hi": 44.38677,
+            "lo": 31.80343,
+            "poll_avg": 28.0565
+          },
+          "polls": {
+            "winprob": 6.21,
+            "forecast": 39.31929,
+            "hi": 46.4813,
+            "lo": 32.27892,
+            "poll_avg": 29.15724
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 94.46,
+            "forecast": 56.86504,
+            "hi": 63.91519,
+            "lo": 49.70595,
+            "poll_avg": 51.54757
+          },
+          "now": {
+            "winprob": 96.625,
+            "forecast": 57.63708,
+            "hi": 64.0098,
+            "lo": 51.05541,
+            "poll_avg": 51.71506
+          },
+          "polls": {
+            "winprob": 93.78999999999999,
+            "forecast": 56.73396,
+            "hi": 63.99176,
+            "lo": 49.47912,
+            "poll_avg": 51.62136
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 5.4399999999999995,
+            "forecast": 39.11517,
+            "hi": 46.01041,
+            "lo": 32.27928,
+            "poll_avg": 29.17607
+          },
+          "now": {
+            "winprob": 3.075,
+            "forecast": 37.78812,
+            "hi": 44.09157,
+            "lo": 31.58068,
+            "poll_avg": 27.93904
+          },
+          "polls": {
+            "winprob": 6.13,
+            "forecast": 39.23532,
+            "hi": 46.39285,
+            "lo": 32.11275,
+            "poll_avg": 29.20763
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 94.56,
+            "forecast": 56.93803,
+            "hi": 63.90721,
+            "lo": 49.80857,
+            "poll_avg": 51.59401
+          },
+          "now": {
+            "winprob": 96.925,
+            "forecast": 57.89588,
+            "hi": 64.32339,
+            "lo": 51.31135,
+            "poll_avg": 51.88562
+          },
+          "polls": {
+            "winprob": 93.87,
+            "forecast": 56.82593,
+            "hi": 64.17176,
+            "lo": 49.57759,
+            "poll_avg": 51.67715
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 5.96,
+            "forecast": 39.23022,
+            "hi": 46.20877,
+            "lo": 32.35044,
+            "poll_avg": 29.21852
+          },
+          "now": {
+            "winprob": 3.34,
+            "forecast": 38.01524,
+            "hi": 44.22616,
+            "lo": 31.70774,
+            "poll_avg": 28.12262
+          },
+          "polls": {
+            "winprob": 6.38,
+            "forecast": 39.35364,
+            "hi": 46.52597,
+            "lo": 32.13676,
+            "poll_avg": 29.26731
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 94.04,
+            "forecast": 56.82883,
+            "hi": 63.90981,
+            "lo": 49.75376,
+            "poll_avg": 51.62715
+          },
+          "now": {
+            "winprob": 96.66,
+            "forecast": 57.68589,
+            "hi": 64.09253,
+            "lo": 51.11155,
+            "poll_avg": 51.85724
+          },
+          "polls": {
+            "winprob": 93.62,
+            "forecast": 56.7163,
+            "hi": 63.95875,
+            "lo": 49.51822,
+            "poll_avg": 51.73084
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 6.005,
+            "forecast": 39.35292,
+            "hi": 46.36291,
+            "lo": 32.43505,
+            "poll_avg": 29.44467
+          },
+          "now": {
+            "winprob": 3.8449999999999998,
+            "forecast": 38.62939,
+            "hi": 44.91219,
+            "lo": 32.39222,
+            "poll_avg": 29.07846
+          },
+          "polls": {
+            "winprob": 6.6000000000000005,
+            "forecast": 39.47442,
+            "hi": 46.63045,
+            "lo": 32.31733,
+            "poll_avg": 29.4938
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 93.99499999999999,
+            "forecast": 56.72499,
+            "hi": 63.62397,
+            "lo": 49.64985,
+            "poll_avg": 51.60806
+          },
+          "now": {
+            "winprob": 96.155,
+            "forecast": 57.17049,
+            "hi": 63.47325,
+            "lo": 50.75347,
+            "poll_avg": 51.67163
+          },
+          "polls": {
+            "winprob": 93.4,
+            "forecast": 56.61573,
+            "hi": 63.85819,
+            "lo": 49.38324,
+            "poll_avg": 51.73266
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 5.845000000000001,
+            "forecast": 39.40746,
+            "hi": 46.39628,
+            "lo": 32.56567,
+            "poll_avg": 29.55569
+          },
+          "now": {
+            "winprob": 3.965,
+            "forecast": 38.83904,
+            "hi": 45.00123,
+            "lo": 32.72054,
+            "poll_avg": 29.5473
+          },
+          "polls": {
+            "winprob": 6.734999999999999,
+            "forecast": 39.52517,
+            "hi": 46.74261,
+            "lo": 32.46611,
+            "poll_avg": 29.61008
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 94.155,
+            "forecast": 56.6818,
+            "hi": 63.75668,
+            "lo": 49.59835,
+            "poll_avg": 51.63185
+          },
+          "now": {
+            "winprob": 96.035,
+            "forecast": 57.03221,
+            "hi": 63.29916,
+            "lo": 50.68509,
+            "poll_avg": 51.81824
+          },
+          "polls": {
+            "winprob": 93.265,
+            "forecast": 56.57718,
+            "hi": 63.75214,
+            "lo": 49.30327,
+            "poll_avg": 51.76244
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 5.345,
+            "forecast": 39.06836,
+            "hi": 45.96287,
+            "lo": 32.19434,
+            "poll_avg": 29.22434
+          },
+          "now": {
+            "winprob": 3.39,
+            "forecast": 38.46489,
+            "hi": 44.57553,
+            "lo": 32.49023,
+            "poll_avg": 29.67601
+          },
+          "polls": {
+            "winprob": 6.105,
+            "forecast": 39.19723,
+            "hi": 46.3675,
+            "lo": 32.08998,
+            "poll_avg": 29.2436
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 94.655,
+            "forecast": 57.01838,
+            "hi": 63.99784,
+            "lo": 49.98418,
+            "poll_avg": 52.05656
+          },
+          "now": {
+            "winprob": 96.61,
+            "forecast": 57.52496,
+            "hi": 63.62702,
+            "lo": 51.20204,
+            "poll_avg": 52.85112
+          },
+          "polls": {
+            "winprob": 93.895,
+            "forecast": 56.8939,
+            "hi": 64.04806,
+            "lo": 49.6299,
+            "poll_avg": 52.09895
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 5.215,
+            "forecast": 38.89369,
+            "hi": 45.78494,
+            "lo": 32.05554,
+            "poll_avg": 29.05793
+          },
+          "now": {
+            "winprob": 2.73,
+            "forecast": 38.30313,
+            "hi": 44.23763,
+            "lo": 32.38139,
+            "poll_avg": 29.91313
+          },
+          "polls": {
+            "winprob": 5.8950000000000005,
+            "forecast": 39.03437,
+            "hi": 46.21737,
+            "lo": 31.9838,
+            "poll_avg": 29.07582
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 94.785,
+            "forecast": 57.1814,
+            "hi": 64.15756,
+            "lo": 50.15219,
+            "poll_avg": 52.10571
+          },
+          "now": {
+            "winprob": 97.27,
+            "forecast": 57.76054,
+            "hi": 63.83677,
+            "lo": 51.67456,
+            "poll_avg": 53.29959
+          },
+          "polls": {
+            "winprob": 94.105,
+            "forecast": 57.04546,
+            "hi": 64.22047,
+            "lo": 49.69377,
+            "poll_avg": 52.15553
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 4.655,
+            "forecast": 38.66096,
+            "hi": 45.54196,
+            "lo": 31.86705,
+            "poll_avg": 29.11885
+          },
+          "now": {
+            "winprob": 1.865,
+            "forecast": 37.74615,
+            "hi": 43.25127,
+            "lo": 32.21043,
+            "poll_avg": 31.41701
+          },
+          "polls": {
+            "winprob": 5.305,
+            "forecast": 38.7844,
+            "hi": 45.94263,
+            "lo": 31.76726,
+            "poll_avg": 29.13696
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 95.345,
+            "forecast": 57.45327,
+            "hi": 64.3444,
+            "lo": 50.469,
+            "poll_avg": 52.63889
+          },
+          "now": {
+            "winprob": 98.13499999999999,
+            "forecast": 58.79945,
+            "hi": 64.48659,
+            "lo": 53.13914,
+            "poll_avg": 56.15356
+          },
+          "polls": {
+            "winprob": 94.695,
+            "forecast": 57.33492,
+            "hi": 64.45653,
+            "lo": 50.09625,
+            "poll_avg": 52.69405
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 5.945,
+            "forecast": 39.01288,
+            "hi": 46.2491,
+            "lo": 31.86726,
+            "poll_avg": 28.1136
+          },
+          "now": {
+            "winprob": 4.77,
+            "forecast": 39.03672,
+            "hi": 45.45157,
+            "lo": 32.70012,
+            "poll_avg": 28.73626
+          },
+          "polls": {
+            "winprob": 6.950000000000001,
+            "forecast": 39.14224,
+            "hi": 46.57044,
+            "lo": 31.85865,
+            "poll_avg": 28.13935
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 94.055,
+            "forecast": 56.88648,
+            "hi": 64.21282,
+            "lo": 49.51279,
+            "poll_avg": 50.65207
+          },
+          "now": {
+            "winprob": 95.23,
+            "forecast": 56.51922,
+            "hi": 63.03512,
+            "lo": 49.88435,
+            "poll_avg": 49.85355
+          },
+          "polls": {
+            "winprob": 93.05,
+            "forecast": 56.763,
+            "hi": 64.21046,
+            "lo": 49.19493,
+            "poll_avg": 50.70892
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 5.4,
+            "forecast": 38.70532,
+            "hi": 45.88486,
+            "lo": 31.7098,
+            "poll_avg": 27.92815
+          },
+          "now": {
+            "winprob": 4.43,
+            "forecast": 38.81073,
+            "hi": 45.21232,
+            "lo": 32.4157,
+            "poll_avg": 28.68822
+          },
+          "polls": {
+            "winprob": 6.1899999999999995,
+            "forecast": 38.82442,
+            "hi": 46.22047,
+            "lo": 31.4765,
+            "poll_avg": 27.95837
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 94.6,
+            "forecast": 57.19725,
+            "hi": 64.28773,
+            "lo": 49.95728,
+            "poll_avg": 50.96285
+          },
+          "now": {
+            "winprob": 95.57,
+            "forecast": 56.76209,
+            "hi": 63.30598,
+            "lo": 50.1025,
+            "poll_avg": 50.11216
+          },
+          "polls": {
+            "winprob": 93.81,
+            "forecast": 57.08612,
+            "hi": 64.60162,
+            "lo": 49.55779,
+            "poll_avg": 51.04648
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 5.485,
+            "forecast": 38.7246,
+            "hi": 45.81044,
+            "lo": 31.62741,
+            "poll_avg": 27.91501
+          },
+          "now": {
+            "winprob": 4.995,
+            "forecast": 39.2043,
+            "hi": 45.62901,
+            "lo": 32.83829,
+            "poll_avg": 29.02547
+          },
+          "polls": {
+            "winprob": 6.329999999999999,
+            "forecast": 38.83167,
+            "hi": 46.25788,
+            "lo": 31.468,
+            "poll_avg": 27.94858
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 94.515,
+            "forecast": 57.17379,
+            "hi": 64.43579,
+            "lo": 49.94693,
+            "poll_avg": 50.91521
+          },
+          "now": {
+            "winprob": 95.005,
+            "forecast": 56.3656,
+            "hi": 62.86543,
+            "lo": 49.80814,
+            "poll_avg": 49.69758
+          },
+          "polls": {
+            "winprob": 93.67,
+            "forecast": 57.07549,
+            "hi": 64.57881,
+            "lo": 49.50218,
+            "poll_avg": 51.00677
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 4.43,
+            "forecast": 38.02216,
+            "hi": 45.11123,
+            "lo": 30.97974,
+            "poll_avg": 27.25168
+          },
+          "now": {
+            "winprob": 3.42,
+            "forecast": 38.00942,
+            "hi": 44.32229,
+            "lo": 31.69176,
+            "poll_avg": 28.01643
+          },
+          "polls": {
+            "winprob": 5.135,
+            "forecast": 38.11675,
+            "hi": 45.53177,
+            "lo": 30.84121,
+            "poll_avg": 27.29923
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 95.57,
+            "forecast": 57.87251,
+            "hi": 65.08405,
+            "lo": 50.66933,
+            "poll_avg": 51.78621
+          },
+          "now": {
+            "winprob": 96.58,
+            "forecast": 57.59153,
+            "hi": 64.0679,
+            "lo": 51.05993,
+            "poll_avg": 51.28685
+          },
+          "polls": {
+            "winprob": 94.865,
+            "forecast": 57.78933,
+            "hi": 65.22095,
+            "lo": 50.25403,
+            "poll_avg": 51.89994
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 4.135,
+            "forecast": 37.66375,
+            "hi": 44.77626,
+            "lo": 30.56984,
+            "poll_avg": 26.85588
+          },
+          "now": {
+            "winprob": 3.0700000000000003,
+            "forecast": 37.54773,
+            "hi": 43.83122,
+            "lo": 31.30358,
+            "poll_avg": 27.4624
+          },
+          "polls": {
+            "winprob": 4.71,
+            "forecast": 37.76554,
+            "hi": 45.25453,
+            "lo": 30.46483,
+            "poll_avg": 26.89816
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 95.865,
+            "forecast": 58.21624,
+            "hi": 65.51028,
+            "lo": 51.01848,
+            "poll_avg": 52.10906
+          },
+          "now": {
+            "winprob": 96.93,
+            "forecast": 58.02715,
+            "hi": 64.47837,
+            "lo": 51.39042,
+            "poll_avg": 51.75755
+          },
+          "polls": {
+            "winprob": 95.28999999999999,
+            "forecast": 58.1245,
+            "hi": 65.57258,
+            "lo": 50.49142,
+            "poll_avg": 52.20865
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 3.6799999999999997,
+            "forecast": 37.04169,
+            "hi": 44.1811,
+            "lo": 29.93486,
+            "poll_avg": 26.41057
+          },
+          "now": {
+            "winprob": 2.155,
+            "forecast": 35.87745,
+            "hi": 42.42875,
+            "lo": 29.44186,
+            "poll_avg": 25.13618
+          },
+          "polls": {
+            "winprob": 4.22,
+            "forecast": 37.1953,
+            "hi": 44.62082,
+            "lo": 29.79526,
+            "poll_avg": 26.41618
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 96.32,
+            "forecast": 58.81306,
+            "hi": 66.02998,
+            "lo": 51.55059,
+            "poll_avg": 52.33449
+          },
+          "now": {
+            "winprob": 97.845,
+            "forecast": 59.43694,
+            "hi": 66.14088,
+            "lo": 52.62962,
+            "poll_avg": 52.19149
+          },
+          "polls": {
+            "winprob": 95.78,
+            "forecast": 58.66033,
+            "hi": 66.15338,
+            "lo": 51.04218,
+            "poll_avg": 52.34059
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 3.675,
+            "forecast": 37.19595,
+            "hi": 44.25286,
+            "lo": 30.13976,
+            "poll_avg": 26.64433
+          },
+          "now": {
+            "winprob": 2.125,
+            "forecast": 36.04726,
+            "hi": 42.4504,
+            "lo": 29.66262,
+            "poll_avg": 25.44806
+          },
+          "polls": {
+            "winprob": 4.42,
+            "forecast": 37.34991,
+            "hi": 44.87578,
+            "lo": 29.98212,
+            "poll_avg": 26.64601
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 96.325,
+            "forecast": 58.67974,
+            "hi": 65.9324,
+            "lo": 51.4425,
+            "poll_avg": 52.3377
+          },
+          "now": {
+            "winprob": 97.875,
+            "forecast": 59.31225,
+            "hi": 65.91106,
+            "lo": 52.53804,
+            "poll_avg": 52.2727
+          },
+          "polls": {
+            "winprob": 95.58,
+            "forecast": 58.52641,
+            "hi": 66.14423,
+            "lo": 50.86133,
+            "poll_avg": 52.34522
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 3.4549999999999996,
+            "forecast": 37.27837,
+            "hi": 44.2841,
+            "lo": 30.32586,
+            "poll_avg": 26.89764
+          },
+          "now": {
+            "winprob": 1.975,
+            "forecast": 36.06626,
+            "hi": 42.41924,
+            "lo": 29.82423,
+            "poll_avg": 25.78426
+          },
+          "polls": {
+            "winprob": 4.45,
+            "forecast": 37.42645,
+            "hi": 44.88924,
+            "lo": 30.17323,
+            "poll_avg": 26.89806
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 96.545,
+            "forecast": 58.62302,
+            "hi": 65.75249,
+            "lo": 51.36586,
+            "poll_avg": 52.38868
+          },
+          "now": {
+            "winprob": 98.02499999999999,
+            "forecast": 59.36383,
+            "hi": 65.86226,
+            "lo": 52.75053,
+            "poll_avg": 52.56211
+          },
+          "polls": {
+            "winprob": 95.55,
+            "forecast": 58.47538,
+            "hi": 66.01009,
+            "lo": 50.85997,
+            "poll_avg": 52.39529
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 3.66,
+            "forecast": 37.33011,
+            "hi": 44.44083,
+            "lo": 30.4128,
+            "poll_avg": 27.05961
+          },
+          "now": {
+            "winprob": 2.04,
+            "forecast": 36.15123,
+            "hi": 42.42769,
+            "lo": 29.8847,
+            "poll_avg": 26.18433
+          },
+          "polls": {
+            "winprob": 4.515000000000001,
+            "forecast": 37.474,
+            "hi": 44.90332,
+            "lo": 30.22724,
+            "poll_avg": 27.06418
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 96.34,
+            "forecast": 58.58528,
+            "hi": 65.76152,
+            "lo": 51.34795,
+            "poll_avg": 52.38295
+          },
+          "now": {
+            "winprob": 97.96000000000001,
+            "forecast": 59.34809,
+            "hi": 65.90755,
+            "lo": 52.68672,
+            "poll_avg": 52.75473
+          },
+          "polls": {
+            "winprob": 95.485,
+            "forecast": 58.44237,
+            "hi": 65.94461,
+            "lo": 50.85269,
+            "poll_avg": 52.39198
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 3.8350000000000004,
+            "forecast": 37.34232,
+            "hi": 44.41804,
+            "lo": 30.33857,
+            "poll_avg": 27.14651
+          },
+          "now": {
+            "winprob": 1.975,
+            "forecast": 36.06489,
+            "hi": 42.20339,
+            "lo": 29.87143,
+            "poll_avg": 26.39905
+          },
+          "polls": {
+            "winprob": 4.195,
+            "forecast": 37.47861,
+            "hi": 44.91798,
+            "lo": 30.25385,
+            "poll_avg": 27.15571
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 96.165,
+            "forecast": 58.586,
+            "hi": 65.74127,
+            "lo": 51.39382,
+            "poll_avg": 52.46552
+          },
+          "now": {
+            "winprob": 98.02499999999999,
+            "forecast": 59.48224,
+            "hi": 65.80997,
+            "lo": 52.96624,
+            "poll_avg": 52.97108
+          },
+          "polls": {
+            "winprob": 95.80499999999999,
+            "forecast": 58.45173,
+            "hi": 65.88844,
+            "lo": 50.90736,
+            "poll_avg": 52.48449
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 3.895,
+            "forecast": 37.6255,
+            "hi": 44.62875,
+            "lo": 30.76805,
+            "poll_avg": 27.45809
+          },
+          "now": {
+            "winprob": 2.015,
+            "forecast": 36.3218,
+            "hi": 42.45248,
+            "lo": 30.1879,
+            "poll_avg": 26.73397
+          },
+          "polls": {
+            "winprob": 4.625,
+            "forecast": 37.78144,
+            "hi": 45.06331,
+            "lo": 30.49218,
+            "poll_avg": 27.46767
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 96.10499999999999,
+            "forecast": 58.33024,
+            "hi": 65.30703,
+            "lo": 51.12991,
+            "poll_avg": 52.46209
+          },
+          "now": {
+            "winprob": 97.985,
+            "forecast": 59.27714,
+            "hi": 65.64208,
+            "lo": 52.90923,
+            "poll_avg": 53.0726
+          },
+          "polls": {
+            "winprob": 95.375,
+            "forecast": 58.17606,
+            "hi": 65.59797,
+            "lo": 50.65282,
+            "poll_avg": 52.4765
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 4.6850000000000005,
+            "forecast": 38.18393,
+            "hi": 45.25292,
+            "lo": 31.28085,
+            "poll_avg": 28.03533
+          },
+          "now": {
+            "winprob": 2.0650000000000004,
+            "forecast": 36.15717,
+            "hi": 42.43085,
+            "lo": 30.03259,
+            "poll_avg": 26.34019
+          },
+          "polls": {
+            "winprob": 5.095000000000001,
+            "forecast": 38.32372,
+            "hi": 45.61472,
+            "lo": 31.07042,
+            "poll_avg": 28.02942
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 95.31500000000001,
+            "forecast": 57.79652,
+            "hi": 64.89474,
+            "lo": 50.55157,
+            "poll_avg": 52.04343
+          },
+          "now": {
+            "winprob": 97.935,
+            "forecast": 59.36287,
+            "hi": 65.80472,
+            "lo": 52.9195,
+            "poll_avg": 52.85197
+          },
+          "polls": {
+            "winprob": 94.905,
+            "forecast": 57.6567,
+            "hi": 64.99067,
+            "lo": 50.20694,
+            "poll_avg": 52.05117
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 5.155,
+            "forecast": 38.56855,
+            "hi": 45.67643,
+            "lo": 31.64818,
+            "poll_avg": 28.40773
+          },
+          "now": {
+            "winprob": 2.245,
+            "forecast": 36.78222,
+            "hi": 43.03362,
+            "lo": 30.61012,
+            "poll_avg": 27.13274
+          },
+          "polls": {
+            "winprob": 5.845000000000001,
+            "forecast": 38.70377,
+            "hi": 46.115,
+            "lo": 31.40471,
+            "poll_avg": 28.40462
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 94.845,
+            "forecast": 57.43567,
+            "hi": 64.53856,
+            "lo": 50.24781,
+            "poll_avg": 51.89707
+          },
+          "now": {
+            "winprob": 97.75500000000001,
+            "forecast": 58.81471,
+            "hi": 65.19115,
+            "lo": 52.31555,
+            "poll_avg": 52.61844
+          },
+          "polls": {
+            "winprob": 94.155,
+            "forecast": 57.301,
+            "hi": 64.78628,
+            "lo": 49.68573,
+            "poll_avg": 51.91014
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 6.65,
+            "forecast": 39.33422,
+            "hi": 46.61223,
+            "lo": 32.15754,
+            "poll_avg": 28.74428
+          },
+          "now": {
+            "winprob": 3.5249999999999995,
+            "forecast": 38.28695,
+            "hi": 44.56098,
+            "lo": 32.06392,
+            "poll_avg": 28.19279
+          },
+          "polls": {
+            "winprob": 7.090000000000001,
+            "forecast": 39.4883,
+            "hi": 46.76592,
+            "lo": 32.26527,
+            "poll_avg": 28.74962
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 93.35,
+            "forecast": 56.67289,
+            "hi": 63.87062,
+            "lo": 49.34106,
+            "poll_avg": 51.47085
+          },
+          "now": {
+            "winprob": 96.475,
+            "forecast": 57.30897,
+            "hi": 63.68135,
+            "lo": 50.79927,
+            "poll_avg": 51.32805
+          },
+          "polls": {
+            "winprob": 92.91,
+            "forecast": 56.51983,
+            "hi": 63.89095,
+            "lo": 49.04544,
+            "poll_avg": 51.47971
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 6.645,
+            "forecast": 39.49873,
+            "hi": 46.61342,
+            "lo": 32.5041,
+            "poll_avg": 28.86928
+          },
+          "now": {
+            "winprob": 3.9699999999999998,
+            "forecast": 38.61767,
+            "hi": 44.88886,
+            "lo": 32.34441,
+            "poll_avg": 28.58094
+          },
+          "polls": {
+            "winprob": 7.3,
+            "forecast": 39.64456,
+            "hi": 46.93066,
+            "lo": 32.40694,
+            "poll_avg": 28.8733
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 93.355,
+            "forecast": 56.51854,
+            "hi": 63.70202,
+            "lo": 49.31134,
+            "poll_avg": 51.45631
+          },
+          "now": {
+            "winprob": 96.03,
+            "forecast": 57.01375,
+            "hi": 63.41299,
+            "lo": 50.55445,
+            "poll_avg": 51.20631
+          },
+          "polls": {
+            "winprob": 92.7,
+            "forecast": 56.37391,
+            "hi": 63.7111,
+            "lo": 48.86985,
+            "poll_avg": 51.46961
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 6.660000000000001,
+            "forecast": 39.47789,
+            "hi": 46.63725,
+            "lo": 32.42319,
+            "poll_avg": 28.90159
+          },
+          "now": {
+            "winprob": 3.75,
+            "forecast": 38.60882,
+            "hi": 44.82386,
+            "lo": 32.42292,
+            "poll_avg": 28.79688
+          },
+          "polls": {
+            "winprob": 7.145,
+            "forecast": 39.62603,
+            "hi": 46.90829,
+            "lo": 32.35311,
+            "poll_avg": 28.90976
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 93.34,
+            "forecast": 56.54623,
+            "hi": 63.72376,
+            "lo": 49.21786,
+            "poll_avg": 51.51928
+          },
+          "now": {
+            "winprob": 96.25,
+            "forecast": 57.07722,
+            "hi": 63.47196,
+            "lo": 50.69981,
+            "poll_avg": 51.47093
+          },
+          "polls": {
+            "winprob": 92.855,
+            "forecast": 56.39972,
+            "hi": 63.75549,
+            "lo": 48.97887,
+            "poll_avg": 51.53352
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 6.83,
+            "forecast": 39.53068,
+            "hi": 46.70324,
+            "lo": 32.4046,
+            "poll_avg": 28.94115
+          },
+          "now": {
+            "winprob": 3.93,
+            "forecast": 38.70708,
+            "hi": 44.96269,
+            "lo": 32.51901,
+            "poll_avg": 28.91996
+          },
+          "polls": {
+            "winprob": 7.249999999999999,
+            "forecast": 39.68782,
+            "hi": 46.96672,
+            "lo": 32.54486,
+            "poll_avg": 28.94848
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 93.17,
+            "forecast": 56.49681,
+            "hi": 63.76219,
+            "lo": 49.17218,
+            "poll_avg": 51.51705
+          },
+          "now": {
+            "winprob": 96.07,
+            "forecast": 56.99223,
+            "hi": 63.36041,
+            "lo": 50.45726,
+            "poll_avg": 51.46743
+          },
+          "polls": {
+            "winprob": 92.75,
+            "forecast": 56.3409,
+            "hi": 63.65133,
+            "lo": 48.95143,
+            "poll_avg": 51.52613
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 6.825,
+            "forecast": 39.54264,
+            "hi": 46.67186,
+            "lo": 32.51596,
+            "poll_avg": 28.81734
+          },
+          "now": {
+            "winprob": 3.8899999999999997,
+            "forecast": 38.72119,
+            "hi": 44.98896,
+            "lo": 32.48443,
+            "poll_avg": 28.83013
+          },
+          "polls": {
+            "winprob": 7.485,
+            "forecast": 39.68386,
+            "hi": 47.08019,
+            "lo": 32.33291,
+            "poll_avg": 28.82673
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 93.175,
+            "forecast": 56.48222,
+            "hi": 63.67796,
+            "lo": 49.13551,
+            "poll_avg": 51.64905
+          },
+          "now": {
+            "winprob": 96.11,
+            "forecast": 56.98462,
+            "hi": 63.30979,
+            "lo": 50.54498,
+            "poll_avg": 51.66351
+          },
+          "polls": {
+            "winprob": 92.515,
+            "forecast": 56.34333,
+            "hi": 63.76614,
+            "lo": 48.81116,
+            "poll_avg": 51.67283
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 6.795,
+            "forecast": 39.54334,
+            "hi": 46.73672,
+            "lo": 32.49512,
+            "poll_avg": 28.95988
+          },
+          "now": {
+            "winprob": 4.04,
+            "forecast": 38.95317,
+            "hi": 45.16372,
+            "lo": 32.76149,
+            "poll_avg": 29.45721
+          },
+          "polls": {
+            "winprob": 7.435,
+            "forecast": 39.68345,
+            "hi": 47.02185,
+            "lo": 32.42231,
+            "poll_avg": 28.97168
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 93.205,
+            "forecast": 56.49424,
+            "hi": 63.73002,
+            "lo": 49.13897,
+            "poll_avg": 51.65019
+          },
+          "now": {
+            "winprob": 95.96000000000001,
+            "forecast": 56.83529,
+            "hi": 63.15313,
+            "lo": 50.48913,
+            "poll_avg": 51.66896
+          },
+          "polls": {
+            "winprob": 92.565,
+            "forecast": 56.35693,
+            "hi": 63.71677,
+            "lo": 48.91866,
+            "poll_avg": 51.67813
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Conner Eldridge",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 7.145,
+            "forecast": 39.66286,
+            "hi": 46.93245,
+            "lo": 32.53795,
+            "poll_avg": 28.77125
+          },
+          "now": {
+            "winprob": 4.695,
+            "forecast": 39.18764,
+            "hi": 45.48782,
+            "lo": 32.94138,
+            "poll_avg": 29.13342
+          },
+          "polls": {
+            "winprob": 7.925,
+            "forecast": 39.80957,
+            "hi": 47.26511,
+            "lo": 32.43754,
+            "poll_avg": 28.78542
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "John Boozman",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 92.855,
+            "forecast": 56.33661,
+            "hi": 63.54466,
+            "lo": 49.02261,
+            "poll_avg": 51.31236
+          },
+          "now": {
+            "winprob": 95.30499999999999,
+            "forecast": 56.46248,
+            "hi": 62.85297,
+            "lo": 49.93516,
+            "poll_avg": 50.83663
+          },
+          "polls": {
+            "winprob": 92.07499999999999,
+            "forecast": 56.19345,
+            "hi": 63.65809,
+            "lo": 48.64322,
+            "poll_avg": 51.34858
+          }
+        }
+      }
+    ]
+  },
+  "polls": [
+    {
+      "id": "44417",
+      "population": "lv",
+      "sampleSize": "751",
+      "state": "AR",
+      "pollster": "Hendrix College",
+      "startDate": "2016-06-21",
+      "endDate": "2016-06-21",
+      "tracking": null,
+      "url": "http://talkbusiness.net/2016/06/poll-gov-hutchinson-job-approval-two-to-one-favorable-sen-boozman-up-on-eldridge/",
+      "created_at": 1468346460,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 51.0,
+          "adj_pct": {
+            "polls": 52.50084,
+            "plus": 52.21083,
+            "now": 52.50084
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 29.0,
+          "adj_pct": {
+            "polls": 30.34147,
+            "plus": 30.25641,
+            "now": 30.34147
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0007715,
+        "plus": 0.0007715,
+        "now": 0.0007715
+      },
+      "pollsterRating": "C+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 22.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 22.159369999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 21.954420000000002
+          },
+          "now": {
+            "choice": "R",
+            "margin": 22.159369999999996
+          }
+        }
+      }
+    },
+    {
+      "id": "47886",
+      "population": "lv",
+      "sampleSize": "484",
+      "state": "AR",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-25",
+      "endDate": "2016-10-31",
+      "tracking": "TRUE",
+      "url": "https://drive.google.com/file/d/0BxxpEMTW3kAraEFpRXdFc21TVG8/view",
+      "created_at": 1478025720,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 54.0,
+          "adj_pct": {
+            "polls": 53.92884,
+            "plus": 53.96502,
+            "now": 53.92884
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 44.0,
+          "adj_pct": {
+            "polls": 40.78605,
+            "plus": 40.70923,
+            "now": 40.78605
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0181975,
+        "plus": 0.0181975,
+        "now": 0.0181975
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 10.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 13.142789999999998
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 13.255790000000005
+          },
+          "now": {
+            "choice": "R",
+            "margin": 13.142789999999998
+          }
+        }
+      }
+    },
+    {
+      "id": "48024",
+      "population": "lv",
+      "sampleSize": "475",
+      "state": "AR",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-26",
+      "endDate": "2016-11-01",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478098800,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 52.0,
+          "adj_pct": {
+            "polls": 51.85078,
+            "plus": 51.88788,
+            "now": 51.85078
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 46.0,
+          "adj_pct": {
+            "polls": 42.78682,
+            "plus": 42.71037,
+            "now": 42.78682
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0199936,
+        "plus": 0.0199936,
+        "now": 0.0199936
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 6.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 9.063960000000002
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 9.177510000000005
+          },
+          "now": {
+            "choice": "R",
+            "margin": 9.063960000000002
+          }
+        }
+      }
+    },
+    {
+      "id": "48132",
+      "population": "lv",
+      "sampleSize": "593",
+      "state": "AR",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-27",
+      "endDate": "2016-11-02",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478216580,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 54.0,
+          "adj_pct": {
+            "polls": 53.77384,
+            "plus": 53.81159,
+            "now": 53.77384
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 43.0,
+          "adj_pct": {
+            "polls": 39.79206,
+            "plus": 39.71588,
+            "now": 39.79206
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0282335,
+        "plus": 0.0282335,
+        "now": 0.0282335
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 11.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 13.98178
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 14.095710000000004
+          },
+          "now": {
+            "choice": "R",
+            "margin": 13.98178
+          }
+        }
+      }
+    },
+    {
+      "id": "48581",
+      "population": "lv",
+      "sampleSize": "798",
+      "state": "AR",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-31",
+      "endDate": "2016-11-06",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478508360,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 55.0,
+          "adj_pct": {
+            "polls": 54.38314,
+            "plus": 54.44123,
+            "now": 54.38314
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 42.0,
+          "adj_pct": {
+            "polls": 38.89753,
+            "plus": 38.82949,
+            "now": 38.89753
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0720612,
+        "plus": 0.0720612,
+        "now": 0.0720612
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 13.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 15.485609999999994
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 15.611739999999998
+          },
+          "now": {
+            "choice": "R",
+            "margin": 15.485609999999994
+          }
+        }
+      }
+    },
+    {
+      "id": "46005",
+      "population": "lv",
+      "sampleSize": "831",
+      "state": "AR",
+      "pollster": "Hendrix College",
+      "startDate": "2016-09-15",
+      "endDate": "2016-09-17",
+      "tracking": null,
+      "url": "https://talkbusiness.net/2016/09/boozman-still-far-ahead-of-eldridge-in-senate-contest/",
+      "created_at": 1474981020,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 55.0,
+          "adj_pct": {
+            "polls": 55.90505,
+            "plus": 55.75716,
+            "now": 55.90505
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 29.0,
+          "adj_pct": {
+            "polls": 30.55782,
+            "plus": 30.52962,
+            "now": 30.55782
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.1093607,
+        "plus": 0.1093607,
+        "now": 0.1093607
+      },
+      "pollsterRating": "C+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 26.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 25.347230000000003
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 25.227539999999998
+          },
+          "now": {
+            "choice": "R",
+            "margin": 25.347230000000003
+          }
+        }
+      }
+    },
+    {
+      "id": "48272",
+      "population": "lv",
+      "sampleSize": "696",
+      "state": "AR",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-28",
+      "endDate": "2016-11-03",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478277720,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 56.0,
+          "adj_pct": {
+            "polls": 55.67959,
+            "plus": 55.7193,
+            "now": 55.67959
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 43.0,
+          "adj_pct": {
+            "polls": 39.80008,
+            "plus": 39.72469,
+            "now": 39.80008
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.1287092,
+        "plus": 0.1287092,
+        "now": 0.1287092
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 13.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 15.879509999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 15.994609999999994
+          },
+          "now": {
+            "choice": "R",
+            "margin": 15.879509999999996
+          }
+        }
+      }
+    },
+    {
+      "id": "45816",
+      "population": "lv",
+      "sampleSize": "600",
+      "state": "AR",
+      "pollster": "Emerson College",
+      "startDate": "2016-09-09",
+      "endDate": "2016-09-13",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_b53ca6b673c14cdab9d68832bd7e74cb.pdf",
+      "created_at": 1473959400,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 44.0,
+          "adj_pct": {
+            "polls": 45.48551,
+            "plus": 45.54974,
+            "now": 45.48551
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 30.0,
+          "adj_pct": {
+            "polls": 32.42007,
+            "plus": 32.54213,
+            "now": 32.42007
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.1535838,
+        "plus": 0.1535838,
+        "now": 0.1535838
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 14.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 13.065439999999995
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 13.00761
+          },
+          "now": {
+            "choice": "R",
+            "margin": 13.065439999999995
+          }
+        }
+      }
+    },
+    {
+      "id": "47322",
+      "population": "lv",
+      "sampleSize": "463",
+      "state": "AR",
+      "pollster": "Hendrix College",
+      "startDate": "2016-10-21",
+      "endDate": "2016-10-21",
+      "tracking": null,
+      "url": "https://talkbusiness.net/2016/10/trump-boozman-maintain-big-leads-in-arkansas/",
+      "created_at": 1477384080,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 52.0,
+          "adj_pct": {
+            "polls": 52.61741,
+            "plus": 52.51026,
+            "now": 52.61741
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 34.0,
+          "adj_pct": {
+            "polls": 35.00585,
+            "plus": 34.99404,
+            "now": 35.00585
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.7623384,
+        "plus": 0.7623384,
+        "now": 0.7623384
+      },
+      "pollsterRating": "C+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 18.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 17.611559999999997
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 17.516220000000004
+          },
+          "now": {
+            "choice": "R",
+            "margin": 17.611559999999997
+          }
+        }
+      }
+    },
+    {
+      "id": "48093",
+      "population": "lv",
+      "sampleSize": "585",
+      "state": "AR",
+      "pollster": "University of Arkansas",
+      "startDate": "2016-10-18",
+      "endDate": "2016-10-25",
+      "tracking": null,
+      "url": "https://fulbright.uark.edu/departments/political-science/partners/arkpoll/2016/Arkansas-Poll-Release-2016.pdf",
+      "created_at": 1478092380,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 47.2,
+          "adj_pct": {
+            "polls": 49.56252,
+            "plus": 49.45513,
+            "now": 49.56252
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 29.4,
+          "adj_pct": {
+            "polls": 30.67015,
+            "plus": 30.56194,
+            "now": 30.67015
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.232104,
+        "plus": 1.232104,
+        "now": 1.232104
+      },
+      "pollsterRating": "A-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 17.800000000000004
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 18.89237
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 18.893189999999997
+          },
+          "now": {
+            "choice": "R",
+            "margin": 18.89237
+          }
+        }
+      }
+    },
+    {
+      "id": "48863",
+      "population": "lv",
+      "sampleSize": "930",
+      "state": "AR",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-11-01",
+      "endDate": "2016-11-07",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478564220,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 56.0,
+          "adj_pct": {
+            "polls": 55.26295,
+            "plus": 55.33228,
+            "now": 55.26295
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 41.0,
+          "adj_pct": {
+            "polls": 37.90585,
+            "plus": 37.84233,
+            "now": 37.90585
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.717835,
+        "plus": 1.717835,
+        "now": 1.717835
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 15.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 17.357099999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 17.48995
+          },
+          "now": {
+            "choice": "R",
+            "margin": 17.357099999999996
+          }
+        }
+      }
+    }
+  ]
+}

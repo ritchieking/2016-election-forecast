@@ -1,0 +1,7351 @@
+{
+  "state": "MD",
+  "candidates": [
+    {
+      "state": "MD",
+      "party": "D",
+      "candidate": "Chris Van Hollen",
+      "incumbent": null
+    },
+    {
+      "state": "MD",
+      "party": "R",
+      "candidate": "Kathy Szeliga",
+      "incumbent": null
+    }
+  ],
+  "forecasts": {
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 99.835,
+            "forecast": 62.24359,
+            "hi": 66.76786,
+            "lo": 57.63876,
+            "poll_avg": 62.17953,
+            "likely_adjust": 5.72e-05,
+            "trend_adjust": 0.2741814,
+            "house_adjust": -2.295906,
+            "adj_avg": 60.15786,
+            "undecided_adjust": 2.791191,
+            "reallocate_avg": 62.94905,
+            "demo_regress": 60.26888,
+            "demo_weight": 26.315549999999998,
+            "snapshot": 62.24375
+          },
+          "polls": {
+            "winprob": 99.63499999999999,
+            "forecast": 62.97173,
+            "hi": 68.01502,
+            "lo": 57.80379,
+            "poll_avg": 62.17953,
+            "likely_adjust": 3.81e-05,
+            "trend_adjust": 0.292778,
+            "house_adjust": -2.313889,
+            "adj_avg": 60.15845,
+            "undecided_adjust": 2.813358,
+            "reallocate_avg": 62.97181,
+            "demo_regress": 62.97182,
+            "demo_weight": 0.0,
+            "snapshot": 62.97182
+          },
+          "now": {
+            "winprob": 99.63499999999999,
+            "forecast": 62.97173,
+            "hi": 68.01502,
+            "lo": 57.80379,
+            "poll_avg": 62.17953,
+            "likely_adjust": 3.81e-05,
+            "trend_adjust": 0.292778,
+            "house_adjust": -2.313889,
+            "adj_avg": 60.15845,
+            "undecided_adjust": 2.813358,
+            "reallocate_avg": 62.97181,
+            "demo_regress": 62.97182,
+            "demo_weight": 0.0,
+            "snapshot": 62.97182
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 0.165,
+            "forecast": 34.75568,
+            "hi": 39.11703,
+            "lo": 30.39999,
+            "poll_avg": 31.45437,
+            "likely_adjust": 0.0001011,
+            "trend_adjust": 0.6420918,
+            "house_adjust": -0.837532,
+            "adj_avg": 31.25903,
+            "undecided_adjust": 2.791191,
+            "reallocate_avg": 34.05022,
+            "demo_regress": 36.7304,
+            "demo_weight": 26.315549999999998,
+            "snapshot": 34.75552
+          },
+          "polls": {
+            "winprob": 0.365,
+            "forecast": 34.02008,
+            "hi": 38.99266,
+            "lo": 29.14427,
+            "poll_avg": 31.45437,
+            "likely_adjust": 6.1e-05,
+            "trend_adjust": 0.6881943,
+            "house_adjust": -0.9359951,
+            "adj_avg": 31.20663,
+            "undecided_adjust": 2.81336,
+            "reallocate_avg": 34.01999,
+            "demo_regress": 34.01999,
+            "demo_weight": 0.0,
+            "snapshot": 34.01999
+          },
+          "now": {
+            "winprob": 0.365,
+            "forecast": 34.02008,
+            "hi": 38.99266,
+            "lo": 29.14427,
+            "poll_avg": 31.45437,
+            "likely_adjust": 6.1e-05,
+            "trend_adjust": 0.6881943,
+            "house_adjust": -0.9359951,
+            "adj_avg": 31.20663,
+            "undecided_adjust": 2.81336,
+            "reallocate_avg": 34.01999,
+            "demo_regress": 34.01999,
+            "demo_weight": 0.0,
+            "snapshot": 34.01999
+          }
+        }
+      }
+    },
+    "all": [
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 99.835,
+            "forecast": 62.24359,
+            "hi": 66.76786,
+            "lo": 57.63876,
+            "poll_avg": 62.17953,
+            "likely_adjust": 5.72e-05,
+            "trend_adjust": 0.2741814,
+            "house_adjust": -2.295906,
+            "adj_avg": 60.15786,
+            "undecided_adjust": 2.791191,
+            "reallocate_avg": 62.94905,
+            "demo_regress": 60.26888,
+            "demo_weight": 26.315549999999998,
+            "snapshot": 62.24375
+          },
+          "polls": {
+            "winprob": 99.63499999999999,
+            "forecast": 62.97173,
+            "hi": 68.01502,
+            "lo": 57.80379,
+            "poll_avg": 62.17953,
+            "likely_adjust": 3.81e-05,
+            "trend_adjust": 0.292778,
+            "house_adjust": -2.313889,
+            "adj_avg": 60.15845,
+            "undecided_adjust": 2.813358,
+            "reallocate_avg": 62.97181,
+            "demo_regress": 62.97182,
+            "demo_weight": 0.0,
+            "snapshot": 62.97182
+          },
+          "now": {
+            "winprob": 99.63499999999999,
+            "forecast": 62.97173,
+            "hi": 68.01502,
+            "lo": 57.80379,
+            "poll_avg": 62.17953,
+            "likely_adjust": 3.81e-05,
+            "trend_adjust": 0.292778,
+            "house_adjust": -2.313889,
+            "adj_avg": 60.15845,
+            "undecided_adjust": 2.813358,
+            "reallocate_avg": 62.97181,
+            "demo_regress": 62.97182,
+            "demo_weight": 0.0,
+            "snapshot": 62.97182
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 0.165,
+            "forecast": 34.75568,
+            "hi": 39.11703,
+            "lo": 30.39999,
+            "poll_avg": 31.45437,
+            "likely_adjust": 0.0001011,
+            "trend_adjust": 0.6420918,
+            "house_adjust": -0.837532,
+            "adj_avg": 31.25903,
+            "undecided_adjust": 2.791191,
+            "reallocate_avg": 34.05022,
+            "demo_regress": 36.7304,
+            "demo_weight": 26.315549999999998,
+            "snapshot": 34.75552
+          },
+          "polls": {
+            "winprob": 0.365,
+            "forecast": 34.02008,
+            "hi": 38.99266,
+            "lo": 29.14427,
+            "poll_avg": 31.45437,
+            "likely_adjust": 6.1e-05,
+            "trend_adjust": 0.6881943,
+            "house_adjust": -0.9359951,
+            "adj_avg": 31.20663,
+            "undecided_adjust": 2.81336,
+            "reallocate_avg": 34.01999,
+            "demo_regress": 34.01999,
+            "demo_weight": 0.0,
+            "snapshot": 34.01999
+          },
+          "now": {
+            "winprob": 0.365,
+            "forecast": 34.02008,
+            "hi": 38.99266,
+            "lo": 29.14427,
+            "poll_avg": 31.45437,
+            "likely_adjust": 6.1e-05,
+            "trend_adjust": 0.6881943,
+            "house_adjust": -0.9359951,
+            "adj_avg": 31.20663,
+            "undecided_adjust": 2.81336,
+            "reallocate_avg": 34.01999,
+            "demo_regress": 34.01999,
+            "demo_weight": 0.0,
+            "snapshot": 34.01999
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 99.72,
+            "forecast": 62.19944,
+            "hi": 66.74625,
+            "lo": 57.60452,
+            "poll_avg": 60.00554
+          },
+          "now": {
+            "winprob": 99.78,
+            "forecast": 62.32688,
+            "hi": 66.83977,
+            "lo": 57.72245,
+            "poll_avg": 60.22658
+          },
+          "polls": {
+            "winprob": 99.69,
+            "forecast": 62.93711,
+            "hi": 67.98973,
+            "lo": 57.74223,
+            "poll_avg": 60.041
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 0.27999999999999997,
+            "forecast": 34.75833,
+            "hi": 39.1504,
+            "lo": 30.38728,
+            "poll_avg": 31.10628
+          },
+          "now": {
+            "winprob": 0.22,
+            "forecast": 34.64525,
+            "hi": 39.04218,
+            "lo": 30.28996,
+            "poll_avg": 31.01377
+          },
+          "polls": {
+            "winprob": 0.31,
+            "forecast": 34.02849,
+            "hi": 39.00061,
+            "lo": 29.10218,
+            "poll_avg": 31.13169
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 99.825,
+            "forecast": 63.10125,
+            "hi": 67.81656,
+            "lo": 58.30092,
+            "poll_avg": 60.72281
+          },
+          "now": {
+            "winprob": 99.76,
+            "forecast": 63.09284,
+            "hi": 67.77888,
+            "lo": 58.27059,
+            "poll_avg": 60.65575
+          },
+          "polls": {
+            "winprob": 99.705,
+            "forecast": 64.01959,
+            "hi": 69.34631,
+            "lo": 58.61705,
+            "poll_avg": 60.68756
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 0.17500000000000002,
+            "forecast": 33.71238,
+            "hi": 38.24237,
+            "lo": 29.23096,
+            "poll_avg": 29.53531
+          },
+          "now": {
+            "winprob": 0.24,
+            "forecast": 33.7104,
+            "hi": 38.23183,
+            "lo": 29.20763,
+            "poll_avg": 29.50178
+          },
+          "polls": {
+            "winprob": 0.295,
+            "forecast": 32.77689,
+            "hi": 37.99207,
+            "lo": 27.62912,
+            "poll_avg": 29.44375
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 99.815,
+            "forecast": 63.01327,
+            "hi": 67.61642,
+            "lo": 58.27905,
+            "poll_avg": 60.95368
+          },
+          "now": {
+            "winprob": 99.83,
+            "forecast": 63.03408,
+            "hi": 67.61377,
+            "lo": 58.32127,
+            "poll_avg": 61.09056
+          },
+          "polls": {
+            "winprob": 99.71,
+            "forecast": 63.84561,
+            "hi": 69.14121,
+            "lo": 58.52194,
+            "poll_avg": 60.80741
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 0.185,
+            "forecast": 33.88544,
+            "hi": 38.41345,
+            "lo": 29.38417,
+            "poll_avg": 29.94387
+          },
+          "now": {
+            "winprob": 0.16999999999999998,
+            "forecast": 33.90302,
+            "hi": 38.36929,
+            "lo": 29.47428,
+            "poll_avg": 30.0695
+          },
+          "polls": {
+            "winprob": 0.29,
+            "forecast": 33.04504,
+            "hi": 38.18477,
+            "lo": 27.99586,
+            "poll_avg": 30.00734
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 99.83,
+            "forecast": 63.34248,
+            "hi": 67.99872,
+            "lo": 58.64291,
+            "poll_avg": 61.34448
+          },
+          "now": {
+            "winprob": 99.83999999999999,
+            "forecast": 63.40749,
+            "hi": 67.94003,
+            "lo": 58.82697,
+            "poll_avg": 61.60373
+          },
+          "polls": {
+            "winprob": 99.695,
+            "forecast": 64.25207,
+            "hi": 69.53687,
+            "lo": 58.90084,
+            "poll_avg": 61.3738
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 0.16999999999999998,
+            "forecast": 33.57617,
+            "hi": 38.01918,
+            "lo": 29.12635,
+            "poll_avg": 29.76315
+          },
+          "now": {
+            "winprob": 0.16,
+            "forecast": 33.58125,
+            "hi": 37.95395,
+            "lo": 29.22964,
+            "poll_avg": 29.99553
+          },
+          "polls": {
+            "winprob": 0.305,
+            "forecast": 32.67501,
+            "hi": 37.7819,
+            "lo": 27.59491,
+            "poll_avg": 29.79826
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 99.87,
+            "forecast": 64.02303,
+            "hi": 68.75687,
+            "lo": 59.13766,
+            "poll_avg": 61.9706
+          },
+          "now": {
+            "winprob": 99.82,
+            "forecast": 64.1384,
+            "hi": 68.78918,
+            "lo": 59.36098,
+            "poll_avg": 62.15018
+          },
+          "polls": {
+            "winprob": 99.8,
+            "forecast": 65.04644,
+            "hi": 70.40593,
+            "lo": 59.65756,
+            "poll_avg": 61.95465
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 0.13,
+            "forecast": 32.8123,
+            "hi": 37.43533,
+            "lo": 28.28191,
+            "poll_avg": 28.67229
+          },
+          "now": {
+            "winprob": 0.18,
+            "forecast": 32.72362,
+            "hi": 37.28527,
+            "lo": 28.25332,
+            "poll_avg": 28.66481
+          },
+          "polls": {
+            "winprob": 0.2,
+            "forecast": 31.79054,
+            "hi": 36.97691,
+            "lo": 26.57759,
+            "poll_avg": 28.69699
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 99.845,
+            "forecast": 63.81863,
+            "hi": 68.71685,
+            "lo": 58.84903,
+            "poll_avg": 61.41371
+          },
+          "now": {
+            "winprob": 99.83999999999999,
+            "forecast": 63.9312,
+            "hi": 68.62642,
+            "lo": 59.04749,
+            "poll_avg": 61.52623
+          },
+          "polls": {
+            "winprob": 99.71,
+            "forecast": 64.77335,
+            "hi": 70.19855,
+            "lo": 59.2338,
+            "poll_avg": 61.31288
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 0.155,
+            "forecast": 32.93758,
+            "hi": 37.65186,
+            "lo": 28.34856,
+            "poll_avg": 28.57875
+          },
+          "now": {
+            "winprob": 0.16,
+            "forecast": 32.83117,
+            "hi": 37.39635,
+            "lo": 28.353,
+            "poll_avg": 28.48573
+          },
+          "polls": {
+            "winprob": 0.29,
+            "forecast": 31.9601,
+            "hi": 37.22163,
+            "lo": 26.72198,
+            "poll_avg": 28.50064
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.8,
+            "forecast": 63.76139,
+            "hi": 68.53918,
+            "lo": 58.87456,
+            "poll_avg": 61.40987
+          },
+          "now": {
+            "winprob": 99.86,
+            "forecast": 63.84604,
+            "hi": 68.55013,
+            "lo": 59.01912,
+            "poll_avg": 61.6114
+          },
+          "polls": {
+            "winprob": 99.72999999999999,
+            "forecast": 64.68007,
+            "hi": 70.16357,
+            "lo": 59.13084,
+            "poll_avg": 61.40482
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.2,
+            "forecast": 33.03437,
+            "hi": 37.73918,
+            "lo": 28.42281,
+            "poll_avg": 28.8698
+          },
+          "now": {
+            "winprob": 0.13999999999999999,
+            "forecast": 32.99247,
+            "hi": 37.54019,
+            "lo": 28.49813,
+            "poll_avg": 28.94495
+          },
+          "polls": {
+            "winprob": 0.27,
+            "forecast": 32.11027,
+            "hi": 37.47703,
+            "lo": 26.86327,
+            "poll_avg": 28.83544
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 99.72999999999999,
+            "forecast": 62.61707,
+            "hi": 67.69754,
+            "lo": 57.44196,
+            "poll_avg": 57.81522
+          },
+          "now": {
+            "winprob": 99.74,
+            "forecast": 62.62094,
+            "hi": 67.55026,
+            "lo": 57.50843,
+            "poll_avg": 57.87077
+          },
+          "polls": {
+            "winprob": 99.51,
+            "forecast": 63.18417,
+            "hi": 68.87138,
+            "lo": 57.31958,
+            "poll_avg": 57.8351
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 0.27,
+            "forecast": 33.61968,
+            "hi": 38.48671,
+            "lo": 28.79387,
+            "poll_avg": 27.69105
+          },
+          "now": {
+            "winprob": 0.26,
+            "forecast": 33.62255,
+            "hi": 38.3465,
+            "lo": 28.9573,
+            "poll_avg": 27.74444
+          },
+          "polls": {
+            "winprob": 0.49,
+            "forecast": 33.05621,
+            "hi": 38.6916,
+            "lo": 27.51662,
+            "poll_avg": 27.70314
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 99.775,
+            "forecast": 62.80344,
+            "hi": 67.91026,
+            "lo": 57.54839,
+            "poll_avg": 57.95792
+          },
+          "now": {
+            "winprob": 99.75,
+            "forecast": 62.86922,
+            "hi": 67.83002,
+            "lo": 57.81286,
+            "poll_avg": 58.14986
+          },
+          "polls": {
+            "winprob": 99.53,
+            "forecast": 63.33833,
+            "hi": 69.10681,
+            "lo": 57.37072,
+            "poll_avg": 57.94983
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 0.22499999999999998,
+            "forecast": 33.42365,
+            "hi": 38.30804,
+            "lo": 28.59707,
+            "poll_avg": 27.50181
+          },
+          "now": {
+            "winprob": 0.25,
+            "forecast": 33.38361,
+            "hi": 38.11881,
+            "lo": 28.64688,
+            "poll_avg": 27.59452
+          },
+          "polls": {
+            "winprob": 0.47000000000000003,
+            "forecast": 32.88778,
+            "hi": 38.47269,
+            "lo": 27.3772,
+            "poll_avg": 27.50063
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 99.72,
+            "forecast": 62.90373,
+            "hi": 67.9787,
+            "lo": 57.6526,
+            "poll_avg": 57.98224
+          },
+          "now": {
+            "winprob": 99.7,
+            "forecast": 63.01667,
+            "hi": 67.92721,
+            "lo": 58.01046,
+            "poll_avg": 58.26885
+          },
+          "polls": {
+            "winprob": 99.5,
+            "forecast": 63.44789,
+            "hi": 69.24413,
+            "lo": 57.51506,
+            "poll_avg": 57.94614
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 0.27999999999999997,
+            "forecast": 33.29653,
+            "hi": 38.16297,
+            "lo": 28.49833,
+            "poll_avg": 27.27464
+          },
+          "now": {
+            "winprob": 0.3,
+            "forecast": 33.22041,
+            "hi": 37.95754,
+            "lo": 28.48657,
+            "poll_avg": 27.38521
+          },
+          "polls": {
+            "winprob": 0.5,
+            "forecast": 32.74448,
+            "hi": 38.31573,
+            "lo": 27.21556,
+            "poll_avg": 27.24256
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 99.735,
+            "forecast": 62.86223,
+            "hi": 68.06293,
+            "lo": 57.56708,
+            "poll_avg": 57.68294
+          },
+          "now": {
+            "winprob": 99.72,
+            "forecast": 62.98615,
+            "hi": 68.00383,
+            "lo": 57.89425,
+            "poll_avg": 57.95166
+          },
+          "polls": {
+            "winprob": 99.51,
+            "forecast": 63.40487,
+            "hi": 69.24571,
+            "lo": 57.50056,
+            "poll_avg": 57.70063
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 0.265,
+            "forecast": 33.26904,
+            "hi": 38.22873,
+            "lo": 28.37203,
+            "poll_avg": 26.98129
+          },
+          "now": {
+            "winprob": 0.27999999999999997,
+            "forecast": 33.17068,
+            "hi": 37.8804,
+            "lo": 28.48652,
+            "poll_avg": 27.04742
+          },
+          "polls": {
+            "winprob": 0.49,
+            "forecast": 32.73475,
+            "hi": 38.35886,
+            "lo": 27.23343,
+            "poll_avg": 27.03166
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 99.68,
+            "forecast": 62.65714,
+            "hi": 67.91644,
+            "lo": 57.32616,
+            "poll_avg": 56.97832
+          },
+          "now": {
+            "winprob": 99.775,
+            "forecast": 62.68952,
+            "hi": 67.8279,
+            "lo": 57.35217,
+            "poll_avg": 57.0979
+          },
+          "polls": {
+            "winprob": 99.47500000000001,
+            "forecast": 63.10816,
+            "hi": 68.96736,
+            "lo": 56.99989,
+            "poll_avg": 57.01447
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 0.32,
+            "forecast": 33.38139,
+            "hi": 38.4298,
+            "lo": 28.37111,
+            "poll_avg": 26.82986
+          },
+          "now": {
+            "winprob": 0.22499999999999998,
+            "forecast": 33.35253,
+            "hi": 38.17172,
+            "lo": 28.52987,
+            "poll_avg": 26.89091
+          },
+          "polls": {
+            "winprob": 0.525,
+            "forecast": 32.93513,
+            "hi": 38.77131,
+            "lo": 27.19441,
+            "poll_avg": 26.83767
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 99.64,
+            "forecast": 62.44363,
+            "hi": 67.73747,
+            "lo": 56.9801,
+            "poll_avg": 56.65889
+          },
+          "now": {
+            "winprob": 99.685,
+            "forecast": 62.48327,
+            "hi": 67.66682,
+            "lo": 57.22208,
+            "poll_avg": 56.78263
+          },
+          "polls": {
+            "winprob": 99.47500000000001,
+            "forecast": 62.87079,
+            "hi": 68.84981,
+            "lo": 56.80109,
+            "poll_avg": 56.6955
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 0.36,
+            "forecast": 33.57715,
+            "hi": 38.70455,
+            "lo": 28.53487,
+            "poll_avg": 26.9491
+          },
+          "now": {
+            "winprob": 0.315,
+            "forecast": 33.53956,
+            "hi": 38.42431,
+            "lo": 28.7219,
+            "poll_avg": 27.01414
+          },
+          "polls": {
+            "winprob": 0.525,
+            "forecast": 33.15827,
+            "hi": 38.94093,
+            "lo": 27.46711,
+            "poll_avg": 26.98378
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 99.6,
+            "forecast": 62.39607,
+            "hi": 67.83369,
+            "lo": 56.87782,
+            "poll_avg": 56.0871
+          },
+          "now": {
+            "winprob": 99.7,
+            "forecast": 62.31733,
+            "hi": 67.60272,
+            "lo": 56.94144,
+            "poll_avg": 55.94006
+          },
+          "polls": {
+            "winprob": 99.30499999999999,
+            "forecast": 62.77383,
+            "hi": 68.93524,
+            "lo": 56.53376,
+            "poll_avg": 56.05982
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 0.4,
+            "forecast": 33.48529,
+            "hi": 38.6721,
+            "lo": 28.32028,
+            "poll_avg": 26.32977
+          },
+          "now": {
+            "winprob": 0.3,
+            "forecast": 33.51921,
+            "hi": 38.63645,
+            "lo": 28.55417,
+            "poll_avg": 26.32828
+          },
+          "polls": {
+            "winprob": 0.695,
+            "forecast": 33.11384,
+            "hi": 39.04013,
+            "lo": 27.30711,
+            "poll_avg": 26.40055
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 99.705,
+            "forecast": 62.82595,
+            "hi": 68.08946,
+            "lo": 57.42677,
+            "poll_avg": 57.08806
+          },
+          "now": {
+            "winprob": 99.785,
+            "forecast": 62.84826,
+            "hi": 67.91957,
+            "lo": 57.60404,
+            "poll_avg": 57.23721
+          },
+          "polls": {
+            "winprob": 99.485,
+            "forecast": 63.18465,
+            "hi": 69.14397,
+            "lo": 57.06927,
+            "poll_avg": 57.13163
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 0.295,
+            "forecast": 33.21001,
+            "hi": 38.27904,
+            "lo": 28.21011,
+            "poll_avg": 26.72187
+          },
+          "now": {
+            "winprob": 0.215,
+            "forecast": 33.20612,
+            "hi": 38.05069,
+            "lo": 28.38698,
+            "poll_avg": 26.89988
+          },
+          "polls": {
+            "winprob": 0.515,
+            "forecast": 32.86765,
+            "hi": 38.66049,
+            "lo": 27.17184,
+            "poll_avg": 26.8132
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 99.655,
+            "forecast": 62.50854,
+            "hi": 67.82628,
+            "lo": 57.07487,
+            "poll_avg": 56.77431
+          },
+          "now": {
+            "winprob": 99.67,
+            "forecast": 62.34729,
+            "hi": 67.44047,
+            "lo": 57.21836,
+            "poll_avg": 56.75635
+          },
+          "polls": {
+            "winprob": 99.39,
+            "forecast": 62.92104,
+            "hi": 68.83744,
+            "lo": 56.83929,
+            "poll_avg": 56.8229
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 0.345,
+            "forecast": 33.53948,
+            "hi": 38.62267,
+            "lo": 28.49686,
+            "poll_avg": 27.06721
+          },
+          "now": {
+            "winprob": 0.33,
+            "forecast": 33.72053,
+            "hi": 38.59353,
+            "lo": 28.908,
+            "poll_avg": 27.39953
+          },
+          "polls": {
+            "winprob": 0.61,
+            "forecast": 33.12705,
+            "hi": 38.94069,
+            "lo": 27.43189,
+            "poll_avg": 27.02868
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 99.685,
+            "forecast": 62.51731,
+            "hi": 67.70491,
+            "lo": 57.14672,
+            "poll_avg": 56.77504
+          },
+          "now": {
+            "winprob": 99.705,
+            "forecast": 62.38929,
+            "hi": 67.41974,
+            "lo": 57.15842,
+            "poll_avg": 56.76473
+          },
+          "polls": {
+            "winprob": 99.445,
+            "forecast": 62.92645,
+            "hi": 68.9015,
+            "lo": 56.85265,
+            "poll_avg": 56.82799
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 0.315,
+            "forecast": 33.52847,
+            "hi": 38.58155,
+            "lo": 28.49584,
+            "poll_avg": 27.04922
+          },
+          "now": {
+            "winprob": 0.295,
+            "forecast": 33.66709,
+            "hi": 38.46718,
+            "lo": 28.93482,
+            "poll_avg": 27.31849
+          },
+          "polls": {
+            "winprob": 0.555,
+            "forecast": 33.12131,
+            "hi": 38.97976,
+            "lo": 27.40295,
+            "poll_avg": 27.02203
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 99.68,
+            "forecast": 62.55527,
+            "hi": 67.8567,
+            "lo": 57.13512,
+            "poll_avg": 56.81296
+          },
+          "now": {
+            "winprob": 99.675,
+            "forecast": 62.35255,
+            "hi": 67.4182,
+            "lo": 57.18134,
+            "poll_avg": 56.76946
+          },
+          "polls": {
+            "winprob": 99.41499999999999,
+            "forecast": 62.93343,
+            "hi": 68.83634,
+            "lo": 56.8507,
+            "poll_avg": 56.83356
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 0.32,
+            "forecast": 33.48569,
+            "hi": 38.53516,
+            "lo": 28.48383,
+            "poll_avg": 26.98146
+          },
+          "now": {
+            "winprob": 0.325,
+            "forecast": 33.71395,
+            "hi": 38.48801,
+            "lo": 28.91725,
+            "poll_avg": 27.39874
+          },
+          "polls": {
+            "winprob": 0.585,
+            "forecast": 33.11345,
+            "hi": 38.87631,
+            "lo": 27.396,
+            "poll_avg": 27.01071
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 99.64,
+            "forecast": 62.85367,
+            "hi": 68.11831,
+            "lo": 57.45507,
+            "poll_avg": 57.05761
+          },
+          "now": {
+            "winprob": 99.74,
+            "forecast": 62.6256,
+            "hi": 67.59882,
+            "lo": 57.48637,
+            "poll_avg": 57.04182
+          },
+          "polls": {
+            "winprob": 99.4,
+            "forecast": 63.20465,
+            "hi": 69.29186,
+            "lo": 57.09559,
+            "poll_avg": 57.05602
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 0.36,
+            "forecast": 33.17121,
+            "hi": 38.26859,
+            "lo": 28.10864,
+            "poll_avg": 26.66059
+          },
+          "now": {
+            "winprob": 0.26,
+            "forecast": 33.438,
+            "hi": 38.22044,
+            "lo": 28.75107,
+            "poll_avg": 27.16541
+          },
+          "polls": {
+            "winprob": 0.6,
+            "forecast": 32.82148,
+            "hi": 38.66531,
+            "lo": 27.00408,
+            "poll_avg": 26.67146
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 99.625,
+            "forecast": 62.99541,
+            "hi": 68.31692,
+            "lo": 57.48997,
+            "poll_avg": 57.07405
+          },
+          "now": {
+            "winprob": 99.775,
+            "forecast": 62.88635,
+            "hi": 67.92706,
+            "lo": 57.73262,
+            "poll_avg": 57.1843
+          },
+          "polls": {
+            "winprob": 99.485,
+            "forecast": 63.33495,
+            "hi": 69.34186,
+            "lo": 57.2227,
+            "poll_avg": 57.07857
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 0.375,
+            "forecast": 32.99368,
+            "hi": 38.1001,
+            "lo": 27.95317,
+            "poll_avg": 26.37049
+          },
+          "now": {
+            "winprob": 0.22499999999999998,
+            "forecast": 33.13686,
+            "hi": 37.95567,
+            "lo": 28.35649,
+            "poll_avg": 26.76486
+          },
+          "polls": {
+            "winprob": 0.515,
+            "forecast": 32.65864,
+            "hi": 38.41261,
+            "lo": 26.89914,
+            "poll_avg": 26.40162
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 99.625,
+            "forecast": 62.98139,
+            "hi": 68.40461,
+            "lo": 57.37251,
+            "poll_avg": 56.88367
+          },
+          "now": {
+            "winprob": 99.75500000000001,
+            "forecast": 63.11526,
+            "hi": 68.34832,
+            "lo": 57.68988,
+            "poll_avg": 57.04209
+          },
+          "polls": {
+            "winprob": 99.42,
+            "forecast": 63.43711,
+            "hi": 69.49936,
+            "lo": 57.13757,
+            "poll_avg": 56.92703
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 0.375,
+            "forecast": 32.93549,
+            "hi": 38.18428,
+            "lo": 27.75269,
+            "poll_avg": 25.96474
+          },
+          "now": {
+            "winprob": 0.245,
+            "forecast": 32.76598,
+            "hi": 37.69938,
+            "lo": 27.89874,
+            "poll_avg": 25.86062
+          },
+          "polls": {
+            "winprob": 0.58,
+            "forecast": 32.48543,
+            "hi": 38.44135,
+            "lo": 26.6219,
+            "poll_avg": 25.97371
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 99.72,
+            "forecast": 63.07705,
+            "hi": 68.45165,
+            "lo": 57.51113,
+            "poll_avg": 57.03384
+          },
+          "now": {
+            "winprob": 99.735,
+            "forecast": 63.36758,
+            "hi": 68.53323,
+            "lo": 58.08527,
+            "poll_avg": 57.37391
+          },
+          "polls": {
+            "winprob": 99.42,
+            "forecast": 63.38382,
+            "hi": 69.44829,
+            "lo": 57.2122,
+            "poll_avg": 57.06925
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 0.27999999999999997,
+            "forecast": 32.88575,
+            "hi": 38.04787,
+            "lo": 27.7697,
+            "poll_avg": 26.19937
+          },
+          "now": {
+            "winprob": 0.265,
+            "forecast": 32.56321,
+            "hi": 37.49557,
+            "lo": 27.64013,
+            "poll_avg": 25.96173
+          },
+          "polls": {
+            "winprob": 0.58,
+            "forecast": 32.5927,
+            "hi": 38.51872,
+            "lo": 26.74379,
+            "poll_avg": 26.2771
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 99.61,
+            "forecast": 62.71812,
+            "hi": 68.14735,
+            "lo": 57.14472,
+            "poll_avg": 56.5815
+          },
+          "now": {
+            "winprob": 99.74499999999999,
+            "forecast": 62.94511,
+            "hi": 68.13019,
+            "lo": 57.63789,
+            "poll_avg": 56.87097
+          },
+          "polls": {
+            "winprob": 99.42,
+            "forecast": 63.07866,
+            "hi": 69.08711,
+            "lo": 56.80861,
+            "poll_avg": 56.65249
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 0.38999999999999996,
+            "forecast": 33.22665,
+            "hi": 38.46061,
+            "lo": 28.07065,
+            "poll_avg": 26.42325
+          },
+          "now": {
+            "winprob": 0.255,
+            "forecast": 32.9733,
+            "hi": 37.92283,
+            "lo": 28.09962,
+            "poll_avg": 26.29514
+          },
+          "polls": {
+            "winprob": 0.58,
+            "forecast": 32.87721,
+            "hi": 38.7006,
+            "lo": 27.0774,
+            "poll_avg": 26.45206
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 99.67,
+            "forecast": 62.65688,
+            "hi": 68.00711,
+            "lo": 57.20223,
+            "poll_avg": 56.85397
+          },
+          "now": {
+            "winprob": 99.8,
+            "forecast": 62.85994,
+            "hi": 67.87955,
+            "lo": 57.75423,
+            "poll_avg": 57.17857
+          },
+          "polls": {
+            "winprob": 99.435,
+            "forecast": 62.95849,
+            "hi": 68.90547,
+            "lo": 56.88479,
+            "poll_avg": 56.87515
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 0.33,
+            "forecast": 33.38435,
+            "hi": 38.58272,
+            "lo": 28.26508,
+            "poll_avg": 26.95065
+          },
+          "now": {
+            "winprob": 0.2,
+            "forecast": 33.18489,
+            "hi": 37.90167,
+            "lo": 28.42432,
+            "poll_avg": 26.9658
+          },
+          "polls": {
+            "winprob": 0.565,
+            "forecast": 33.0925,
+            "hi": 38.85396,
+            "lo": 27.35093,
+            "poll_avg": 27.0091
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 99.735,
+            "forecast": 62.53635,
+            "hi": 67.808,
+            "lo": 57.05413,
+            "poll_avg": 56.76405
+          },
+          "now": {
+            "winprob": 99.80499999999999,
+            "forecast": 62.69564,
+            "hi": 67.73349,
+            "lo": 57.50906,
+            "poll_avg": 57.08364
+          },
+          "polls": {
+            "winprob": 99.44,
+            "forecast": 62.8366,
+            "hi": 68.84001,
+            "lo": 56.70277,
+            "poll_avg": 56.78291
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 0.265,
+            "forecast": 33.51674,
+            "hi": 38.70198,
+            "lo": 28.4408,
+            "poll_avg": 27.11468
+          },
+          "now": {
+            "winprob": 0.19499999999999998,
+            "forecast": 33.37469,
+            "hi": 38.11654,
+            "lo": 28.6769,
+            "poll_avg": 27.23594
+          },
+          "polls": {
+            "winprob": 0.5599999999999999,
+            "forecast": 33.22592,
+            "hi": 39.1007,
+            "lo": 27.5151,
+            "poll_avg": 27.17239
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 99.72,
+            "forecast": 62.65742,
+            "hi": 67.9347,
+            "lo": 57.20694,
+            "poll_avg": 56.77233
+          },
+          "now": {
+            "winprob": 99.75,
+            "forecast": 62.87027,
+            "hi": 67.93628,
+            "lo": 57.68658,
+            "poll_avg": 57.13184
+          },
+          "polls": {
+            "winprob": 99.38,
+            "forecast": 62.95689,
+            "hi": 68.96967,
+            "lo": 56.8325,
+            "poll_avg": 56.79915
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 0.27999999999999997,
+            "forecast": 33.36064,
+            "hi": 38.53291,
+            "lo": 28.28076,
+            "poll_avg": 26.83694
+          },
+          "now": {
+            "winprob": 0.25,
+            "forecast": 33.15091,
+            "hi": 37.95462,
+            "lo": 28.37247,
+            "poll_avg": 26.85398
+          },
+          "polls": {
+            "winprob": 0.62,
+            "forecast": 33.07426,
+            "hi": 38.88789,
+            "lo": 27.28037,
+            "poll_avg": 26.91669
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 99.625,
+            "forecast": 62.26625,
+            "hi": 67.74174,
+            "lo": 56.74042,
+            "poll_avg": 56.17392
+          },
+          "now": {
+            "winprob": 99.74499999999999,
+            "forecast": 62.42585,
+            "hi": 67.54109,
+            "lo": 57.20768,
+            "poll_avg": 56.36958
+          },
+          "polls": {
+            "winprob": 99.26,
+            "forecast": 62.63195,
+            "hi": 68.6503,
+            "lo": 56.48643,
+            "poll_avg": 56.16772
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 0.375,
+            "forecast": 33.69537,
+            "hi": 38.91011,
+            "lo": 28.48485,
+            "poll_avg": 26.88099
+          },
+          "now": {
+            "winprob": 0.255,
+            "forecast": 33.50241,
+            "hi": 38.35837,
+            "lo": 28.66561,
+            "poll_avg": 26.82525
+          },
+          "polls": {
+            "winprob": 0.74,
+            "forecast": 33.32631,
+            "hi": 39.31026,
+            "lo": 27.50619,
+            "poll_avg": 26.86
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 99.54499999999999,
+            "forecast": 62.27379,
+            "hi": 67.69998,
+            "lo": 56.76431,
+            "poll_avg": 56.3336
+          },
+          "now": {
+            "winprob": 99.71,
+            "forecast": 62.49632,
+            "hi": 67.63599,
+            "lo": 57.23691,
+            "poll_avg": 56.5927
+          },
+          "polls": {
+            "winprob": 99.3,
+            "forecast": 62.75651,
+            "hi": 68.82552,
+            "lo": 56.49635,
+            "poll_avg": 56.34552
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 0.455,
+            "forecast": 33.6894,
+            "hi": 38.90591,
+            "lo": 28.47206,
+            "poll_avg": 26.76486
+          },
+          "now": {
+            "winprob": 0.29,
+            "forecast": 33.43106,
+            "hi": 38.29292,
+            "lo": 28.62526,
+            "poll_avg": 26.64847
+          },
+          "polls": {
+            "winprob": 0.7000000000000001,
+            "forecast": 33.21257,
+            "hi": 39.15636,
+            "lo": 27.39312,
+            "poll_avg": 26.80092
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 99.55000000000001,
+            "forecast": 62.15953,
+            "hi": 67.60202,
+            "lo": 56.61206,
+            "poll_avg": 56.36448
+          },
+          "now": {
+            "winprob": 99.64,
+            "forecast": 62.06708,
+            "hi": 67.11186,
+            "lo": 56.90426,
+            "poll_avg": 56.41067
+          },
+          "polls": {
+            "winprob": 99.325,
+            "forecast": 62.6977,
+            "hi": 68.7533,
+            "lo": 56.5715,
+            "poll_avg": 56.359
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 0.44999999999999996,
+            "forecast": 33.83379,
+            "hi": 39.03755,
+            "lo": 28.68559,
+            "poll_avg": 26.97323
+          },
+          "now": {
+            "winprob": 0.36,
+            "forecast": 33.93687,
+            "hi": 38.76809,
+            "lo": 29.17943,
+            "poll_avg": 27.35271
+          },
+          "polls": {
+            "winprob": 0.675,
+            "forecast": 33.29237,
+            "hi": 39.19948,
+            "lo": 27.47544,
+            "poll_avg": 26.95245
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 99.56,
+            "forecast": 62.04601,
+            "hi": 67.42746,
+            "lo": 56.58176,
+            "poll_avg": 56.49834
+          },
+          "now": {
+            "winprob": 99.74499999999999,
+            "forecast": 61.9326,
+            "hi": 66.83981,
+            "lo": 56.86278,
+            "poll_avg": 56.61216
+          },
+          "polls": {
+            "winprob": 99.38,
+            "forecast": 62.60935,
+            "hi": 68.62478,
+            "lo": 56.45977,
+            "poll_avg": 56.51011
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 0.44,
+            "forecast": 34.00847,
+            "hi": 39.21921,
+            "lo": 28.87718,
+            "poll_avg": 27.33876
+          },
+          "now": {
+            "winprob": 0.255,
+            "forecast": 34.1627,
+            "hi": 38.92125,
+            "lo": 29.45725,
+            "poll_avg": 27.84393
+          },
+          "polls": {
+            "winprob": 0.62,
+            "forecast": 33.4473,
+            "hi": 39.30396,
+            "lo": 27.63098,
+            "poll_avg": 27.3462
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 99.615,
+            "forecast": 62.29435,
+            "hi": 67.71175,
+            "lo": 56.7837,
+            "poll_avg": 56.55769
+          },
+          "now": {
+            "winprob": 99.75500000000001,
+            "forecast": 62.29161,
+            "hi": 67.30793,
+            "lo": 57.17405,
+            "poll_avg": 56.75811
+          },
+          "polls": {
+            "winprob": 99.375,
+            "forecast": 62.77871,
+            "hi": 68.78132,
+            "lo": 56.5966,
+            "poll_avg": 56.58708
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 0.385,
+            "forecast": 33.72266,
+            "hi": 38.93489,
+            "lo": 28.55965,
+            "poll_avg": 27.00125
+          },
+          "now": {
+            "winprob": 0.245,
+            "forecast": 33.74931,
+            "hi": 38.48753,
+            "lo": 29.02753,
+            "poll_avg": 27.34918
+          },
+          "polls": {
+            "winprob": 0.625,
+            "forecast": 33.24868,
+            "hi": 39.18102,
+            "lo": 27.46766,
+            "poll_avg": 27.05796
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 99.54499999999999,
+            "forecast": 62.09379,
+            "hi": 67.5348,
+            "lo": 56.49628,
+            "poll_avg": 56.37526
+          },
+          "now": {
+            "winprob": 99.655,
+            "forecast": 61.91261,
+            "hi": 66.78791,
+            "lo": 56.82262,
+            "poll_avg": 56.51037
+          },
+          "polls": {
+            "winprob": 99.27,
+            "forecast": 62.58845,
+            "hi": 68.66022,
+            "lo": 56.44037,
+            "poll_avg": 56.41862
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 0.455,
+            "forecast": 33.9309,
+            "hi": 39.13836,
+            "lo": 28.8119,
+            "poll_avg": 27.2072
+          },
+          "now": {
+            "winprob": 0.345,
+            "forecast": 34.17182,
+            "hi": 38.97195,
+            "lo": 29.45937,
+            "poll_avg": 27.86806
+          },
+          "polls": {
+            "winprob": 0.73,
+            "forecast": 33.45029,
+            "hi": 39.35194,
+            "lo": 27.64098,
+            "poll_avg": 27.28103
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 99.575,
+            "forecast": 62.09337,
+            "hi": 67.49633,
+            "lo": 56.53453,
+            "poll_avg": 56.38838
+          },
+          "now": {
+            "winprob": 99.61,
+            "forecast": 61.8011,
+            "hi": 66.6162,
+            "lo": 56.79469,
+            "poll_avg": 56.4612
+          },
+          "polls": {
+            "winprob": 99.29,
+            "forecast": 62.58391,
+            "hi": 68.61909,
+            "lo": 56.53252,
+            "poll_avg": 56.41441
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 0.42500000000000004,
+            "forecast": 33.93431,
+            "hi": 39.17089,
+            "lo": 28.76045,
+            "poll_avg": 27.21984
+          },
+          "now": {
+            "winprob": 0.38999999999999996,
+            "forecast": 34.30458,
+            "hi": 38.95932,
+            "lo": 29.66225,
+            "poll_avg": 28.06615
+          },
+          "polls": {
+            "winprob": 0.7100000000000001,
+            "forecast": 33.45502,
+            "hi": 39.28191,
+            "lo": 27.67059,
+            "poll_avg": 27.28589
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 99.035,
+            "forecast": 61.99208,
+            "hi": 68.26604,
+            "lo": 55.54362,
+            "poll_avg": 54.75322
+          },
+          "now": {
+            "winprob": 99.345,
+            "forecast": 62.1056,
+            "hi": 67.95621,
+            "lo": 56.01481,
+            "poll_avg": 54.92389
+          },
+          "polls": {
+            "winprob": 98.91,
+            "forecast": 62.62413,
+            "hi": 69.42162,
+            "lo": 55.69063,
+            "poll_avg": 54.75755
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 0.9650000000000001,
+            "forecast": 33.61253,
+            "hi": 39.71629,
+            "lo": 27.7025,
+            "poll_avg": 25.01973
+          },
+          "now": {
+            "winprob": 0.655,
+            "forecast": 33.41087,
+            "hi": 39.11208,
+            "lo": 27.80517,
+            "poll_avg": 25.00665
+          },
+          "polls": {
+            "winprob": 1.09,
+            "forecast": 32.98397,
+            "hi": 39.63865,
+            "lo": 26.42817,
+            "poll_avg": 25.04417
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 99.075,
+            "forecast": 62.09262,
+            "hi": 68.39198,
+            "lo": 55.69704,
+            "poll_avg": 54.77079
+          },
+          "now": {
+            "winprob": 99.375,
+            "forecast": 62.27644,
+            "hi": 68.18961,
+            "lo": 56.18929,
+            "poll_avg": 54.9829
+          },
+          "polls": {
+            "winprob": 98.91499999999999,
+            "forecast": 62.746,
+            "hi": 69.66735,
+            "lo": 55.76169,
+            "poll_avg": 54.78381
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 0.9249999999999999,
+            "forecast": 33.48534,
+            "hi": 39.59274,
+            "lo": 27.4601,
+            "poll_avg": 24.79284
+          },
+          "now": {
+            "winprob": 0.625,
+            "forecast": 33.19633,
+            "hi": 38.93535,
+            "lo": 27.58405,
+            "poll_avg": 24.66678
+          },
+          "polls": {
+            "winprob": 1.085,
+            "forecast": 32.83409,
+            "hi": 39.44971,
+            "lo": 26.2197,
+            "poll_avg": 24.7995
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 99.1,
+            "forecast": 61.92066,
+            "hi": 68.22545,
+            "lo": 55.5033,
+            "poll_avg": 54.36896
+          },
+          "now": {
+            "winprob": 99.385,
+            "forecast": 62.1181,
+            "hi": 68.1169,
+            "lo": 55.98337,
+            "poll_avg": 54.57007
+          },
+          "polls": {
+            "winprob": 98.81,
+            "forecast": 62.54867,
+            "hi": 69.50187,
+            "lo": 55.45744,
+            "poll_avg": 54.37966
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 0.8999999999999999,
+            "forecast": 33.60728,
+            "hi": 39.70031,
+            "lo": 27.54409,
+            "poll_avg": 24.71351
+          },
+          "now": {
+            "winprob": 0.615,
+            "forecast": 33.28813,
+            "hi": 38.99135,
+            "lo": 27.57546,
+            "poll_avg": 24.55112
+          },
+          "polls": {
+            "winprob": 1.1900000000000002,
+            "forecast": 32.98415,
+            "hi": 39.6804,
+            "lo": 26.36954,
+            "poll_avg": 24.74398
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 98.995,
+            "forecast": 61.63134,
+            "hi": 68.01639,
+            "lo": 55.16458,
+            "poll_avg": 53.94494
+          },
+          "now": {
+            "winprob": 99.21,
+            "forecast": 61.59303,
+            "hi": 67.71725,
+            "lo": 55.4265,
+            "poll_avg": 53.77662
+          },
+          "polls": {
+            "winprob": 98.77,
+            "forecast": 62.25815,
+            "hi": 69.3219,
+            "lo": 55.16292,
+            "poll_avg": 53.95324
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 1.005,
+            "forecast": 33.87119,
+            "hi": 39.98628,
+            "lo": 27.72838,
+            "poll_avg": 24.84853
+          },
+          "now": {
+            "winprob": 0.79,
+            "forecast": 33.7454,
+            "hi": 39.53512,
+            "lo": 27.99366,
+            "poll_avg": 24.74113
+          },
+          "polls": {
+            "winprob": 1.23,
+            "forecast": 33.24864,
+            "hi": 40.04784,
+            "lo": 26.54415,
+            "poll_avg": 24.87595
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 99.065,
+            "forecast": 61.63231,
+            "hi": 68.00198,
+            "lo": 55.1345,
+            "poll_avg": 53.95177
+          },
+          "now": {
+            "winprob": 99.27,
+            "forecast": 61.59699,
+            "hi": 67.60571,
+            "lo": 55.40672,
+            "poll_avg": 53.78487
+          },
+          "polls": {
+            "winprob": 98.615,
+            "forecast": 62.26076,
+            "hi": 69.16628,
+            "lo": 55.10193,
+            "poll_avg": 53.96318
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 0.935,
+            "forecast": 33.87014,
+            "hi": 40.02898,
+            "lo": 27.8254,
+            "poll_avg": 24.84237
+          },
+          "now": {
+            "winprob": 0.73,
+            "forecast": 33.73865,
+            "hi": 39.58083,
+            "lo": 28.02506,
+            "poll_avg": 24.74033
+          },
+          "polls": {
+            "winprob": 1.385,
+            "forecast": 33.24711,
+            "hi": 40.03373,
+            "lo": 26.58363,
+            "poll_avg": 24.87662
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 98.985,
+            "forecast": 61.63741,
+            "hi": 68.03252,
+            "lo": 55.12706,
+            "poll_avg": 53.95081
+          },
+          "now": {
+            "winprob": 99.215,
+            "forecast": 61.59484,
+            "hi": 67.66922,
+            "lo": 55.37715,
+            "poll_avg": 53.77327
+          },
+          "polls": {
+            "winprob": 98.615,
+            "forecast": 62.26076,
+            "hi": 69.16628,
+            "lo": 55.10193,
+            "poll_avg": 53.96318
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 1.015,
+            "forecast": 33.86465,
+            "hi": 40.09269,
+            "lo": 27.76347,
+            "poll_avg": 24.84018
+          },
+          "now": {
+            "winprob": 0.7849999999999999,
+            "forecast": 33.73568,
+            "hi": 39.4991,
+            "lo": 27.97377,
+            "poll_avg": 24.73914
+          },
+          "polls": {
+            "winprob": 1.385,
+            "forecast": 33.24711,
+            "hi": 40.03373,
+            "lo": 26.58363,
+            "poll_avg": 24.87662
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 99.195,
+            "forecast": 62.3404,
+            "hi": 68.72429,
+            "lo": 55.76551,
+            "poll_avg": 54.69112
+          },
+          "now": {
+            "winprob": 99.355,
+            "forecast": 62.56864,
+            "hi": 68.66235,
+            "lo": 56.34384,
+            "poll_avg": 54.75384
+          },
+          "polls": {
+            "winprob": 98.885,
+            "forecast": 62.96964,
+            "hi": 69.93716,
+            "lo": 55.7621,
+            "poll_avg": 54.71323
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 0.8049999999999999,
+            "forecast": 33.14832,
+            "hi": 39.298,
+            "lo": 27.04726,
+            "poll_avg": 24.14359
+          },
+          "now": {
+            "winprob": 0.645,
+            "forecast": 32.72321,
+            "hi": 38.49764,
+            "lo": 27.0101,
+            "poll_avg": 23.68709
+          },
+          "polls": {
+            "winprob": 1.115,
+            "forecast": 32.52837,
+            "hi": 39.38663,
+            "lo": 25.84821,
+            "poll_avg": 24.20018
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 99.115,
+            "forecast": 62.15256,
+            "hi": 68.42453,
+            "lo": 55.7066,
+            "poll_avg": 54.73598
+          },
+          "now": {
+            "winprob": 99.405,
+            "forecast": 62.30886,
+            "hi": 68.29056,
+            "lo": 56.15521,
+            "poll_avg": 54.74502
+          },
+          "polls": {
+            "winprob": 98.935,
+            "forecast": 62.80094,
+            "hi": 69.79032,
+            "lo": 55.72966,
+            "poll_avg": 54.73457
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 0.885,
+            "forecast": 33.39772,
+            "hi": 39.40303,
+            "lo": 27.39413,
+            "poll_avg": 24.59946
+          },
+          "now": {
+            "winprob": 0.5950000000000001,
+            "forecast": 33.06376,
+            "hi": 38.728,
+            "lo": 27.37631,
+            "poll_avg": 24.28957
+          },
+          "polls": {
+            "winprob": 1.065,
+            "forecast": 32.75067,
+            "hi": 39.56304,
+            "lo": 26.09656,
+            "poll_avg": 24.61127
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 99.1,
+            "forecast": 61.83826,
+            "hi": 68.13091,
+            "lo": 55.29573,
+            "poll_avg": 54.4634
+          },
+          "now": {
+            "winprob": 99.26,
+            "forecast": 61.86911,
+            "hi": 67.953,
+            "lo": 55.65454,
+            "poll_avg": 54.26714
+          },
+          "polls": {
+            "winprob": 98.82,
+            "forecast": 62.59885,
+            "hi": 69.53267,
+            "lo": 55.39545,
+            "poll_avg": 54.44297
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 0.8999999999999999,
+            "forecast": 33.70557,
+            "hi": 39.98446,
+            "lo": 27.61761,
+            "poll_avg": 24.76527
+          },
+          "now": {
+            "winprob": 0.74,
+            "forecast": 33.46971,
+            "hi": 39.22302,
+            "lo": 27.7133,
+            "poll_avg": 24.46829
+          },
+          "polls": {
+            "winprob": 1.18,
+            "forecast": 32.93435,
+            "hi": 39.6227,
+            "lo": 26.22523,
+            "poll_avg": 24.69658
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 98.96000000000001,
+            "forecast": 61.90983,
+            "hi": 68.25488,
+            "lo": 55.43549,
+            "poll_avg": 54.69575
+          },
+          "now": {
+            "winprob": 99.315,
+            "forecast": 62.00413,
+            "hi": 67.9821,
+            "lo": 55.91928,
+            "poll_avg": 54.61437
+          },
+          "polls": {
+            "winprob": 98.79,
+            "forecast": 62.69432,
+            "hi": 69.6754,
+            "lo": 55.64269,
+            "poll_avg": 54.6756
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 1.04,
+            "forecast": 33.66082,
+            "hi": 39.75881,
+            "lo": 27.59223,
+            "poll_avg": 24.79426
+          },
+          "now": {
+            "winprob": 0.685,
+            "forecast": 33.37973,
+            "hi": 39.10979,
+            "lo": 27.7228,
+            "poll_avg": 24.52346
+          },
+          "polls": {
+            "winprob": 1.21,
+            "forecast": 32.87047,
+            "hi": 39.67045,
+            "lo": 26.19828,
+            "poll_avg": 24.76351
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 99.1,
+            "forecast": 61.73491,
+            "hi": 68.0026,
+            "lo": 55.2365,
+            "poll_avg": 54.53521
+          },
+          "now": {
+            "winprob": 99.275,
+            "forecast": 61.69772,
+            "hi": 67.58418,
+            "lo": 55.52051,
+            "poll_avg": 54.26774
+          },
+          "polls": {
+            "winprob": 98.79,
+            "forecast": 62.48908,
+            "hi": 69.45518,
+            "lo": 55.39839,
+            "poll_avg": 54.55603
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 0.8999999999999999,
+            "forecast": 33.85358,
+            "hi": 39.9457,
+            "lo": 27.81626,
+            "poll_avg": 25.06474
+          },
+          "now": {
+            "winprob": 0.7250000000000001,
+            "forecast": 33.69192,
+            "hi": 39.49076,
+            "lo": 28.02998,
+            "poll_avg": 24.87241
+          },
+          "polls": {
+            "winprob": 1.21,
+            "forecast": 33.10401,
+            "hi": 39.91439,
+            "lo": 26.43333,
+            "poll_avg": 25.08483
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 99.09,
+            "forecast": 61.99688,
+            "hi": 68.35583,
+            "lo": 55.53111,
+            "poll_avg": 54.9182
+          },
+          "now": {
+            "winprob": 99.47,
+            "forecast": 62.28358,
+            "hi": 68.17618,
+            "lo": 56.16842,
+            "poll_avg": 54.91473
+          },
+          "polls": {
+            "winprob": 98.875,
+            "forecast": 62.76791,
+            "hi": 69.58066,
+            "lo": 55.69328,
+            "poll_avg": 54.89307
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 0.91,
+            "forecast": 33.60979,
+            "hi": 39.69954,
+            "lo": 27.50794,
+            "poll_avg": 24.90475
+          },
+          "now": {
+            "winprob": 0.53,
+            "forecast": 33.10911,
+            "hi": 38.83673,
+            "lo": 27.50487,
+            "poll_avg": 24.38485
+          },
+          "polls": {
+            "winprob": 1.125,
+            "forecast": 32.83152,
+            "hi": 39.5836,
+            "lo": 26.20633,
+            "poll_avg": 24.86685
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 99.225,
+            "forecast": 61.98251,
+            "hi": 68.27193,
+            "lo": 55.47085,
+            "poll_avg": 54.8854
+          },
+          "now": {
+            "winprob": 99.33,
+            "forecast": 62.2841,
+            "hi": 68.17329,
+            "lo": 56.2613,
+            "poll_avg": 54.89931
+          },
+          "polls": {
+            "winprob": 98.86500000000001,
+            "forecast": 62.76445,
+            "hi": 69.67986,
+            "lo": 55.72837,
+            "poll_avg": 54.87427
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 0.775,
+            "forecast": 33.61953,
+            "hi": 39.7913,
+            "lo": 27.49971,
+            "poll_avg": 24.89386
+          },
+          "now": {
+            "winprob": 0.67,
+            "forecast": 33.1012,
+            "hi": 38.8065,
+            "lo": 27.4798,
+            "poll_avg": 24.36911
+          },
+          "polls": {
+            "winprob": 1.135,
+            "forecast": 32.83147,
+            "hi": 39.5659,
+            "lo": 26.24469,
+            "poll_avg": 24.85387
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 99.075,
+            "forecast": 61.91991,
+            "hi": 68.22372,
+            "lo": 55.49478,
+            "poll_avg": 54.88511
+          },
+          "now": {
+            "winprob": 99.425,
+            "forecast": 62.13085,
+            "hi": 68.07939,
+            "lo": 55.98092,
+            "poll_avg": 54.84775
+          },
+          "polls": {
+            "winprob": 98.83,
+            "forecast": 62.81406,
+            "hi": 69.63174,
+            "lo": 55.70048,
+            "poll_avg": 54.8506
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 0.9249999999999999,
+            "forecast": 33.6668,
+            "hi": 39.75629,
+            "lo": 27.61543,
+            "poll_avg": 24.77168
+          },
+          "now": {
+            "winprob": 0.575,
+            "forecast": 33.23995,
+            "hi": 39.00604,
+            "lo": 27.61132,
+            "poll_avg": 24.33406
+          },
+          "polls": {
+            "winprob": 1.17,
+            "forecast": 32.7594,
+            "hi": 39.56967,
+            "lo": 26.09681,
+            "poll_avg": 24.69335
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 98.955,
+            "forecast": 61.59145,
+            "hi": 67.89069,
+            "lo": 55.16375,
+            "poll_avg": 55.39105
+          },
+          "now": {
+            "winprob": 99.265,
+            "forecast": 61.76638,
+            "hi": 67.68825,
+            "lo": 55.67798,
+            "poll_avg": 55.42756
+          },
+          "polls": {
+            "winprob": 98.535,
+            "forecast": 61.99679,
+            "hi": 68.86977,
+            "lo": 54.95606,
+            "poll_avg": 55.35498
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 1.045,
+            "forecast": 34.28059,
+            "hi": 40.43644,
+            "lo": 28.23512,
+            "poll_avg": 26.15069
+          },
+          "now": {
+            "winprob": 0.735,
+            "forecast": 33.94493,
+            "hi": 39.67044,
+            "lo": 28.31183,
+            "poll_avg": 25.77868
+          },
+          "polls": {
+            "winprob": 1.465,
+            "forecast": 33.86223,
+            "hi": 40.6281,
+            "lo": 27.14908,
+            "poll_avg": 26.06528
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 99.03999999999999,
+            "forecast": 61.72322,
+            "hi": 68.04778,
+            "lo": 55.44813,
+            "poll_avg": 55.78703
+          },
+          "now": {
+            "winprob": 99.3,
+            "forecast": 61.7496,
+            "hi": 67.59681,
+            "lo": 55.81649,
+            "poll_avg": 55.70218
+          },
+          "polls": {
+            "winprob": 98.64,
+            "forecast": 62.0625,
+            "hi": 68.86127,
+            "lo": 55.08672,
+            "poll_avg": 55.81425
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 0.96,
+            "forecast": 34.23138,
+            "hi": 40.28613,
+            "lo": 28.2089,
+            "poll_avg": 26.56271
+          },
+          "now": {
+            "winprob": 0.7000000000000001,
+            "forecast": 34.06969,
+            "hi": 39.64272,
+            "lo": 28.49718,
+            "poll_avg": 26.37741
+          },
+          "polls": {
+            "winprob": 1.3599999999999999,
+            "forecast": 33.90337,
+            "hi": 40.56348,
+            "lo": 27.32109,
+            "poll_avg": 26.63978
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 99.045,
+            "forecast": 61.70598,
+            "hi": 67.92491,
+            "lo": 55.37412,
+            "poll_avg": 55.99178
+          },
+          "now": {
+            "winprob": 99.4,
+            "forecast": 62.02508,
+            "hi": 67.59387,
+            "lo": 56.28052,
+            "poll_avg": 56.7304
+          },
+          "polls": {
+            "winprob": 98.78,
+            "forecast": 62.04565,
+            "hi": 68.83763,
+            "lo": 55.20563,
+            "poll_avg": 56.00403
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 0.955,
+            "forecast": 34.31495,
+            "hi": 40.33862,
+            "lo": 28.32463,
+            "poll_avg": 26.98178
+          },
+          "now": {
+            "winprob": 0.6,
+            "forecast": 34.0187,
+            "hi": 39.40361,
+            "lo": 28.64629,
+            "poll_avg": 27.22276
+          },
+          "polls": {
+            "winprob": 1.22,
+            "forecast": 33.97896,
+            "hi": 40.53333,
+            "lo": 27.47055,
+            "poll_avg": 27.00444
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 99.065,
+            "forecast": 61.70854,
+            "hi": 67.873,
+            "lo": 55.47642,
+            "poll_avg": 55.98744
+          },
+          "now": {
+            "winprob": 99.505,
+            "forecast": 62.04585,
+            "hi": 67.65833,
+            "lo": 56.32845,
+            "poll_avg": 56.84344
+          },
+          "polls": {
+            "winprob": 98.78,
+            "forecast": 62.04565,
+            "hi": 68.83763,
+            "lo": 55.20563,
+            "poll_avg": 56.00403
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 0.935,
+            "forecast": 34.31246,
+            "hi": 40.28609,
+            "lo": 28.37743,
+            "poll_avg": 26.98583
+          },
+          "now": {
+            "winprob": 0.49500000000000005,
+            "forecast": 34.01969,
+            "hi": 39.37613,
+            "lo": 28.71758,
+            "poll_avg": 27.30207
+          },
+          "polls": {
+            "winprob": 1.22,
+            "forecast": 33.97896,
+            "hi": 40.53333,
+            "lo": 27.47055,
+            "poll_avg": 27.00444
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 99.03999999999999,
+            "forecast": 61.70146,
+            "hi": 67.86404,
+            "lo": 55.38206,
+            "poll_avg": 55.97433
+          },
+          "now": {
+            "winprob": 99.45,
+            "forecast": 62.00544,
+            "hi": 67.61786,
+            "lo": 56.25805,
+            "poll_avg": 56.66027
+          },
+          "polls": {
+            "winprob": 98.775,
+            "forecast": 62.03926,
+            "hi": 68.81519,
+            "lo": 55.18057,
+            "poll_avg": 55.98924
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 0.96,
+            "forecast": 34.31712,
+            "hi": 40.37856,
+            "lo": 28.33486,
+            "poll_avg": 26.97488
+          },
+          "now": {
+            "winprob": 0.5499999999999999,
+            "forecast": 34.02186,
+            "hi": 39.42616,
+            "lo": 28.61369,
+            "poll_avg": 27.17912
+          },
+          "polls": {
+            "winprob": 1.225,
+            "forecast": 33.98382,
+            "hi": 40.57484,
+            "lo": 27.44286,
+            "poll_avg": 27.00255
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 98.94500000000001,
+            "forecast": 61.69477,
+            "hi": 67.85452,
+            "lo": 55.4121,
+            "poll_avg": 55.97596
+          },
+          "now": {
+            "winprob": 99.385,
+            "forecast": 62.03105,
+            "hi": 67.62779,
+            "lo": 56.35119,
+            "poll_avg": 56.73014
+          },
+          "polls": {
+            "winprob": 98.775,
+            "forecast": 62.03926,
+            "hi": 68.81519,
+            "lo": 55.18057,
+            "poll_avg": 55.98924
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 1.055,
+            "forecast": 34.32364,
+            "hi": 40.30334,
+            "lo": 28.39809,
+            "poll_avg": 26.9722
+          },
+          "now": {
+            "winprob": 0.615,
+            "forecast": 34.00765,
+            "hi": 39.39172,
+            "lo": 28.68279,
+            "poll_avg": 27.21674
+          },
+          "polls": {
+            "winprob": 1.225,
+            "forecast": 33.98382,
+            "hi": 40.57484,
+            "lo": 27.44286,
+            "poll_avg": 27.00255
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 98.83,
+            "forecast": 61.31363,
+            "hi": 67.56595,
+            "lo": 54.92219,
+            "poll_avg": 55.06957
+          },
+          "now": {
+            "winprob": 99.225,
+            "forecast": 61.20884,
+            "hi": 67.00942,
+            "lo": 55.27688,
+            "poll_avg": 54.9716
+          },
+          "polls": {
+            "winprob": 98.55000000000001,
+            "forecast": 61.65807,
+            "hi": 68.43285,
+            "lo": 54.69823,
+            "poll_avg": 55.06055
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 1.17,
+            "forecast": 34.60068,
+            "hi": 40.7662,
+            "lo": 28.60167,
+            "poll_avg": 26.76957
+          },
+          "now": {
+            "winprob": 0.775,
+            "forecast": 34.59097,
+            "hi": 40.19162,
+            "lo": 29.07051,
+            "poll_avg": 26.90885
+          },
+          "polls": {
+            "winprob": 1.4500000000000002,
+            "forecast": 34.25079,
+            "hi": 40.98861,
+            "lo": 27.64635,
+            "poll_avg": 26.72912
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 98.98,
+            "forecast": 61.31557,
+            "hi": 67.6163,
+            "lo": 54.88474,
+            "poll_avg": 55.07009
+          },
+          "now": {
+            "winprob": 99.225,
+            "forecast": 61.16601,
+            "hi": 66.86671,
+            "lo": 55.26295,
+            "poll_avg": 54.95435
+          },
+          "polls": {
+            "winprob": 98.55000000000001,
+            "forecast": 61.65807,
+            "hi": 68.43285,
+            "lo": 54.69823,
+            "poll_avg": 55.06055
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 1.02,
+            "forecast": 34.59847,
+            "hi": 40.75263,
+            "lo": 28.48208,
+            "poll_avg": 26.76685
+          },
+          "now": {
+            "winprob": 0.775,
+            "forecast": 34.63782,
+            "hi": 40.20885,
+            "lo": 29.19209,
+            "poll_avg": 26.96874
+          },
+          "polls": {
+            "winprob": 1.4500000000000002,
+            "forecast": 34.25079,
+            "hi": 40.98861,
+            "lo": 27.64635,
+            "poll_avg": 26.72912
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 99.0,
+            "forecast": 61.54394,
+            "hi": 67.97957,
+            "lo": 55.0915,
+            "poll_avg": 55.39723
+          },
+          "now": {
+            "winprob": 99.36500000000001,
+            "forecast": 61.71059,
+            "hi": 67.47906,
+            "lo": 55.88303,
+            "poll_avg": 55.70543
+          },
+          "polls": {
+            "winprob": 98.52499999999999,
+            "forecast": 61.8886,
+            "hi": 68.83242,
+            "lo": 54.99052,
+            "poll_avg": 55.39661
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 1.0,
+            "forecast": 34.38297,
+            "hi": 40.62231,
+            "lo": 28.26807,
+            "poll_avg": 26.62453
+          },
+          "now": {
+            "winprob": 0.635,
+            "forecast": 34.12615,
+            "hi": 39.58721,
+            "lo": 28.65235,
+            "poll_avg": 26.61255
+          },
+          "polls": {
+            "winprob": 1.4749999999999999,
+            "forecast": 34.03688,
+            "hi": 40.79037,
+            "lo": 27.40021,
+            "poll_avg": 26.61251
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 98.905,
+            "forecast": 61.36626,
+            "hi": 67.74516,
+            "lo": 54.8789,
+            "poll_avg": 55.01241
+          },
+          "now": {
+            "winprob": 99.26,
+            "forecast": 61.50219,
+            "hi": 67.29836,
+            "lo": 55.55008,
+            "poll_avg": 55.09888
+          },
+          "polls": {
+            "winprob": 98.63,
+            "forecast": 61.73046,
+            "hi": 68.54233,
+            "lo": 54.80974,
+            "poll_avg": 55.01688
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 1.095,
+            "forecast": 34.50174,
+            "hi": 40.80647,
+            "lo": 28.34667,
+            "poll_avg": 26.41028
+          },
+          "now": {
+            "winprob": 0.74,
+            "forecast": 34.20299,
+            "hi": 39.8185,
+            "lo": 28.61024,
+            "poll_avg": 26.16736
+          },
+          "polls": {
+            "winprob": 1.37,
+            "forecast": 34.1383,
+            "hi": 40.90543,
+            "lo": 27.47889,
+            "poll_avg": 26.4133
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 98.88,
+            "forecast": 61.45135,
+            "hi": 67.78794,
+            "lo": 55.01832,
+            "poll_avg": 55.04786
+          },
+          "now": {
+            "winprob": 99.29,
+            "forecast": 61.63361,
+            "hi": 67.46194,
+            "lo": 55.68459,
+            "poll_avg": 55.20573
+          },
+          "polls": {
+            "winprob": 98.565,
+            "forecast": 61.7852,
+            "hi": 68.73074,
+            "lo": 54.83508,
+            "poll_avg": 55.04013
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 1.1199999999999999,
+            "forecast": 34.41633,
+            "hi": 40.61504,
+            "lo": 28.33447,
+            "poll_avg": 26.37978
+          },
+          "now": {
+            "winprob": 0.7100000000000001,
+            "forecast": 34.07368,
+            "hi": 39.73505,
+            "lo": 28.53461,
+            "poll_avg": 26.11354
+          },
+          "polls": {
+            "winprob": 1.435,
+            "forecast": 34.08122,
+            "hi": 40.76204,
+            "lo": 27.3836,
+            "poll_avg": 26.37488
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 98.89,
+            "forecast": 61.39175,
+            "hi": 67.75566,
+            "lo": 54.89043,
+            "poll_avg": 55.06019
+          },
+          "now": {
+            "winprob": 99.385,
+            "forecast": 61.53356,
+            "hi": 67.30447,
+            "lo": 55.68084,
+            "poll_avg": 55.24657
+          },
+          "polls": {
+            "winprob": 98.50999999999999,
+            "forecast": 61.73545,
+            "hi": 68.63083,
+            "lo": 54.79618,
+            "poll_avg": 55.07227
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 1.11,
+            "forecast": 34.49316,
+            "hi": 40.75359,
+            "lo": 28.43993,
+            "poll_avg": 26.52047
+          },
+          "now": {
+            "winprob": 0.615,
+            "forecast": 34.21801,
+            "hi": 39.78697,
+            "lo": 28.69747,
+            "poll_avg": 26.41761
+          },
+          "polls": {
+            "winprob": 1.49,
+            "forecast": 34.15139,
+            "hi": 40.88151,
+            "lo": 27.52684,
+            "poll_avg": 26.52793
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 98.855,
+            "forecast": 61.32623,
+            "hi": 67.74557,
+            "lo": 54.77017,
+            "poll_avg": 55.06787
+          },
+          "now": {
+            "winprob": 99.38,
+            "forecast": 61.54239,
+            "hi": 67.29308,
+            "lo": 55.69253,
+            "poll_avg": 55.39548
+          },
+          "polls": {
+            "winprob": 98.46000000000001,
+            "forecast": 61.68806,
+            "hi": 68.66949,
+            "lo": 54.61835,
+            "poll_avg": 55.07377
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 1.145,
+            "forecast": 34.5634,
+            "hi": 40.77529,
+            "lo": 28.47351,
+            "poll_avg": 26.55563
+          },
+          "now": {
+            "winprob": 0.62,
+            "forecast": 34.23433,
+            "hi": 39.74902,
+            "lo": 28.79262,
+            "poll_avg": 26.49371
+          },
+          "polls": {
+            "winprob": 1.54,
+            "forecast": 34.20451,
+            "hi": 40.93547,
+            "lo": 27.50281,
+            "poll_avg": 26.57678
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 98.92999999999999,
+            "forecast": 61.6541,
+            "hi": 67.91454,
+            "lo": 55.07672,
+            "poll_avg": 55.25571
+          },
+          "now": {
+            "winprob": 99.46000000000001,
+            "forecast": 62.10268,
+            "hi": 67.78586,
+            "lo": 56.30068,
+            "poll_avg": 56.03095
+          },
+          "polls": {
+            "winprob": 98.61999999999999,
+            "forecast": 61.93248,
+            "hi": 68.83725,
+            "lo": 55.023,
+            "poll_avg": 55.2564
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 1.0699999999999998,
+            "forecast": 34.24382,
+            "hi": 40.39721,
+            "lo": 28.1834,
+            "poll_avg": 26.4818
+          },
+          "now": {
+            "winprob": 0.54,
+            "forecast": 33.73346,
+            "hi": 39.20867,
+            "lo": 28.33076,
+            "poll_avg": 26.41658
+          },
+          "polls": {
+            "winprob": 1.38,
+            "forecast": 33.96783,
+            "hi": 40.63328,
+            "lo": 27.23341,
+            "poll_avg": 26.50214
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 98.91499999999999,
+            "forecast": 61.40395,
+            "hi": 67.84424,
+            "lo": 54.86552,
+            "poll_avg": 54.4634
+          },
+          "now": {
+            "winprob": 99.22999999999999,
+            "forecast": 61.36578,
+            "hi": 67.33292,
+            "lo": 55.30673,
+            "poll_avg": 53.87544
+          },
+          "polls": {
+            "winprob": 98.465,
+            "forecast": 61.71588,
+            "hi": 68.71745,
+            "lo": 54.54758,
+            "poll_avg": 54.43666
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 1.085,
+            "forecast": 34.38452,
+            "hi": 40.68175,
+            "lo": 28.23557,
+            "poll_avg": 26.14383
+          },
+          "now": {
+            "winprob": 0.77,
+            "forecast": 34.08697,
+            "hi": 39.81312,
+            "lo": 28.4153,
+            "poll_avg": 25.45219
+          },
+          "polls": {
+            "winprob": 1.5350000000000001,
+            "forecast": 34.06199,
+            "hi": 40.96733,
+            "lo": 27.34483,
+            "poll_avg": 26.07219
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 98.89,
+            "forecast": 61.35689,
+            "hi": 67.84677,
+            "lo": 54.84459,
+            "poll_avg": 54.42407
+          },
+          "now": {
+            "winprob": 99.25500000000001,
+            "forecast": 61.26625,
+            "hi": 67.24313,
+            "lo": 55.13184,
+            "poll_avg": 53.8948
+          },
+          "polls": {
+            "winprob": 98.545,
+            "forecast": 61.67525,
+            "hi": 68.80113,
+            "lo": 54.43417,
+            "poll_avg": 54.38553
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 1.11,
+            "forecast": 34.43431,
+            "hi": 40.73762,
+            "lo": 28.21665,
+            "poll_avg": 26.19824
+          },
+          "now": {
+            "winprob": 0.745,
+            "forecast": 34.22235,
+            "hi": 40.01356,
+            "lo": 28.53661,
+            "poll_avg": 25.71555
+          },
+          "polls": {
+            "winprob": 1.455,
+            "forecast": 34.10045,
+            "hi": 41.04156,
+            "lo": 27.28043,
+            "poll_avg": 26.09311
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 98.795,
+            "forecast": 61.07938,
+            "hi": 67.41974,
+            "lo": 54.52881,
+            "poll_avg": 54.70211
+          },
+          "now": {
+            "winprob": 99.035,
+            "forecast": 60.9434,
+            "hi": 66.81003,
+            "lo": 55.00666,
+            "poll_avg": 54.35998
+          },
+          "polls": {
+            "winprob": 98.405,
+            "forecast": 61.50564,
+            "hi": 68.52536,
+            "lo": 54.40013,
+            "poll_avg": 54.63213
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 1.205,
+            "forecast": 34.77922,
+            "hi": 41.11744,
+            "lo": 28.57386,
+            "poll_avg": 26.56966
+          },
+          "now": {
+            "winprob": 0.9650000000000001,
+            "forecast": 34.70924,
+            "hi": 40.40314,
+            "lo": 29.14147,
+            "poll_avg": 26.52359
+          },
+          "polls": {
+            "winprob": 1.595,
+            "forecast": 34.32874,
+            "hi": 41.1417,
+            "lo": 27.5394,
+            "poll_avg": 26.41288
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 98.675,
+            "forecast": 61.13204,
+            "hi": 67.58965,
+            "lo": 54.5108,
+            "poll_avg": 54.7638
+          },
+          "now": {
+            "winprob": 99.2,
+            "forecast": 61.03268,
+            "hi": 66.8663,
+            "lo": 55.14813,
+            "poll_avg": 54.5092
+          },
+          "polls": {
+            "winprob": 98.31,
+            "forecast": 61.54506,
+            "hi": 68.40131,
+            "lo": 54.42837,
+            "poll_avg": 54.69783
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 1.325,
+            "forecast": 34.73224,
+            "hi": 40.99985,
+            "lo": 28.58867,
+            "poll_avg": 26.57119
+          },
+          "now": {
+            "winprob": 0.8,
+            "forecast": 34.63782,
+            "hi": 40.26743,
+            "lo": 29.08695,
+            "poll_avg": 26.54682
+          },
+          "polls": {
+            "winprob": 1.69,
+            "forecast": 34.29523,
+            "hi": 41.11993,
+            "lo": 27.62218,
+            "poll_avg": 26.41333
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 98.76,
+            "forecast": 61.30286,
+            "hi": 67.71661,
+            "lo": 54.79194,
+            "poll_avg": 54.81762
+          },
+          "now": {
+            "winprob": 99.205,
+            "forecast": 61.26369,
+            "hi": 67.04352,
+            "lo": 55.36387,
+            "poll_avg": 54.6584
+          },
+          "polls": {
+            "winprob": 98.375,
+            "forecast": 61.67854,
+            "hi": 68.78144,
+            "lo": 54.41639,
+            "poll_avg": 54.74854
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 1.24,
+            "forecast": 34.5589,
+            "hi": 40.83212,
+            "lo": 28.34787,
+            "poll_avg": 26.50737
+          },
+          "now": {
+            "winprob": 0.795,
+            "forecast": 34.39972,
+            "hi": 40.02627,
+            "lo": 28.84622,
+            "poll_avg": 26.39257
+          },
+          "polls": {
+            "winprob": 1.625,
+            "forecast": 34.15916,
+            "hi": 41.06801,
+            "lo": 27.38742,
+            "poll_avg": 26.35132
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 98.705,
+            "forecast": 61.20088,
+            "hi": 67.58134,
+            "lo": 54.67708,
+            "poll_avg": 54.8212
+          },
+          "now": {
+            "winprob": 99.35000000000001,
+            "forecast": 61.18106,
+            "hi": 66.92237,
+            "lo": 55.26279,
+            "poll_avg": 54.66658
+          },
+          "polls": {
+            "winprob": 98.44500000000001,
+            "forecast": 61.61559,
+            "hi": 68.5155,
+            "lo": 54.4597,
+            "poll_avg": 54.75954
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 1.295,
+            "forecast": 34.66763,
+            "hi": 40.93388,
+            "lo": 28.49178,
+            "poll_avg": 26.56347
+          },
+          "now": {
+            "winprob": 0.65,
+            "forecast": 34.4925,
+            "hi": 40.0943,
+            "lo": 29.03461,
+            "poll_avg": 26.47576
+          },
+          "polls": {
+            "winprob": 1.555,
+            "forecast": 34.22886,
+            "hi": 41.07367,
+            "lo": 27.49152,
+            "poll_avg": 26.40167
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 98.855,
+            "forecast": 61.49166,
+            "hi": 67.87076,
+            "lo": 54.90897,
+            "poll_avg": 54.95057
+          },
+          "now": {
+            "winprob": 99.345,
+            "forecast": 61.67005,
+            "hi": 67.37096,
+            "lo": 55.86084,
+            "poll_avg": 55.08373
+          },
+          "polls": {
+            "winprob": 98.515,
+            "forecast": 61.84633,
+            "hi": 68.76494,
+            "lo": 54.72184,
+            "poll_avg": 54.88887
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 1.145,
+            "forecast": 34.37307,
+            "hi": 40.6014,
+            "lo": 28.21806,
+            "poll_avg": 26.42986
+          },
+          "now": {
+            "winprob": 0.655,
+            "forecast": 34.00504,
+            "hi": 39.46072,
+            "lo": 28.5884,
+            "poll_avg": 26.16182
+          },
+          "polls": {
+            "winprob": 1.485,
+            "forecast": 33.99603,
+            "hi": 40.83576,
+            "lo": 27.28281,
+            "poll_avg": 26.28277
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 98.88,
+            "forecast": 61.37122,
+            "hi": 67.77415,
+            "lo": 54.89929,
+            "poll_avg": 54.8468
+          },
+          "now": {
+            "winprob": 99.28,
+            "forecast": 61.3796,
+            "hi": 67.09964,
+            "lo": 55.43929,
+            "poll_avg": 54.75066
+          },
+          "polls": {
+            "winprob": 98.57000000000001,
+            "forecast": 61.76085,
+            "hi": 68.78088,
+            "lo": 54.76513,
+            "poll_avg": 54.7965
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 1.1199999999999999,
+            "forecast": 34.48537,
+            "hi": 40.72056,
+            "lo": 28.2941,
+            "poll_avg": 26.43952
+          },
+          "now": {
+            "winprob": 0.72,
+            "forecast": 34.27162,
+            "hi": 39.77049,
+            "lo": 28.78696,
+            "poll_avg": 26.28578
+          },
+          "polls": {
+            "winprob": 1.43,
+            "forecast": 34.07547,
+            "hi": 40.91573,
+            "lo": 27.37049,
+            "poll_avg": 26.3019
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 98.82,
+            "forecast": 61.4008,
+            "hi": 67.77486,
+            "lo": 54.91341,
+            "poll_avg": 54.88165
+          },
+          "now": {
+            "winprob": 99.2,
+            "forecast": 61.10255,
+            "hi": 66.78658,
+            "lo": 55.24676,
+            "poll_avg": 54.55459
+          },
+          "polls": {
+            "winprob": 98.42999999999999,
+            "forecast": 61.78743,
+            "hi": 68.77664,
+            "lo": 54.67277,
+            "poll_avg": 54.78984
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 1.18,
+            "forecast": 34.4589,
+            "hi": 40.70798,
+            "lo": 28.25066,
+            "poll_avg": 26.43958
+          },
+          "now": {
+            "winprob": 0.8,
+            "forecast": 34.57724,
+            "hi": 40.06744,
+            "lo": 29.05881,
+            "poll_avg": 26.66483
+          },
+          "polls": {
+            "winprob": 1.5699999999999998,
+            "forecast": 34.04204,
+            "hi": 40.93076,
+            "lo": 27.29798,
+            "poll_avg": 26.24736
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 98.705,
+            "forecast": 61.09726,
+            "hi": 67.37923,
+            "lo": 54.81238,
+            "poll_avg": 54.83483
+          },
+          "now": {
+            "winprob": 98.75,
+            "forecast": 60.61349,
+            "hi": 66.47007,
+            "lo": 54.58153,
+            "poll_avg": 54.51797
+          },
+          "polls": {
+            "winprob": 98.02,
+            "forecast": 61.35287,
+            "hi": 68.40143,
+            "lo": 54.23001,
+            "poll_avg": 54.33426
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 1.295,
+            "forecast": 35.22275,
+            "hi": 41.38614,
+            "lo": 29.11203,
+            "poll_avg": 28.69192
+          },
+          "now": {
+            "winprob": 1.25,
+            "forecast": 35.61709,
+            "hi": 41.36945,
+            "lo": 29.962,
+            "poll_avg": 29.17579
+          },
+          "polls": {
+            "winprob": 1.9800000000000002,
+            "forecast": 34.88585,
+            "hi": 41.77755,
+            "lo": 28.07995,
+            "poll_avg": 27.67431
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 98.65,
+            "forecast": 61.16129,
+            "hi": 67.60589,
+            "lo": 54.77225,
+            "poll_avg": 54.51723
+          },
+          "now": {
+            "winprob": 98.835,
+            "forecast": 60.74445,
+            "hi": 66.78227,
+            "lo": 54.6718,
+            "poll_avg": 54.11885
+          },
+          "polls": {
+            "winprob": 98.215,
+            "forecast": 61.43863,
+            "hi": 68.46483,
+            "lo": 54.2726,
+            "poll_avg": 54.09347
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 1.35,
+            "forecast": 35.13831,
+            "hi": 41.39597,
+            "lo": 28.92918,
+            "poll_avg": 28.5496
+          },
+          "now": {
+            "winprob": 1.165,
+            "forecast": 35.42489,
+            "hi": 41.27822,
+            "lo": 29.65049,
+            "poll_avg": 28.80819
+          },
+          "polls": {
+            "winprob": 1.7850000000000001,
+            "forecast": 34.77702,
+            "hi": 41.68122,
+            "lo": 27.90147,
+            "poll_avg": 27.44389
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 98.685,
+            "forecast": 61.20166,
+            "hi": 67.58064,
+            "lo": 54.68719,
+            "poll_avg": 54.56161
+          },
+          "now": {
+            "winprob": 98.815,
+            "forecast": 60.7729,
+            "hi": 66.73833,
+            "lo": 54.71558,
+            "poll_avg": 54.25633
+          },
+          "polls": {
+            "winprob": 98.175,
+            "forecast": 61.46878,
+            "hi": 68.50986,
+            "lo": 54.3315,
+            "poll_avg": 54.10356
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 1.315,
+            "forecast": 35.09399,
+            "hi": 41.31691,
+            "lo": 28.8477,
+            "poll_avg": 28.45966
+          },
+          "now": {
+            "winprob": 1.185,
+            "forecast": 35.40962,
+            "hi": 41.23273,
+            "lo": 29.66677,
+            "poll_avg": 28.87301
+          },
+          "polls": {
+            "winprob": 1.825,
+            "forecast": 34.74361,
+            "hi": 41.63628,
+            "lo": 27.86676,
+            "poll_avg": 27.38517
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 98.65,
+            "forecast": 61.34883,
+            "hi": 67.81824,
+            "lo": 54.81215,
+            "poll_avg": 54.61473
+          },
+          "now": {
+            "winprob": 98.775,
+            "forecast": 60.8452,
+            "hi": 66.72112,
+            "lo": 54.81288,
+            "poll_avg": 53.9454
+          },
+          "polls": {
+            "winprob": 98.25,
+            "forecast": 61.64524,
+            "hi": 68.86108,
+            "lo": 54.36404,
+            "poll_avg": 54.11777
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 1.35,
+            "forecast": 34.94085,
+            "hi": 41.24235,
+            "lo": 28.72017,
+            "poll_avg": 28.33188
+          },
+          "now": {
+            "winprob": 1.225,
+            "forecast": 35.2846,
+            "hi": 41.11594,
+            "lo": 29.51875,
+            "poll_avg": 28.5435
+          },
+          "polls": {
+            "winprob": 1.7500000000000002,
+            "forecast": 34.55119,
+            "hi": 41.58109,
+            "lo": 27.637,
+            "poll_avg": 27.11908
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 98.825,
+            "forecast": 61.90252,
+            "hi": 68.31282,
+            "lo": 55.43707,
+            "poll_avg": 55.09093
+          },
+          "now": {
+            "winprob": 99.075,
+            "forecast": 61.74738,
+            "hi": 67.82361,
+            "lo": 55.60288,
+            "poll_avg": 54.60102
+          },
+          "polls": {
+            "winprob": 98.38,
+            "forecast": 62.17514,
+            "hi": 69.28282,
+            "lo": 54.98217,
+            "poll_avg": 54.48324
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 1.175,
+            "forecast": 34.38099,
+            "hi": 40.66201,
+            "lo": 28.15393,
+            "poll_avg": 27.95153
+          },
+          "now": {
+            "winprob": 0.9249999999999999,
+            "forecast": 34.34312,
+            "hi": 40.19353,
+            "lo": 28.59227,
+            "poll_avg": 27.66449
+          },
+          "polls": {
+            "winprob": 1.6199999999999999,
+            "forecast": 34.0111,
+            "hi": 40.95107,
+            "lo": 27.1308,
+            "poll_avg": 26.73908
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 98.86500000000001,
+            "forecast": 61.72865,
+            "hi": 68.12561,
+            "lo": 55.28757,
+            "poll_avg": 54.92656
+          },
+          "now": {
+            "winprob": 98.94,
+            "forecast": 61.39692,
+            "hi": 67.37743,
+            "lo": 55.2782,
+            "poll_avg": 54.46862
+          },
+          "polls": {
+            "winprob": 98.295,
+            "forecast": 62.01438,
+            "hi": 69.03922,
+            "lo": 54.89297,
+            "poll_avg": 54.38635
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 1.135,
+            "forecast": 34.57026,
+            "hi": 40.80774,
+            "lo": 28.36298,
+            "poll_avg": 28.29718
+          },
+          "now": {
+            "winprob": 1.06,
+            "forecast": 34.7521,
+            "hi": 40.60672,
+            "lo": 28.99899,
+            "poll_avg": 28.41418
+          },
+          "polls": {
+            "winprob": 1.7049999999999998,
+            "forecast": 34.19056,
+            "hi": 41.21538,
+            "lo": 27.37423,
+            "poll_avg": 27.0981
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 98.89,
+            "forecast": 61.81967,
+            "hi": 68.17543,
+            "lo": 55.41656,
+            "poll_avg": 55.04773
+          },
+          "now": {
+            "winprob": 99.08,
+            "forecast": 61.49678,
+            "hi": 67.47235,
+            "lo": 55.35249,
+            "poll_avg": 54.60288
+          },
+          "polls": {
+            "winprob": 98.43499999999999,
+            "forecast": 62.12769,
+            "hi": 69.1534,
+            "lo": 54.85264,
+            "poll_avg": 54.51361
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 1.11,
+            "forecast": 34.485,
+            "hi": 40.68862,
+            "lo": 28.35106,
+            "poll_avg": 28.31882
+          },
+          "now": {
+            "winprob": 0.9199999999999999,
+            "forecast": 34.6674,
+            "hi": 40.54368,
+            "lo": 28.93041,
+            "poll_avg": 28.49921
+          },
+          "polls": {
+            "winprob": 1.5650000000000002,
+            "forecast": 34.07803,
+            "hi": 41.12478,
+            "lo": 27.30028,
+            "poll_avg": 27.03591
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 98.89,
+            "forecast": 61.7646,
+            "hi": 68.26411,
+            "lo": 55.27551,
+            "poll_avg": 54.80946
+          },
+          "now": {
+            "winprob": 98.895,
+            "forecast": 61.28378,
+            "hi": 67.33309,
+            "lo": 55.08113,
+            "poll_avg": 53.93408
+          },
+          "polls": {
+            "winprob": 98.405,
+            "forecast": 62.04227,
+            "hi": 69.13221,
+            "lo": 54.74405,
+            "poll_avg": 54.26516
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 1.11,
+            "forecast": 34.51641,
+            "hi": 40.76069,
+            "lo": 28.26606,
+            "poll_avg": 28.07709
+          },
+          "now": {
+            "winprob": 1.105,
+            "forecast": 34.79676,
+            "hi": 40.76699,
+            "lo": 28.95549,
+            "poll_avg": 28.11096
+          },
+          "polls": {
+            "winprob": 1.595,
+            "forecast": 34.14346,
+            "hi": 41.21587,
+            "lo": 27.22108,
+            "poll_avg": 26.85942
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 98.815,
+            "forecast": 61.76976,
+            "hi": 68.25671,
+            "lo": 55.26246,
+            "poll_avg": 54.82829
+          },
+          "now": {
+            "winprob": 99.02499999999999,
+            "forecast": 61.32103,
+            "hi": 67.39454,
+            "lo": 55.10598,
+            "poll_avg": 54.00779
+          },
+          "polls": {
+            "winprob": 98.36500000000001,
+            "forecast": 62.02468,
+            "hi": 69.12637,
+            "lo": 54.78679,
+            "poll_avg": 54.28552
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 1.185,
+            "forecast": 34.51052,
+            "hi": 40.76271,
+            "lo": 28.27885,
+            "poll_avg": 28.0542
+          },
+          "now": {
+            "winprob": 0.975,
+            "forecast": 34.75264,
+            "hi": 40.7021,
+            "lo": 28.87869,
+            "poll_avg": 28.0075
+          },
+          "polls": {
+            "winprob": 1.635,
+            "forecast": 34.16385,
+            "hi": 41.12947,
+            "lo": 27.31395,
+            "poll_avg": 26.89271
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 98.8,
+            "forecast": 61.57244,
+            "hi": 68.06442,
+            "lo": 54.99507,
+            "poll_avg": 54.5686
+          },
+          "now": {
+            "winprob": 98.855,
+            "forecast": 61.00341,
+            "hi": 67.01185,
+            "lo": 54.90559,
+            "poll_avg": 53.79402
+          },
+          "polls": {
+            "winprob": 98.265,
+            "forecast": 61.84892,
+            "hi": 69.04637,
+            "lo": 54.67309,
+            "poll_avg": 54.12469
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 1.2,
+            "forecast": 34.69951,
+            "hi": 41.07709,
+            "lo": 28.40811,
+            "poll_avg": 28.0728
+          },
+          "now": {
+            "winprob": 1.145,
+            "forecast": 35.07887,
+            "hi": 40.97395,
+            "lo": 29.27828,
+            "poll_avg": 28.27817
+          },
+          "polls": {
+            "winprob": 1.735,
+            "forecast": 34.33717,
+            "hi": 41.23372,
+            "lo": 27.41365,
+            "poll_avg": 26.94812
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 98.585,
+            "forecast": 61.46093,
+            "hi": 67.97115,
+            "lo": 54.89551,
+            "poll_avg": 54.73143
+          },
+          "now": {
+            "winprob": 98.83,
+            "forecast": 60.61745,
+            "hi": 66.58212,
+            "lo": 54.50794,
+            "poll_avg": 53.72346
+          },
+          "polls": {
+            "winprob": 98.41499999999999,
+            "forecast": 61.72691,
+            "hi": 68.8009,
+            "lo": 54.53165,
+            "poll_avg": 54.23381
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 1.415,
+            "forecast": 34.8301,
+            "hi": 41.15467,
+            "lo": 28.57614,
+            "poll_avg": 28.28505
+          },
+          "now": {
+            "winprob": 1.17,
+            "forecast": 35.50484,
+            "hi": 41.35318,
+            "lo": 29.60783,
+            "poll_avg": 28.77485
+          },
+          "polls": {
+            "winprob": 1.585,
+            "forecast": 34.47758,
+            "hi": 41.46967,
+            "lo": 27.57191,
+            "poll_avg": 27.18075
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 98.79,
+            "forecast": 61.57312,
+            "hi": 67.96841,
+            "lo": 55.09706,
+            "poll_avg": 54.88334
+          },
+          "now": {
+            "winprob": 98.91499999999999,
+            "forecast": 60.97366,
+            "hi": 66.95183,
+            "lo": 54.9564,
+            "poll_avg": 54.10129
+          },
+          "polls": {
+            "winprob": 98.385,
+            "forecast": 61.82827,
+            "hi": 68.94907,
+            "lo": 54.59921,
+            "poll_avg": 54.26526
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 1.21,
+            "forecast": 34.71401,
+            "hi": 41.03966,
+            "lo": 28.59637,
+            "poll_avg": 28.13245
+          },
+          "now": {
+            "winprob": 1.085,
+            "forecast": 35.13833,
+            "hi": 40.9836,
+            "lo": 29.33069,
+            "poll_avg": 28.41085
+          },
+          "polls": {
+            "winprob": 1.6150000000000002,
+            "forecast": 34.36235,
+            "hi": 41.47046,
+            "lo": 27.4261,
+            "poll_avg": 26.93835
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 98.87,
+            "forecast": 61.50302,
+            "hi": 67.93906,
+            "lo": 54.98376,
+            "poll_avg": 54.79897
+          },
+          "now": {
+            "winprob": 98.83,
+            "forecast": 60.9502,
+            "hi": 66.93644,
+            "lo": 54.86766,
+            "poll_avg": 54.12804
+          },
+          "polls": {
+            "winprob": 98.24000000000001,
+            "forecast": 61.78033,
+            "hi": 68.91504,
+            "lo": 54.56152,
+            "poll_avg": 54.36077
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 1.13,
+            "forecast": 34.78444,
+            "hi": 41.06381,
+            "lo": 28.59859,
+            "poll_avg": 28.18752
+          },
+          "now": {
+            "winprob": 1.17,
+            "forecast": 35.16296,
+            "hi": 40.94844,
+            "lo": 29.34233,
+            "poll_avg": 28.42423
+          },
+          "polls": {
+            "winprob": 1.76,
+            "forecast": 34.4241,
+            "hi": 41.49025,
+            "lo": 27.44231,
+            "poll_avg": 27.10506
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 98.72999999999999,
+            "forecast": 61.49834,
+            "hi": 67.89539,
+            "lo": 54.97182,
+            "poll_avg": 54.94628
+          },
+          "now": {
+            "winprob": 98.905,
+            "forecast": 60.95695,
+            "hi": 66.90775,
+            "lo": 54.79863,
+            "poll_avg": 54.26799
+          },
+          "polls": {
+            "winprob": 98.245,
+            "forecast": 61.78875,
+            "hi": 68.9157,
+            "lo": 54.53989,
+            "poll_avg": 54.39079
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 1.27,
+            "forecast": 34.80299,
+            "hi": 41.03921,
+            "lo": 28.60374,
+            "poll_avg": 28.32449
+          },
+          "now": {
+            "winprob": 1.095,
+            "forecast": 35.17142,
+            "hi": 41.02384,
+            "lo": 29.4187,
+            "poll_avg": 28.50059
+          },
+          "polls": {
+            "winprob": 1.755,
+            "forecast": 34.41116,
+            "hi": 41.43821,
+            "lo": 27.50521,
+            "poll_avg": 27.01427
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 98.74000000000001,
+            "forecast": 61.47034,
+            "hi": 67.94354,
+            "lo": 54.82485,
+            "poll_avg": 54.73815
+          },
+          "now": {
+            "winprob": 98.875,
+            "forecast": 60.84849,
+            "hi": 66.89134,
+            "lo": 54.71796,
+            "poll_avg": 53.85972
+          },
+          "polls": {
+            "winprob": 98.25500000000001,
+            "forecast": 61.7585,
+            "hi": 68.92888,
+            "lo": 54.46262,
+            "poll_avg": 54.31982
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 1.26,
+            "forecast": 34.82005,
+            "hi": 41.17564,
+            "lo": 28.59168,
+            "poll_avg": 28.27065
+          },
+          "now": {
+            "winprob": 1.125,
+            "forecast": 35.2352,
+            "hi": 41.11577,
+            "lo": 29.41111,
+            "poll_avg": 28.35726
+          },
+          "polls": {
+            "winprob": 1.745,
+            "forecast": 34.43961,
+            "hi": 41.58993,
+            "lo": 27.48867,
+            "poll_avg": 27.02718
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 98.74000000000001,
+            "forecast": 61.59435,
+            "hi": 67.98961,
+            "lo": 55.13184,
+            "poll_avg": 54.87492
+          },
+          "now": {
+            "winprob": 98.91499999999999,
+            "forecast": 61.01563,
+            "hi": 66.96086,
+            "lo": 55.01199,
+            "poll_avg": 54.15137
+          },
+          "polls": {
+            "winprob": 98.3,
+            "forecast": 61.86929,
+            "hi": 68.9133,
+            "lo": 54.67606,
+            "poll_avg": 54.47881
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 1.26,
+            "forecast": 34.69191,
+            "hi": 41.03395,
+            "lo": 28.43093,
+            "poll_avg": 28.12325
+          },
+          "now": {
+            "winprob": 1.085,
+            "forecast": 35.08961,
+            "hi": 40.92618,
+            "lo": 29.31787,
+            "poll_avg": 28.38673
+          },
+          "polls": {
+            "winprob": 1.7000000000000002,
+            "forecast": 34.33295,
+            "hi": 41.29716,
+            "lo": 27.4082,
+            "poll_avg": 27.00019
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 98.81,
+            "forecast": 61.80057,
+            "hi": 68.23572,
+            "lo": 55.25206,
+            "poll_avg": 55.0078
+          },
+          "now": {
+            "winprob": 99.055,
+            "forecast": 61.25478,
+            "hi": 67.26401,
+            "lo": 55.20697,
+            "poll_avg": 54.34398
+          },
+          "polls": {
+            "winprob": 98.19,
+            "forecast": 62.05618,
+            "hi": 69.09508,
+            "lo": 54.79004,
+            "poll_avg": 54.63955
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 1.1900000000000002,
+            "forecast": 34.48751,
+            "hi": 40.8496,
+            "lo": 28.29968,
+            "poll_avg": 28.0744
+          },
+          "now": {
+            "winprob": 0.9450000000000001,
+            "forecast": 34.85851,
+            "hi": 40.67299,
+            "lo": 29.05196,
+            "poll_avg": 28.34771
+          },
+          "polls": {
+            "winprob": 1.81,
+            "forecast": 34.15544,
+            "hi": 41.184,
+            "lo": 27.27254,
+            "poll_avg": 27.05673
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 98.745,
+            "forecast": 61.72441,
+            "hi": 68.22096,
+            "lo": 55.15385,
+            "poll_avg": 54.74947
+          },
+          "now": {
+            "winprob": 98.94,
+            "forecast": 60.92418,
+            "hi": 66.99023,
+            "lo": 54.81302,
+            "poll_avg": 53.47201
+          },
+          "polls": {
+            "winprob": 98.265,
+            "forecast": 61.9841,
+            "hi": 69.11304,
+            "lo": 54.72143,
+            "poll_avg": 54.35743
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 1.2550000000000001,
+            "forecast": 34.5477,
+            "hi": 40.94956,
+            "lo": 28.20068,
+            "poll_avg": 27.96881
+          },
+          "now": {
+            "winprob": 1.06,
+            "forecast": 35.09211,
+            "hi": 40.99006,
+            "lo": 29.20208,
+            "poll_avg": 28.01874
+          },
+          "polls": {
+            "winprob": 1.735,
+            "forecast": 34.20605,
+            "hi": 41.31683,
+            "lo": 27.29291,
+            "poll_avg": 26.8765
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 98.895,
+            "forecast": 61.85406,
+            "hi": 68.35388,
+            "lo": 55.24266,
+            "poll_avg": 54.88168
+          },
+          "now": {
+            "winprob": 98.96000000000001,
+            "forecast": 61.13911,
+            "hi": 67.14472,
+            "lo": 55.03592,
+            "poll_avg": 53.73798
+          },
+          "polls": {
+            "winprob": 98.32499999999999,
+            "forecast": 62.07001,
+            "hi": 69.2011,
+            "lo": 54.87938,
+            "poll_avg": 54.43152
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 1.105,
+            "forecast": 34.41783,
+            "hi": 40.80836,
+            "lo": 28.16141,
+            "poll_avg": 27.88745
+          },
+          "now": {
+            "winprob": 1.04,
+            "forecast": 34.8916,
+            "hi": 40.82722,
+            "lo": 28.98971,
+            "poll_avg": 27.9935
+          },
+          "polls": {
+            "winprob": 1.675,
+            "forecast": 34.12656,
+            "hi": 41.24907,
+            "lo": 27.25515,
+            "poll_avg": 26.93643
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 98.785,
+            "forecast": 61.7821,
+            "hi": 68.27417,
+            "lo": 55.22802,
+            "poll_avg": 54.96469
+          },
+          "now": {
+            "winprob": 98.8,
+            "forecast": 60.86559,
+            "hi": 66.92725,
+            "lo": 54.77966,
+            "poll_avg": 53.54265
+          },
+          "polls": {
+            "winprob": 98.34,
+            "forecast": 62.0218,
+            "hi": 69.15895,
+            "lo": 54.82766,
+            "poll_avg": 54.5664
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 1.2149999999999999,
+            "forecast": 34.50178,
+            "hi": 40.83448,
+            "lo": 28.23002,
+            "poll_avg": 28.03191
+          },
+          "now": {
+            "winprob": 1.2,
+            "forecast": 35.166,
+            "hi": 41.09854,
+            "lo": 29.30621,
+            "poll_avg": 28.17077
+          },
+          "polls": {
+            "winprob": 1.66,
+            "forecast": 34.18161,
+            "hi": 41.25116,
+            "lo": 27.21412,
+            "poll_avg": 26.96751
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 98.885,
+            "forecast": 61.86291,
+            "hi": 68.43007,
+            "lo": 55.38282,
+            "poll_avg": 54.90294
+          },
+          "now": {
+            "winprob": 98.9,
+            "forecast": 61.06596,
+            "hi": 67.09116,
+            "lo": 54.97851,
+            "poll_avg": 53.67276
+          },
+          "polls": {
+            "winprob": 98.495,
+            "forecast": 62.11546,
+            "hi": 69.24104,
+            "lo": 54.83323,
+            "poll_avg": 54.58831
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 1.115,
+            "forecast": 34.41754,
+            "hi": 40.79772,
+            "lo": 28.06271,
+            "poll_avg": 28.01303
+          },
+          "now": {
+            "winprob": 1.0999999999999999,
+            "forecast": 34.97307,
+            "hi": 40.80459,
+            "lo": 29.14384,
+            "poll_avg": 28.17287
+          },
+          "polls": {
+            "winprob": 1.505,
+            "forecast": 34.09203,
+            "hi": 41.16848,
+            "lo": 27.14071,
+            "poll_avg": 27.02031
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 98.80499999999999,
+            "forecast": 61.97789,
+            "hi": 68.46646,
+            "lo": 55.42931,
+            "poll_avg": 55.13695
+          },
+          "now": {
+            "winprob": 99.195,
+            "forecast": 61.64143,
+            "hi": 67.56692,
+            "lo": 55.55445,
+            "poll_avg": 54.57993
+          },
+          "polls": {
+            "winprob": 98.475,
+            "forecast": 62.20234,
+            "hi": 69.35126,
+            "lo": 54.93394,
+            "poll_avg": 54.74687
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 1.195,
+            "forecast": 34.30804,
+            "hi": 40.60172,
+            "lo": 28.07379,
+            "poll_avg": 27.96348
+          },
+          "now": {
+            "winprob": 0.8049999999999999,
+            "forecast": 34.44068,
+            "hi": 40.25128,
+            "lo": 28.66417,
+            "poll_avg": 27.95509
+          },
+          "polls": {
+            "winprob": 1.525,
+            "forecast": 34.0108,
+            "hi": 41.12317,
+            "lo": 27.04291,
+            "poll_avg": 27.01809
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 98.99,
+            "forecast": 62.04499,
+            "hi": 68.56129,
+            "lo": 55.43245,
+            "poll_avg": 55.293
+          },
+          "now": {
+            "winprob": 99.26,
+            "forecast": 61.85627,
+            "hi": 67.81267,
+            "lo": 55.79747,
+            "poll_avg": 55.15253
+          },
+          "polls": {
+            "winprob": 98.515,
+            "forecast": 62.25195,
+            "hi": 69.34932,
+            "lo": 55.01239,
+            "poll_avg": 54.88572
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 1.01,
+            "forecast": 34.24715,
+            "hi": 40.60851,
+            "lo": 27.96565,
+            "poll_avg": 27.9718
+          },
+          "now": {
+            "winprob": 0.74,
+            "forecast": 34.2909,
+            "hi": 40.08339,
+            "lo": 28.57945,
+            "poll_avg": 28.20144
+          },
+          "polls": {
+            "winprob": 1.485,
+            "forecast": 33.96972,
+            "hi": 41.04339,
+            "lo": 27.07807,
+            "poll_avg": 27.07402
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 98.76,
+            "forecast": 61.69163,
+            "hi": 68.20946,
+            "lo": 55.14132,
+            "poll_avg": 54.83358
+          },
+          "now": {
+            "winprob": 99.295,
+            "forecast": 61.49323,
+            "hi": 67.25006,
+            "lo": 55.53678,
+            "poll_avg": 55.19398
+          },
+          "polls": {
+            "winprob": 98.34,
+            "forecast": 61.90309,
+            "hi": 68.97718,
+            "lo": 54.72234,
+            "poll_avg": 54.41002
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 1.24,
+            "forecast": 34.60849,
+            "hi": 40.94954,
+            "lo": 28.36538,
+            "poll_avg": 28.37143
+          },
+          "now": {
+            "winprob": 0.705,
+            "forecast": 34.75301,
+            "hi": 40.43869,
+            "lo": 29.22964,
+            "poll_avg": 29.17712
+          },
+          "polls": {
+            "winprob": 1.66,
+            "forecast": 34.32415,
+            "hi": 41.26161,
+            "lo": 27.50337,
+            "poll_avg": 27.4443
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 98.75500000000001,
+            "forecast": 61.51101,
+            "hi": 67.93301,
+            "lo": 55.00433,
+            "poll_avg": 54.62988
+          },
+          "now": {
+            "winprob": 99.16,
+            "forecast": 61.35327,
+            "hi": 67.06827,
+            "lo": 55.57802,
+            "poll_avg": 55.428
+          },
+          "polls": {
+            "winprob": 98.235,
+            "forecast": 61.75037,
+            "hi": 68.97442,
+            "lo": 54.43343,
+            "poll_avg": 54.12441
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 1.2449999999999999,
+            "forecast": 34.78714,
+            "hi": 41.16391,
+            "lo": 28.54587,
+            "poll_avg": 28.45973
+          },
+          "now": {
+            "winprob": 0.84,
+            "forecast": 34.94857,
+            "hi": 40.46606,
+            "lo": 29.4158,
+            "poll_avg": 29.56826
+          },
+          "polls": {
+            "winprob": 1.765,
+            "forecast": 34.4614,
+            "hi": 41.48559,
+            "lo": 27.497,
+            "poll_avg": 27.36287
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 98.725,
+            "forecast": 61.3075,
+            "hi": 67.71808,
+            "lo": 54.72866,
+            "poll_avg": 54.83015
+          },
+          "now": {
+            "winprob": 99.13499999999999,
+            "forecast": 60.79414,
+            "hi": 66.19064,
+            "lo": 55.32894,
+            "poll_avg": 56.90259
+          },
+          "polls": {
+            "winprob": 98.295,
+            "forecast": 61.54915,
+            "hi": 68.52736,
+            "lo": 54.40171,
+            "poll_avg": 54.27929
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 1.275,
+            "forecast": 35.03554,
+            "hi": 41.41367,
+            "lo": 28.8361,
+            "poll_avg": 29.06658
+          },
+          "now": {
+            "winprob": 0.865,
+            "forecast": 35.90947,
+            "hi": 41.21393,
+            "lo": 30.66281,
+            "poll_avg": 32.4584
+          },
+          "polls": {
+            "winprob": 1.7049999999999998,
+            "forecast": 34.698,
+            "hi": 41.65015,
+            "lo": 27.88697,
+            "poll_avg": 27.8429
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 98.63,
+            "forecast": 61.61185,
+            "hi": 68.29381,
+            "lo": 54.8016,
+            "poll_avg": 53.50596
+          },
+          "now": {
+            "winprob": 99.15,
+            "forecast": 62.00615,
+            "hi": 68.15701,
+            "lo": 55.75726,
+            "poll_avg": 54.19542
+          },
+          "polls": {
+            "winprob": 98.08,
+            "forecast": 61.87774,
+            "hi": 69.32922,
+            "lo": 54.34235,
+            "poll_avg": 53.1452
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 1.37,
+            "forecast": 34.54921,
+            "hi": 41.15259,
+            "lo": 28.05914,
+            "poll_avg": 26.9086
+          },
+          "now": {
+            "winprob": 0.8500000000000001,
+            "forecast": 33.8718,
+            "hi": 39.7885,
+            "lo": 27.99965,
+            "poll_avg": 26.32525
+          },
+          "polls": {
+            "winprob": 1.92,
+            "forecast": 34.20269,
+            "hi": 41.50259,
+            "lo": 27.06179,
+            "poll_avg": 25.81923
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 98.595,
+            "forecast": 61.33207,
+            "hi": 68.03329,
+            "lo": 54.46756,
+            "poll_avg": 53.35115
+          },
+          "now": {
+            "winprob": 99.1,
+            "forecast": 61.81296,
+            "hi": 67.84142,
+            "lo": 55.62918,
+            "poll_avg": 54.27854
+          },
+          "polls": {
+            "winprob": 97.985,
+            "forecast": 61.57777,
+            "hi": 68.96806,
+            "lo": 53.98716,
+            "poll_avg": 52.95958
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 1.405,
+            "forecast": 34.84161,
+            "hi": 41.48378,
+            "lo": 28.36421,
+            "poll_avg": 27.2035
+          },
+          "now": {
+            "winprob": 0.8999999999999999,
+            "forecast": 34.10343,
+            "hi": 39.98945,
+            "lo": 28.24958,
+            "poll_avg": 26.66859
+          },
+          "polls": {
+            "winprob": 2.015,
+            "forecast": 34.51689,
+            "hi": 41.8527,
+            "lo": 27.405,
+            "poll_avg": 26.15836
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 98.455,
+            "forecast": 61.3392,
+            "hi": 68.03924,
+            "lo": 54.54925,
+            "poll_avg": 53.31835
+          },
+          "now": {
+            "winprob": 99.215,
+            "forecast": 62.17291,
+            "hi": 68.29497,
+            "lo": 55.89137,
+            "poll_avg": 54.5979
+          },
+          "polls": {
+            "winprob": 97.87,
+            "forecast": 61.57224,
+            "hi": 69.02238,
+            "lo": 53.95122,
+            "poll_avg": 52.87266
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 1.545,
+            "forecast": 34.83208,
+            "hi": 41.36132,
+            "lo": 28.32053,
+            "poll_avg": 27.18406
+          },
+          "now": {
+            "winprob": 0.7849999999999999,
+            "forecast": 33.73183,
+            "hi": 39.70066,
+            "lo": 27.91137,
+            "poll_avg": 26.34044
+          },
+          "polls": {
+            "winprob": 2.13,
+            "forecast": 34.51384,
+            "hi": 41.87625,
+            "lo": 27.29657,
+            "poll_avg": 26.07096
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 98.05,
+            "forecast": 60.58543,
+            "hi": 67.32057,
+            "lo": 53.75526,
+            "poll_avg": 52.54328
+          },
+          "now": {
+            "winprob": 98.875,
+            "forecast": 61.00941,
+            "hi": 67.11021,
+            "lo": 54.79236,
+            "poll_avg": 53.50411
+          },
+          "polls": {
+            "winprob": 97.50999999999999,
+            "forecast": 60.80128,
+            "hi": 68.18901,
+            "lo": 53.29392,
+            "poll_avg": 52.21062
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 1.95,
+            "forecast": 35.62568,
+            "hi": 42.31859,
+            "lo": 29.03876,
+            "poll_avg": 28.28427
+          },
+          "now": {
+            "winprob": 1.125,
+            "forecast": 34.9759,
+            "hi": 40.92945,
+            "lo": 29.11924,
+            "poll_avg": 27.97469
+          },
+          "polls": {
+            "winprob": 2.4899999999999998,
+            "forecast": 35.33879,
+            "hi": 42.64522,
+            "lo": 28.13458,
+            "poll_avg": 27.33311
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 98.045,
+            "forecast": 60.28546,
+            "hi": 67.06459,
+            "lo": 53.45589,
+            "poll_avg": 52.28944
+          },
+          "now": {
+            "winprob": 98.735,
+            "forecast": 60.59044,
+            "hi": 66.65595,
+            "lo": 54.36864,
+            "poll_avg": 52.97132
+          },
+          "polls": {
+            "winprob": 97.41,
+            "forecast": 60.45663,
+            "hi": 67.765,
+            "lo": 52.99556,
+            "poll_avg": 51.76929
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 1.955,
+            "forecast": 35.93613,
+            "hi": 42.54879,
+            "lo": 29.34366,
+            "poll_avg": 28.60296
+          },
+          "now": {
+            "winprob": 1.265,
+            "forecast": 35.40077,
+            "hi": 41.29379,
+            "lo": 29.58267,
+            "poll_avg": 28.45663
+          },
+          "polls": {
+            "winprob": 2.59,
+            "forecast": 35.687,
+            "hi": 43.00385,
+            "lo": 28.47175,
+            "poll_avg": 27.65063
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 97.61999999999999,
+            "forecast": 59.67066,
+            "hi": 66.3974,
+            "lo": 52.78751,
+            "poll_avg": 51.7911
+          },
+          "now": {
+            "winprob": 97.705,
+            "forecast": 59.00874,
+            "hi": 65.35396,
+            "lo": 52.64957,
+            "poll_avg": 50.69941
+          },
+          "polls": {
+            "winprob": 97.0,
+            "forecast": 59.92262,
+            "hi": 67.41071,
+            "lo": 52.37554,
+            "poll_avg": 51.28805
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 2.3800000000000003,
+            "forecast": 36.55344,
+            "hi": 43.22104,
+            "lo": 29.96828,
+            "poll_avg": 28.93726
+          },
+          "now": {
+            "winprob": 2.2950000000000004,
+            "forecast": 36.84515,
+            "hi": 43.03992,
+            "lo": 30.76315,
+            "poll_avg": 28.86367
+          },
+          "polls": {
+            "winprob": 3.0,
+            "forecast": 36.21566,
+            "hi": 43.57797,
+            "lo": 28.86736,
+            "poll_avg": 27.84801
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 97.61999999999999,
+            "forecast": 59.81845,
+            "hi": 66.6145,
+            "lo": 52.91254,
+            "poll_avg": 52.01281
+          },
+          "now": {
+            "winprob": 97.97,
+            "forecast": 59.18311,
+            "hi": 65.37119,
+            "lo": 52.77581,
+            "poll_avg": 51.0321
+          },
+          "polls": {
+            "winprob": 96.905,
+            "forecast": 60.06528,
+            "hi": 67.46856,
+            "lo": 52.48493,
+            "poll_avg": 51.50695
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 2.3800000000000003,
+            "forecast": 36.4126,
+            "hi": 43.09029,
+            "lo": 29.83071,
+            "poll_avg": 28.91877
+          },
+          "now": {
+            "winprob": 2.03,
+            "forecast": 36.70788,
+            "hi": 42.87387,
+            "lo": 30.67924,
+            "poll_avg": 29.00102
+          },
+          "polls": {
+            "winprob": 3.0949999999999998,
+            "forecast": 36.08059,
+            "hi": 43.46575,
+            "lo": 28.83792,
+            "poll_avg": 27.84161
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 97.88,
+            "forecast": 59.91541,
+            "hi": 66.66618,
+            "lo": 53.17369,
+            "poll_avg": 52.34906
+          },
+          "now": {
+            "winprob": 97.99,
+            "forecast": 59.21115,
+            "hi": 65.40305,
+            "lo": 52.97015,
+            "poll_avg": 51.48527
+          },
+          "polls": {
+            "winprob": 97.19,
+            "forecast": 60.14035,
+            "hi": 67.50111,
+            "lo": 52.68698,
+            "poll_avg": 51.79694
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 2.12,
+            "forecast": 36.33195,
+            "hi": 42.99205,
+            "lo": 29.83022,
+            "poll_avg": 28.9839
+          },
+          "now": {
+            "winprob": 2.01,
+            "forecast": 36.75625,
+            "hi": 42.75446,
+            "lo": 30.76098,
+            "poll_avg": 29.42128
+          },
+          "polls": {
+            "winprob": 2.81,
+            "forecast": 36.02184,
+            "hi": 43.25429,
+            "lo": 28.89112,
+            "poll_avg": 27.93404
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 97.83,
+            "forecast": 59.92862,
+            "hi": 66.63643,
+            "lo": 53.0796,
+            "poll_avg": 52.41502
+          },
+          "now": {
+            "winprob": 98.125,
+            "forecast": 59.25853,
+            "hi": 65.41111,
+            "lo": 53.05412,
+            "poll_avg": 51.72569
+          },
+          "polls": {
+            "winprob": 97.06,
+            "forecast": 60.15344,
+            "hi": 67.35947,
+            "lo": 52.74255,
+            "poll_avg": 51.95144
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 2.17,
+            "forecast": 36.32412,
+            "hi": 42.93328,
+            "lo": 29.86625,
+            "poll_avg": 29.032
+          },
+          "now": {
+            "winprob": 1.875,
+            "forecast": 36.73797,
+            "hi": 42.67021,
+            "lo": 30.82977,
+            "poll_avg": 29.54315
+          },
+          "polls": {
+            "winprob": 2.94,
+            "forecast": 36.02154,
+            "hi": 43.21801,
+            "lo": 28.92458,
+            "poll_avg": 28.04961
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 97.74000000000001,
+            "forecast": 59.9224,
+            "hi": 66.69733,
+            "lo": 53.08145,
+            "poll_avg": 52.47311
+          },
+          "now": {
+            "winprob": 98.14,
+            "forecast": 59.14722,
+            "hi": 65.14955,
+            "lo": 52.98102,
+            "poll_avg": 51.83791
+          },
+          "polls": {
+            "winprob": 97.375,
+            "forecast": 60.18363,
+            "hi": 67.44064,
+            "lo": 52.8273,
+            "poll_avg": 52.1399
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 2.26,
+            "forecast": 36.34022,
+            "hi": 43.01888,
+            "lo": 29.76588,
+            "poll_avg": 29.15725
+          },
+          "now": {
+            "winprob": 1.8599999999999999,
+            "forecast": 36.87477,
+            "hi": 42.79483,
+            "lo": 31.00245,
+            "poll_avg": 29.72497
+          },
+          "polls": {
+            "winprob": 2.625,
+            "forecast": 36.00466,
+            "hi": 43.15852,
+            "lo": 28.84853,
+            "poll_avg": 28.15331
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 97.975,
+            "forecast": 60.21532,
+            "hi": 66.76588,
+            "lo": 53.45683,
+            "poll_avg": 52.88773
+          },
+          "now": {
+            "winprob": 98.19,
+            "forecast": 59.41296,
+            "hi": 65.34953,
+            "lo": 53.30164,
+            "poll_avg": 52.23852
+          },
+          "polls": {
+            "winprob": 97.35000000000001,
+            "forecast": 60.48109,
+            "hi": 67.79959,
+            "lo": 53.10686,
+            "poll_avg": 52.41695
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 2.025,
+            "forecast": 36.06216,
+            "hi": 42.66099,
+            "lo": 29.64244,
+            "poll_avg": 29.15282
+          },
+          "now": {
+            "winprob": 1.81,
+            "forecast": 36.65914,
+            "hi": 42.56674,
+            "lo": 30.87252,
+            "poll_avg": 29.91942
+          },
+          "polls": {
+            "winprob": 2.65,
+            "forecast": 35.70987,
+            "hi": 42.92899,
+            "lo": 28.64021,
+            "poll_avg": 28.03326
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 98.32,
+            "forecast": 60.79283,
+            "hi": 67.40375,
+            "lo": 54.05924,
+            "poll_avg": 53.51616
+          },
+          "now": {
+            "winprob": 98.085,
+            "forecast": 59.2796,
+            "hi": 65.37819,
+            "lo": 53.056,
+            "poll_avg": 51.81144
+          },
+          "polls": {
+            "winprob": 97.97,
+            "forecast": 61.04461,
+            "hi": 68.2337,
+            "lo": 53.67628,
+            "poll_avg": 53.15754
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 1.68,
+            "forecast": 35.47607,
+            "hi": 41.98339,
+            "lo": 29.02256,
+            "poll_avg": 28.64392
+          },
+          "now": {
+            "winprob": 1.915,
+            "forecast": 36.72108,
+            "hi": 42.74172,
+            "lo": 30.7949,
+            "poll_avg": 29.58866
+          },
+          "polls": {
+            "winprob": 2.03,
+            "forecast": 35.14939,
+            "hi": 42.32724,
+            "lo": 28.13354,
+            "poll_avg": 27.64581
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 98.41499999999999,
+            "forecast": 61.16016,
+            "hi": 67.7619,
+            "lo": 54.46504,
+            "poll_avg": 53.93208
+          },
+          "now": {
+            "winprob": 98.475,
+            "forecast": 59.83565,
+            "hi": 65.84459,
+            "lo": 53.73378,
+            "poll_avg": 52.51064
+          },
+          "polls": {
+            "winprob": 97.995,
+            "forecast": 61.40528,
+            "hi": 68.64325,
+            "lo": 54.08536,
+            "poll_avg": 53.46791
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 1.585,
+            "forecast": 35.11708,
+            "hi": 41.60474,
+            "lo": 28.68511,
+            "poll_avg": 28.53344
+          },
+          "now": {
+            "winprob": 1.525,
+            "forecast": 36.20874,
+            "hi": 42.02196,
+            "lo": 30.33749,
+            "poll_avg": 29.49179
+          },
+          "polls": {
+            "winprob": 2.005,
+            "forecast": 34.78702,
+            "hi": 42.0269,
+            "lo": 27.62296,
+            "poll_avg": 27.43543
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 98.745,
+            "forecast": 61.93554,
+            "hi": 68.60402,
+            "lo": 55.29443,
+            "poll_avg": 54.36829
+          },
+          "now": {
+            "winprob": 98.98,
+            "forecast": 61.35518,
+            "hi": 67.40973,
+            "lo": 55.21988,
+            "poll_avg": 53.63119
+          },
+          "polls": {
+            "winprob": 98.36,
+            "forecast": 62.17831,
+            "hi": 69.38889,
+            "lo": 54.78294,
+            "poll_avg": 53.87771
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 1.2550000000000001,
+            "forecast": 34.32014,
+            "hi": 40.80221,
+            "lo": 27.91076,
+            "poll_avg": 27.9282
+          },
+          "now": {
+            "winprob": 1.02,
+            "forecast": 34.63294,
+            "hi": 40.57366,
+            "lo": 28.81873,
+            "poll_avg": 28.1312
+          },
+          "polls": {
+            "winprob": 1.6400000000000001,
+            "forecast": 33.99398,
+            "hi": 41.19965,
+            "lo": 26.96303,
+            "poll_avg": 26.87093
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 98.86500000000001,
+            "forecast": 62.09042,
+            "hi": 68.75159,
+            "lo": 55.35036,
+            "poll_avg": 54.50435
+          },
+          "now": {
+            "winprob": 99.125,
+            "forecast": 61.66146,
+            "hi": 67.64557,
+            "lo": 55.56591,
+            "poll_avg": 53.96579
+          },
+          "polls": {
+            "winprob": 98.50999999999999,
+            "forecast": 62.35403,
+            "hi": 69.58682,
+            "lo": 55.0246,
+            "poll_avg": 54.16971
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 1.135,
+            "forecast": 34.16973,
+            "hi": 40.68841,
+            "lo": 27.72534,
+            "poll_avg": 27.92013
+          },
+          "now": {
+            "winprob": 0.8750000000000001,
+            "forecast": 34.34134,
+            "hi": 40.15624,
+            "lo": 28.51274,
+            "poll_avg": 28.03489
+          },
+          "polls": {
+            "winprob": 1.49,
+            "forecast": 33.83149,
+            "hi": 40.93844,
+            "lo": 26.7362,
+            "poll_avg": 26.91234
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 98.8,
+            "forecast": 62.05273,
+            "hi": 68.74895,
+            "lo": 55.34044,
+            "poll_avg": 54.56678
+          },
+          "now": {
+            "winprob": 99.13,
+            "forecast": 61.70639,
+            "hi": 67.65578,
+            "lo": 55.64293,
+            "poll_avg": 54.30331
+          },
+          "polls": {
+            "winprob": 98.45,
+            "forecast": 62.33307,
+            "hi": 69.6492,
+            "lo": 54.97736,
+            "poll_avg": 54.14661
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 1.2,
+            "forecast": 34.22156,
+            "hi": 40.70761,
+            "lo": 27.82847,
+            "poll_avg": 28.11171
+          },
+          "now": {
+            "winprob": 0.8699999999999999,
+            "forecast": 34.34755,
+            "hi": 40.19986,
+            "lo": 28.60716,
+            "poll_avg": 28.27416
+          },
+          "polls": {
+            "winprob": 1.55,
+            "forecast": 33.85178,
+            "hi": 41.06454,
+            "lo": 26.73638,
+            "poll_avg": 26.91508
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 98.81,
+            "forecast": 62.10157,
+            "hi": 68.70676,
+            "lo": 55.37071,
+            "poll_avg": 54.6208
+          },
+          "now": {
+            "winprob": 99.105,
+            "forecast": 61.81391,
+            "hi": 67.76129,
+            "lo": 55.65804,
+            "poll_avg": 54.37246
+          },
+          "polls": {
+            "winprob": 98.335,
+            "forecast": 62.34553,
+            "hi": 69.69508,
+            "lo": 54.95816,
+            "poll_avg": 54.15497
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 1.1900000000000002,
+            "forecast": 34.1754,
+            "hi": 40.67181,
+            "lo": 27.76312,
+            "poll_avg": 28.12312
+          },
+          "now": {
+            "winprob": 0.895,
+            "forecast": 34.23613,
+            "hi": 40.08086,
+            "lo": 28.4636,
+            "poll_avg": 28.20355
+          },
+          "polls": {
+            "winprob": 1.6650000000000003,
+            "forecast": 33.84938,
+            "hi": 41.1177,
+            "lo": 26.78747,
+            "poll_avg": 27.07273
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 98.91,
+            "forecast": 62.06628,
+            "hi": 68.69868,
+            "lo": 55.32586,
+            "poll_avg": 54.37785
+          },
+          "now": {
+            "winprob": 99.13499999999999,
+            "forecast": 61.7696,
+            "hi": 67.73814,
+            "lo": 55.71111,
+            "poll_avg": 54.19841
+          },
+          "polls": {
+            "winprob": 98.285,
+            "forecast": 62.31139,
+            "hi": 69.52818,
+            "lo": 54.90487,
+            "poll_avg": 53.96877
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 1.09,
+            "forecast": 34.21118,
+            "hi": 40.72851,
+            "lo": 27.84794,
+            "poll_avg": 28.27426
+          },
+          "now": {
+            "winprob": 0.865,
+            "forecast": 34.30869,
+            "hi": 40.11216,
+            "lo": 28.58549,
+            "poll_avg": 28.61614
+          },
+          "polls": {
+            "winprob": 1.7149999999999999,
+            "forecast": 33.88688,
+            "hi": 40.96114,
+            "lo": 26.83242,
+            "poll_avg": 27.23649
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 98.83999999999999,
+            "forecast": 62.12848,
+            "hi": 68.69522,
+            "lo": 55.37772,
+            "poll_avg": 54.63895
+          },
+          "now": {
+            "winprob": 99.29,
+            "forecast": 62.00431,
+            "hi": 67.88998,
+            "lo": 56.04081,
+            "poll_avg": 54.81136
+          },
+          "polls": {
+            "winprob": 98.43499999999999,
+            "forecast": 62.39226,
+            "hi": 69.53342,
+            "lo": 54.97759,
+            "poll_avg": 54.26188
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 1.16,
+            "forecast": 34.15641,
+            "hi": 40.60379,
+            "lo": 27.76176,
+            "poll_avg": 28.24026
+          },
+          "now": {
+            "winprob": 0.7100000000000001,
+            "forecast": 34.12255,
+            "hi": 39.90075,
+            "lo": 28.47201,
+            "poll_avg": 28.61129
+          },
+          "polls": {
+            "winprob": 1.5650000000000002,
+            "forecast": 33.81225,
+            "hi": 40.99529,
+            "lo": 26.8215,
+            "poll_avg": 27.16458
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Chris Van Hollen",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 98.95,
+            "forecast": 62.32519,
+            "hi": 68.92833,
+            "lo": 55.52539,
+            "poll_avg": 54.55477
+          },
+          "now": {
+            "winprob": 99.2,
+            "forecast": 62.35061,
+            "hi": 68.39526,
+            "lo": 56.21446,
+            "poll_avg": 54.61257
+          },
+          "polls": {
+            "winprob": 98.50999999999999,
+            "forecast": 62.54523,
+            "hi": 69.82748,
+            "lo": 55.11098,
+            "poll_avg": 54.03598
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Kathy Szeliga",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 1.05,
+            "forecast": 33.92271,
+            "hi": 40.44722,
+            "lo": 27.46408,
+            "poll_avg": 27.69261
+          },
+          "now": {
+            "winprob": 0.8,
+            "forecast": 33.63968,
+            "hi": 39.45639,
+            "lo": 27.88916,
+            "poll_avg": 27.52544
+          },
+          "polls": {
+            "winprob": 1.49,
+            "forecast": 33.62054,
+            "hi": 40.8985,
+            "lo": 26.54382,
+            "poll_avg": 26.67239
+          }
+        }
+      }
+    ]
+  },
+  "polls": [
+    {
+      "id": "42190",
+      "population": "rv",
+      "sampleSize": "879",
+      "state": "MD",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-04-15",
+      "endDate": "2016-04-17",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_MD_41916.pdf",
+      "created_at": 1463410980,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 53.0,
+          "adj_pct": {
+            "polls": 55.61739,
+            "plus": 55.70382,
+            "now": 55.61739
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 25.0,
+          "adj_pct": {
+            "polls": 30.04774,
+            "plus": 30.40497,
+            "now": 30.04774
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0001858,
+        "plus": 0.0001858,
+        "now": 0.0001858
+      },
+      "pollsterRating": "B+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 28.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 25.56965
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 25.29885
+          },
+          "now": {
+            "choice": "D",
+            "margin": 25.56965
+          }
+        }
+      }
+    },
+    {
+      "id": "47903",
+      "population": "lv",
+      "sampleSize": "740",
+      "state": "MD",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-25",
+      "endDate": "2016-10-31",
+      "tracking": "TRUE",
+      "url": "https://drive.google.com/file/d/0BxxpEMTW3kAraEFpRXdFc21TVG8/view",
+      "created_at": 1478025960,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 66.0,
+          "adj_pct": {
+            "polls": 62.78604,
+            "plus": 62.70923,
+            "now": 62.78604
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 31.0,
+          "adj_pct": {
+            "polls": 30.92884,
+            "plus": 30.96502,
+            "now": 30.92884
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.018701,
+        "plus": 0.018701,
+        "now": 0.018701
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 35.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 31.8572
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 31.74421
+          },
+          "now": {
+            "choice": "D",
+            "margin": 31.8572
+          }
+        }
+      }
+    },
+    {
+      "id": "48041",
+      "population": "lv",
+      "sampleSize": "695",
+      "state": "MD",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-26",
+      "endDate": "2016-11-01",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478099040,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 66.0,
+          "adj_pct": {
+            "polls": 62.78682,
+            "plus": 62.71038,
+            "now": 62.78682
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 31.0,
+          "adj_pct": {
+            "polls": 30.85078,
+            "plus": 30.88788,
+            "now": 30.85078
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0199647,
+        "plus": 0.0199647,
+        "now": 0.0199647
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 35.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 31.93604
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 31.8225
+          },
+          "now": {
+            "choice": "D",
+            "margin": 31.93604
+          }
+        }
+      }
+    },
+    {
+      "id": "48149",
+      "population": "lv",
+      "sampleSize": "772",
+      "state": "MD",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-27",
+      "endDate": "2016-11-02",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478216760,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 67.0,
+          "adj_pct": {
+            "polls": 63.79206,
+            "plus": 63.71588,
+            "now": 63.79206
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 31.0,
+          "adj_pct": {
+            "polls": 30.77384,
+            "plus": 30.81158,
+            "now": 30.77384
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.025347,
+        "plus": 0.025347,
+        "now": 0.025347
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 36.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 33.01822
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 32.9043
+          },
+          "now": {
+            "choice": "D",
+            "margin": 33.01822
+          }
+        }
+      }
+    },
+    {
+      "id": "48596",
+      "population": "lv",
+      "sampleSize": "1056",
+      "state": "MD",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-31",
+      "endDate": "2016-11-06",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478508780,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 64.0,
+          "adj_pct": {
+            "polls": 60.89753,
+            "plus": 60.82949,
+            "now": 60.89753
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 33.0,
+          "adj_pct": {
+            "polls": 32.38314,
+            "plus": 32.44123,
+            "now": 32.38314
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0669322,
+        "plus": 0.0669322,
+        "now": 0.0669322
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 31.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 28.514390000000006
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 28.388260000000002
+          },
+          "now": {
+            "choice": "D",
+            "margin": 28.514390000000006
+          }
+        }
+      }
+    },
+    {
+      "id": "45341",
+      "population": "lv",
+      "sampleSize": "754",
+      "state": "MD",
+      "pollster": "OpinionWorks",
+      "startDate": "2016-08-18",
+      "endDate": "2016-08-30",
+      "tracking": null,
+      "url": "http://www.baltimoresun.com/news/maryland/politics/bs-md-trump-clinton-poll-20160906-story.html",
+      "created_at": 1473178680,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 55.0,
+          "adj_pct": {
+            "polls": 56.7144,
+            "plus": 56.92521,
+            "now": 56.7144
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 26.0,
+          "adj_pct": {
+            "polls": 28.26834,
+            "plus": 28.25104,
+            "now": 28.26834
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0727834,
+        "plus": 0.0727834,
+        "now": 0.0727834
+      },
+      "pollsterRating": "B-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 29.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 28.44606
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 28.67417
+          },
+          "now": {
+            "choice": "D",
+            "margin": 28.44606
+          }
+        }
+      }
+    },
+    {
+      "id": "48289",
+      "population": "lv",
+      "sampleSize": "851",
+      "state": "MD",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-28",
+      "endDate": "2016-11-03",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478277960,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 66.0,
+          "adj_pct": {
+            "polls": 62.80009,
+            "plus": 62.7247,
+            "now": 62.80009
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 32.0,
+          "adj_pct": {
+            "polls": 31.67959,
+            "plus": 31.7193,
+            "now": 31.67959
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.1092476,
+        "plus": 0.1092476,
+        "now": 0.1092476
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 34.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 31.120499999999996
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 31.005399999999998
+          },
+          "now": {
+            "choice": "D",
+            "margin": 31.120499999999996
+          }
+        }
+      }
+    },
+    {
+      "id": "45999",
+      "population": "lv",
+      "sampleSize": "514",
+      "state": "MD",
+      "pollster": "Goucher College",
+      "startDate": "2016-09-17",
+      "endDate": "2016-09-20",
+      "tracking": null,
+      "url": "https://web.archive.org/web/2018/https://projects.fivethirtyeight.com/polls/20160920_MD_2.pdf",
+      "created_at": 1474555140,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 54.0,
+          "adj_pct": {
+            "polls": 55.79097,
+            "plus": 55.98474,
+            "now": 55.79097
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 24.0,
+          "adj_pct": {
+            "polls": 26.62265,
+            "plus": 26.62027,
+            "now": 26.62265
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.1768591,
+        "plus": 0.1768591,
+        "now": 0.1768591
+      },
+      "pollsterRating": "",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 30.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 29.16832
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 29.36447
+          },
+          "now": {
+            "choice": "D",
+            "margin": 29.16832
+          }
+        }
+      }
+    },
+    {
+      "id": "46527",
+      "population": "lv",
+      "sampleSize": "706",
+      "state": "MD",
+      "pollster": "University of Maryland / Washington Post",
+      "startDate": "2016-09-27",
+      "endDate": "2016-09-30",
+      "tracking": null,
+      "url": "https://www.washingtonpost.com/local/md-politics/larry-hogans-approval-soars-buoyed-by-his-disavowal-of-donald-trump/2016/10/05/3e84b330-88de-11e6-b24f-a7f89eb68887_story.html",
+      "created_at": 1475742060,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 58.0,
+          "adj_pct": {
+            "polls": 58.47048,
+            "plus": 58.62889,
+            "now": 58.47048
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 29.0,
+          "adj_pct": {
+            "polls": 29.2284,
+            "plus": 29.25276,
+            "now": 29.2284
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.5449211,
+        "plus": 0.5449211,
+        "now": 0.5449211
+      },
+      "pollsterRating": "A+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 29.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 29.24208
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 29.37613
+          },
+          "now": {
+            "choice": "D",
+            "margin": 29.24208
+          }
+        }
+      }
+    },
+    {
+      "id": "48880",
+      "population": "lv",
+      "sampleSize": "1216",
+      "state": "MD",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-11-01",
+      "endDate": "2016-11-07",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478564460,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 64.0,
+          "adj_pct": {
+            "polls": 60.90585,
+            "plus": 60.84233,
+            "now": 60.90585
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 33.0,
+          "adj_pct": {
+            "polls": 32.26295,
+            "plus": 32.33228,
+            "now": 32.26295
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.88921,
+        "plus": 1.88921,
+        "now": 1.88921
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 31.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 28.642900000000004
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 28.51005
+          },
+          "now": {
+            "choice": "D",
+            "margin": 28.642900000000004
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,7595 @@
+{
+  "state": "WA",
+  "candidates": [
+    {
+      "state": "WA",
+      "party": "D",
+      "candidate": "Patty Murray",
+      "incumbent": "y"
+    },
+    {
+      "state": "WA",
+      "party": "R",
+      "candidate": "Chris Vance",
+      "incumbent": null
+    }
+  ],
+  "forecasts": {
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 99.455,
+            "forecast": 58.29678,
+            "hi": 61.65229,
+            "lo": 54.88275,
+            "poll_avg": 55.22273,
+            "likely_adjust": 0.0031204,
+            "trend_adjust": 0.1656494,
+            "house_adjust": -0.5740128,
+            "adj_avg": 54.81749,
+            "undecided_adjust": 3.074463,
+            "reallocate_avg": 57.89195,
+            "demo_regress": 60.43785,
+            "demo_weight": 15.901280000000002,
+            "snapshot": 58.29678
+          },
+          "polls": {
+            "winprob": 98.83999999999999,
+            "forecast": 57.8789,
+            "hi": 61.66517,
+            "lo": 54.06862,
+            "poll_avg": 55.22273,
+            "likely_adjust": 0.0022316,
+            "trend_adjust": 0.1830559,
+            "house_adjust": -0.6139374,
+            "adj_avg": 54.79408,
+            "undecided_adjust": 3.084816,
+            "reallocate_avg": 57.8789,
+            "demo_regress": 57.8789,
+            "demo_weight": 0.0,
+            "snapshot": 57.8789
+          },
+          "now": {
+            "winprob": 98.83999999999999,
+            "forecast": 57.8789,
+            "hi": 61.66517,
+            "lo": 54.06862,
+            "poll_avg": 55.22273,
+            "likely_adjust": 0.0022316,
+            "trend_adjust": 0.1830559,
+            "house_adjust": -0.6139374,
+            "adj_avg": 54.79408,
+            "undecided_adjust": 3.084816,
+            "reallocate_avg": 57.8789,
+            "demo_regress": 57.8789,
+            "demo_weight": 0.0,
+            "snapshot": 57.8789
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 0.545,
+            "forecast": 41.70322,
+            "hi": 45.11725,
+            "lo": 38.34771,
+            "poll_avg": 37.96032,
+            "likely_adjust": 0.0054474,
+            "trend_adjust": 0.6572495,
+            "house_adjust": 0.4105682,
+            "adj_avg": 39.03358,
+            "undecided_adjust": 3.074467,
+            "reallocate_avg": 42.10805,
+            "demo_regress": 39.56215,
+            "demo_weight": 15.901280000000002,
+            "snapshot": 41.70322
+          },
+          "polls": {
+            "winprob": 1.16,
+            "forecast": 42.1211,
+            "hi": 45.93138,
+            "lo": 38.33483,
+            "poll_avg": 37.96032,
+            "likely_adjust": 0.003231,
+            "trend_adjust": 0.7004662,
+            "house_adjust": 0.3722687,
+            "adj_avg": 39.03628,
+            "undecided_adjust": 3.08482,
+            "reallocate_avg": 42.1211,
+            "demo_regress": 42.1211,
+            "demo_weight": 0.0,
+            "snapshot": 42.1211
+          },
+          "now": {
+            "winprob": 1.16,
+            "forecast": 42.1211,
+            "hi": 45.93138,
+            "lo": 38.33483,
+            "poll_avg": 37.96032,
+            "likely_adjust": 0.003231,
+            "trend_adjust": 0.7004662,
+            "house_adjust": 0.3722687,
+            "adj_avg": 39.03628,
+            "undecided_adjust": 3.08482,
+            "reallocate_avg": 42.1211,
+            "demo_regress": 42.1211,
+            "demo_weight": 0.0,
+            "snapshot": 42.1211
+          }
+        }
+      }
+    },
+    "all": [
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 99.455,
+            "forecast": 58.29678,
+            "hi": 61.65229,
+            "lo": 54.88275,
+            "poll_avg": 55.22273,
+            "likely_adjust": 0.0031204,
+            "trend_adjust": 0.1656494,
+            "house_adjust": -0.5740128,
+            "adj_avg": 54.81749,
+            "undecided_adjust": 3.074463,
+            "reallocate_avg": 57.89195,
+            "demo_regress": 60.43785,
+            "demo_weight": 15.901280000000002,
+            "snapshot": 58.29678
+          },
+          "polls": {
+            "winprob": 98.83999999999999,
+            "forecast": 57.8789,
+            "hi": 61.66517,
+            "lo": 54.06862,
+            "poll_avg": 55.22273,
+            "likely_adjust": 0.0022316,
+            "trend_adjust": 0.1830559,
+            "house_adjust": -0.6139374,
+            "adj_avg": 54.79408,
+            "undecided_adjust": 3.084816,
+            "reallocate_avg": 57.8789,
+            "demo_regress": 57.8789,
+            "demo_weight": 0.0,
+            "snapshot": 57.8789
+          },
+          "now": {
+            "winprob": 98.83999999999999,
+            "forecast": 57.8789,
+            "hi": 61.66517,
+            "lo": 54.06862,
+            "poll_avg": 55.22273,
+            "likely_adjust": 0.0022316,
+            "trend_adjust": 0.1830559,
+            "house_adjust": -0.6139374,
+            "adj_avg": 54.79408,
+            "undecided_adjust": 3.084816,
+            "reallocate_avg": 57.8789,
+            "demo_regress": 57.8789,
+            "demo_weight": 0.0,
+            "snapshot": 57.8789
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 0.545,
+            "forecast": 41.70322,
+            "hi": 45.11725,
+            "lo": 38.34771,
+            "poll_avg": 37.96032,
+            "likely_adjust": 0.0054474,
+            "trend_adjust": 0.6572495,
+            "house_adjust": 0.4105682,
+            "adj_avg": 39.03358,
+            "undecided_adjust": 3.074467,
+            "reallocate_avg": 42.10805,
+            "demo_regress": 39.56215,
+            "demo_weight": 15.901280000000002,
+            "snapshot": 41.70322
+          },
+          "polls": {
+            "winprob": 1.16,
+            "forecast": 42.1211,
+            "hi": 45.93138,
+            "lo": 38.33483,
+            "poll_avg": 37.96032,
+            "likely_adjust": 0.003231,
+            "trend_adjust": 0.7004662,
+            "house_adjust": 0.3722687,
+            "adj_avg": 39.03628,
+            "undecided_adjust": 3.08482,
+            "reallocate_avg": 42.1211,
+            "demo_regress": 42.1211,
+            "demo_weight": 0.0,
+            "snapshot": 42.1211
+          },
+          "now": {
+            "winprob": 1.16,
+            "forecast": 42.1211,
+            "hi": 45.93138,
+            "lo": 38.33483,
+            "poll_avg": 37.96032,
+            "likely_adjust": 0.003231,
+            "trend_adjust": 0.7004662,
+            "house_adjust": 0.3722687,
+            "adj_avg": 39.03628,
+            "undecided_adjust": 3.08482,
+            "reallocate_avg": 42.1211,
+            "demo_regress": 42.1211,
+            "demo_weight": 0.0,
+            "snapshot": 42.1211
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 99.3,
+            "forecast": 58.15142,
+            "hi": 61.58171,
+            "lo": 54.69271,
+            "poll_avg": 54.62029
+          },
+          "now": {
+            "winprob": 99.325,
+            "forecast": 58.17064,
+            "hi": 61.59678,
+            "lo": 54.71486,
+            "poll_avg": 54.68289
+          },
+          "polls": {
+            "winprob": 98.36500000000001,
+            "forecast": 57.68207,
+            "hi": 61.50748,
+            "lo": 53.88992,
+            "poll_avg": 54.6286
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 0.7000000000000001,
+            "forecast": 41.84858,
+            "hi": 45.30729,
+            "lo": 38.41829,
+            "poll_avg": 39.24434
+          },
+          "now": {
+            "winprob": 0.675,
+            "forecast": 41.82936,
+            "hi": 45.28514,
+            "lo": 38.40322,
+            "poll_avg": 39.22081
+          },
+          "polls": {
+            "winprob": 1.635,
+            "forecast": 42.31793,
+            "hi": 46.11008,
+            "lo": 38.49252,
+            "poll_avg": 39.26446
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 99.35000000000001,
+            "forecast": 58.60246,
+            "hi": 62.06951,
+            "lo": 55.03198,
+            "poll_avg": 54.72991
+          },
+          "now": {
+            "winprob": 99.345,
+            "forecast": 58.60775,
+            "hi": 62.11424,
+            "lo": 55.07735,
+            "poll_avg": 54.69714
+          },
+          "polls": {
+            "winprob": 98.695,
+            "forecast": 58.11706,
+            "hi": 61.98733,
+            "lo": 54.18542,
+            "poll_avg": 54.74753
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 0.65,
+            "forecast": 41.39754,
+            "hi": 44.96802,
+            "lo": 37.93049,
+            "poll_avg": 38.52092
+          },
+          "now": {
+            "winprob": 0.655,
+            "forecast": 41.39225,
+            "hi": 44.92265,
+            "lo": 37.88576,
+            "poll_avg": 38.47035
+          },
+          "polls": {
+            "winprob": 1.3050000000000002,
+            "forecast": 41.88294,
+            "hi": 45.81458,
+            "lo": 38.01267,
+            "poll_avg": 38.51342
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 99.345,
+            "forecast": 58.4434,
+            "hi": 61.9173,
+            "lo": 54.97545,
+            "poll_avg": 54.89486
+          },
+          "now": {
+            "winprob": 99.445,
+            "forecast": 58.44326,
+            "hi": 61.89726,
+            "lo": 54.99676,
+            "poll_avg": 55.03855
+          },
+          "polls": {
+            "winprob": 98.66,
+            "forecast": 57.93495,
+            "hi": 61.83507,
+            "lo": 53.99446,
+            "poll_avg": 54.82804
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 0.655,
+            "forecast": 41.5566,
+            "hi": 45.02455,
+            "lo": 38.0827,
+            "poll_avg": 38.93718
+          },
+          "now": {
+            "winprob": 0.555,
+            "forecast": 41.55674,
+            "hi": 45.00324,
+            "lo": 38.10274,
+            "poll_avg": 39.03361
+          },
+          "polls": {
+            "winprob": 1.34,
+            "forecast": 42.06505,
+            "hi": 46.00554,
+            "lo": 38.16493,
+            "poll_avg": 38.95814
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 99.435,
+            "forecast": 58.75116,
+            "hi": 62.26649,
+            "lo": 55.26579,
+            "poll_avg": 55.30235
+          },
+          "now": {
+            "winprob": 99.42,
+            "forecast": 58.76992,
+            "hi": 62.19934,
+            "lo": 55.34995,
+            "poll_avg": 55.43055
+          },
+          "polls": {
+            "winprob": 98.86500000000001,
+            "forecast": 58.26929,
+            "hi": 62.12891,
+            "lo": 54.36183,
+            "poll_avg": 55.31436
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 0.565,
+            "forecast": 41.24884,
+            "hi": 44.73421,
+            "lo": 37.73351,
+            "poll_avg": 38.77892
+          },
+          "now": {
+            "winprob": 0.58,
+            "forecast": 41.23008,
+            "hi": 44.65005,
+            "lo": 37.80066,
+            "poll_avg": 38.82974
+          },
+          "polls": {
+            "winprob": 1.135,
+            "forecast": 41.73071,
+            "hi": 45.63817,
+            "lo": 37.87109,
+            "poll_avg": 38.77577
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 99.61,
+            "forecast": 60.60332,
+            "hi": 64.45053,
+            "lo": 56.79082,
+            "poll_avg": 57.02939
+          },
+          "now": {
+            "winprob": 99.625,
+            "forecast": 60.71376,
+            "hi": 64.41017,
+            "lo": 56.98112,
+            "poll_avg": 57.21563
+          },
+          "polls": {
+            "winprob": 99.25500000000001,
+            "forecast": 60.38299,
+            "hi": 64.7112,
+            "lo": 56.00396,
+            "poll_avg": 57.16077
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 0.38999999999999996,
+            "forecast": 39.39668,
+            "hi": 43.20918,
+            "lo": 35.54947,
+            "poll_avg": 36.38718
+          },
+          "now": {
+            "winprob": 0.375,
+            "forecast": 39.28624,
+            "hi": 43.01888,
+            "lo": 35.58983,
+            "poll_avg": 36.29291
+          },
+          "polls": {
+            "winprob": 0.745,
+            "forecast": 39.61701,
+            "hi": 43.99604,
+            "lo": 35.2888,
+            "poll_avg": 36.3948
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 99.63,
+            "forecast": 60.60386,
+            "hi": 64.42664,
+            "lo": 56.75639,
+            "poll_avg": 57.03315
+          },
+          "now": {
+            "winprob": 99.715,
+            "forecast": 60.74102,
+            "hi": 64.44821,
+            "lo": 56.98378,
+            "poll_avg": 57.17973
+          },
+          "polls": {
+            "winprob": 99.24,
+            "forecast": 60.37383,
+            "hi": 64.69135,
+            "lo": 56.05202,
+            "poll_avg": 57.06992
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 0.37,
+            "forecast": 39.39614,
+            "hi": 43.24361,
+            "lo": 35.57336,
+            "poll_avg": 36.37585
+          },
+          "now": {
+            "winprob": 0.28500000000000003,
+            "forecast": 39.25898,
+            "hi": 43.01622,
+            "lo": 35.55179,
+            "poll_avg": 36.18338
+          },
+          "polls": {
+            "winprob": 0.76,
+            "forecast": 39.62617,
+            "hi": 43.94798,
+            "lo": 35.30866,
+            "poll_avg": 36.32225
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.625,
+            "forecast": 60.59816,
+            "hi": 64.42304,
+            "lo": 56.75438,
+            "poll_avg": 57.31925
+          },
+          "now": {
+            "winprob": 99.695,
+            "forecast": 60.59251,
+            "hi": 64.24154,
+            "lo": 56.9137,
+            "poll_avg": 57.40659
+          },
+          "polls": {
+            "winprob": 99.185,
+            "forecast": 60.22145,
+            "hi": 64.50214,
+            "lo": 55.91167,
+            "poll_avg": 57.2463
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.375,
+            "forecast": 39.40184,
+            "hi": 43.24562,
+            "lo": 35.57696,
+            "poll_avg": 36.77412
+          },
+          "now": {
+            "winprob": 0.305,
+            "forecast": 39.40749,
+            "hi": 43.0863,
+            "lo": 35.75846,
+            "poll_avg": 36.7897
+          },
+          "polls": {
+            "winprob": 0.815,
+            "forecast": 39.77855,
+            "hi": 44.08833,
+            "lo": 35.49786,
+            "poll_avg": 36.80339
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 99.295,
+            "forecast": 59.65911,
+            "hi": 63.72411,
+            "lo": 55.62566,
+            "poll_avg": 55.91553
+          },
+          "now": {
+            "winprob": 99.41499999999999,
+            "forecast": 59.65231,
+            "hi": 63.49869,
+            "lo": 55.84186,
+            "poll_avg": 56.04566
+          },
+          "polls": {
+            "winprob": 98.66,
+            "forecast": 59.06043,
+            "hi": 63.42898,
+            "lo": 54.64843,
+            "poll_avg": 55.92052
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 0.705,
+            "forecast": 40.34089,
+            "hi": 44.37434,
+            "lo": 36.27589,
+            "poll_avg": 37.74266
+          },
+          "now": {
+            "winprob": 0.585,
+            "forecast": 40.34769,
+            "hi": 44.15814,
+            "lo": 36.50131,
+            "poll_avg": 37.82774
+          },
+          "polls": {
+            "winprob": 1.34,
+            "forecast": 40.93957,
+            "hi": 45.35157,
+            "lo": 36.57102,
+            "poll_avg": 37.79966
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 99.1,
+            "forecast": 60.26331,
+            "hi": 64.79009,
+            "lo": 55.73692,
+            "poll_avg": 54.88137
+          },
+          "now": {
+            "winprob": 99.26,
+            "forecast": 60.33058,
+            "hi": 64.67926,
+            "lo": 55.97582,
+            "poll_avg": 55.2673
+          },
+          "polls": {
+            "winprob": 98.32499999999999,
+            "forecast": 59.63212,
+            "hi": 64.59137,
+            "lo": 54.67236,
+            "poll_avg": 54.87571
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 0.8999999999999999,
+            "forecast": 39.73669,
+            "hi": 44.26308,
+            "lo": 35.20991,
+            "poll_avg": 35.60172
+          },
+          "now": {
+            "winprob": 0.74,
+            "forecast": 39.66942,
+            "hi": 44.02418,
+            "lo": 35.32073,
+            "poll_avg": 35.74407
+          },
+          "polls": {
+            "winprob": 1.675,
+            "forecast": 40.36788,
+            "hi": 45.32764,
+            "lo": 35.40863,
+            "poll_avg": 35.61147
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 99.105,
+            "forecast": 60.35665,
+            "hi": 64.93476,
+            "lo": 55.80818,
+            "poll_avg": 54.89877
+          },
+          "now": {
+            "winprob": 99.285,
+            "forecast": 60.49457,
+            "hi": 64.81712,
+            "lo": 56.1659,
+            "poll_avg": 55.40095
+          },
+          "polls": {
+            "winprob": 98.46000000000001,
+            "forecast": 59.83284,
+            "hi": 64.72861,
+            "lo": 54.8908,
+            "poll_avg": 55.06695
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 0.895,
+            "forecast": 39.64335,
+            "hi": 44.19182,
+            "lo": 35.06524,
+            "poll_avg": 35.42372
+          },
+          "now": {
+            "winprob": 0.715,
+            "forecast": 39.50543,
+            "hi": 43.8341,
+            "lo": 35.18288,
+            "poll_avg": 35.51298
+          },
+          "polls": {
+            "winprob": 1.54,
+            "forecast": 40.16716,
+            "hi": 45.1092,
+            "lo": 35.27139,
+            "poll_avg": 35.40127
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 99.15,
+            "forecast": 60.41644,
+            "hi": 64.98203,
+            "lo": 55.79085,
+            "poll_avg": 54.83575
+          },
+          "now": {
+            "winprob": 99.285,
+            "forecast": 60.48207,
+            "hi": 64.81091,
+            "lo": 56.10156,
+            "poll_avg": 55.10657
+          },
+          "polls": {
+            "winprob": 98.38,
+            "forecast": 59.80677,
+            "hi": 64.7897,
+            "lo": 54.85813,
+            "poll_avg": 54.82949
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 0.8500000000000001,
+            "forecast": 39.58356,
+            "hi": 44.20915,
+            "lo": 35.01797,
+            "poll_avg": 35.19352
+          },
+          "now": {
+            "winprob": 0.715,
+            "forecast": 39.51793,
+            "hi": 43.89844,
+            "lo": 35.18909,
+            "poll_avg": 35.20737
+          },
+          "polls": {
+            "winprob": 1.6199999999999999,
+            "forecast": 40.19323,
+            "hi": 45.14187,
+            "lo": 35.2103,
+            "poll_avg": 35.21593
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 98.835,
+            "forecast": 60.14053,
+            "hi": 64.72719,
+            "lo": 55.44285,
+            "poll_avg": 54.11951
+          },
+          "now": {
+            "winprob": 99.17,
+            "forecast": 60.23685,
+            "hi": 64.62198,
+            "lo": 55.83633,
+            "poll_avg": 54.50282
+          },
+          "polls": {
+            "winprob": 98.03500000000001,
+            "forecast": 59.49513,
+            "hi": 64.59045,
+            "lo": 54.38145,
+            "poll_avg": 54.15323
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 1.165,
+            "forecast": 39.85947,
+            "hi": 44.55715,
+            "lo": 35.27281,
+            "poll_avg": 35.06992
+          },
+          "now": {
+            "winprob": 0.83,
+            "forecast": 39.76315,
+            "hi": 44.16367,
+            "lo": 35.37801,
+            "poll_avg": 35.10503
+          },
+          "polls": {
+            "winprob": 1.965,
+            "forecast": 40.50487,
+            "hi": 45.61855,
+            "lo": 35.40954,
+            "poll_avg": 35.16298
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 98.875,
+            "forecast": 60.09195,
+            "hi": 64.72062,
+            "lo": 55.40628,
+            "poll_avg": 54.09362
+          },
+          "now": {
+            "winprob": 99.18,
+            "forecast": 60.15197,
+            "hi": 64.51318,
+            "lo": 55.72015,
+            "poll_avg": 54.41549
+          },
+          "polls": {
+            "winprob": 98.00999999999999,
+            "forecast": 59.48998,
+            "hi": 64.5882,
+            "lo": 54.36164,
+            "poll_avg": 54.115
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 1.125,
+            "forecast": 39.90805,
+            "hi": 44.59372,
+            "lo": 35.27938,
+            "poll_avg": 35.07564
+          },
+          "now": {
+            "winprob": 0.8200000000000001,
+            "forecast": 39.84803,
+            "hi": 44.27985,
+            "lo": 35.48682,
+            "poll_avg": 35.12686
+          },
+          "polls": {
+            "winprob": 1.9900000000000002,
+            "forecast": 40.51002,
+            "hi": 45.63836,
+            "lo": 35.4118,
+            "poll_avg": 35.13503
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 98.76,
+            "forecast": 60.1006,
+            "hi": 64.78131,
+            "lo": 55.33276,
+            "poll_avg": 53.71836
+          },
+          "now": {
+            "winprob": 98.96000000000001,
+            "forecast": 60.11255,
+            "hi": 64.61738,
+            "lo": 55.57156,
+            "poll_avg": 53.78275
+          },
+          "polls": {
+            "winprob": 97.855,
+            "forecast": 59.46531,
+            "hi": 64.59306,
+            "lo": 54.24357,
+            "poll_avg": 53.58798
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 1.24,
+            "forecast": 39.8994,
+            "hi": 44.66724,
+            "lo": 35.2187,
+            "poll_avg": 34.66182
+          },
+          "now": {
+            "winprob": 1.04,
+            "forecast": 39.88745,
+            "hi": 44.42844,
+            "lo": 35.38262,
+            "poll_avg": 34.56311
+          },
+          "polls": {
+            "winprob": 2.145,
+            "forecast": 40.53469,
+            "hi": 45.75643,
+            "lo": 35.40694,
+            "poll_avg": 34.65736
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 98.925,
+            "forecast": 60.29931,
+            "hi": 65.0634,
+            "lo": 55.60583,
+            "poll_avg": 54.03844
+          },
+          "now": {
+            "winprob": 99.2,
+            "forecast": 60.49538,
+            "hi": 64.91379,
+            "lo": 56.04034,
+            "poll_avg": 54.62331
+          },
+          "polls": {
+            "winprob": 98.07000000000001,
+            "forecast": 59.59165,
+            "hi": 64.66588,
+            "lo": 54.45477,
+            "poll_avg": 54.07185
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 1.075,
+            "forecast": 39.70069,
+            "hi": 44.39417,
+            "lo": 34.93661,
+            "poll_avg": 34.84145
+          },
+          "now": {
+            "winprob": 0.8,
+            "forecast": 39.50462,
+            "hi": 43.95966,
+            "lo": 35.0862,
+            "poll_avg": 34.78009
+          },
+          "polls": {
+            "winprob": 1.9300000000000002,
+            "forecast": 40.40835,
+            "hi": 45.54523,
+            "lo": 35.33412,
+            "poll_avg": 34.88855
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 96.00999999999999,
+            "forecast": 58.04222,
+            "hi": 63.5019,
+            "lo": 52.66629,
+            "poll_avg": 49.31285
+          },
+          "now": {
+            "winprob": 95.87,
+            "forecast": 57.5939,
+            "hi": 62.68363,
+            "lo": 52.41441,
+            "poll_avg": 49.17967
+          },
+          "polls": {
+            "winprob": 92.74,
+            "forecast": 56.43423,
+            "hi": 61.93652,
+            "lo": 50.91918,
+            "poll_avg": 49.29237
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 3.9899999999999998,
+            "forecast": 41.95778,
+            "hi": 47.33371,
+            "lo": 36.4981,
+            "poll_avg": 36.49997
+          },
+          "now": {
+            "winprob": 4.130000000000001,
+            "forecast": 42.4061,
+            "hi": 47.58559,
+            "lo": 37.31637,
+            "poll_avg": 37.13062
+          },
+          "polls": {
+            "winprob": 7.26,
+            "forecast": 43.56577,
+            "hi": 49.08082,
+            "lo": 38.06348,
+            "poll_avg": 36.42392
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 96.295,
+            "forecast": 58.04963,
+            "hi": 63.4519,
+            "lo": 52.64543,
+            "poll_avg": 49.35949
+          },
+          "now": {
+            "winprob": 95.985,
+            "forecast": 57.63898,
+            "hi": 62.77196,
+            "lo": 52.46072,
+            "poll_avg": 49.15032
+          },
+          "polls": {
+            "winprob": 92.61,
+            "forecast": 56.44285,
+            "hi": 62.00513,
+            "lo": 50.84702,
+            "poll_avg": 49.29944
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 3.705,
+            "forecast": 41.95037,
+            "hi": 47.35457,
+            "lo": 36.5481,
+            "poll_avg": 36.48925
+          },
+          "now": {
+            "winprob": 4.015,
+            "forecast": 42.36102,
+            "hi": 47.53928,
+            "lo": 37.22804,
+            "poll_avg": 37.00087
+          },
+          "polls": {
+            "winprob": 7.39,
+            "forecast": 43.55715,
+            "hi": 49.15298,
+            "lo": 37.99487,
+            "poll_avg": 36.41375
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 95.98,
+            "forecast": 58.06297,
+            "hi": 63.47231,
+            "lo": 52.64331,
+            "poll_avg": 49.36577
+          },
+          "now": {
+            "winprob": 95.72500000000001,
+            "forecast": 57.56059,
+            "hi": 62.69284,
+            "lo": 52.4312,
+            "poll_avg": 49.10933
+          },
+          "polls": {
+            "winprob": 92.67999999999999,
+            "forecast": 56.45926,
+            "hi": 62.00583,
+            "lo": 50.93096,
+            "poll_avg": 49.33017
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 4.02,
+            "forecast": 41.93703,
+            "hi": 47.35669,
+            "lo": 36.52769,
+            "poll_avg": 36.50479
+          },
+          "now": {
+            "winprob": 4.275,
+            "forecast": 42.43941,
+            "hi": 47.5688,
+            "lo": 37.30716,
+            "poll_avg": 37.1116
+          },
+          "polls": {
+            "winprob": 7.32,
+            "forecast": 43.54074,
+            "hi": 49.06904,
+            "lo": 37.99417,
+            "poll_avg": 36.41165
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 96.22,
+            "forecast": 58.40499,
+            "hi": 63.83575,
+            "lo": 52.9866,
+            "poll_avg": 49.57416
+          },
+          "now": {
+            "winprob": 96.47,
+            "forecast": 57.8825,
+            "hi": 63.00797,
+            "lo": 52.7062,
+            "poll_avg": 49.39558
+          },
+          "polls": {
+            "winprob": 93.395,
+            "forecast": 56.76604,
+            "hi": 62.30627,
+            "lo": 51.1814,
+            "poll_avg": 49.5288
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 3.7800000000000002,
+            "forecast": 41.59501,
+            "hi": 47.0134,
+            "lo": 36.16425,
+            "poll_avg": 36.08604
+          },
+          "now": {
+            "winprob": 3.53,
+            "forecast": 42.1175,
+            "hi": 47.2938,
+            "lo": 36.99203,
+            "poll_avg": 36.81166
+          },
+          "polls": {
+            "winprob": 6.6049999999999995,
+            "forecast": 43.23396,
+            "hi": 48.8186,
+            "lo": 37.69373,
+            "poll_avg": 35.99673
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 96.625,
+            "forecast": 58.56584,
+            "hi": 64.03288,
+            "lo": 53.09358,
+            "poll_avg": 49.60413
+          },
+          "now": {
+            "winprob": 96.685,
+            "forecast": 58.18169,
+            "hi": 63.33279,
+            "lo": 53.02699,
+            "poll_avg": 49.55226
+          },
+          "polls": {
+            "winprob": 93.45,
+            "forecast": 56.96152,
+            "hi": 62.5629,
+            "lo": 51.22492,
+            "poll_avg": 49.58463
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 3.375,
+            "forecast": 41.43416,
+            "hi": 46.90642,
+            "lo": 35.96712,
+            "poll_avg": 35.7776
+          },
+          "now": {
+            "winprob": 3.315,
+            "forecast": 41.81831,
+            "hi": 46.97301,
+            "lo": 36.66721,
+            "poll_avg": 36.37437
+          },
+          "polls": {
+            "winprob": 6.550000000000001,
+            "forecast": 43.03848,
+            "hi": 48.77508,
+            "lo": 37.4371,
+            "poll_avg": 35.66159
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 96.6,
+            "forecast": 58.61213,
+            "hi": 64.11256,
+            "lo": 53.09554,
+            "poll_avg": 49.51716
+          },
+          "now": {
+            "winprob": 96.815,
+            "forecast": 58.45803,
+            "hi": 63.67767,
+            "lo": 53.214,
+            "poll_avg": 49.50704
+          },
+          "polls": {
+            "winprob": 93.575,
+            "forecast": 57.0792,
+            "hi": 62.75288,
+            "lo": 51.33341,
+            "poll_avg": 49.47314
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 3.4000000000000004,
+            "forecast": 41.38787,
+            "hi": 46.90446,
+            "lo": 35.88744,
+            "poll_avg": 35.36751
+          },
+          "now": {
+            "winprob": 3.1850000000000005,
+            "forecast": 41.54197,
+            "hi": 46.786,
+            "lo": 36.32233,
+            "poll_avg": 35.54205
+          },
+          "polls": {
+            "winprob": 6.425,
+            "forecast": 42.9208,
+            "hi": 48.66659,
+            "lo": 37.24712,
+            "poll_avg": 35.31476
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 96.505,
+            "forecast": 58.69935,
+            "hi": 64.22536,
+            "lo": 53.19312,
+            "poll_avg": 49.53286
+          },
+          "now": {
+            "winprob": 97.0,
+            "forecast": 58.67078,
+            "hi": 63.90237,
+            "lo": 53.37224,
+            "poll_avg": 49.6673
+          },
+          "polls": {
+            "winprob": 93.73,
+            "forecast": 57.00785,
+            "hi": 62.657,
+            "lo": 51.38205,
+            "poll_avg": 49.5157
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 3.495,
+            "forecast": 41.30065,
+            "hi": 46.80688,
+            "lo": 35.77464,
+            "poll_avg": 35.52924
+          },
+          "now": {
+            "winprob": 3.0,
+            "forecast": 41.32922,
+            "hi": 46.62776,
+            "lo": 36.09763,
+            "poll_avg": 35.60167
+          },
+          "polls": {
+            "winprob": 6.2700000000000005,
+            "forecast": 42.99215,
+            "hi": 48.61795,
+            "lo": 37.343,
+            "poll_avg": 35.49999
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 96.125,
+            "forecast": 58.3589,
+            "hi": 63.92579,
+            "lo": 52.76753,
+            "poll_avg": 49.10724
+          },
+          "now": {
+            "winprob": 96.45,
+            "forecast": 58.2767,
+            "hi": 63.535,
+            "lo": 53.08125,
+            "poll_avg": 49.21093
+          },
+          "polls": {
+            "winprob": 92.67999999999999,
+            "forecast": 56.67418,
+            "hi": 62.28138,
+            "lo": 50.95285,
+            "poll_avg": 49.06825
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 3.875,
+            "forecast": 41.6411,
+            "hi": 47.23247,
+            "lo": 36.07421,
+            "poll_avg": 35.74146
+          },
+          "now": {
+            "winprob": 3.55,
+            "forecast": 41.7233,
+            "hi": 46.91875,
+            "lo": 36.465,
+            "poll_avg": 35.87949
+          },
+          "polls": {
+            "winprob": 7.32,
+            "forecast": 43.32582,
+            "hi": 49.04715,
+            "lo": 37.71862,
+            "poll_avg": 35.71989
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 95.775,
+            "forecast": 58.17679,
+            "hi": 63.75972,
+            "lo": 52.67142,
+            "poll_avg": 49.2734
+          },
+          "now": {
+            "winprob": 96.44,
+            "forecast": 58.05087,
+            "hi": 63.26733,
+            "lo": 52.88848,
+            "poll_avg": 49.39804
+          },
+          "polls": {
+            "winprob": 92.405,
+            "forecast": 56.47922,
+            "hi": 62.06107,
+            "lo": 50.84465,
+            "poll_avg": 49.21487
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 4.2250000000000005,
+            "forecast": 41.82321,
+            "hi": 47.32858,
+            "lo": 36.24028,
+            "poll_avg": 36.35847
+          },
+          "now": {
+            "winprob": 3.56,
+            "forecast": 41.94913,
+            "hi": 47.11152,
+            "lo": 36.73267,
+            "poll_avg": 36.61531
+          },
+          "polls": {
+            "winprob": 7.595000000000001,
+            "forecast": 43.52078,
+            "hi": 49.15535,
+            "lo": 37.93893,
+            "poll_avg": 36.25643
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 95.61500000000001,
+            "forecast": 58.02726,
+            "hi": 63.44206,
+            "lo": 52.55728,
+            "poll_avg": 49.1853
+          },
+          "now": {
+            "winprob": 96.17,
+            "forecast": 57.83209,
+            "hi": 62.927,
+            "lo": 52.61604,
+            "poll_avg": 49.32532
+          },
+          "polls": {
+            "winprob": 92.07,
+            "forecast": 56.34303,
+            "hi": 61.98653,
+            "lo": 50.70138,
+            "poll_avg": 49.14239
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 4.385,
+            "forecast": 41.97274,
+            "hi": 47.44272,
+            "lo": 36.55794,
+            "poll_avg": 36.52863
+          },
+          "now": {
+            "winprob": 3.83,
+            "forecast": 42.16791,
+            "hi": 47.38396,
+            "lo": 37.073,
+            "poll_avg": 36.94222
+          },
+          "polls": {
+            "winprob": 7.93,
+            "forecast": 43.65697,
+            "hi": 49.29862,
+            "lo": 38.01347,
+            "poll_avg": 36.45634
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 95.965,
+            "forecast": 58.18964,
+            "hi": 63.69141,
+            "lo": 52.60908,
+            "poll_avg": 49.23405
+          },
+          "now": {
+            "winprob": 96.43,
+            "forecast": 58.00513,
+            "hi": 63.12543,
+            "lo": 52.82478,
+            "poll_avg": 49.31339
+          },
+          "polls": {
+            "winprob": 92.495,
+            "forecast": 56.46754,
+            "hi": 62.05423,
+            "lo": 50.83903,
+            "poll_avg": 49.137
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 4.035,
+            "forecast": 41.81036,
+            "hi": 47.39092,
+            "lo": 36.30859,
+            "poll_avg": 36.28441
+          },
+          "now": {
+            "winprob": 3.5700000000000003,
+            "forecast": 41.99487,
+            "hi": 47.17522,
+            "lo": 36.87457,
+            "poll_avg": 36.59956
+          },
+          "polls": {
+            "winprob": 7.505000000000001,
+            "forecast": 43.53246,
+            "hi": 49.16097,
+            "lo": 37.94577,
+            "poll_avg": 36.20191
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 95.28999999999999,
+            "forecast": 57.78843,
+            "hi": 63.31803,
+            "lo": 52.14921,
+            "poll_avg": 48.59341
+          },
+          "now": {
+            "winprob": 95.635,
+            "forecast": 57.57147,
+            "hi": 62.7509,
+            "lo": 52.33772,
+            "poll_avg": 48.61911
+          },
+          "polls": {
+            "winprob": 91.345,
+            "forecast": 56.18674,
+            "hi": 61.86702,
+            "lo": 50.45517,
+            "poll_avg": 48.53965
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 4.71,
+            "forecast": 42.21157,
+            "hi": 47.85079,
+            "lo": 36.68197,
+            "poll_avg": 36.3609
+          },
+          "now": {
+            "winprob": 4.365,
+            "forecast": 42.42853,
+            "hi": 47.66228,
+            "lo": 37.2491,
+            "poll_avg": 36.63302
+          },
+          "polls": {
+            "winprob": 8.655,
+            "forecast": 43.81326,
+            "hi": 49.54483,
+            "lo": 38.13298,
+            "poll_avg": 36.16616
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 95.30499999999999,
+            "forecast": 57.76804,
+            "hi": 63.26182,
+            "lo": 52.29527,
+            "poll_avg": 48.78539
+          },
+          "now": {
+            "winprob": 96.00999999999999,
+            "forecast": 57.59079,
+            "hi": 62.66463,
+            "lo": 52.47941,
+            "poll_avg": 48.81152
+          },
+          "polls": {
+            "winprob": 91.855,
+            "forecast": 56.31096,
+            "hi": 61.99965,
+            "lo": 50.62196,
+            "poll_avg": 48.73804
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 4.695,
+            "forecast": 42.23196,
+            "hi": 47.70473,
+            "lo": 36.73818,
+            "poll_avg": 36.22455
+          },
+          "now": {
+            "winprob": 3.9899999999999998,
+            "forecast": 42.40921,
+            "hi": 47.52059,
+            "lo": 37.33537,
+            "poll_avg": 36.46766
+          },
+          "polls": {
+            "winprob": 8.145,
+            "forecast": 43.68904,
+            "hi": 49.37804,
+            "lo": 38.00035,
+            "poll_avg": 36.11612
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 95.125,
+            "forecast": 57.64069,
+            "hi": 63.17235,
+            "lo": 52.1832,
+            "poll_avg": 48.81633
+          },
+          "now": {
+            "winprob": 95.13000000000001,
+            "forecast": 57.08257,
+            "hi": 62.09709,
+            "lo": 52.01507,
+            "poll_avg": 48.63229
+          },
+          "polls": {
+            "winprob": 91.545,
+            "forecast": 56.2619,
+            "hi": 61.95913,
+            "lo": 50.45243,
+            "poll_avg": 48.77816
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 4.875,
+            "forecast": 42.35931,
+            "hi": 47.8168,
+            "lo": 36.82765,
+            "poll_avg": 36.4404
+          },
+          "now": {
+            "winprob": 4.87,
+            "forecast": 42.91743,
+            "hi": 47.98493,
+            "lo": 37.90291,
+            "poll_avg": 37.20766
+          },
+          "polls": {
+            "winprob": 8.455,
+            "forecast": 43.7381,
+            "hi": 49.54757,
+            "lo": 38.04087,
+            "poll_avg": 36.25435
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 95.185,
+            "forecast": 57.47448,
+            "hi": 62.92695,
+            "lo": 52.09885,
+            "poll_avg": 48.97359
+          },
+          "now": {
+            "winprob": 95.33500000000001,
+            "forecast": 56.90155,
+            "hi": 61.77778,
+            "lo": 51.93082,
+            "poll_avg": 48.91319
+          },
+          "polls": {
+            "winprob": 91.79,
+            "forecast": 56.16082,
+            "hi": 61.7599,
+            "lo": 50.61291,
+            "poll_avg": 48.96679
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 4.8149999999999995,
+            "forecast": 42.52552,
+            "hi": 47.90115,
+            "lo": 37.07305,
+            "poll_avg": 36.8072
+          },
+          "now": {
+            "winprob": 4.665,
+            "forecast": 43.09845,
+            "hi": 48.06918,
+            "lo": 38.22222,
+            "poll_avg": 37.70793
+          },
+          "polls": {
+            "winprob": 8.21,
+            "forecast": 43.83918,
+            "hi": 49.38709,
+            "lo": 38.2401,
+            "poll_avg": 36.64516
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 95.5,
+            "forecast": 57.77911,
+            "hi": 63.2793,
+            "lo": 52.30676,
+            "poll_avg": 49.05893
+          },
+          "now": {
+            "winprob": 95.865,
+            "forecast": 57.29956,
+            "hi": 62.28461,
+            "lo": 52.25799,
+            "poll_avg": 49.09199
+          },
+          "polls": {
+            "winprob": 92.015,
+            "forecast": 56.33736,
+            "hi": 61.90171,
+            "lo": 50.68244,
+            "poll_avg": 49.03931
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 4.5,
+            "forecast": 42.22089,
+            "hi": 47.69324,
+            "lo": 36.7207,
+            "poll_avg": 36.47186
+          },
+          "now": {
+            "winprob": 4.135,
+            "forecast": 42.70044,
+            "hi": 47.74201,
+            "lo": 37.71539,
+            "poll_avg": 37.22029
+          },
+          "polls": {
+            "winprob": 7.985,
+            "forecast": 43.66264,
+            "hi": 49.31756,
+            "lo": 38.09829,
+            "poll_avg": 36.3646
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 94.99499999999999,
+            "forecast": 57.53894,
+            "hi": 62.95687,
+            "lo": 51.97975,
+            "poll_avg": 48.87604
+          },
+          "now": {
+            "winprob": 95.095,
+            "forecast": 56.84002,
+            "hi": 61.82988,
+            "lo": 51.86423,
+            "poll_avg": 48.80038
+          },
+          "polls": {
+            "winprob": 91.32000000000001,
+            "forecast": 56.10453,
+            "hi": 61.72156,
+            "lo": 50.3665,
+            "poll_avg": 48.8289
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 5.005,
+            "forecast": 42.46106,
+            "hi": 48.02025,
+            "lo": 37.04313,
+            "poll_avg": 36.70768
+          },
+          "now": {
+            "winprob": 4.905,
+            "forecast": 43.15998,
+            "hi": 48.13577,
+            "lo": 38.17012,
+            "poll_avg": 37.83945
+          },
+          "polls": {
+            "winprob": 8.68,
+            "forecast": 43.89547,
+            "hi": 49.6335,
+            "lo": 38.27844,
+            "poll_avg": 36.61984
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 95.11,
+            "forecast": 57.52462,
+            "hi": 62.9747,
+            "lo": 52.06238,
+            "poll_avg": 48.85793
+          },
+          "now": {
+            "winprob": 94.94,
+            "forecast": 56.68343,
+            "hi": 61.61108,
+            "lo": 51.79512,
+            "poll_avg": 48.72445
+          },
+          "polls": {
+            "winprob": 91.42,
+            "forecast": 56.12036,
+            "hi": 61.73548,
+            "lo": 50.46269,
+            "poll_avg": 48.86838
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 4.89,
+            "forecast": 42.47538,
+            "hi": 47.93762,
+            "lo": 37.0253,
+            "poll_avg": 36.73902
+          },
+          "now": {
+            "winprob": 5.06,
+            "forecast": 43.31657,
+            "hi": 48.20488,
+            "lo": 38.38892,
+            "poll_avg": 38.06661
+          },
+          "polls": {
+            "winprob": 8.58,
+            "forecast": 43.87964,
+            "hi": 49.53731,
+            "lo": 38.26452,
+            "poll_avg": 36.62766
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 95.71499999999999,
+            "forecast": 57.99235,
+            "hi": 63.54506,
+            "lo": 52.45149,
+            "poll_avg": 49.25348
+          },
+          "now": {
+            "winprob": 96.48,
+            "forecast": 57.64905,
+            "hi": 62.64685,
+            "lo": 52.69536,
+            "poll_avg": 49.4639
+          },
+          "polls": {
+            "winprob": 92.19000000000001,
+            "forecast": 56.53254,
+            "hi": 62.29079,
+            "lo": 50.81056,
+            "poll_avg": 49.21482
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 4.285,
+            "forecast": 42.00765,
+            "hi": 47.54851,
+            "lo": 36.45494,
+            "poll_avg": 36.24948
+          },
+          "now": {
+            "winprob": 3.52,
+            "forecast": 42.35095,
+            "hi": 47.30464,
+            "lo": 37.35315,
+            "poll_avg": 36.93045
+          },
+          "polls": {
+            "winprob": 7.8100000000000005,
+            "forecast": 43.46746,
+            "hi": 49.18944,
+            "lo": 37.70921,
+            "poll_avg": 36.14976
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 95.83,
+            "forecast": 58.09864,
+            "hi": 63.58488,
+            "lo": 52.57878,
+            "poll_avg": 49.27962
+          },
+          "now": {
+            "winprob": 96.55,
+            "forecast": 57.80478,
+            "hi": 62.76818,
+            "lo": 52.73827,
+            "poll_avg": 49.49599
+          },
+          "polls": {
+            "winprob": 92.635,
+            "forecast": 56.6237,
+            "hi": 62.36631,
+            "lo": 50.89735,
+            "poll_avg": 49.19862
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 4.17,
+            "forecast": 41.90136,
+            "hi": 47.42122,
+            "lo": 36.41512,
+            "poll_avg": 36.06092
+          },
+          "now": {
+            "winprob": 3.45,
+            "forecast": 42.19522,
+            "hi": 47.26173,
+            "lo": 37.23182,
+            "poll_avg": 36.65077
+          },
+          "polls": {
+            "winprob": 7.364999999999999,
+            "forecast": 43.3763,
+            "hi": 49.10265,
+            "lo": 37.63369,
+            "poll_avg": 35.95121
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 95.44,
+            "forecast": 57.95192,
+            "hi": 63.4697,
+            "lo": 52.35468,
+            "poll_avg": 48.91554
+          },
+          "now": {
+            "winprob": 96.195,
+            "forecast": 57.64935,
+            "hi": 62.70786,
+            "lo": 52.57624,
+            "poll_avg": 49.16552
+          },
+          "polls": {
+            "winprob": 92.065,
+            "forecast": 56.47676,
+            "hi": 62.24383,
+            "lo": 50.68168,
+            "poll_avg": 48.86986
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 4.5600000000000005,
+            "forecast": 42.04808,
+            "hi": 47.64532,
+            "lo": 36.5303,
+            "poll_avg": 36.02438
+          },
+          "now": {
+            "winprob": 3.805,
+            "forecast": 42.35065,
+            "hi": 47.42376,
+            "lo": 37.29214,
+            "poll_avg": 36.62877
+          },
+          "polls": {
+            "winprob": 7.9350000000000005,
+            "forecast": 43.52324,
+            "hi": 49.31832,
+            "lo": 37.75617,
+            "poll_avg": 35.91632
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 94.94500000000001,
+            "forecast": 57.69651,
+            "hi": 63.18965,
+            "lo": 52.07333,
+            "poll_avg": 48.5663
+          },
+          "now": {
+            "winprob": 95.10499999999999,
+            "forecast": 57.15273,
+            "hi": 62.20874,
+            "lo": 52.04185,
+            "poll_avg": 48.4558
+          },
+          "polls": {
+            "winprob": 91.19500000000001,
+            "forecast": 56.25545,
+            "hi": 62.01918,
+            "lo": 50.4174,
+            "poll_avg": 48.5379
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 5.055,
+            "forecast": 42.30349,
+            "hi": 47.92667,
+            "lo": 36.81035,
+            "poll_avg": 36.16021
+          },
+          "now": {
+            "winprob": 4.8950000000000005,
+            "forecast": 42.84727,
+            "hi": 47.95815,
+            "lo": 37.79126,
+            "poll_avg": 36.85996
+          },
+          "polls": {
+            "winprob": 8.805,
+            "forecast": 43.74455,
+            "hi": 49.5826,
+            "lo": 37.98082,
+            "poll_avg": 36.02701
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 94.955,
+            "forecast": 57.67822,
+            "hi": 63.28752,
+            "lo": 52.03645,
+            "poll_avg": 48.57066
+          },
+          "now": {
+            "winprob": 95.405,
+            "forecast": 57.14955,
+            "hi": 62.25313,
+            "lo": 52.05822,
+            "poll_avg": 48.46063
+          },
+          "polls": {
+            "winprob": 91.08000000000001,
+            "forecast": 56.23309,
+            "hi": 61.99274,
+            "lo": 50.36351,
+            "poll_avg": 48.50842
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 5.045,
+            "forecast": 42.32178,
+            "hi": 47.96355,
+            "lo": 36.71248,
+            "poll_avg": 36.15225
+          },
+          "now": {
+            "winprob": 4.595,
+            "forecast": 42.85045,
+            "hi": 47.94178,
+            "lo": 37.74687,
+            "poll_avg": 36.8903
+          },
+          "polls": {
+            "winprob": 8.92,
+            "forecast": 43.76691,
+            "hi": 49.63649,
+            "lo": 38.00726,
+            "poll_avg": 36.04222
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 95.09,
+            "forecast": 57.68736,
+            "hi": 63.29929,
+            "lo": 52.04475,
+            "poll_avg": 48.57518
+          },
+          "now": {
+            "winprob": 95.435,
+            "forecast": 57.12428,
+            "hi": 62.1667,
+            "lo": 52.06323,
+            "poll_avg": 48.4817
+          },
+          "polls": {
+            "winprob": 91.08000000000001,
+            "forecast": 56.23309,
+            "hi": 61.99274,
+            "lo": 50.36351,
+            "poll_avg": 48.50842
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 4.91,
+            "forecast": 42.31264,
+            "hi": 47.95525,
+            "lo": 36.70071,
+            "poll_avg": 36.14034
+          },
+          "now": {
+            "winprob": 4.565,
+            "forecast": 42.87572,
+            "hi": 47.93677,
+            "lo": 37.8333,
+            "poll_avg": 36.9084
+          },
+          "polls": {
+            "winprob": 8.92,
+            "forecast": 43.76691,
+            "hi": 49.63649,
+            "lo": 38.00726,
+            "poll_avg": 36.04222
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 95.845,
+            "forecast": 58.20529,
+            "hi": 63.81189,
+            "lo": 52.61816,
+            "poll_avg": 49.00069
+          },
+          "now": {
+            "winprob": 96.295,
+            "forecast": 57.7736,
+            "hi": 62.83907,
+            "lo": 52.67802,
+            "poll_avg": 48.97503
+          },
+          "polls": {
+            "winprob": 92.405,
+            "forecast": 56.65298,
+            "hi": 62.42771,
+            "lo": 50.74234,
+            "poll_avg": 48.97405
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 4.154999999999999,
+            "forecast": 41.79471,
+            "hi": 47.38184,
+            "lo": 36.18811,
+            "poll_avg": 35.77745
+          },
+          "now": {
+            "winprob": 3.705,
+            "forecast": 42.2264,
+            "hi": 47.32198,
+            "lo": 37.16093,
+            "poll_avg": 36.37273
+          },
+          "polls": {
+            "winprob": 7.595000000000001,
+            "forecast": 43.34702,
+            "hi": 49.25766,
+            "lo": 37.57229,
+            "poll_avg": 35.66809
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 95.61500000000001,
+            "forecast": 58.01979,
+            "hi": 63.5833,
+            "lo": 52.3377,
+            "poll_avg": 49.05796
+          },
+          "now": {
+            "winprob": 96.10499999999999,
+            "forecast": 57.48035,
+            "hi": 62.51396,
+            "lo": 52.41417,
+            "poll_avg": 48.92376
+          },
+          "polls": {
+            "winprob": 92.35,
+            "forecast": 56.52832,
+            "hi": 62.31841,
+            "lo": 50.77067,
+            "poll_avg": 48.98018
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 4.385,
+            "forecast": 41.98021,
+            "hi": 47.6623,
+            "lo": 36.4167,
+            "poll_avg": 36.06409
+          },
+          "now": {
+            "winprob": 3.895,
+            "forecast": 42.51965,
+            "hi": 47.58583,
+            "lo": 37.48604,
+            "poll_avg": 36.78217
+          },
+          "polls": {
+            "winprob": 7.6499999999999995,
+            "forecast": 43.47168,
+            "hi": 49.22933,
+            "lo": 37.68159,
+            "poll_avg": 35.92354
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 96.59,
+            "forecast": 60.66209,
+            "hi": 67.33136,
+            "lo": 53.8672,
+            "poll_avg": 48.85128
+          },
+          "now": {
+            "winprob": 96.905,
+            "forecast": 60.7637,
+            "hi": 67.17972,
+            "lo": 54.1346,
+            "poll_avg": 48.15847
+          },
+          "polls": {
+            "winprob": 95.705,
+            "forecast": 60.60056,
+            "hi": 67.90506,
+            "lo": 53.25121,
+            "poll_avg": 48.68658
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 3.4099999999999997,
+            "forecast": 39.33791,
+            "hi": 46.1328,
+            "lo": 32.66863,
+            "poll_avg": 28.16941
+          },
+          "now": {
+            "winprob": 3.0949999999999998,
+            "forecast": 39.2363,
+            "hi": 45.8654,
+            "lo": 32.82028,
+            "poll_avg": 27.02149
+          },
+          "polls": {
+            "winprob": 4.295,
+            "forecast": 39.39944,
+            "hi": 46.74879,
+            "lo": 32.09494,
+            "poll_avg": 27.81114
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 96.665,
+            "forecast": 60.72876,
+            "hi": 67.38805,
+            "lo": 54.0539,
+            "poll_avg": 49.08831
+          },
+          "now": {
+            "winprob": 97.16,
+            "forecast": 60.88772,
+            "hi": 67.29824,
+            "lo": 54.42893,
+            "poll_avg": 48.54756
+          },
+          "polls": {
+            "winprob": 95.875,
+            "forecast": 60.67348,
+            "hi": 67.85968,
+            "lo": 53.27603,
+            "poll_avg": 48.96935
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 3.335,
+            "forecast": 39.27124,
+            "hi": 45.9461,
+            "lo": 32.61196,
+            "poll_avg": 28.18409
+          },
+          "now": {
+            "winprob": 2.8400000000000003,
+            "forecast": 39.11228,
+            "hi": 45.57107,
+            "lo": 32.70176,
+            "poll_avg": 27.07124
+          },
+          "polls": {
+            "winprob": 4.125,
+            "forecast": 39.32652,
+            "hi": 46.72397,
+            "lo": 32.14032,
+            "poll_avg": 27.88969
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 96.55,
+            "forecast": 60.47318,
+            "hi": 67.00372,
+            "lo": 53.82785,
+            "poll_avg": 48.89039
+          },
+          "now": {
+            "winprob": 96.71,
+            "forecast": 60.53423,
+            "hi": 66.96045,
+            "lo": 54.07829,
+            "poll_avg": 48.1209
+          },
+          "polls": {
+            "winprob": 95.345,
+            "forecast": 60.40608,
+            "hi": 67.6811,
+            "lo": 53.06263,
+            "poll_avg": 48.78083
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 3.45,
+            "forecast": 39.52682,
+            "hi": 46.17215,
+            "lo": 32.99627,
+            "poll_avg": 28.53149
+          },
+          "now": {
+            "winprob": 3.29,
+            "forecast": 39.46577,
+            "hi": 45.92171,
+            "lo": 33.03955,
+            "poll_avg": 27.4359
+          },
+          "polls": {
+            "winprob": 4.655,
+            "forecast": 39.59392,
+            "hi": 46.93737,
+            "lo": 32.3189,
+            "poll_avg": 28.26215
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 97.07000000000001,
+            "forecast": 60.82313,
+            "hi": 67.39677,
+            "lo": 54.17647,
+            "poll_avg": 49.40323
+          },
+          "now": {
+            "winprob": 97.43,
+            "forecast": 61.28256,
+            "hi": 67.61368,
+            "lo": 54.86881,
+            "poll_avg": 49.05571
+          },
+          "polls": {
+            "winprob": 95.815,
+            "forecast": 60.78023,
+            "hi": 68.02901,
+            "lo": 53.5068,
+            "poll_avg": 49.23723
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 2.93,
+            "forecast": 39.17687,
+            "hi": 45.82353,
+            "lo": 32.60322,
+            "poll_avg": 28.2853
+          },
+          "now": {
+            "winprob": 2.5700000000000003,
+            "forecast": 38.71744,
+            "hi": 45.13119,
+            "lo": 32.38633,
+            "poll_avg": 26.69528
+          },
+          "polls": {
+            "winprob": 4.185,
+            "forecast": 39.21977,
+            "hi": 46.4932,
+            "lo": 31.97099,
+            "poll_avg": 27.93206
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 96.865,
+            "forecast": 60.81515,
+            "hi": 67.3388,
+            "lo": 54.20411,
+            "poll_avg": 49.38375
+          },
+          "now": {
+            "winprob": 97.41,
+            "forecast": 61.26794,
+            "hi": 67.62215,
+            "lo": 54.83361,
+            "poll_avg": 48.96486
+          },
+          "polls": {
+            "winprob": 95.71,
+            "forecast": 60.7573,
+            "hi": 67.9716,
+            "lo": 53.50765,
+            "poll_avg": 49.23227
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 3.1350000000000002,
+            "forecast": 39.18485,
+            "hi": 45.79589,
+            "lo": 32.6612,
+            "poll_avg": 28.28061
+          },
+          "now": {
+            "winprob": 2.59,
+            "forecast": 38.73206,
+            "hi": 45.16639,
+            "lo": 32.37785,
+            "poll_avg": 26.64805
+          },
+          "polls": {
+            "winprob": 4.29,
+            "forecast": 39.2427,
+            "hi": 46.49235,
+            "lo": 32.0284,
+            "poll_avg": 27.94426
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 96.695,
+            "forecast": 60.74479,
+            "hi": 67.3335,
+            "lo": 53.98669,
+            "poll_avg": 49.32661
+          },
+          "now": {
+            "winprob": 97.32,
+            "forecast": 61.12251,
+            "hi": 67.44109,
+            "lo": 54.68596,
+            "poll_avg": 48.79315
+          },
+          "polls": {
+            "winprob": 95.82000000000001,
+            "forecast": 60.81335,
+            "hi": 68.13539,
+            "lo": 53.45357,
+            "poll_avg": 49.15759
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 3.305,
+            "forecast": 39.25521,
+            "hi": 46.01331,
+            "lo": 32.66651,
+            "poll_avg": 28.07482
+          },
+          "now": {
+            "winprob": 2.68,
+            "forecast": 38.87749,
+            "hi": 45.31404,
+            "lo": 32.55891,
+            "poll_avg": 26.55446
+          },
+          "polls": {
+            "winprob": 4.18,
+            "forecast": 39.18665,
+            "hi": 46.54643,
+            "lo": 31.8646,
+            "poll_avg": 27.66475
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 96.46000000000001,
+            "forecast": 60.37805,
+            "hi": 67.02879,
+            "lo": 53.71416,
+            "poll_avg": 49.13433
+          },
+          "now": {
+            "winprob": 96.96000000000001,
+            "forecast": 60.63674,
+            "hi": 66.95958,
+            "lo": 54.30761,
+            "poll_avg": 48.57737
+          },
+          "polls": {
+            "winprob": 95.23,
+            "forecast": 60.51901,
+            "hi": 67.69792,
+            "lo": 53.09897,
+            "poll_avg": 49.03648
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 3.54,
+            "forecast": 39.62195,
+            "hi": 46.28584,
+            "lo": 32.97121,
+            "poll_avg": 28.40841
+          },
+          "now": {
+            "winprob": 3.04,
+            "forecast": 39.36326,
+            "hi": 45.69239,
+            "lo": 33.04042,
+            "poll_avg": 27.05672
+          },
+          "polls": {
+            "winprob": 4.77,
+            "forecast": 39.48099,
+            "hi": 46.90103,
+            "lo": 32.30207,
+            "poll_avg": 28.02408
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 97.135,
+            "forecast": 59.62354,
+            "hi": 65.43109,
+            "lo": 53.80301,
+            "poll_avg": 53.74939
+          },
+          "now": {
+            "winprob": 97.765,
+            "forecast": 59.43181,
+            "hi": 64.6322,
+            "lo": 54.20362,
+            "poll_avg": 53.67085
+          },
+          "polls": {
+            "winprob": 96.675,
+            "forecast": 59.78463,
+            "hi": 65.94413,
+            "lo": 53.53049,
+            "poll_avg": 53.39267
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 2.8649999999999998,
+            "forecast": 40.37646,
+            "hi": 46.19699,
+            "lo": 34.5689,
+            "poll_avg": 36.27892
+          },
+          "now": {
+            "winprob": 2.235,
+            "forecast": 40.56819,
+            "hi": 45.79638,
+            "lo": 35.3678,
+            "poll_avg": 36.2591
+          },
+          "polls": {
+            "winprob": 3.325,
+            "forecast": 40.21537,
+            "hi": 46.46951,
+            "lo": 34.05587,
+            "poll_avg": 35.38073
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 97.235,
+            "forecast": 59.55555,
+            "hi": 65.29449,
+            "lo": 53.83649,
+            "poll_avg": 53.88439
+          },
+          "now": {
+            "winprob": 97.95,
+            "forecast": 59.56855,
+            "hi": 64.65259,
+            "lo": 54.45265,
+            "poll_avg": 54.6093
+          },
+          "polls": {
+            "winprob": 96.55,
+            "forecast": 59.73805,
+            "hi": 65.84698,
+            "lo": 53.61603,
+            "poll_avg": 53.5004
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 2.765,
+            "forecast": 40.44445,
+            "hi": 46.16351,
+            "lo": 34.70551,
+            "poll_avg": 36.70077
+          },
+          "now": {
+            "winprob": 2.0500000000000003,
+            "forecast": 40.43145,
+            "hi": 45.54735,
+            "lo": 35.34741,
+            "poll_avg": 37.09129
+          },
+          "polls": {
+            "winprob": 3.45,
+            "forecast": 40.26195,
+            "hi": 46.38397,
+            "lo": 34.15302,
+            "poll_avg": 35.73838
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 97.22,
+            "forecast": 59.54484,
+            "hi": 65.2428,
+            "lo": 53.74696,
+            "poll_avg": 53.87627
+          },
+          "now": {
+            "winprob": 97.995,
+            "forecast": 59.54722,
+            "hi": 64.60182,
+            "lo": 54.47437,
+            "poll_avg": 54.67934
+          },
+          "polls": {
+            "winprob": 96.55,
+            "forecast": 59.73805,
+            "hi": 65.84698,
+            "lo": 53.61603,
+            "poll_avg": 53.5004
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 2.78,
+            "forecast": 40.45516,
+            "hi": 46.25304,
+            "lo": 34.75721,
+            "poll_avg": 36.70523
+          },
+          "now": {
+            "winprob": 2.005,
+            "forecast": 40.45278,
+            "hi": 45.52563,
+            "lo": 35.39817,
+            "poll_avg": 37.19092
+          },
+          "polls": {
+            "winprob": 3.45,
+            "forecast": 40.26195,
+            "hi": 46.38397,
+            "lo": 34.15302,
+            "poll_avg": 35.73838
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 97.11999999999999,
+            "forecast": 59.55426,
+            "hi": 65.24344,
+            "lo": 53.82474,
+            "poll_avg": 53.87207
+          },
+          "now": {
+            "winprob": 97.98,
+            "forecast": 59.53552,
+            "hi": 64.6474,
+            "lo": 54.44882,
+            "poll_avg": 54.55302
+          },
+          "polls": {
+            "winprob": 96.41999999999999,
+            "forecast": 59.7229,
+            "hi": 65.87003,
+            "lo": 53.49911,
+            "poll_avg": 53.4871
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 2.88,
+            "forecast": 40.44574,
+            "hi": 46.17526,
+            "lo": 34.75657,
+            "poll_avg": 36.69412
+          },
+          "now": {
+            "winprob": 2.02,
+            "forecast": 40.46448,
+            "hi": 45.55118,
+            "lo": 35.3526,
+            "poll_avg": 37.04292
+          },
+          "polls": {
+            "winprob": 3.58,
+            "forecast": 40.2771,
+            "hi": 46.50089,
+            "lo": 34.12997,
+            "poll_avg": 35.73666
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 97.14500000000001,
+            "forecast": 59.54443,
+            "hi": 65.30188,
+            "lo": 53.80217,
+            "poll_avg": 53.8686
+          },
+          "now": {
+            "winprob": 98.09,
+            "forecast": 59.55134,
+            "hi": 64.63317,
+            "lo": 54.45965,
+            "poll_avg": 54.6184
+          },
+          "polls": {
+            "winprob": 96.41999999999999,
+            "forecast": 59.7229,
+            "hi": 65.87003,
+            "lo": 53.49911,
+            "poll_avg": 53.4871
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 2.855,
+            "forecast": 40.45557,
+            "hi": 46.19783,
+            "lo": 34.69812,
+            "poll_avg": 36.69189
+          },
+          "now": {
+            "winprob": 1.91,
+            "forecast": 40.44866,
+            "hi": 45.54035,
+            "lo": 35.36683,
+            "poll_avg": 37.09706
+          },
+          "polls": {
+            "winprob": 3.58,
+            "forecast": 40.2771,
+            "hi": 46.50089,
+            "lo": 34.12997,
+            "poll_avg": 35.73666
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 96.745,
+            "forecast": 59.1977,
+            "hi": 65.02042,
+            "lo": 53.3665,
+            "poll_avg": 52.89702
+          },
+          "now": {
+            "winprob": 97.235,
+            "forecast": 58.80428,
+            "hi": 63.96803,
+            "lo": 53.56213,
+            "poll_avg": 52.79766
+          },
+          "polls": {
+            "winprob": 96.235,
+            "forecast": 59.38837,
+            "hi": 65.60637,
+            "lo": 53.19426,
+            "poll_avg": 52.49439
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 3.2550000000000003,
+            "forecast": 40.8023,
+            "hi": 46.6335,
+            "lo": 34.97958,
+            "poll_avg": 36.48352
+          },
+          "now": {
+            "winprob": 2.765,
+            "forecast": 41.19572,
+            "hi": 46.43787,
+            "lo": 36.03197,
+            "poll_avg": 36.80882
+          },
+          "polls": {
+            "winprob": 3.765,
+            "forecast": 40.61163,
+            "hi": 46.80574,
+            "lo": 34.39363,
+            "poll_avg": 35.45341
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 96.67999999999999,
+            "forecast": 59.20124,
+            "hi": 65.0553,
+            "lo": 53.28413,
+            "poll_avg": 52.90105
+          },
+          "now": {
+            "winprob": 97.35000000000001,
+            "forecast": 58.75391,
+            "hi": 63.89865,
+            "lo": 53.55357,
+            "poll_avg": 52.76564
+          },
+          "polls": {
+            "winprob": 96.235,
+            "forecast": 59.38837,
+            "hi": 65.60637,
+            "lo": 53.19426,
+            "poll_avg": 52.49439
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 3.32,
+            "forecast": 40.79876,
+            "hi": 46.71587,
+            "lo": 34.94471,
+            "poll_avg": 36.48557
+          },
+          "now": {
+            "winprob": 2.65,
+            "forecast": 41.24609,
+            "hi": 46.44643,
+            "lo": 36.10135,
+            "poll_avg": 36.87714
+          },
+          "polls": {
+            "winprob": 3.765,
+            "forecast": 40.61163,
+            "hi": 46.80574,
+            "lo": 34.39363,
+            "poll_avg": 35.45341
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 96.935,
+            "forecast": 59.4482,
+            "hi": 65.2691,
+            "lo": 53.6712,
+            "poll_avg": 53.28511
+          },
+          "now": {
+            "winprob": 97.7,
+            "forecast": 59.28381,
+            "hi": 64.44576,
+            "lo": 54.07448,
+            "poll_avg": 53.56004
+          },
+          "polls": {
+            "winprob": 96.355,
+            "forecast": 59.62911,
+            "hi": 65.84653,
+            "lo": 53.34243,
+            "poll_avg": 52.88229
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 3.065,
+            "forecast": 40.5518,
+            "hi": 46.3288,
+            "lo": 34.7309,
+            "poll_avg": 36.31874
+          },
+          "now": {
+            "winprob": 2.3,
+            "forecast": 40.71619,
+            "hi": 45.92552,
+            "lo": 35.55424,
+            "poll_avg": 36.50954
+          },
+          "polls": {
+            "winprob": 3.6450000000000005,
+            "forecast": 40.37089,
+            "hi": 46.65757,
+            "lo": 34.15347,
+            "poll_avg": 35.31601
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 96.64,
+            "forecast": 59.26324,
+            "hi": 65.11826,
+            "lo": 53.33473,
+            "poll_avg": 52.85789
+          },
+          "now": {
+            "winprob": 97.41499999999999,
+            "forecast": 59.11436,
+            "hi": 64.28893,
+            "lo": 53.85592,
+            "poll_avg": 52.94072
+          },
+          "polls": {
+            "winprob": 96.23,
+            "forecast": 59.45948,
+            "hi": 65.77208,
+            "lo": 53.21037,
+            "poll_avg": 52.47417
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 3.36,
+            "forecast": 40.73676,
+            "hi": 46.66527,
+            "lo": 34.88174,
+            "poll_avg": 36.09506
+          },
+          "now": {
+            "winprob": 2.585,
+            "forecast": 40.88564,
+            "hi": 46.14408,
+            "lo": 35.71107,
+            "poll_avg": 36.06697
+          },
+          "polls": {
+            "winprob": 3.7699999999999996,
+            "forecast": 40.54052,
+            "hi": 46.78963,
+            "lo": 34.22792,
+            "poll_avg": 35.11214
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 96.765,
+            "forecast": 59.41185,
+            "hi": 65.2773,
+            "lo": 53.48403,
+            "poll_avg": 53.03472
+          },
+          "now": {
+            "winprob": 97.715,
+            "forecast": 59.31512,
+            "hi": 64.42157,
+            "lo": 54.15054,
+            "poll_avg": 53.19899
+          },
+          "polls": {
+            "winprob": 96.32,
+            "forecast": 59.6018,
+            "hi": 65.87365,
+            "lo": 53.29661,
+            "poll_avg": 52.62292
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 3.235,
+            "forecast": 40.58815,
+            "hi": 46.51597,
+            "lo": 34.7227,
+            "poll_avg": 36.00591
+          },
+          "now": {
+            "winprob": 2.2849999999999997,
+            "forecast": 40.68488,
+            "hi": 45.84946,
+            "lo": 35.57843,
+            "poll_avg": 35.94233
+          },
+          "polls": {
+            "winprob": 3.6799999999999997,
+            "forecast": 40.3982,
+            "hi": 46.70339,
+            "lo": 34.12635,
+            "poll_avg": 34.96058
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 96.61999999999999,
+            "forecast": 59.29099,
+            "hi": 65.15959,
+            "lo": 53.43169,
+            "poll_avg": 53.03879
+          },
+          "now": {
+            "winprob": 97.61,
+            "forecast": 59.14984,
+            "hi": 64.30777,
+            "lo": 53.98736,
+            "poll_avg": 53.25581
+          },
+          "polls": {
+            "winprob": 96.17,
+            "forecast": 59.48817,
+            "hi": 65.75651,
+            "lo": 53.12462,
+            "poll_avg": 52.63837
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 3.38,
+            "forecast": 40.70901,
+            "hi": 46.56831,
+            "lo": 34.84041,
+            "poll_avg": 36.16913
+          },
+          "now": {
+            "winprob": 2.39,
+            "forecast": 40.85016,
+            "hi": 46.01264,
+            "lo": 35.69223,
+            "poll_avg": 36.25692
+          },
+          "polls": {
+            "winprob": 3.83,
+            "forecast": 40.51183,
+            "hi": 46.87538,
+            "lo": 34.24349,
+            "poll_avg": 35.14496
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 96.43,
+            "forecast": 59.20682,
+            "hi": 65.07095,
+            "lo": 53.31901,
+            "poll_avg": 53.03212
+          },
+          "now": {
+            "winprob": 97.685,
+            "forecast": 59.10914,
+            "hi": 64.22021,
+            "lo": 54.02071,
+            "poll_avg": 53.3675
+          },
+          "polls": {
+            "winprob": 96.155,
+            "forecast": 59.41166,
+            "hi": 65.68059,
+            "lo": 53.09171,
+            "poll_avg": 52.63028
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 3.5700000000000003,
+            "forecast": 40.79318,
+            "hi": 46.68099,
+            "lo": 34.92905,
+            "poll_avg": 36.21597
+          },
+          "now": {
+            "winprob": 2.315,
+            "forecast": 40.89086,
+            "hi": 45.97929,
+            "lo": 35.77979,
+            "poll_avg": 36.35616
+          },
+          "polls": {
+            "winprob": 3.8449999999999998,
+            "forecast": 40.58834,
+            "hi": 46.90829,
+            "lo": 34.31941,
+            "poll_avg": 35.1985
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 97.0,
+            "forecast": 59.58986,
+            "hi": 65.44971,
+            "lo": 53.73201,
+            "poll_avg": 53.27344
+          },
+          "now": {
+            "winprob": 98.085,
+            "forecast": 59.69569,
+            "hi": 64.75421,
+            "lo": 54.6462,
+            "poll_avg": 54.05063
+          },
+          "polls": {
+            "winprob": 96.265,
+            "forecast": 59.76501,
+            "hi": 66.02679,
+            "lo": 53.40458,
+            "poll_avg": 52.87154
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 3.0,
+            "forecast": 40.41014,
+            "hi": 46.26799,
+            "lo": 34.55029,
+            "poll_avg": 36.10304
+          },
+          "now": {
+            "winprob": 1.915,
+            "forecast": 40.30431,
+            "hi": 45.3538,
+            "lo": 35.24579,
+            "poll_avg": 36.26172
+          },
+          "polls": {
+            "winprob": 3.7350000000000003,
+            "forecast": 40.23499,
+            "hi": 46.59542,
+            "lo": 33.97321,
+            "poll_avg": 35.09798
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 96.44500000000001,
+            "forecast": 59.37618,
+            "hi": 65.31092,
+            "lo": 53.41235,
+            "poll_avg": 52.32994
+          },
+          "now": {
+            "winprob": 97.285,
+            "forecast": 59.14712,
+            "hi": 64.45969,
+            "lo": 53.76759,
+            "poll_avg": 51.81199
+          },
+          "polls": {
+            "winprob": 96.205,
+            "forecast": 59.61308,
+            "hi": 66.05775,
+            "lo": 53.1138,
+            "poll_avg": 51.88364
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 3.5549999999999997,
+            "forecast": 40.62382,
+            "hi": 46.58765,
+            "lo": 34.68908,
+            "poll_avg": 35.70921
+          },
+          "now": {
+            "winprob": 2.715,
+            "forecast": 40.85288,
+            "hi": 46.23241,
+            "lo": 35.54031,
+            "poll_avg": 35.24865
+          },
+          "polls": {
+            "winprob": 3.795,
+            "forecast": 40.38692,
+            "hi": 46.8862,
+            "lo": 33.94225,
+            "poll_avg": 34.58516
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 96.615,
+            "forecast": 59.32583,
+            "hi": 65.30617,
+            "lo": 53.31876,
+            "poll_avg": 52.28763
+          },
+          "now": {
+            "winprob": 97.36,
+            "forecast": 59.01603,
+            "hi": 64.33575,
+            "lo": 53.64145,
+            "poll_avg": 51.80874
+          },
+          "polls": {
+            "winprob": 95.94,
+            "forecast": 59.57204,
+            "hi": 65.96236,
+            "lo": 53.09818,
+            "poll_avg": 51.81987
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 3.385,
+            "forecast": 40.67417,
+            "hi": 46.68124,
+            "lo": 34.69383,
+            "poll_avg": 35.7635
+          },
+          "now": {
+            "winprob": 2.64,
+            "forecast": 40.98397,
+            "hi": 46.35855,
+            "lo": 35.66425,
+            "poll_avg": 35.48731
+          },
+          "polls": {
+            "winprob": 4.06,
+            "forecast": 40.42796,
+            "hi": 46.90182,
+            "lo": 34.03765,
+            "poll_avg": 34.58998
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 96.255,
+            "forecast": 58.95341,
+            "hi": 64.95415,
+            "lo": 52.98402,
+            "poll_avg": 52.60966
+          },
+          "now": {
+            "winprob": 97.135,
+            "forecast": 58.51438,
+            "hi": 63.59835,
+            "lo": 53.3121,
+            "poll_avg": 52.29319
+          },
+          "polls": {
+            "winprob": 95.7,
+            "forecast": 59.23592,
+            "hi": 65.6041,
+            "lo": 52.84246,
+            "poll_avg": 52.10986
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 3.7449999999999997,
+            "forecast": 41.04659,
+            "hi": 47.01598,
+            "lo": 35.04585,
+            "poll_avg": 36.24221
+          },
+          "now": {
+            "winprob": 2.8649999999999998,
+            "forecast": 41.48562,
+            "hi": 46.6879,
+            "lo": 36.40165,
+            "poll_avg": 36.39551
+          },
+          "polls": {
+            "winprob": 4.3,
+            "forecast": 40.76408,
+            "hi": 47.15754,
+            "lo": 34.3959,
+            "poll_avg": 35.00919
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 96.34,
+            "forecast": 59.00511,
+            "hi": 64.85126,
+            "lo": 53.05315,
+            "poll_avg": 52.67312
+          },
+          "now": {
+            "winprob": 97.095,
+            "forecast": 58.59197,
+            "hi": 63.7674,
+            "lo": 53.43056,
+            "poll_avg": 52.43805
+          },
+          "polls": {
+            "winprob": 95.575,
+            "forecast": 59.28065,
+            "hi": 65.69955,
+            "lo": 52.78973,
+            "poll_avg": 52.17932
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 3.66,
+            "forecast": 40.99489,
+            "hi": 46.94685,
+            "lo": 35.14875,
+            "poll_avg": 36.24882
+          },
+          "now": {
+            "winprob": 2.905,
+            "forecast": 41.40803,
+            "hi": 46.56944,
+            "lo": 36.2326,
+            "poll_avg": 36.40672
+          },
+          "polls": {
+            "winprob": 4.425,
+            "forecast": 40.71935,
+            "hi": 47.21027,
+            "lo": 34.30045,
+            "poll_avg": 35.01337
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 96.465,
+            "forecast": 59.2109,
+            "hi": 65.12282,
+            "lo": 53.2547,
+            "poll_avg": 52.7435
+          },
+          "now": {
+            "winprob": 97.46000000000001,
+            "forecast": 58.84591,
+            "hi": 63.9889,
+            "lo": 53.6735,
+            "poll_avg": 52.59058
+          },
+          "polls": {
+            "winprob": 96.03,
+            "forecast": 59.48651,
+            "hi": 65.85069,
+            "lo": 52.96084,
+            "poll_avg": 52.24969
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 3.535,
+            "forecast": 40.7891,
+            "hi": 46.7453,
+            "lo": 34.87719,
+            "poll_avg": 36.1544
+          },
+          "now": {
+            "winprob": 2.54,
+            "forecast": 41.15409,
+            "hi": 46.3265,
+            "lo": 36.0111,
+            "poll_avg": 36.23434
+          },
+          "polls": {
+            "winprob": 3.9699999999999998,
+            "forecast": 40.51349,
+            "hi": 47.03916,
+            "lo": 34.14931,
+            "poll_avg": 34.92217
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 96.295,
+            "forecast": 59.08408,
+            "hi": 64.94537,
+            "lo": 53.08585,
+            "poll_avg": 52.74651
+          },
+          "now": {
+            "winprob": 97.21499999999999,
+            "forecast": 58.72316,
+            "hi": 63.85748,
+            "lo": 53.64299,
+            "poll_avg": 52.59931
+          },
+          "polls": {
+            "winprob": 95.735,
+            "forecast": 59.3721,
+            "hi": 65.72757,
+            "lo": 52.99167,
+            "poll_avg": 52.24765
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 3.705,
+            "forecast": 40.91592,
+            "hi": 46.91415,
+            "lo": 35.05463,
+            "poll_avg": 36.23833
+          },
+          "now": {
+            "winprob": 2.785,
+            "forecast": 41.27684,
+            "hi": 46.35701,
+            "lo": 36.14252,
+            "poll_avg": 36.34824
+          },
+          "polls": {
+            "winprob": 4.265,
+            "forecast": 40.6279,
+            "hi": 47.00833,
+            "lo": 34.27244,
+            "poll_avg": 35.00233
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 96.765,
+            "forecast": 59.42017,
+            "hi": 65.33926,
+            "lo": 53.51759,
+            "poll_avg": 52.90493
+          },
+          "now": {
+            "winprob": 97.77,
+            "forecast": 59.25047,
+            "hi": 64.32616,
+            "lo": 54.09528,
+            "poll_avg": 53.04517
+          },
+          "polls": {
+            "winprob": 96.115,
+            "forecast": 59.70776,
+            "hi": 66.1176,
+            "lo": 53.18174,
+            "poll_avg": 52.41608
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 3.235,
+            "forecast": 40.57983,
+            "hi": 46.48241,
+            "lo": 34.66074,
+            "poll_avg": 36.08431
+          },
+          "now": {
+            "winprob": 2.23,
+            "forecast": 40.74953,
+            "hi": 45.90472,
+            "lo": 35.67383,
+            "poll_avg": 36.02981
+          },
+          "polls": {
+            "winprob": 3.8850000000000002,
+            "forecast": 40.29224,
+            "hi": 46.81826,
+            "lo": 33.8824,
+            "poll_avg": 34.86963
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 96.73,
+            "forecast": 59.27745,
+            "hi": 65.22314,
+            "lo": 53.2975,
+            "poll_avg": 52.72532
+          },
+          "now": {
+            "winprob": 97.46000000000001,
+            "forecast": 58.92385,
+            "hi": 64.00392,
+            "lo": 53.77786,
+            "poll_avg": 52.6179
+          },
+          "polls": {
+            "winprob": 95.93,
+            "forecast": 59.57713,
+            "hi": 65.96595,
+            "lo": 53.17104,
+            "poll_avg": 52.24599
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 3.27,
+            "forecast": 40.72255,
+            "hi": 46.7025,
+            "lo": 34.77686,
+            "poll_avg": 36.08183
+          },
+          "now": {
+            "winprob": 2.54,
+            "forecast": 41.07615,
+            "hi": 46.22214,
+            "lo": 35.99607,
+            "poll_avg": 36.12743
+          },
+          "polls": {
+            "winprob": 4.07,
+            "forecast": 40.42287,
+            "hi": 46.82896,
+            "lo": 34.03405,
+            "poll_avg": 34.88298
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 96.505,
+            "forecast": 59.30395,
+            "hi": 65.24339,
+            "lo": 53.33152,
+            "poll_avg": 52.78385
+          },
+          "now": {
+            "winprob": 97.24000000000001,
+            "forecast": 58.57938,
+            "hi": 63.65272,
+            "lo": 53.4446,
+            "poll_avg": 52.40214
+          },
+          "polls": {
+            "winprob": 96.065,
+            "forecast": 59.6229,
+            "hi": 66.03314,
+            "lo": 53.20809,
+            "poll_avg": 52.25594
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 3.495,
+            "forecast": 40.69605,
+            "hi": 46.66848,
+            "lo": 34.75661,
+            "poll_avg": 36.10939
+          },
+          "now": {
+            "winprob": 2.76,
+            "forecast": 41.42062,
+            "hi": 46.5554,
+            "lo": 36.34728,
+            "poll_avg": 36.59024
+          },
+          "polls": {
+            "winprob": 3.9350000000000005,
+            "forecast": 40.3771,
+            "hi": 46.79191,
+            "lo": 33.96687,
+            "poll_avg": 34.81622
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 96.965,
+            "forecast": 59.51538,
+            "hi": 65.37764,
+            "lo": 53.55944,
+            "poll_avg": 53.01857
+          },
+          "now": {
+            "winprob": 97.625,
+            "forecast": 58.94775,
+            "hi": 63.97404,
+            "lo": 53.84839,
+            "poll_avg": 53.01064
+          },
+          "polls": {
+            "winprob": 96.175,
+            "forecast": 59.83276,
+            "hi": 66.23863,
+            "lo": 53.32233,
+            "poll_avg": 52.49904
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 3.0349999999999997,
+            "forecast": 40.48462,
+            "hi": 46.44056,
+            "lo": 34.62236,
+            "poll_avg": 36.08931
+          },
+          "now": {
+            "winprob": 2.375,
+            "forecast": 41.05225,
+            "hi": 46.15161,
+            "lo": 36.02596,
+            "poll_avg": 36.57388
+          },
+          "polls": {
+            "winprob": 3.8249999999999997,
+            "forecast": 40.16724,
+            "hi": 46.67767,
+            "lo": 33.76137,
+            "poll_avg": 34.81468
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 96.98,
+            "forecast": 59.64904,
+            "hi": 65.52299,
+            "lo": 53.68522,
+            "poll_avg": 52.80461
+          },
+          "now": {
+            "winprob": 97.7,
+            "forecast": 59.14577,
+            "hi": 64.18365,
+            "lo": 54.03087,
+            "poll_avg": 52.63104
+          },
+          "polls": {
+            "winprob": 96.38,
+            "forecast": 59.93178,
+            "hi": 66.42325,
+            "lo": 53.49416,
+            "poll_avg": 52.31539
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 3.02,
+            "forecast": 40.35096,
+            "hi": 46.31478,
+            "lo": 34.47701,
+            "poll_avg": 35.882
+          },
+          "now": {
+            "winprob": 2.3,
+            "forecast": 40.85423,
+            "hi": 45.96913,
+            "lo": 35.81634,
+            "poll_avg": 36.05116
+          },
+          "polls": {
+            "winprob": 3.62,
+            "forecast": 40.06822,
+            "hi": 46.50584,
+            "lo": 33.57675,
+            "poll_avg": 34.66263
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 96.895,
+            "forecast": 59.72062,
+            "hi": 65.7243,
+            "lo": 53.66328,
+            "poll_avg": 52.92881
+          },
+          "now": {
+            "winprob": 97.92999999999999,
+            "forecast": 59.20753,
+            "hi": 64.21989,
+            "lo": 54.1381,
+            "poll_avg": 52.84258
+          },
+          "polls": {
+            "winprob": 96.615,
+            "forecast": 60.01739,
+            "hi": 66.44041,
+            "lo": 53.49334,
+            "poll_avg": 52.40982
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 3.105,
+            "forecast": 40.27938,
+            "hi": 46.33672,
+            "lo": 34.2757,
+            "poll_avg": 35.88189
+          },
+          "now": {
+            "winprob": 2.07,
+            "forecast": 40.79247,
+            "hi": 45.8619,
+            "lo": 35.78011,
+            "poll_avg": 36.13355
+          },
+          "polls": {
+            "winprob": 3.385,
+            "forecast": 39.98261,
+            "hi": 46.50666,
+            "lo": 33.55959,
+            "poll_avg": 34.59375
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 96.91,
+            "forecast": 59.80462,
+            "hi": 65.89786,
+            "lo": 53.71755,
+            "poll_avg": 52.66787
+          },
+          "now": {
+            "winprob": 97.695,
+            "forecast": 59.20306,
+            "hi": 64.36899,
+            "lo": 54.01781,
+            "poll_avg": 52.23006
+          },
+          "polls": {
+            "winprob": 96.46000000000001,
+            "forecast": 60.12111,
+            "hi": 66.66611,
+            "lo": 53.62093,
+            "poll_avg": 52.11791
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 3.09,
+            "forecast": 40.19538,
+            "hi": 46.28245,
+            "lo": 34.10215,
+            "poll_avg": 35.67983
+          },
+          "now": {
+            "winprob": 2.305,
+            "forecast": 40.79694,
+            "hi": 45.98219,
+            "lo": 35.63102,
+            "poll_avg": 35.78001
+          },
+          "polls": {
+            "winprob": 3.54,
+            "forecast": 39.87889,
+            "hi": 46.37907,
+            "lo": 33.33389,
+            "poll_avg": 34.31082
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 97.385,
+            "forecast": 60.31642,
+            "hi": 66.38721,
+            "lo": 54.20638,
+            "poll_avg": 52.98279
+          },
+          "now": {
+            "winprob": 98.26,
+            "forecast": 60.06837,
+            "hi": 65.24234,
+            "lo": 54.83472,
+            "poll_avg": 52.80872
+          },
+          "polls": {
+            "winprob": 97.21499999999999,
+            "forecast": 60.63097,
+            "hi": 67.05168,
+            "lo": 54.03159,
+            "poll_avg": 52.40806
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 2.6149999999999998,
+            "forecast": 39.68358,
+            "hi": 45.79362,
+            "lo": 33.61279,
+            "poll_avg": 35.38682
+          },
+          "now": {
+            "winprob": 1.7399999999999998,
+            "forecast": 39.93163,
+            "hi": 45.16528,
+            "lo": 34.75767,
+            "poll_avg": 34.96114
+          },
+          "polls": {
+            "winprob": 2.785,
+            "forecast": 39.36903,
+            "hi": 45.96841,
+            "lo": 32.94832,
+            "poll_avg": 33.96973
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 97.285,
+            "forecast": 60.16204,
+            "hi": 66.20393,
+            "lo": 54.11312,
+            "poll_avg": 52.89996
+          },
+          "now": {
+            "winprob": 98.005,
+            "forecast": 59.64576,
+            "hi": 64.75344,
+            "lo": 54.53905,
+            "poll_avg": 52.63679
+          },
+          "polls": {
+            "winprob": 96.705,
+            "forecast": 60.47975,
+            "hi": 66.97166,
+            "lo": 53.92961,
+            "poll_avg": 52.33067
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 2.715,
+            "forecast": 39.83796,
+            "hi": 45.88688,
+            "lo": 33.79606,
+            "poll_avg": 35.6669
+          },
+          "now": {
+            "winprob": 1.9949999999999999,
+            "forecast": 40.35424,
+            "hi": 45.46095,
+            "lo": 35.24656,
+            "poll_avg": 35.71265
+          },
+          "polls": {
+            "winprob": 3.295,
+            "forecast": 39.52025,
+            "hi": 46.07039,
+            "lo": 33.02834,
+            "poll_avg": 34.26247
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 97.285,
+            "forecast": 60.26465,
+            "hi": 66.28869,
+            "lo": 54.20618,
+            "poll_avg": 53.02919
+          },
+          "now": {
+            "winprob": 98.235,
+            "forecast": 59.75087,
+            "hi": 64.82294,
+            "lo": 54.5808,
+            "poll_avg": 52.82659
+          },
+          "polls": {
+            "winprob": 96.78,
+            "forecast": 60.57131,
+            "hi": 67.09435,
+            "lo": 53.92649,
+            "poll_avg": 52.45257
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 2.715,
+            "forecast": 39.73535,
+            "hi": 45.79382,
+            "lo": 33.71132,
+            "poll_avg": 35.66211
+          },
+          "now": {
+            "winprob": 1.765,
+            "forecast": 40.24913,
+            "hi": 45.4192,
+            "lo": 35.17707,
+            "poll_avg": 35.75648
+          },
+          "polls": {
+            "winprob": 3.2199999999999998,
+            "forecast": 39.42869,
+            "hi": 46.07351,
+            "lo": 32.90565,
+            "poll_avg": 34.26345
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 97.28,
+            "forecast": 60.1896,
+            "hi": 66.15746,
+            "lo": 54.10831,
+            "poll_avg": 52.85207
+          },
+          "now": {
+            "winprob": 97.965,
+            "forecast": 59.57039,
+            "hi": 64.65627,
+            "lo": 54.41734,
+            "poll_avg": 52.31638
+          },
+          "polls": {
+            "winprob": 96.94,
+            "forecast": 60.47816,
+            "hi": 66.9218,
+            "lo": 53.90224,
+            "poll_avg": 52.32042
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 2.7199999999999998,
+            "forecast": 39.8104,
+            "hi": 45.89169,
+            "lo": 33.84254,
+            "poll_avg": 35.56171
+          },
+          "now": {
+            "winprob": 2.035,
+            "forecast": 40.42961,
+            "hi": 45.58266,
+            "lo": 35.34373,
+            "poll_avg": 35.52162
+          },
+          "polls": {
+            "winprob": 3.06,
+            "forecast": 39.52184,
+            "hi": 46.09776,
+            "lo": 33.0782,
+            "poll_avg": 34.24124
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 97.15,
+            "forecast": 60.18906,
+            "hi": 66.21567,
+            "lo": 54.03488,
+            "poll_avg": 52.88199
+          },
+          "now": {
+            "winprob": 98.165,
+            "forecast": 59.56731,
+            "hi": 64.68819,
+            "lo": 54.43525,
+            "poll_avg": 52.38284
+          },
+          "polls": {
+            "winprob": 96.81,
+            "forecast": 60.46889,
+            "hi": 66.90311,
+            "lo": 53.96055,
+            "poll_avg": 52.35247
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 2.85,
+            "forecast": 39.81094,
+            "hi": 45.96512,
+            "lo": 33.78433,
+            "poll_avg": 35.56998
+          },
+          "now": {
+            "winprob": 1.8350000000000002,
+            "forecast": 40.43269,
+            "hi": 45.56475,
+            "lo": 35.31181,
+            "poll_avg": 35.54898
+          },
+          "polls": {
+            "winprob": 3.19,
+            "forecast": 39.53111,
+            "hi": 46.03945,
+            "lo": 33.09689,
+            "poll_avg": 34.25009
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 97.03500000000001,
+            "forecast": 60.04584,
+            "hi": 66.12538,
+            "lo": 53.93166,
+            "poll_avg": 52.88907
+          },
+          "now": {
+            "winprob": 97.69,
+            "forecast": 59.31013,
+            "hi": 64.35829,
+            "lo": 54.27818,
+            "poll_avg": 52.33183
+          },
+          "polls": {
+            "winprob": 96.56,
+            "forecast": 60.33237,
+            "hi": 66.83988,
+            "lo": 53.76244,
+            "poll_avg": 52.3615
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 2.965,
+            "forecast": 39.95416,
+            "hi": 46.06834,
+            "lo": 33.87462,
+            "poll_avg": 35.65331
+          },
+          "now": {
+            "winprob": 2.31,
+            "forecast": 40.68987,
+            "hi": 45.72182,
+            "lo": 35.64171,
+            "poll_avg": 35.78525
+          },
+          "polls": {
+            "winprob": 3.44,
+            "forecast": 39.66763,
+            "hi": 46.23756,
+            "lo": 33.16012,
+            "poll_avg": 34.33979
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 97.00999999999999,
+            "forecast": 59.91521,
+            "hi": 65.94917,
+            "lo": 53.86197,
+            "poll_avg": 52.96792
+          },
+          "now": {
+            "winprob": 97.76,
+            "forecast": 58.95123,
+            "hi": 63.89141,
+            "lo": 53.92892,
+            "poll_avg": 52.34119
+          },
+          "polls": {
+            "winprob": 96.61,
+            "forecast": 60.21763,
+            "hi": 66.68091,
+            "lo": 53.63144,
+            "poll_avg": 52.41803
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 2.9899999999999998,
+            "forecast": 40.08479,
+            "hi": 46.13803,
+            "lo": 34.05083,
+            "poll_avg": 35.79787
+          },
+          "now": {
+            "winprob": 2.2399999999999998,
+            "forecast": 41.04877,
+            "hi": 46.07108,
+            "lo": 36.10859,
+            "poll_avg": 36.24232
+          },
+          "polls": {
+            "winprob": 3.39,
+            "forecast": 39.78237,
+            "hi": 46.36856,
+            "lo": 33.31909,
+            "poll_avg": 34.45953
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 97.155,
+            "forecast": 59.99459,
+            "hi": 66.00459,
+            "lo": 53.94385,
+            "poll_avg": 52.99517
+          },
+          "now": {
+            "winprob": 98.02499999999999,
+            "forecast": 59.35685,
+            "hi": 64.36239,
+            "lo": 54.40257,
+            "poll_avg": 52.75572
+          },
+          "polls": {
+            "winprob": 96.555,
+            "forecast": 60.29759,
+            "hi": 66.77387,
+            "lo": 53.6763,
+            "poll_avg": 52.45789
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 2.8449999999999998,
+            "forecast": 40.00541,
+            "hi": 46.05615,
+            "lo": 33.99541,
+            "poll_avg": 35.67494
+          },
+          "now": {
+            "winprob": 1.975,
+            "forecast": 40.64315,
+            "hi": 45.59743,
+            "lo": 35.63761,
+            "poll_avg": 35.78927
+          },
+          "polls": {
+            "winprob": 3.4450000000000003,
+            "forecast": 39.70241,
+            "hi": 46.3237,
+            "lo": 33.22613,
+            "poll_avg": 34.34872
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 97.09,
+            "forecast": 59.95811,
+            "hi": 66.00779,
+            "lo": 53.85162,
+            "poll_avg": 53.01149
+          },
+          "now": {
+            "winprob": 97.99,
+            "forecast": 59.3383,
+            "hi": 64.30748,
+            "lo": 54.37592,
+            "poll_avg": 52.84874
+          },
+          "polls": {
+            "winprob": 96.655,
+            "forecast": 60.26197,
+            "hi": 66.67131,
+            "lo": 53.72523,
+            "poll_avg": 52.4795
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 2.91,
+            "forecast": 40.04189,
+            "hi": 46.14838,
+            "lo": 33.99221,
+            "poll_avg": 35.69396
+          },
+          "now": {
+            "winprob": 2.01,
+            "forecast": 40.6617,
+            "hi": 45.62408,
+            "lo": 35.69252,
+            "poll_avg": 35.84855
+          },
+          "polls": {
+            "winprob": 3.345,
+            "forecast": 39.73803,
+            "hi": 46.27477,
+            "lo": 33.32869,
+            "poll_avg": 34.37285
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 96.89999999999999,
+            "forecast": 59.94748,
+            "hi": 65.99057,
+            "lo": 53.92409,
+            "poll_avg": 53.04187
+          },
+          "now": {
+            "winprob": 98.185,
+            "forecast": 59.35557,
+            "hi": 64.23915,
+            "lo": 54.41232,
+            "poll_avg": 52.97781
+          },
+          "polls": {
+            "winprob": 96.52,
+            "forecast": 60.24493,
+            "hi": 66.72354,
+            "lo": 53.71422,
+            "poll_avg": 52.51135
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 3.1,
+            "forecast": 40.05252,
+            "hi": 46.07591,
+            "lo": 34.00943,
+            "poll_avg": 35.70771
+          },
+          "now": {
+            "winprob": 1.815,
+            "forecast": 40.64443,
+            "hi": 45.58768,
+            "lo": 35.76085,
+            "poll_avg": 35.85656
+          },
+          "polls": {
+            "winprob": 3.4799999999999995,
+            "forecast": 39.75507,
+            "hi": 46.28578,
+            "lo": 33.27646,
+            "poll_avg": 34.38609
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 97.04,
+            "forecast": 59.97581,
+            "hi": 66.04462,
+            "lo": 53.89087,
+            "poll_avg": 52.98778
+          },
+          "now": {
+            "winprob": 98.125,
+            "forecast": 59.3606,
+            "hi": 64.3251,
+            "lo": 54.44237,
+            "poll_avg": 52.87095
+          },
+          "polls": {
+            "winprob": 96.525,
+            "forecast": 60.24136,
+            "hi": 66.72051,
+            "lo": 53.65017,
+            "poll_avg": 52.48828
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 2.96,
+            "forecast": 40.02419,
+            "hi": 46.10913,
+            "lo": 33.95538,
+            "poll_avg": 35.66673
+          },
+          "now": {
+            "winprob": 1.875,
+            "forecast": 40.6394,
+            "hi": 45.55763,
+            "lo": 35.6749,
+            "poll_avg": 35.73471
+          },
+          "polls": {
+            "winprob": 3.4750000000000005,
+            "forecast": 39.75864,
+            "hi": 46.34983,
+            "lo": 33.27949,
+            "poll_avg": 34.40622
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 96.865,
+            "forecast": 60.05534,
+            "hi": 66.11433,
+            "lo": 53.99059,
+            "poll_avg": 53.04096
+          },
+          "now": {
+            "winprob": 98.18,
+            "forecast": 59.49115,
+            "hi": 64.47588,
+            "lo": 54.50076,
+            "poll_avg": 53.04043
+          },
+          "polls": {
+            "winprob": 96.52,
+            "forecast": 60.3182,
+            "hi": 66.85963,
+            "lo": 53.67564,
+            "poll_avg": 52.53909
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 3.1350000000000002,
+            "forecast": 39.94466,
+            "hi": 46.00941,
+            "lo": 33.88567,
+            "poll_avg": 35.64349
+          },
+          "now": {
+            "winprob": 1.82,
+            "forecast": 40.50885,
+            "hi": 45.49924,
+            "lo": 35.52412,
+            "poll_avg": 35.68763
+          },
+          "polls": {
+            "winprob": 3.4799999999999995,
+            "forecast": 39.6818,
+            "hi": 46.32436,
+            "lo": 33.14037,
+            "poll_avg": 34.38926
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 97.165,
+            "forecast": 60.23256,
+            "hi": 66.28464,
+            "lo": 54.08997,
+            "poll_avg": 53.08919
+          },
+          "now": {
+            "winprob": 98.25500000000001,
+            "forecast": 59.65871,
+            "hi": 64.55194,
+            "lo": 54.7355,
+            "poll_avg": 53.18285
+          },
+          "polls": {
+            "winprob": 96.745,
+            "forecast": 60.478,
+            "hi": 66.91974,
+            "lo": 53.92491,
+            "poll_avg": 52.59241
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 2.835,
+            "forecast": 39.76744,
+            "hi": 45.91003,
+            "lo": 33.71536,
+            "poll_avg": 35.63271
+          },
+          "now": {
+            "winprob": 1.745,
+            "forecast": 40.34129,
+            "hi": 45.2645,
+            "lo": 35.44806,
+            "poll_avg": 35.70446
+          },
+          "polls": {
+            "winprob": 3.2550000000000003,
+            "forecast": 39.522,
+            "hi": 46.07509,
+            "lo": 33.08026,
+            "poll_avg": 34.39649
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 96.31,
+            "forecast": 60.28875,
+            "hi": 66.91963,
+            "lo": 53.72964,
+            "poll_avg": 51.06808
+          },
+          "now": {
+            "winprob": 96.345,
+            "forecast": 59.45137,
+            "hi": 65.5739,
+            "lo": 53.33566,
+            "poll_avg": 49.77585
+          },
+          "polls": {
+            "winprob": 96.015,
+            "forecast": 60.59473,
+            "hi": 67.57088,
+            "lo": 53.59119,
+            "poll_avg": 50.61719
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 3.6900000000000004,
+            "forecast": 39.71125,
+            "hi": 46.27036,
+            "lo": 33.08037,
+            "poll_avg": 34.40624
+          },
+          "now": {
+            "winprob": 3.655,
+            "forecast": 40.54863,
+            "hi": 46.66434,
+            "lo": 34.42611,
+            "poll_avg": 34.50207
+          },
+          "polls": {
+            "winprob": 3.9849999999999994,
+            "forecast": 39.40527,
+            "hi": 46.40881,
+            "lo": 32.42912,
+            "poll_avg": 33.27179
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 96.565,
+            "forecast": 60.42875,
+            "hi": 66.97861,
+            "lo": 53.78081,
+            "poll_avg": 51.21459
+          },
+          "now": {
+            "winprob": 96.60499999999999,
+            "forecast": 59.69408,
+            "hi": 65.80324,
+            "lo": 53.55936,
+            "poll_avg": 49.99777
+          },
+          "polls": {
+            "winprob": 96.15,
+            "forecast": 60.7302,
+            "hi": 67.74361,
+            "lo": 53.66643,
+            "poll_avg": 50.75763
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 3.435,
+            "forecast": 39.57125,
+            "hi": 46.21919,
+            "lo": 33.0214,
+            "poll_avg": 34.35809
+          },
+          "now": {
+            "winprob": 3.395,
+            "forecast": 40.30592,
+            "hi": 46.44064,
+            "lo": 34.19677,
+            "poll_avg": 34.37263
+          },
+          "polls": {
+            "winprob": 3.85,
+            "forecast": 39.2698,
+            "hi": 46.33357,
+            "lo": 32.25639,
+            "poll_avg": 33.22895
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 96.45,
+            "forecast": 60.35242,
+            "hi": 66.95278,
+            "lo": 53.72118,
+            "poll_avg": 51.26015
+          },
+          "now": {
+            "winprob": 96.245,
+            "forecast": 59.40058,
+            "hi": 65.33908,
+            "lo": 53.28629,
+            "poll_avg": 49.85439
+          },
+          "polls": {
+            "winprob": 95.905,
+            "forecast": 60.63522,
+            "hi": 67.67717,
+            "lo": 53.53341,
+            "poll_avg": 50.81065
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 3.55,
+            "forecast": 39.64758,
+            "hi": 46.27882,
+            "lo": 33.04722,
+            "poll_avg": 34.40541
+          },
+          "now": {
+            "winprob": 3.755,
+            "forecast": 40.59942,
+            "hi": 46.71371,
+            "lo": 34.66093,
+            "poll_avg": 34.57036
+          },
+          "polls": {
+            "winprob": 4.095,
+            "forecast": 39.36478,
+            "hi": 46.46659,
+            "lo": 32.32283,
+            "poll_avg": 33.28587
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 96.565,
+            "forecast": 60.47747,
+            "hi": 67.0439,
+            "lo": 53.81517,
+            "poll_avg": 51.3385
+          },
+          "now": {
+            "winprob": 96.64500000000001,
+            "forecast": 59.63985,
+            "hi": 65.70709,
+            "lo": 53.47504,
+            "poll_avg": 50.07252
+          },
+          "polls": {
+            "winprob": 96.32,
+            "forecast": 60.77243,
+            "hi": 67.759,
+            "lo": 53.68109,
+            "poll_avg": 50.90551
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 3.435,
+            "forecast": 39.52253,
+            "hi": 46.18483,
+            "lo": 32.9561,
+            "poll_avg": 34.4071
+          },
+          "now": {
+            "winprob": 3.3550000000000004,
+            "forecast": 40.36015,
+            "hi": 46.52496,
+            "lo": 34.29291,
+            "poll_avg": 34.58036
+          },
+          "polls": {
+            "winprob": 3.6799999999999997,
+            "forecast": 39.22757,
+            "hi": 46.31891,
+            "lo": 32.241,
+            "poll_avg": 33.30633
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 96.78,
+            "forecast": 60.56554,
+            "hi": 67.01508,
+            "lo": 54.03767,
+            "poll_avg": 51.55919
+          },
+          "now": {
+            "winprob": 97.16,
+            "forecast": 60.19547,
+            "hi": 66.17688,
+            "lo": 54.1796,
+            "poll_avg": 51.03048
+          },
+          "polls": {
+            "winprob": 96.255,
+            "forecast": 60.85788,
+            "hi": 67.81117,
+            "lo": 53.68967,
+            "poll_avg": 51.12674
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 3.2199999999999998,
+            "forecast": 39.43446,
+            "hi": 45.96233,
+            "lo": 32.98492,
+            "poll_avg": 34.39651
+          },
+          "now": {
+            "winprob": 2.8400000000000003,
+            "forecast": 39.80453,
+            "hi": 45.8204,
+            "lo": 33.82312,
+            "poll_avg": 34.40016
+          },
+          "polls": {
+            "winprob": 3.7449999999999997,
+            "forecast": 39.14212,
+            "hi": 46.31033,
+            "lo": 32.18882,
+            "poll_avg": 33.31715
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 96.865,
+            "forecast": 60.61952,
+            "hi": 67.16161,
+            "lo": 54.02592,
+            "poll_avg": 51.6849
+          },
+          "now": {
+            "winprob": 97.39,
+            "forecast": 60.38164,
+            "hi": 66.26769,
+            "lo": 54.42885,
+            "poll_avg": 51.5238
+          },
+          "polls": {
+            "winprob": 96.435,
+            "forecast": 60.91021,
+            "hi": 67.93117,
+            "lo": 53.97465,
+            "poll_avg": 51.25805
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 3.1350000000000002,
+            "forecast": 39.38048,
+            "hi": 45.97408,
+            "lo": 32.8384,
+            "poll_avg": 34.42067
+          },
+          "now": {
+            "winprob": 2.6100000000000003,
+            "forecast": 39.61836,
+            "hi": 45.57115,
+            "lo": 33.73231,
+            "poll_avg": 34.55862
+          },
+          "polls": {
+            "winprob": 3.565,
+            "forecast": 39.08979,
+            "hi": 46.02535,
+            "lo": 32.06882,
+            "poll_avg": 33.34815
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 96.515,
+            "forecast": 60.21795,
+            "hi": 66.80453,
+            "lo": 53.5899,
+            "poll_avg": 51.209
+          },
+          "now": {
+            "winprob": 97.14,
+            "forecast": 59.90503,
+            "hi": 65.69345,
+            "lo": 54.02316,
+            "poll_avg": 51.5693
+          },
+          "polls": {
+            "winprob": 96.13000000000001,
+            "forecast": 60.52621,
+            "hi": 67.47725,
+            "lo": 53.49945,
+            "poll_avg": 50.73671
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 3.485,
+            "forecast": 39.78205,
+            "hi": 46.4101,
+            "lo": 33.19546,
+            "poll_avg": 35.00611
+          },
+          "now": {
+            "winprob": 2.86,
+            "forecast": 40.09497,
+            "hi": 45.97684,
+            "lo": 34.30655,
+            "poll_avg": 35.75314
+          },
+          "polls": {
+            "winprob": 3.8699999999999997,
+            "forecast": 39.47379,
+            "hi": 46.50055,
+            "lo": 32.52276,
+            "poll_avg": 33.8196
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 96.21499999999999,
+            "forecast": 60.05739,
+            "hi": 66.56082,
+            "lo": 53.33044,
+            "poll_avg": 51.05309
+          },
+          "now": {
+            "winprob": 96.845,
+            "forecast": 59.68433,
+            "hi": 65.39694,
+            "lo": 53.85516,
+            "poll_avg": 51.78376
+          },
+          "polls": {
+            "winprob": 95.98,
+            "forecast": 60.37667,
+            "hi": 67.33537,
+            "lo": 53.30664,
+            "poll_avg": 50.58008
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 3.785,
+            "forecast": 39.94261,
+            "hi": 46.66956,
+            "lo": 33.43918,
+            "poll_avg": 35.0068
+          },
+          "now": {
+            "winprob": 3.1550000000000002,
+            "forecast": 40.31567,
+            "hi": 46.14484,
+            "lo": 34.60306,
+            "poll_avg": 36.22288
+          },
+          "polls": {
+            "winprob": 4.02,
+            "forecast": 39.62333,
+            "hi": 46.69336,
+            "lo": 32.66463,
+            "poll_avg": 33.82936
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 96.02000000000001,
+            "forecast": 59.79964,
+            "hi": 66.37157,
+            "lo": 53.20435,
+            "poll_avg": 51.1425
+          },
+          "now": {
+            "winprob": 96.84,
+            "forecast": 58.8854,
+            "hi": 64.31851,
+            "lo": 53.33785,
+            "poll_avg": 53.33117
+          },
+          "polls": {
+            "winprob": 95.71499999999999,
+            "forecast": 60.10452,
+            "hi": 67.06287,
+            "lo": 53.08652,
+            "poll_avg": 50.66941
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 3.9800000000000004,
+            "forecast": 40.20036,
+            "hi": 46.79565,
+            "lo": 33.62843,
+            "poll_avg": 35.57104
+          },
+          "now": {
+            "winprob": 3.16,
+            "forecast": 41.1146,
+            "hi": 46.66215,
+            "lo": 35.68148,
+            "poll_avg": 39.08977
+          },
+          "polls": {
+            "winprob": 4.285,
+            "forecast": 39.89548,
+            "hi": 46.91348,
+            "lo": 32.93713,
+            "poll_avg": 34.3982
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 96.10499999999999,
+            "forecast": 60.27119,
+            "hi": 67.0191,
+            "lo": 53.40062,
+            "poll_avg": 50.02877
+          },
+          "now": {
+            "winprob": 97.425,
+            "forecast": 60.64309,
+            "hi": 66.82747,
+            "lo": 54.49951,
+            "poll_avg": 50.67675
+          },
+          "polls": {
+            "winprob": 95.54,
+            "forecast": 60.57988,
+            "hi": 67.77549,
+            "lo": 53.28917,
+            "poll_avg": 49.56352
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 3.895,
+            "forecast": 39.72881,
+            "hi": 46.59938,
+            "lo": 32.9809,
+            "poll_avg": 33.392
+          },
+          "now": {
+            "winprob": 2.5749999999999997,
+            "forecast": 39.35691,
+            "hi": 45.50049,
+            "lo": 33.17254,
+            "poll_avg": 32.84352
+          },
+          "polls": {
+            "winprob": 4.46,
+            "forecast": 39.42012,
+            "hi": 46.71083,
+            "lo": 32.22451,
+            "poll_avg": 32.22137
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 95.785,
+            "forecast": 59.94204,
+            "hi": 66.75789,
+            "lo": 53.08784,
+            "poll_avg": 49.83532
+          },
+          "now": {
+            "winprob": 97.21499999999999,
+            "forecast": 60.39098,
+            "hi": 66.41889,
+            "lo": 54.31387,
+            "poll_avg": 50.67131
+          },
+          "polls": {
+            "winprob": 95.19999999999999,
+            "forecast": 60.24004,
+            "hi": 67.52853,
+            "lo": 52.94493,
+            "poll_avg": 49.37536
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 4.215,
+            "forecast": 40.05796,
+            "hi": 46.91216,
+            "lo": 33.24211,
+            "poll_avg": 33.74585
+          },
+          "now": {
+            "winprob": 2.785,
+            "forecast": 39.60902,
+            "hi": 45.68613,
+            "lo": 33.58111,
+            "poll_avg": 33.1519
+          },
+          "polls": {
+            "winprob": 4.8,
+            "forecast": 39.75996,
+            "hi": 47.05507,
+            "lo": 32.47147,
+            "poll_avg": 32.60405
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 95.78999999999999,
+            "forecast": 59.96561,
+            "hi": 66.78019,
+            "lo": 53.12522,
+            "poll_avg": 49.81173
+          },
+          "now": {
+            "winprob": 97.565,
+            "forecast": 60.80295,
+            "hi": 66.82796,
+            "lo": 54.64562,
+            "poll_avg": 51.0234
+          },
+          "polls": {
+            "winprob": 95.44500000000001,
+            "forecast": 60.24867,
+            "hi": 67.48004,
+            "lo": 52.95898,
+            "poll_avg": 49.35534
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 4.21,
+            "forecast": 40.03439,
+            "hi": 46.87478,
+            "lo": 33.21981,
+            "poll_avg": 33.68635
+          },
+          "now": {
+            "winprob": 2.435,
+            "forecast": 39.19705,
+            "hi": 45.35438,
+            "lo": 33.17204,
+            "poll_avg": 32.74219
+          },
+          "polls": {
+            "winprob": 4.555,
+            "forecast": 39.75133,
+            "hi": 47.04102,
+            "lo": 32.51996,
+            "poll_avg": 32.55302
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 94.575,
+            "forecast": 59.22795,
+            "hi": 66.01473,
+            "lo": 52.25097,
+            "poll_avg": 49.10002
+          },
+          "now": {
+            "winprob": 96.44500000000001,
+            "forecast": 59.59948,
+            "hi": 65.70918,
+            "lo": 53.51099,
+            "poll_avg": 49.99665
+          },
+          "polls": {
+            "winprob": 94.345,
+            "forecast": 59.49204,
+            "hi": 66.78893,
+            "lo": 52.21052,
+            "poll_avg": 48.65707
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 5.425,
+            "forecast": 40.77205,
+            "hi": 47.74903,
+            "lo": 33.98527,
+            "poll_avg": 34.73734
+          },
+          "now": {
+            "winprob": 3.5549999999999997,
+            "forecast": 40.40052,
+            "hi": 46.48901,
+            "lo": 34.29082,
+            "poll_avg": 34.39721
+          },
+          "polls": {
+            "winprob": 5.655,
+            "forecast": 40.50796,
+            "hi": 47.78948,
+            "lo": 33.21107,
+            "poll_avg": 33.62482
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 94.27499999999999,
+            "forecast": 58.87565,
+            "hi": 65.70795,
+            "lo": 52.02731,
+            "poll_avg": 48.73412
+          },
+          "now": {
+            "winprob": 96.165,
+            "forecast": 59.18626,
+            "hi": 65.24948,
+            "lo": 53.17308,
+            "poll_avg": 49.50414
+          },
+          "polls": {
+            "winprob": 93.67,
+            "forecast": 59.15464,
+            "hi": 66.38023,
+            "lo": 51.82603,
+            "poll_avg": 48.28474
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 5.7250000000000005,
+            "forecast": 41.12435,
+            "hi": 47.97269,
+            "lo": 34.29206,
+            "poll_avg": 35.08338
+          },
+          "now": {
+            "winprob": 3.8350000000000004,
+            "forecast": 40.81374,
+            "hi": 46.82692,
+            "lo": 34.75051,
+            "poll_avg": 34.88614
+          },
+          "polls": {
+            "winprob": 6.329999999999999,
+            "forecast": 40.84536,
+            "hi": 48.17397,
+            "lo": 33.61977,
+            "poll_avg": 33.95385
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 93.185,
+            "forecast": 58.21859,
+            "hi": 65.04959,
+            "lo": 51.32616,
+            "poll_avg": 48.2124
+          },
+          "now": {
+            "winprob": 93.24,
+            "forecast": 57.59609,
+            "hi": 63.85212,
+            "lo": 51.31561,
+            "poll_avg": 47.14154
+          },
+          "polls": {
+            "winprob": 92.58,
+            "forecast": 58.56581,
+            "hi": 65.82465,
+            "lo": 51.18463,
+            "poll_avg": 47.71774
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 6.815,
+            "forecast": 41.78141,
+            "hi": 48.67384,
+            "lo": 34.95042,
+            "poll_avg": 35.4142
+          },
+          "now": {
+            "winprob": 6.76,
+            "forecast": 42.40391,
+            "hi": 48.68439,
+            "lo": 36.14788,
+            "poll_avg": 35.28862
+          },
+          "polls": {
+            "winprob": 7.42,
+            "forecast": 41.43419,
+            "hi": 48.81537,
+            "lo": 34.17535,
+            "poll_avg": 34.16964
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 93.47999999999999,
+            "forecast": 58.37546,
+            "hi": 65.12006,
+            "lo": 51.51132,
+            "poll_avg": 48.47577
+          },
+          "now": {
+            "winprob": 93.625,
+            "forecast": 57.77431,
+            "hi": 63.94495,
+            "lo": 51.56183,
+            "poll_avg": 47.45975
+          },
+          "polls": {
+            "winprob": 92.955,
+            "forecast": 58.71761,
+            "hi": 65.95757,
+            "lo": 51.3414,
+            "poll_avg": 47.97724
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 6.52,
+            "forecast": 41.62454,
+            "hi": 48.48868,
+            "lo": 34.87994,
+            "poll_avg": 35.4238
+          },
+          "now": {
+            "winprob": 6.375,
+            "forecast": 42.22569,
+            "hi": 48.43817,
+            "lo": 36.05505,
+            "poll_avg": 35.37141
+          },
+          "polls": {
+            "winprob": 7.045,
+            "forecast": 41.28239,
+            "hi": 48.6586,
+            "lo": 34.04243,
+            "poll_avg": 34.18082
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 93.465,
+            "forecast": 58.4388,
+            "hi": 65.26105,
+            "lo": 51.6525,
+            "poll_avg": 48.75816
+          },
+          "now": {
+            "winprob": 93.64,
+            "forecast": 57.74401,
+            "hi": 63.88441,
+            "lo": 51.51699,
+            "poll_avg": 47.81814
+          },
+          "polls": {
+            "winprob": 93.15,
+            "forecast": 58.78687,
+            "hi": 66.00398,
+            "lo": 51.46144,
+            "poll_avg": 48.25851
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 6.535,
+            "forecast": 41.5612,
+            "hi": 48.3475,
+            "lo": 34.73895,
+            "poll_avg": 35.49387
+          },
+          "now": {
+            "winprob": 6.36,
+            "forecast": 42.25599,
+            "hi": 48.48301,
+            "lo": 36.11559,
+            "poll_avg": 35.71115
+          },
+          "polls": {
+            "winprob": 6.8500000000000005,
+            "forecast": 41.21313,
+            "hi": 48.53856,
+            "lo": 33.99602,
+            "poll_avg": 34.25033
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 93.87,
+            "forecast": 58.48941,
+            "hi": 65.27875,
+            "lo": 51.71489,
+            "poll_avg": 48.9369
+          },
+          "now": {
+            "winprob": 94.15,
+            "forecast": 57.79852,
+            "hi": 63.93945,
+            "lo": 51.63725,
+            "poll_avg": 48.21437
+          },
+          "polls": {
+            "winprob": 93.27499999999999,
+            "forecast": 58.81594,
+            "hi": 65.93867,
+            "lo": 51.49681,
+            "poll_avg": 48.44149
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 6.13,
+            "forecast": 41.51059,
+            "hi": 48.28511,
+            "lo": 34.72125,
+            "poll_avg": 35.4974
+          },
+          "now": {
+            "winprob": 5.8500000000000005,
+            "forecast": 42.20148,
+            "hi": 48.36275,
+            "lo": 36.06055,
+            "poll_avg": 35.8675
+          },
+          "polls": {
+            "winprob": 6.7250000000000005,
+            "forecast": 41.18406,
+            "hi": 48.50319,
+            "lo": 34.06133,
+            "poll_avg": 34.25643
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 93.8,
+            "forecast": 58.50303,
+            "hi": 65.17281,
+            "lo": 51.71568,
+            "poll_avg": 49.05914
+          },
+          "now": {
+            "winprob": 93.94500000000001,
+            "forecast": 57.66941,
+            "hi": 63.66823,
+            "lo": 51.62074,
+            "poll_avg": 48.4596
+          },
+          "polls": {
+            "winprob": 93.35,
+            "forecast": 58.82544,
+            "hi": 66.01123,
+            "lo": 51.53102,
+            "poll_avg": 48.56844
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 6.2,
+            "forecast": 41.49697,
+            "hi": 48.28432,
+            "lo": 34.8272,
+            "poll_avg": 35.59768
+          },
+          "now": {
+            "winprob": 6.055,
+            "forecast": 42.33059,
+            "hi": 48.37926,
+            "lo": 36.33177,
+            "poll_avg": 36.13388
+          },
+          "polls": {
+            "winprob": 6.65,
+            "forecast": 41.17456,
+            "hi": 48.46898,
+            "lo": 33.98876,
+            "poll_avg": 34.3669
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 94.41000000000001,
+            "forecast": 58.81165,
+            "hi": 65.48833,
+            "lo": 51.98677,
+            "poll_avg": 49.48464
+          },
+          "now": {
+            "winprob": 94.755,
+            "forecast": 57.93998,
+            "hi": 63.88248,
+            "lo": 51.96515,
+            "poll_avg": 48.82502
+          },
+          "polls": {
+            "winprob": 94.01,
+            "forecast": 59.15564,
+            "hi": 66.28799,
+            "lo": 51.95025,
+            "poll_avg": 48.99455
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 5.59,
+            "forecast": 41.18835,
+            "hi": 48.01323,
+            "lo": 34.51168,
+            "poll_avg": 35.57483
+          },
+          "now": {
+            "winprob": 5.244999999999999,
+            "forecast": 42.06002,
+            "hi": 48.03485,
+            "lo": 36.11752,
+            "poll_avg": 36.28141
+          },
+          "polls": {
+            "winprob": 5.99,
+            "forecast": 40.84436,
+            "hi": 48.04975,
+            "lo": 33.71201,
+            "poll_avg": 34.34008
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 95.265,
+            "forecast": 59.43318,
+            "hi": 66.09489,
+            "lo": 52.74926,
+            "poll_avg": 50.1458
+          },
+          "now": {
+            "winprob": 94.15,
+            "forecast": 57.84813,
+            "hi": 63.88346,
+            "lo": 51.7221,
+            "poll_avg": 48.46638
+          },
+          "polls": {
+            "winprob": 94.91000000000001,
+            "forecast": 59.75375,
+            "hi": 66.96434,
+            "lo": 52.59755,
+            "poll_avg": 49.63936
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 4.735,
+            "forecast": 40.56682,
+            "hi": 47.25074,
+            "lo": 33.90511,
+            "poll_avg": 35.06238
+          },
+          "now": {
+            "winprob": 5.8500000000000005,
+            "forecast": 42.15187,
+            "hi": 48.2779,
+            "lo": 36.11654,
+            "poll_avg": 35.97073
+          },
+          "polls": {
+            "winprob": 5.09,
+            "forecast": 40.24625,
+            "hi": 47.40245,
+            "lo": 33.03566,
+            "poll_avg": 33.81879
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 96.14,
+            "forecast": 59.84996,
+            "hi": 66.50334,
+            "lo": 53.13583,
+            "poll_avg": 50.60107
+          },
+          "now": {
+            "winprob": 95.35,
+            "forecast": 58.48517,
+            "hi": 64.47972,
+            "lo": 52.45496,
+            "poll_avg": 49.28735
+          },
+          "polls": {
+            "winprob": 95.43,
+            "forecast": 60.17374,
+            "hi": 67.2718,
+            "lo": 52.99008,
+            "poll_avg": 50.09764
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 3.8600000000000003,
+            "forecast": 40.15004,
+            "hi": 46.86417,
+            "lo": 33.49666,
+            "poll_avg": 34.89637
+          },
+          "now": {
+            "winprob": 4.65,
+            "forecast": 41.51483,
+            "hi": 47.54504,
+            "lo": 35.52028,
+            "poll_avg": 35.73549
+          },
+          "polls": {
+            "winprob": 4.569999999999999,
+            "forecast": 39.82626,
+            "hi": 47.00992,
+            "lo": 32.7282,
+            "poll_avg": 33.65864
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 96.53500000000001,
+            "forecast": 60.69244,
+            "hi": 67.38945,
+            "lo": 53.97388,
+            "poll_avg": 51.03167
+          },
+          "now": {
+            "winprob": 96.995,
+            "forecast": 60.10347,
+            "hi": 66.10123,
+            "lo": 53.95974,
+            "poll_avg": 50.36445
+          },
+          "polls": {
+            "winprob": 96.345,
+            "forecast": 61.03693,
+            "hi": 68.18917,
+            "lo": 53.76398,
+            "poll_avg": 50.53672
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 3.465,
+            "forecast": 39.30756,
+            "hi": 46.02612,
+            "lo": 32.61055,
+            "poll_avg": 34.34634
+          },
+          "now": {
+            "winprob": 3.005,
+            "forecast": 39.89653,
+            "hi": 46.04026,
+            "lo": 33.89877,
+            "poll_avg": 34.45153
+          },
+          "polls": {
+            "winprob": 3.655,
+            "forecast": 38.96307,
+            "hi": 46.23602,
+            "lo": 31.81083,
+            "poll_avg": 33.10445
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 96.815,
+            "forecast": 60.86674,
+            "hi": 67.57103,
+            "lo": 54.05374,
+            "poll_avg": 51.18406
+          },
+          "now": {
+            "winprob": 97.31,
+            "forecast": 60.4451,
+            "hi": 66.41013,
+            "lo": 54.36647,
+            "poll_avg": 50.75501
+          },
+          "polls": {
+            "winprob": 96.45,
+            "forecast": 61.19292,
+            "hi": 68.28371,
+            "lo": 54.0601,
+            "poll_avg": 50.68776
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 3.1850000000000005,
+            "forecast": 39.13326,
+            "hi": 45.94626,
+            "lo": 32.42896,
+            "poll_avg": 34.34535
+          },
+          "now": {
+            "winprob": 2.69,
+            "forecast": 39.5549,
+            "hi": 45.63353,
+            "lo": 33.58987,
+            "poll_avg": 34.33645
+          },
+          "polls": {
+            "winprob": 3.55,
+            "forecast": 38.80708,
+            "hi": 45.9399,
+            "lo": 31.71629,
+            "poll_avg": 33.10785
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 96.73,
+            "forecast": 60.8441,
+            "hi": 67.50581,
+            "lo": 53.97405,
+            "poll_avg": 51.23003
+          },
+          "now": {
+            "winprob": 97.47,
+            "forecast": 60.44498,
+            "hi": 66.43646,
+            "lo": 54.42298,
+            "poll_avg": 51.01294
+          },
+          "polls": {
+            "winprob": 96.39,
+            "forecast": 61.16876,
+            "hi": 68.19775,
+            "lo": 53.82377,
+            "poll_avg": 50.73794
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 3.27,
+            "forecast": 39.1559,
+            "hi": 46.02595,
+            "lo": 32.49419,
+            "poll_avg": 34.43208
+          },
+          "now": {
+            "winprob": 2.53,
+            "forecast": 39.55502,
+            "hi": 45.57702,
+            "lo": 33.56354,
+            "poll_avg": 34.54139
+          },
+          "polls": {
+            "winprob": 3.61,
+            "forecast": 38.83124,
+            "hi": 46.17623,
+            "lo": 31.80225,
+            "poll_avg": 33.19567
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 96.825,
+            "forecast": 60.89792,
+            "hi": 67.62109,
+            "lo": 54.08704,
+            "poll_avg": 51.28356
+          },
+          "now": {
+            "winprob": 97.345,
+            "forecast": 60.55636,
+            "hi": 66.51225,
+            "lo": 54.57126,
+            "poll_avg": 51.14305
+          },
+          "polls": {
+            "winprob": 96.59,
+            "forecast": 61.23998,
+            "hi": 68.34908,
+            "lo": 53.99595,
+            "poll_avg": 50.79087
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 3.175,
+            "forecast": 39.10208,
+            "hi": 45.91296,
+            "lo": 32.37891,
+            "poll_avg": 34.42703
+          },
+          "now": {
+            "winprob": 2.6550000000000002,
+            "forecast": 39.44364,
+            "hi": 45.42874,
+            "lo": 33.48774,
+            "poll_avg": 34.53492
+          },
+          "polls": {
+            "winprob": 3.4099999999999997,
+            "forecast": 38.76002,
+            "hi": 46.00405,
+            "lo": 31.65093,
+            "poll_avg": 33.18606
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 96.685,
+            "forecast": 60.89207,
+            "hi": 67.60637,
+            "lo": 54.0967,
+            "poll_avg": 51.08874
+          },
+          "now": {
+            "winprob": 97.42,
+            "forecast": 60.5484,
+            "hi": 66.57948,
+            "lo": 54.58692,
+            "poll_avg": 50.95278
+          },
+          "polls": {
+            "winprob": 96.33500000000001,
+            "forecast": 61.20925,
+            "hi": 68.37518,
+            "lo": 54.01758,
+            "poll_avg": 50.59959
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 3.315,
+            "forecast": 39.10793,
+            "hi": 45.9033,
+            "lo": 32.39363,
+            "poll_avg": 34.63807
+          },
+          "now": {
+            "winprob": 2.58,
+            "forecast": 39.4516,
+            "hi": 45.41308,
+            "lo": 33.42052,
+            "poll_avg": 34.8765
+          },
+          "polls": {
+            "winprob": 3.665,
+            "forecast": 38.79075,
+            "hi": 45.98242,
+            "lo": 31.62481,
+            "poll_avg": 33.4155
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 96.775,
+            "forecast": 60.94627,
+            "hi": 67.67052,
+            "lo": 54.20055,
+            "poll_avg": 51.31191
+          },
+          "now": {
+            "winprob": 97.67,
+            "forecast": 60.76142,
+            "hi": 66.6636,
+            "lo": 54.75127,
+            "poll_avg": 51.58492
+          },
+          "polls": {
+            "winprob": 96.48,
+            "forecast": 61.26809,
+            "hi": 68.38947,
+            "lo": 54.05605,
+            "poll_avg": 50.82679
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 3.225,
+            "forecast": 39.05373,
+            "hi": 45.79945,
+            "lo": 32.32948,
+            "poll_avg": 34.60991
+          },
+          "now": {
+            "winprob": 2.33,
+            "forecast": 39.23858,
+            "hi": 45.24873,
+            "lo": 33.3364,
+            "poll_avg": 34.89179
+          },
+          "polls": {
+            "winprob": 3.52,
+            "forecast": 38.73191,
+            "hi": 45.94395,
+            "lo": 31.61054,
+            "poll_avg": 33.39556
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Patty Murray",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 96.895,
+            "forecast": 61.15084,
+            "hi": 67.93777,
+            "lo": 54.27821,
+            "poll_avg": 51.13531
+          },
+          "now": {
+            "winprob": 97.845,
+            "forecast": 61.15519,
+            "hi": 67.18484,
+            "lo": 55.0118,
+            "poll_avg": 51.31242
+          },
+          "polls": {
+            "winprob": 96.625,
+            "forecast": 61.48145,
+            "hi": 68.67435,
+            "lo": 54.22375,
+            "poll_avg": 50.65325
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Chris Vance",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 3.105,
+            "forecast": 38.84916,
+            "hi": 45.72179,
+            "lo": 32.06223,
+            "poll_avg": 34.08337
+          },
+          "now": {
+            "winprob": 2.155,
+            "forecast": 38.84481,
+            "hi": 44.9882,
+            "lo": 32.81516,
+            "poll_avg": 33.89747
+          },
+          "polls": {
+            "winprob": 3.375,
+            "forecast": 38.51855,
+            "hi": 45.77625,
+            "lo": 31.32565,
+            "poll_avg": 32.87898
+          }
+        }
+      }
+    ]
+  },
+  "polls": [
+    {
+      "id": "44624",
+      "population": "rv",
+      "sampleSize": "503",
+      "state": "WA",
+      "pollster": "Elway Research",
+      "startDate": "2016-04-14",
+      "endDate": "2016-04-17",
+      "tracking": null,
+      "url": "http://www.seattletimes.com/seattle-news/politics/poll-shows-jay-inslee-far-ahead-of-bill-bryant-in-governors-race/",
+      "created_at": 1468940880,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 50.0,
+          "adj_pct": {
+            "polls": 51.473,
+            "plus": 51.8399,
+            "now": 51.473
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 32.0,
+          "adj_pct": {
+            "polls": 35.95079,
+            "plus": 36.23846,
+            "now": 35.95079
+          }
+        }
+      ],
+      "weight": {
+        "polls": 8.97e-05,
+        "plus": 8.97e-05,
+        "now": 8.97e-05
+      },
+      "pollsterRating": "A+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 18.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 15.522210000000001
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 15.601439999999997
+          },
+          "now": {
+            "choice": "D",
+            "margin": 15.522210000000001
+          }
+        }
+      }
+    },
+    {
+      "id": "47930",
+      "population": "lv",
+      "sampleSize": "745",
+      "state": "WA",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-25",
+      "endDate": "2016-10-31",
+      "tracking": "TRUE",
+      "url": "https://drive.google.com/file/d/0BxxpEMTW3kAraEFpRXdFc21TVG8/view",
+      "created_at": 1478026320,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 61.0,
+          "adj_pct": {
+            "polls": 57.78605,
+            "plus": 57.70923,
+            "now": 57.78605
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 36.0,
+          "adj_pct": {
+            "polls": 35.92884,
+            "plus": 35.96502,
+            "now": 35.92884
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.014461,
+        "plus": 0.014461,
+        "now": 0.014461
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 25.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 21.857210000000002
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 21.744209999999995
+          },
+          "now": {
+            "choice": "D",
+            "margin": 21.857210000000002
+          }
+        }
+      }
+    },
+    {
+      "id": "48068",
+      "population": "lv",
+      "sampleSize": "698",
+      "state": "WA",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-26",
+      "endDate": "2016-11-01",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478099340,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 61.0,
+          "adj_pct": {
+            "polls": 57.78682,
+            "plus": 57.71037,
+            "now": 57.78682
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 36.0,
+          "adj_pct": {
+            "polls": 35.85078,
+            "plus": 35.88788,
+            "now": 35.85078
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0152786,
+        "plus": 0.0152786,
+        "now": 0.0152786
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 25.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 21.93604
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 21.822489999999995
+          },
+          "now": {
+            "choice": "D",
+            "margin": 21.93604
+          }
+        }
+      }
+    },
+    {
+      "id": "48176",
+      "population": "lv",
+      "sampleSize": "807",
+      "state": "WA",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-27",
+      "endDate": "2016-11-02",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478216940,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 61.0,
+          "adj_pct": {
+            "polls": 57.79206,
+            "plus": 57.71588,
+            "now": 57.79206
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 36.0,
+          "adj_pct": {
+            "polls": 35.77384,
+            "plus": 35.81159,
+            "now": 35.77384
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0200435,
+        "plus": 0.0200435,
+        "now": 0.0200435
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 25.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 22.01822
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 21.904289999999996
+          },
+          "now": {
+            "choice": "D",
+            "margin": 22.01822
+          }
+        }
+      }
+    },
+    {
+      "id": "44856",
+      "population": "rv",
+      "sampleSize": "500",
+      "state": "WA",
+      "pollster": "Elway Research",
+      "startDate": "2016-08-09",
+      "endDate": "2016-08-13",
+      "tracking": null,
+      "url": "http://www.seattletimes.com/seattle-news/politics/sen-patty-murray-well-ahead-of-challenger-chris-vance-in-new-poll/",
+      "created_at": 1474039440,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 52.0,
+          "adj_pct": {
+            "polls": 53.53683,
+            "plus": 53.93469,
+            "now": 53.53683
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 34.0,
+          "adj_pct": {
+            "polls": 37.74897,
+            "plus": 38.1131,
+            "now": 37.74897
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0275003,
+        "plus": 0.0275003,
+        "now": 0.0275003
+      },
+      "pollsterRating": "A+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 18.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 15.787860000000002
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 15.82159
+          },
+          "now": {
+            "choice": "D",
+            "margin": 15.787860000000002
+          }
+        }
+      }
+    },
+    {
+      "id": "48611",
+      "population": "lv",
+      "sampleSize": "1292",
+      "state": "WA",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-31",
+      "endDate": "2016-11-06",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478508960,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 59.0,
+          "adj_pct": {
+            "polls": 55.89753,
+            "plus": 55.82949,
+            "now": 55.89753
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 37.0,
+          "adj_pct": {
+            "polls": 36.38314,
+            "plus": 36.44123,
+            "now": 36.38314
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0617819,
+        "plus": 0.0617819,
+        "now": 0.0617819
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 22.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 19.514390000000006
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 19.388260000000002
+          },
+          "now": {
+            "choice": "D",
+            "margin": 19.514390000000006
+          }
+        }
+      }
+    },
+    {
+      "id": "45923",
+      "population": "lv",
+      "sampleSize": "505",
+      "state": "WA",
+      "pollster": "Insights West",
+      "startDate": "2016-09-12",
+      "endDate": "2016-09-14",
+      "tracking": null,
+      "url": "http://www.insightswest.com/news/trump-leads-in-arizona-and-nevada-clinton-in-california-and-washington/",
+      "created_at": 1474476780,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 46.0,
+          "adj_pct": {
+            "polls": 48.29406,
+            "plus": 48.35892,
+            "now": 48.29406
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 25.0,
+          "adj_pct": {
+            "polls": 27.18178,
+            "plus": 27.06161,
+            "now": 27.18178
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0650866,
+        "plus": 0.0650866,
+        "now": 0.0650866
+      },
+      "pollsterRating": "",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 21.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 21.112280000000002
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 21.297309999999996
+          },
+          "now": {
+            "choice": "D",
+            "margin": 21.112280000000002
+          }
+        }
+      }
+    },
+    {
+      "id": "48316",
+      "population": "lv",
+      "sampleSize": "944",
+      "state": "WA",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-28",
+      "endDate": "2016-11-03",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478278320,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 61.0,
+          "adj_pct": {
+            "polls": 57.80008,
+            "plus": 57.72469,
+            "now": 57.80008
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 36.0,
+          "adj_pct": {
+            "polls": 35.67959,
+            "plus": 35.7193,
+            "now": 35.67959
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0910446,
+        "plus": 0.0910446,
+        "now": 0.0910446
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 25.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 22.120490000000004
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 22.005390000000006
+          },
+          "now": {
+            "choice": "D",
+            "margin": 22.120490000000004
+          }
+        }
+      }
+    },
+    {
+      "id": "46233",
+      "population": "lv",
+      "sampleSize": "700",
+      "state": "WA",
+      "pollster": "Emerson College",
+      "startDate": "2016-09-25",
+      "endDate": "2016-09-27",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_c4ce441cb55942e99e386bf56daef127.pdf",
+      "created_at": 1475087160,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 47.6,
+          "adj_pct": {
+            "polls": 49.98692,
+            "plus": 50.1125,
+            "now": 49.98692
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 41.2,
+          "adj_pct": {
+            "polls": 42.68478,
+            "plus": 42.75871,
+            "now": 42.68478
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.3262064,
+        "plus": 0.3262064,
+        "now": 0.3262064
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 6.399999999999999
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 7.302139999999994
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 7.3537899999999965
+          },
+          "now": {
+            "choice": "D",
+            "margin": 7.302139999999994
+          }
+        }
+      }
+    },
+    {
+      "id": "47628",
+      "population": "lv",
+      "sampleSize": "750",
+      "state": "WA",
+      "pollster": "YouGov",
+      "startDate": "2016-10-06",
+      "endDate": "2016-10-13",
+      "tracking": null,
+      "url": "http://kcts9.org/programs/vote-2016/new-poll-finds-washington-state-often-divided-region-and-political-parties-many",
+      "created_at": 1477912980,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 55.0,
+          "adj_pct": {
+            "polls": 56.81095,
+            "plus": 56.77454,
+            "now": 56.81095
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 39.0,
+          "adj_pct": {
+            "polls": 42.04884,
+            "plus": 41.87011,
+            "now": 42.04884
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.6938341,
+        "plus": 0.6938341,
+        "now": 0.6938341
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 16.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 14.76211
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 14.904430000000005
+          },
+          "now": {
+            "choice": "D",
+            "margin": 14.76211
+          }
+        }
+      }
+    },
+    {
+      "id": "47316",
+      "population": "lv",
+      "sampleSize": "502",
+      "state": "WA",
+      "pollster": "Elway Research",
+      "startDate": "2016-10-20",
+      "endDate": "2016-10-22",
+      "tracking": null,
+      "url": "https://www.documentcloud.org/documents/3173866-Elway-Poll-102416.html",
+      "created_at": 1477331820,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 58.0,
+          "adj_pct": {
+            "polls": 58.29704,
+            "plus": 58.48348,
+            "now": 58.29704
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 34.0,
+          "adj_pct": {
+            "polls": 36.20369,
+            "plus": 36.03966,
+            "now": 36.20369
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.108763,
+        "plus": 1.108763,
+        "now": 1.108763
+      },
+      "pollsterRating": "A+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 24.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 22.09335
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 22.443820000000002
+          },
+          "now": {
+            "choice": "D",
+            "margin": 22.09335
+          }
+        }
+      }
+    },
+    {
+      "id": "48915",
+      "population": "lv",
+      "sampleSize": "402",
+      "state": "WA",
+      "pollster": "Insights West",
+      "startDate": "2016-11-04",
+      "endDate": "2016-11-06",
+      "tracking": null,
+      "url": "http://www.insightswest.com/news/clinton-is-ahead-of-trump-as-u-s-presidential-election-approaches/",
+      "created_at": 1478568780,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 53.0,
+          "adj_pct": {
+            "polls": 54.44181,
+            "plus": 54.54353,
+            "now": 54.44181
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 37.0,
+          "adj_pct": {
+            "polls": 37.58404,
+            "plus": 37.55569,
+            "now": 37.58404
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.332326,
+        "plus": 1.332326,
+        "now": 1.332326
+      },
+      "pollsterRating": "",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 16.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 16.857769999999995
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 16.98784
+          },
+          "now": {
+            "choice": "D",
+            "margin": 16.857769999999995
+          }
+        }
+      }
+    },
+    {
+      "id": "48907",
+      "population": "lv",
+      "sampleSize": "1451",
+      "state": "WA",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-11-01",
+      "endDate": "2016-11-07",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478564640,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 59.0,
+          "adj_pct": {
+            "polls": 55.90585,
+            "plus": 55.84233,
+            "now": 55.90585
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 37.0,
+          "adj_pct": {
+            "polls": 36.26295,
+            "plus": 36.33228,
+            "now": 36.26295
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.936208,
+        "plus": 1.936208,
+        "now": 1.936208
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 22.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 19.642900000000004
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 19.51005
+          },
+          "now": {
+            "choice": "D",
+            "margin": 19.642900000000004
+          }
+        }
+      }
+    },
+    {
+      "id": "48365",
+      "population": "lv",
+      "sampleSize": "667",
+      "state": "WA",
+      "pollster": "SurveyUSA",
+      "startDate": "2016-10-31",
+      "endDate": "2016-11-02",
+      "tracking": null,
+      "url": "http://www.surveyusa.com/client/PollReport.aspx?g=befe5f60-092c-48e8-b36f-b5ae8e28048e",
+      "created_at": 1478290380,
+      "votingAnswers": [
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 53.0,
+          "adj_pct": {
+            "polls": 52.44895,
+            "plus": 52.4283,
+            "now": 52.44895
+          }
+        },
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 41.0,
+          "adj_pct": {
+            "polls": 42.74978,
+            "plus": 42.81559,
+            "now": 42.74978
+          }
+        }
+      ],
+      "weight": {
+        "polls": 2.316053,
+        "plus": 2.316053,
+        "now": 2.316053
+      },
+      "pollsterRating": "A",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "D",
+          "margin": 12.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "D",
+            "margin": 9.699170000000002
+          },
+          "plus": {
+            "choice": "D",
+            "margin": 9.61271
+          },
+          "now": {
+            "choice": "D",
+            "margin": 9.699170000000002
+          }
+        }
+      }
+    }
+  ]
+}

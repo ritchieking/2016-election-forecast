@@ -1,0 +1,7656 @@
+{
+  "state": "KY",
+  "candidates": [
+    {
+      "state": "KY",
+      "party": "D",
+      "candidate": "Jim Gray",
+      "incumbent": null
+    },
+    {
+      "state": "KY",
+      "party": "R",
+      "candidate": "Rand Paul",
+      "incumbent": "y"
+    }
+  ],
+  "forecasts": {
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 6.52,
+            "forecast": 45.12094,
+            "hi": 49.1193,
+            "lo": 41.1861,
+            "poll_avg": 39.01075,
+            "likely_adjust": 0.4495506,
+            "trend_adjust": 0.0206184,
+            "house_adjust": -0.5796814,
+            "adj_avg": 38.90124,
+            "undecided_adjust": 6.310596,
+            "reallocate_avg": 45.21184,
+            "demo_regress": 44.68974,
+            "demo_weight": 17.40981,
+            "snapshot": 45.12094
+          },
+          "polls": {
+            "winprob": 9.22,
+            "forecast": 45.33909,
+            "hi": 49.82851,
+            "lo": 40.80749,
+            "poll_avg": 39.01075,
+            "likely_adjust": 0.2318802,
+            "trend_adjust": 0.0406342,
+            "house_adjust": -0.6433983,
+            "adj_avg": 38.63987,
+            "undecided_adjust": 6.699219,
+            "reallocate_avg": 45.33909,
+            "demo_regress": 45.33909,
+            "demo_weight": 0.0,
+            "snapshot": 45.33909
+          },
+          "now": {
+            "winprob": 9.22,
+            "forecast": 45.33909,
+            "hi": 49.82851,
+            "lo": 40.80749,
+            "poll_avg": 39.01075,
+            "likely_adjust": 0.2318802,
+            "trend_adjust": 0.0406342,
+            "house_adjust": -0.6433983,
+            "adj_avg": 38.63987,
+            "undecided_adjust": 6.699219,
+            "reallocate_avg": 45.33909,
+            "demo_regress": 45.33909,
+            "demo_weight": 0.0,
+            "snapshot": 45.33909
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 93.47999999999999,
+            "forecast": 54.87906,
+            "hi": 58.8139,
+            "lo": 50.8807,
+            "poll_avg": 47.39357,
+            "likely_adjust": 0.8176155,
+            "trend_adjust": 0.7599831,
+            "house_adjust": -0.4936028,
+            "adj_avg": 48.47757,
+            "undecided_adjust": 6.310593,
+            "reallocate_avg": 54.78816,
+            "demo_regress": 55.31026,
+            "demo_weight": 17.40981,
+            "snapshot": 54.87906
+          },
+          "polls": {
+            "winprob": 90.78,
+            "forecast": 54.66091,
+            "hi": 59.19251,
+            "lo": 50.17149,
+            "poll_avg": 47.39357,
+            "likely_adjust": 0.3068275,
+            "trend_adjust": 0.8097305,
+            "house_adjust": -0.548439,
+            "adj_avg": 47.96169,
+            "undecided_adjust": 6.699219,
+            "reallocate_avg": 54.66091,
+            "demo_regress": 54.66091,
+            "demo_weight": 0.0,
+            "snapshot": 54.66091
+          },
+          "now": {
+            "winprob": 90.78,
+            "forecast": 54.66091,
+            "hi": 59.19251,
+            "lo": 50.17149,
+            "poll_avg": 47.39357,
+            "likely_adjust": 0.3068275,
+            "trend_adjust": 0.8097305,
+            "house_adjust": -0.548439,
+            "adj_avg": 47.96169,
+            "undecided_adjust": 6.699219,
+            "reallocate_avg": 54.66091,
+            "demo_regress": 54.66091,
+            "demo_weight": 0.0,
+            "snapshot": 54.66091
+          }
+        }
+      }
+    },
+    "all": [
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 6.52,
+            "forecast": 45.12094,
+            "hi": 49.1193,
+            "lo": 41.1861,
+            "poll_avg": 39.01075,
+            "likely_adjust": 0.4495506,
+            "trend_adjust": 0.0206184,
+            "house_adjust": -0.5796814,
+            "adj_avg": 38.90124,
+            "undecided_adjust": 6.310596,
+            "reallocate_avg": 45.21184,
+            "demo_regress": 44.68974,
+            "demo_weight": 17.40981,
+            "snapshot": 45.12094
+          },
+          "polls": {
+            "winprob": 9.22,
+            "forecast": 45.33909,
+            "hi": 49.82851,
+            "lo": 40.80749,
+            "poll_avg": 39.01075,
+            "likely_adjust": 0.2318802,
+            "trend_adjust": 0.0406342,
+            "house_adjust": -0.6433983,
+            "adj_avg": 38.63987,
+            "undecided_adjust": 6.699219,
+            "reallocate_avg": 45.33909,
+            "demo_regress": 45.33909,
+            "demo_weight": 0.0,
+            "snapshot": 45.33909
+          },
+          "now": {
+            "winprob": 9.22,
+            "forecast": 45.33909,
+            "hi": 49.82851,
+            "lo": 40.80749,
+            "poll_avg": 39.01075,
+            "likely_adjust": 0.2318802,
+            "trend_adjust": 0.0406342,
+            "house_adjust": -0.6433983,
+            "adj_avg": 38.63987,
+            "undecided_adjust": 6.699219,
+            "reallocate_avg": 45.33909,
+            "demo_regress": 45.33909,
+            "demo_weight": 0.0,
+            "snapshot": 45.33909
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 93.47999999999999,
+            "forecast": 54.87906,
+            "hi": 58.8139,
+            "lo": 50.8807,
+            "poll_avg": 47.39357,
+            "likely_adjust": 0.8176155,
+            "trend_adjust": 0.7599831,
+            "house_adjust": -0.4936028,
+            "adj_avg": 48.47757,
+            "undecided_adjust": 6.310593,
+            "reallocate_avg": 54.78816,
+            "demo_regress": 55.31026,
+            "demo_weight": 17.40981,
+            "snapshot": 54.87906
+          },
+          "polls": {
+            "winprob": 90.78,
+            "forecast": 54.66091,
+            "hi": 59.19251,
+            "lo": 50.17149,
+            "poll_avg": 47.39357,
+            "likely_adjust": 0.3068275,
+            "trend_adjust": 0.8097305,
+            "house_adjust": -0.548439,
+            "adj_avg": 47.96169,
+            "undecided_adjust": 6.699219,
+            "reallocate_avg": 54.66091,
+            "demo_regress": 54.66091,
+            "demo_weight": 0.0,
+            "snapshot": 54.66091
+          },
+          "now": {
+            "winprob": 90.78,
+            "forecast": 54.66091,
+            "hi": 59.19251,
+            "lo": 50.17149,
+            "poll_avg": 47.39357,
+            "likely_adjust": 0.3068275,
+            "trend_adjust": 0.8097305,
+            "house_adjust": -0.548439,
+            "adj_avg": 47.96169,
+            "undecided_adjust": 6.699219,
+            "reallocate_avg": 54.66091,
+            "demo_regress": 54.66091,
+            "demo_weight": 0.0,
+            "snapshot": 54.66091
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 5.865,
+            "forecast": 44.88886,
+            "hi": 48.85392,
+            "lo": 40.94487,
+            "poll_avg": 38.58579
+          },
+          "now": {
+            "winprob": 5.515,
+            "forecast": 44.95407,
+            "hi": 48.86305,
+            "lo": 41.09663,
+            "poll_avg": 38.70263
+          },
+          "polls": {
+            "winprob": 8.62,
+            "forecast": 45.12845,
+            "hi": 49.62706,
+            "lo": 40.5871,
+            "poll_avg": 38.45708
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 94.135,
+            "forecast": 55.11114,
+            "hi": 59.05513,
+            "lo": 51.14608,
+            "poll_avg": 48.68765
+          },
+          "now": {
+            "winprob": 94.485,
+            "forecast": 55.04593,
+            "hi": 58.90337,
+            "lo": 51.13695,
+            "poll_avg": 48.68659
+          },
+          "polls": {
+            "winprob": 91.38,
+            "forecast": 54.87155,
+            "hi": 59.4129,
+            "lo": 50.37294,
+            "poll_avg": 48.20018
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 6.800000000000001,
+            "forecast": 44.93472,
+            "hi": 49.10877,
+            "lo": 40.81303,
+            "poll_avg": 37.71617
+          },
+          "now": {
+            "winprob": 6.510000000000001,
+            "forecast": 44.95278,
+            "hi": 49.11132,
+            "lo": 40.8232,
+            "poll_avg": 37.7747
+          },
+          "polls": {
+            "winprob": 9.405,
+            "forecast": 45.05899,
+            "hi": 49.82516,
+            "lo": 40.27258,
+            "poll_avg": 37.52216
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 93.2,
+            "forecast": 55.06528,
+            "hi": 59.18697,
+            "lo": 50.89123,
+            "poll_avg": 47.99059
+          },
+          "now": {
+            "winprob": 93.49,
+            "forecast": 55.04722,
+            "hi": 59.1768,
+            "lo": 50.88868,
+            "poll_avg": 47.99679
+          },
+          "polls": {
+            "winprob": 90.595,
+            "forecast": 54.94101,
+            "hi": 59.72742,
+            "lo": 50.17484,
+            "poll_avg": 47.40419
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 5.74,
+            "forecast": 44.7768,
+            "hi": 48.83526,
+            "lo": 40.71285,
+            "poll_avg": 37.9424
+          },
+          "now": {
+            "winprob": 5.605,
+            "forecast": 44.71443,
+            "hi": 48.76787,
+            "lo": 40.69223,
+            "poll_avg": 37.90187
+          },
+          "polls": {
+            "winprob": 8.515,
+            "forecast": 44.92386,
+            "hi": 49.6061,
+            "lo": 40.30219,
+            "poll_avg": 37.78642
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 94.26,
+            "forecast": 55.2232,
+            "hi": 59.28715,
+            "lo": 51.16474,
+            "poll_avg": 48.51414
+          },
+          "now": {
+            "winprob": 94.395,
+            "forecast": 55.28557,
+            "hi": 59.30777,
+            "lo": 51.23213,
+            "poll_avg": 48.59225
+          },
+          "polls": {
+            "winprob": 91.485,
+            "forecast": 55.07614,
+            "hi": 59.69781,
+            "lo": 50.3939,
+            "poll_avg": 47.93871
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 6.83,
+            "forecast": 45.1469,
+            "hi": 49.18621,
+            "lo": 41.11626,
+            "poll_avg": 38.46459
+          },
+          "now": {
+            "winprob": 6.3950000000000005,
+            "forecast": 45.10464,
+            "hi": 49.08228,
+            "lo": 41.12599,
+            "poll_avg": 38.40767
+          },
+          "polls": {
+            "winprob": 9.535,
+            "forecast": 45.20928,
+            "hi": 49.87994,
+            "lo": 40.57418,
+            "poll_avg": 38.10966
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 93.17,
+            "forecast": 54.8531,
+            "hi": 58.88374,
+            "lo": 50.81379,
+            "poll_avg": 48.31874
+          },
+          "now": {
+            "winprob": 93.605,
+            "forecast": 54.89536,
+            "hi": 58.87401,
+            "lo": 50.91772,
+            "poll_avg": 48.36341
+          },
+          "polls": {
+            "winprob": 90.46499999999999,
+            "forecast": 54.79072,
+            "hi": 59.42582,
+            "lo": 50.12006,
+            "poll_avg": 47.69109
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 9.229999999999999,
+            "forecast": 45.62696,
+            "hi": 49.82346,
+            "lo": 41.4594,
+            "poll_avg": 38.56171
+          },
+          "now": {
+            "winprob": 8.64,
+            "forecast": 45.62323,
+            "hi": 49.68279,
+            "lo": 41.53025,
+            "poll_avg": 38.51203
+          },
+          "polls": {
+            "winprob": 12.45,
+            "forecast": 45.75339,
+            "hi": 50.57185,
+            "lo": 41.03965,
+            "poll_avg": 38.33378
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 90.77,
+            "forecast": 54.37304,
+            "hi": 58.5406,
+            "lo": 50.17654,
+            "poll_avg": 47.42323
+          },
+          "now": {
+            "winprob": 91.36,
+            "forecast": 54.37677,
+            "hi": 58.46975,
+            "lo": 50.31721,
+            "poll_avg": 47.39632
+          },
+          "polls": {
+            "winprob": 87.55,
+            "forecast": 54.24661,
+            "hi": 58.96035,
+            "lo": 49.42815,
+            "poll_avg": 46.827
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 6.544999999999999,
+            "forecast": 45.16688,
+            "hi": 49.14146,
+            "lo": 41.20587,
+            "poll_avg": 39.47107
+          },
+          "now": {
+            "winprob": 6.135,
+            "forecast": 45.17503,
+            "hi": 49.01774,
+            "lo": 41.41476,
+            "poll_avg": 39.51788
+          },
+          "polls": {
+            "winprob": 8.265,
+            "forecast": 45.05766,
+            "hi": 49.5358,
+            "lo": 40.56895,
+            "poll_avg": 39.12719
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 93.455,
+            "forecast": 54.83312,
+            "hi": 58.79413,
+            "lo": 50.85854,
+            "poll_avg": 49.58109
+          },
+          "now": {
+            "winprob": 93.865,
+            "forecast": 54.82497,
+            "hi": 58.58524,
+            "lo": 50.98226,
+            "poll_avg": 49.59684
+          },
+          "polls": {
+            "winprob": 91.735,
+            "forecast": 54.94234,
+            "hi": 59.43105,
+            "lo": 50.4642,
+            "poll_avg": 49.01186
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 6.460000000000001,
+            "forecast": 45.12284,
+            "hi": 49.12936,
+            "lo": 41.17097,
+            "poll_avg": 39.63582
+          },
+          "now": {
+            "winprob": 5.65,
+            "forecast": 45.08831,
+            "hi": 48.88581,
+            "lo": 41.33493,
+            "poll_avg": 39.7076
+          },
+          "polls": {
+            "winprob": 7.745,
+            "forecast": 44.96536,
+            "hi": 49.31863,
+            "lo": 40.61493,
+            "poll_avg": 39.51166
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 93.54,
+            "forecast": 54.87716,
+            "hi": 58.82903,
+            "lo": 50.87064,
+            "poll_avg": 49.87653
+          },
+          "now": {
+            "winprob": 94.35,
+            "forecast": 54.91169,
+            "hi": 58.66507,
+            "lo": 51.11419,
+            "poll_avg": 50.02249
+          },
+          "polls": {
+            "winprob": 92.255,
+            "forecast": 55.03464,
+            "hi": 59.38507,
+            "lo": 50.68137,
+            "poll_avg": 49.58094
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 11.78,
+            "forecast": 45.51384,
+            "hi": 50.38725,
+            "lo": 40.54226,
+            "poll_avg": 37.76566
+          },
+          "now": {
+            "winprob": 10.61,
+            "forecast": 45.41714,
+            "hi": 50.13604,
+            "lo": 40.75693,
+            "poll_avg": 37.83057
+          },
+          "polls": {
+            "winprob": 13.79,
+            "forecast": 45.55184,
+            "hi": 51.05134,
+            "lo": 40.04931,
+            "poll_avg": 37.44609
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 88.22,
+            "forecast": 54.48616,
+            "hi": 59.45774,
+            "lo": 49.61275,
+            "poll_avg": 47.12602
+          },
+          "now": {
+            "winprob": 89.39,
+            "forecast": 54.58286,
+            "hi": 59.24307,
+            "lo": 49.86396,
+            "poll_avg": 47.34063
+          },
+          "polls": {
+            "winprob": 86.21,
+            "forecast": 54.44816,
+            "hi": 59.95069,
+            "lo": 48.94866,
+            "poll_avg": 46.34241
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 25.415,
+            "forecast": 46.37029,
+            "hi": 53.87758,
+            "lo": 38.88359,
+            "poll_avg": 31.08713
+          },
+          "now": {
+            "winprob": 24.51,
+            "forecast": 46.36346,
+            "hi": 53.78549,
+            "lo": 39.03246,
+            "poll_avg": 31.09611
+          },
+          "polls": {
+            "winprob": 30.555,
+            "forecast": 46.87773,
+            "hi": 55.55694,
+            "lo": 38.1902,
+            "poll_avg": 30.40627
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 74.58500000000001,
+            "forecast": 53.62971,
+            "hi": 61.11641,
+            "lo": 46.12242,
+            "poll_avg": 38.28114
+          },
+          "now": {
+            "winprob": 75.49,
+            "forecast": 53.63654,
+            "hi": 60.96754,
+            "lo": 46.21451,
+            "poll_avg": 38.29772
+          },
+          "polls": {
+            "winprob": 69.44500000000001,
+            "forecast": 53.12227,
+            "hi": 61.8098,
+            "lo": 44.44306,
+            "poll_avg": 36.52747
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 25.564999999999998,
+            "forecast": 46.44501,
+            "hi": 54.00362,
+            "lo": 38.94246,
+            "poll_avg": 31.10836
+          },
+          "now": {
+            "winprob": 25.385,
+            "forecast": 46.50428,
+            "hi": 53.98955,
+            "lo": 39.06303,
+            "poll_avg": 31.11916
+          },
+          "polls": {
+            "winprob": 30.995,
+            "forecast": 46.98572,
+            "hi": 55.63974,
+            "lo": 38.34644,
+            "poll_avg": 30.3358
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 74.435,
+            "forecast": 53.55499,
+            "hi": 61.05754,
+            "lo": 45.99638,
+            "poll_avg": 38.16544
+          },
+          "now": {
+            "winprob": 74.615,
+            "forecast": 53.49572,
+            "hi": 60.93697,
+            "lo": 46.01045,
+            "poll_avg": 38.03516
+          },
+          "polls": {
+            "winprob": 69.00500000000001,
+            "forecast": 53.01428,
+            "hi": 61.65356,
+            "lo": 44.36026,
+            "poll_avg": 36.23484
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 25.88,
+            "forecast": 46.44627,
+            "hi": 54.01678,
+            "lo": 38.81362,
+            "poll_avg": 30.92819
+          },
+          "now": {
+            "winprob": 25.95,
+            "forecast": 46.56548,
+            "hi": 54.00539,
+            "lo": 39.11417,
+            "poll_avg": 30.91048
+          },
+          "polls": {
+            "winprob": 31.135,
+            "forecast": 46.94759,
+            "hi": 55.64054,
+            "lo": 38.27176,
+            "poll_avg": 30.14587
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 74.11999999999999,
+            "forecast": 53.55373,
+            "hi": 61.18638,
+            "lo": 45.98322,
+            "poll_avg": 37.97425
+          },
+          "now": {
+            "winprob": 74.05000000000001,
+            "forecast": 53.43452,
+            "hi": 60.88583,
+            "lo": 45.99461,
+            "poll_avg": 37.71873
+          },
+          "polls": {
+            "winprob": 68.865,
+            "forecast": 53.05241,
+            "hi": 61.72824,
+            "lo": 44.35946,
+            "poll_avg": 36.11978
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 26.68,
+            "forecast": 46.59034,
+            "hi": 54.40266,
+            "lo": 38.91983,
+            "poll_avg": 30.16051
+          },
+          "now": {
+            "winprob": 26.384999999999998,
+            "forecast": 46.5204,
+            "hi": 54.22448,
+            "lo": 38.80489,
+            "poll_avg": 29.95192
+          },
+          "polls": {
+            "winprob": 30.785,
+            "forecast": 46.81823,
+            "hi": 55.68159,
+            "lo": 37.91596,
+            "poll_avg": 29.41467
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 73.32,
+            "forecast": 53.40966,
+            "hi": 61.08017,
+            "lo": 45.59734,
+            "poll_avg": 37.66781
+          },
+          "now": {
+            "winprob": 73.615,
+            "forecast": 53.4796,
+            "hi": 61.19511,
+            "lo": 45.77552,
+            "poll_avg": 37.49876
+          },
+          "polls": {
+            "winprob": 69.215,
+            "forecast": 53.18177,
+            "hi": 62.08404,
+            "lo": 44.31841,
+            "poll_avg": 35.87373
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 26.155,
+            "forecast": 46.40336,
+            "hi": 54.16151,
+            "lo": 38.58102,
+            "poll_avg": 29.81729
+          },
+          "now": {
+            "winprob": 25.790000000000003,
+            "forecast": 46.38786,
+            "hi": 54.12199,
+            "lo": 38.6878,
+            "poll_avg": 29.64815
+          },
+          "polls": {
+            "winprob": 29.959999999999997,
+            "forecast": 46.66493,
+            "hi": 55.57846,
+            "lo": 37.65191,
+            "poll_avg": 29.05568
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 73.845,
+            "forecast": 53.59664,
+            "hi": 61.41898,
+            "lo": 45.83849,
+            "poll_avg": 37.66817
+          },
+          "now": {
+            "winprob": 74.21,
+            "forecast": 53.61214,
+            "hi": 61.3122,
+            "lo": 45.87801,
+            "poll_avg": 37.48385
+          },
+          "polls": {
+            "winprob": 70.04,
+            "forecast": 53.33507,
+            "hi": 62.34809,
+            "lo": 44.42154,
+            "poll_avg": 35.82586
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 26.784999999999997,
+            "forecast": 46.42155,
+            "hi": 54.50608,
+            "lo": 38.39761,
+            "poll_avg": 29.2435
+          },
+          "now": {
+            "winprob": 25.679999999999996,
+            "forecast": 46.29602,
+            "hi": 54.2809,
+            "lo": 38.4047,
+            "poll_avg": 28.85307
+          },
+          "polls": {
+            "winprob": 30.36,
+            "forecast": 46.68731,
+            "hi": 55.90807,
+            "lo": 37.37361,
+            "poll_avg": 28.39332
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 73.215,
+            "forecast": 53.57845,
+            "hi": 61.60239,
+            "lo": 45.49392,
+            "poll_avg": 37.15865
+          },
+          "now": {
+            "winprob": 74.32,
+            "forecast": 53.70398,
+            "hi": 61.5953,
+            "lo": 45.7191,
+            "poll_avg": 36.92622
+          },
+          "polls": {
+            "winprob": 69.64,
+            "forecast": 53.31269,
+            "hi": 62.62639,
+            "lo": 44.09193,
+            "poll_avg": 35.13058
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 28.27,
+            "forecast": 46.78668,
+            "hi": 54.63384,
+            "lo": 39.04751,
+            "poll_avg": 30.3207
+          },
+          "now": {
+            "winprob": 27.894999999999996,
+            "forecast": 46.78151,
+            "hi": 54.40862,
+            "lo": 39.07654,
+            "poll_avg": 30.14131
+          },
+          "polls": {
+            "winprob": 31.790000000000003,
+            "forecast": 46.98343,
+            "hi": 56.08913,
+            "lo": 38.02229,
+            "poll_avg": 29.53588
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 71.73,
+            "forecast": 53.21332,
+            "hi": 60.95249,
+            "lo": 45.36616,
+            "poll_avg": 37.61962
+          },
+          "now": {
+            "winprob": 72.10499999999999,
+            "forecast": 53.21849,
+            "hi": 60.92346,
+            "lo": 45.59138,
+            "poll_avg": 37.37494
+          },
+          "polls": {
+            "winprob": 68.21000000000001,
+            "forecast": 53.01657,
+            "hi": 61.97771,
+            "lo": 43.91087,
+            "poll_avg": 35.75337
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 26.384999999999998,
+            "forecast": 46.46799,
+            "hi": 54.18814,
+            "lo": 38.68794,
+            "poll_avg": 29.98095
+          },
+          "now": {
+            "winprob": 24.169999999999998,
+            "forecast": 46.17513,
+            "hi": 53.8732,
+            "lo": 38.46105,
+            "poll_avg": 29.46868
+          },
+          "polls": {
+            "winprob": 29.854999999999997,
+            "forecast": 46.70042,
+            "hi": 55.87809,
+            "lo": 37.71976,
+            "poll_avg": 29.08845
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 73.615,
+            "forecast": 53.53201,
+            "hi": 61.31206,
+            "lo": 45.81186,
+            "poll_avg": 37.86975
+          },
+          "now": {
+            "winprob": 75.83,
+            "forecast": 53.82487,
+            "hi": 61.53895,
+            "lo": 46.1268,
+            "poll_avg": 37.94624
+          },
+          "polls": {
+            "winprob": 70.145,
+            "forecast": 53.29958,
+            "hi": 62.28024,
+            "lo": 44.12191,
+            "poll_avg": 35.86619
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 26.884999999999998,
+            "forecast": 46.52187,
+            "hi": 54.33199,
+            "lo": 38.64243,
+            "poll_avg": 29.93828
+          },
+          "now": {
+            "winprob": 24.585,
+            "forecast": 46.24253,
+            "hi": 54.03294,
+            "lo": 38.52812,
+            "poll_avg": 29.51035
+          },
+          "polls": {
+            "winprob": 30.055,
+            "forecast": 46.70085,
+            "hi": 55.68353,
+            "lo": 37.82087,
+            "poll_avg": 29.08396
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 73.115,
+            "forecast": 53.47813,
+            "hi": 61.35757,
+            "lo": 45.66801,
+            "poll_avg": 37.76527
+          },
+          "now": {
+            "winprob": 75.41499999999999,
+            "forecast": 53.75747,
+            "hi": 61.47188,
+            "lo": 45.96706,
+            "poll_avg": 37.83222
+          },
+          "polls": {
+            "winprob": 69.94500000000001,
+            "forecast": 53.29915,
+            "hi": 62.17913,
+            "lo": 44.31647,
+            "poll_avg": 35.86565
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 26.11,
+            "forecast": 46.49346,
+            "hi": 54.385,
+            "lo": 38.7328,
+            "poll_avg": 29.9355
+          },
+          "now": {
+            "winprob": 24.275,
+            "forecast": 46.14251,
+            "hi": 53.82067,
+            "lo": 38.55563,
+            "poll_avg": 29.48192
+          },
+          "polls": {
+            "winprob": 30.3,
+            "forecast": 46.71685,
+            "hi": 55.75262,
+            "lo": 37.76103,
+            "poll_avg": 29.13232
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 73.89,
+            "forecast": 53.50654,
+            "hi": 61.2672,
+            "lo": 45.615,
+            "poll_avg": 37.78497
+          },
+          "now": {
+            "winprob": 75.725,
+            "forecast": 53.85749,
+            "hi": 61.44437,
+            "lo": 46.17933,
+            "poll_avg": 38.03113
+          },
+          "polls": {
+            "winprob": 69.69999999999999,
+            "forecast": 53.28315,
+            "hi": 62.23897,
+            "lo": 44.24738,
+            "poll_avg": 35.85858
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 26.515,
+            "forecast": 46.46191,
+            "hi": 54.27433,
+            "lo": 38.82685,
+            "poll_avg": 29.99763
+          },
+          "now": {
+            "winprob": 23.025000000000002,
+            "forecast": 46.00779,
+            "hi": 53.60908,
+            "lo": 38.49153,
+            "poll_avg": 29.57212
+          },
+          "polls": {
+            "winprob": 28.294999999999998,
+            "forecast": 46.41541,
+            "hi": 55.2044,
+            "lo": 37.61817,
+            "poll_avg": 29.26746
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 73.485,
+            "forecast": 53.53809,
+            "hi": 61.17315,
+            "lo": 45.72567,
+            "poll_avg": 38.40527
+          },
+          "now": {
+            "winprob": 76.97500000000001,
+            "forecast": 53.99221,
+            "hi": 61.50847,
+            "lo": 46.39092,
+            "poll_avg": 38.8179
+          },
+          "polls": {
+            "winprob": 71.705,
+            "forecast": 53.58459,
+            "hi": 62.38183,
+            "lo": 44.7956,
+            "poll_avg": 36.79094
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 26.58,
+            "forecast": 46.58382,
+            "hi": 54.32744,
+            "lo": 38.85568,
+            "poll_avg": 30.11909
+          },
+          "now": {
+            "winprob": 25.03,
+            "forecast": 46.32774,
+            "hi": 54.01774,
+            "lo": 38.74108,
+            "poll_avg": 29.76032
+          },
+          "polls": {
+            "winprob": 29.104999999999997,
+            "forecast": 46.56771,
+            "hi": 55.43377,
+            "lo": 37.7686,
+            "poll_avg": 29.42599
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 73.42,
+            "forecast": 53.41618,
+            "hi": 61.14432,
+            "lo": 45.67256,
+            "poll_avg": 38.43221
+          },
+          "now": {
+            "winprob": 74.97,
+            "forecast": 53.67226,
+            "hi": 61.25892,
+            "lo": 45.98226,
+            "poll_avg": 38.37819
+          },
+          "polls": {
+            "winprob": 70.895,
+            "forecast": 53.43229,
+            "hi": 62.2314,
+            "lo": 44.56623,
+            "poll_avg": 36.67111
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 27.02,
+            "forecast": 46.53469,
+            "hi": 54.33775,
+            "lo": 38.77706,
+            "poll_avg": 30.03953
+          },
+          "now": {
+            "winprob": 26.3,
+            "forecast": 46.55727,
+            "hi": 54.31562,
+            "lo": 38.8849,
+            "poll_avg": 29.604
+          },
+          "polls": {
+            "winprob": 30.085,
+            "forecast": 46.64603,
+            "hi": 55.61751,
+            "lo": 37.74236,
+            "poll_avg": 29.1566
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 72.98,
+            "forecast": 53.46531,
+            "hi": 61.22294,
+            "lo": 45.66225,
+            "poll_avg": 38.24001
+          },
+          "now": {
+            "winprob": 73.7,
+            "forecast": 53.44273,
+            "hi": 61.1151,
+            "lo": 45.68438,
+            "poll_avg": 37.62684
+          },
+          "polls": {
+            "winprob": 69.915,
+            "forecast": 53.35397,
+            "hi": 62.25764,
+            "lo": 44.38249,
+            "poll_avg": 36.15527
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 13.045000000000002,
+            "forecast": 45.45864,
+            "hi": 50.71148,
+            "lo": 40.16459,
+            "poll_avg": 39.37022
+          },
+          "now": {
+            "winprob": 12.385,
+            "forecast": 45.50833,
+            "hi": 50.59392,
+            "lo": 40.50607,
+            "poll_avg": 39.76703
+          },
+          "polls": {
+            "winprob": 13.475000000000001,
+            "forecast": 45.32877,
+            "hi": 50.9365,
+            "lo": 39.82657,
+            "poll_avg": 38.7557
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 86.955,
+            "forecast": 54.54136,
+            "hi": 59.83541,
+            "lo": 49.28852,
+            "poll_avg": 51.60901
+          },
+          "now": {
+            "winprob": 87.615,
+            "forecast": 54.49167,
+            "hi": 59.49393,
+            "lo": 49.40608,
+            "poll_avg": 52.01698
+          },
+          "polls": {
+            "winprob": 86.52499999999999,
+            "forecast": 54.67123,
+            "hi": 60.17343,
+            "lo": 49.0635,
+            "poll_avg": 50.34176
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 12.084999999999999,
+            "forecast": 45.25412,
+            "hi": 50.48267,
+            "lo": 40.03709,
+            "poll_avg": 40.22124
+          },
+          "now": {
+            "winprob": 11.165,
+            "forecast": 45.29444,
+            "hi": 50.3217,
+            "lo": 40.37251,
+            "poll_avg": 40.52605
+          },
+          "polls": {
+            "winprob": 12.525,
+            "forecast": 45.21711,
+            "hi": 50.65006,
+            "lo": 39.78919,
+            "poll_avg": 39.65503
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 87.91499999999999,
+            "forecast": 54.74588,
+            "hi": 59.96291,
+            "lo": 49.51733,
+            "poll_avg": 52.59982
+          },
+          "now": {
+            "winprob": 88.835,
+            "forecast": 54.70556,
+            "hi": 59.62749,
+            "lo": 49.6783,
+            "poll_avg": 52.9085
+          },
+          "polls": {
+            "winprob": 87.47500000000001,
+            "forecast": 54.78289,
+            "hi": 60.21081,
+            "lo": 49.34994,
+            "poll_avg": 51.213
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 11.405,
+            "forecast": 45.1138,
+            "hi": 50.39835,
+            "lo": 39.85635,
+            "poll_avg": 40.36541
+          },
+          "now": {
+            "winprob": 10.209999999999999,
+            "forecast": 45.09398,
+            "hi": 50.05936,
+            "lo": 40.18382,
+            "poll_avg": 40.78618
+          },
+          "polls": {
+            "winprob": 12.120000000000001,
+            "forecast": 45.09193,
+            "hi": 50.59165,
+            "lo": 39.72226,
+            "poll_avg": 39.77666
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 88.595,
+            "forecast": 54.8862,
+            "hi": 60.14365,
+            "lo": 49.60165,
+            "poll_avg": 53.0905
+          },
+          "now": {
+            "winprob": 89.79,
+            "forecast": 54.90602,
+            "hi": 59.81618,
+            "lo": 49.94064,
+            "poll_avg": 53.70906
+          },
+          "polls": {
+            "winprob": 87.88,
+            "forecast": 54.90807,
+            "hi": 60.27774,
+            "lo": 49.40835,
+            "poll_avg": 51.61353
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 10.545,
+            "forecast": 44.96981,
+            "hi": 50.15788,
+            "lo": 39.78323,
+            "poll_avg": 40.18819
+          },
+          "now": {
+            "winprob": 9.28,
+            "forecast": 44.94569,
+            "hi": 49.83228,
+            "lo": 40.09974,
+            "poll_avg": 40.64049
+          },
+          "polls": {
+            "winprob": 11.44,
+            "forecast": 44.98037,
+            "hi": 50.38163,
+            "lo": 39.56131,
+            "poll_avg": 39.68035
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 89.455,
+            "forecast": 55.03019,
+            "hi": 60.21677,
+            "lo": 49.84212,
+            "poll_avg": 53.29308
+          },
+          "now": {
+            "winprob": 90.72,
+            "forecast": 55.05431,
+            "hi": 59.90026,
+            "lo": 50.16772,
+            "poll_avg": 53.86721
+          },
+          "polls": {
+            "winprob": 88.56,
+            "forecast": 55.01963,
+            "hi": 60.43869,
+            "lo": 49.61837,
+            "poll_avg": 51.76799
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 11.254999999999999,
+            "forecast": 45.11858,
+            "hi": 50.33222,
+            "lo": 39.92436,
+            "poll_avg": 40.31815
+          },
+          "now": {
+            "winprob": 10.209999999999999,
+            "forecast": 45.06855,
+            "hi": 50.03947,
+            "lo": 40.14887,
+            "poll_avg": 40.67935
+          },
+          "polls": {
+            "winprob": 11.995000000000001,
+            "forecast": 45.06791,
+            "hi": 50.59689,
+            "lo": 39.66451,
+            "poll_avg": 39.73569
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 88.74499999999999,
+            "forecast": 54.88142,
+            "hi": 60.07564,
+            "lo": 49.66778,
+            "poll_avg": 53.04684
+          },
+          "now": {
+            "winprob": 89.79,
+            "forecast": 54.93145,
+            "hi": 59.85113,
+            "lo": 49.96053,
+            "poll_avg": 53.63256
+          },
+          "polls": {
+            "winprob": 88.005,
+            "forecast": 54.93209,
+            "hi": 60.33549,
+            "lo": 49.40311,
+            "poll_avg": 51.6781
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 10.14,
+            "forecast": 44.7265,
+            "hi": 50.0386,
+            "lo": 39.41446,
+            "poll_avg": 39.58847
+          },
+          "now": {
+            "winprob": 8.58,
+            "forecast": 44.67035,
+            "hi": 49.60731,
+            "lo": 39.72109,
+            "poll_avg": 39.88888
+          },
+          "polls": {
+            "winprob": 10.9,
+            "forecast": 44.72317,
+            "hi": 50.25745,
+            "lo": 39.26094,
+            "poll_avg": 38.95615
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 89.86,
+            "forecast": 55.2735,
+            "hi": 60.58554,
+            "lo": 49.9614,
+            "poll_avg": 52.92497
+          },
+          "now": {
+            "winprob": 91.42,
+            "forecast": 55.32965,
+            "hi": 60.27891,
+            "lo": 50.39269,
+            "poll_avg": 53.52504
+          },
+          "polls": {
+            "winprob": 89.1,
+            "forecast": 55.27683,
+            "hi": 60.73906,
+            "lo": 49.74255,
+            "poll_avg": 51.47267
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 9.934999999999999,
+            "forecast": 44.67079,
+            "hi": 49.98277,
+            "lo": 39.43629,
+            "poll_avg": 39.89831
+          },
+          "now": {
+            "winprob": 8.434999999999999,
+            "forecast": 44.65555,
+            "hi": 49.55082,
+            "lo": 39.77325,
+            "poll_avg": 40.21576
+          },
+          "polls": {
+            "winprob": 10.77,
+            "forecast": 44.71357,
+            "hi": 50.2559,
+            "lo": 39.20864,
+            "poll_avg": 39.26193
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 90.065,
+            "forecast": 55.32921,
+            "hi": 60.56371,
+            "lo": 50.01723,
+            "poll_avg": 52.99402
+          },
+          "now": {
+            "winprob": 91.565,
+            "forecast": 55.34445,
+            "hi": 60.22675,
+            "lo": 50.44918,
+            "poll_avg": 53.416
+          },
+          "polls": {
+            "winprob": 89.23,
+            "forecast": 55.28643,
+            "hi": 60.79136,
+            "lo": 49.7441,
+            "poll_avg": 51.40089
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 9.07,
+            "forecast": 44.51611,
+            "hi": 49.73363,
+            "lo": 39.34738,
+            "poll_avg": 39.81649
+          },
+          "now": {
+            "winprob": 6.529999999999999,
+            "forecast": 44.16354,
+            "hi": 48.98056,
+            "lo": 39.36024,
+            "poll_avg": 40.1157
+          },
+          "polls": {
+            "winprob": 10.31,
+            "forecast": 44.56633,
+            "hi": 50.09071,
+            "lo": 39.11797,
+            "poll_avg": 39.26578
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 90.93,
+            "forecast": 55.48389,
+            "hi": 60.65262,
+            "lo": 50.26637,
+            "poll_avg": 53.01175
+          },
+          "now": {
+            "winprob": 93.47,
+            "forecast": 55.83646,
+            "hi": 60.63976,
+            "lo": 51.01944,
+            "poll_avg": 54.13353
+          },
+          "polls": {
+            "winprob": 89.69,
+            "forecast": 55.43367,
+            "hi": 60.88203,
+            "lo": 49.90929,
+            "poll_avg": 51.66757
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 8.63,
+            "forecast": 44.38322,
+            "hi": 49.5972,
+            "lo": 39.24356,
+            "poll_avg": 40.0089
+          },
+          "now": {
+            "winprob": 6.055,
+            "forecast": 43.9702,
+            "hi": 48.69058,
+            "lo": 39.22757,
+            "poll_avg": 40.40258
+          },
+          "polls": {
+            "winprob": 9.75,
+            "forecast": 44.47156,
+            "hi": 49.93584,
+            "lo": 38.98272,
+            "poll_avg": 39.40324
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 91.36999999999999,
+            "forecast": 55.61678,
+            "hi": 60.75644,
+            "lo": 50.4028,
+            "poll_avg": 53.3962
+          },
+          "now": {
+            "winprob": 93.94500000000001,
+            "forecast": 56.0298,
+            "hi": 60.77243,
+            "lo": 51.30942,
+            "poll_avg": 54.62773
+          },
+          "polls": {
+            "winprob": 90.25,
+            "forecast": 55.52844,
+            "hi": 61.01728,
+            "lo": 50.06416,
+            "poll_avg": 51.85599
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 9.885,
+            "forecast": 44.72483,
+            "hi": 49.97779,
+            "lo": 39.4959,
+            "poll_avg": 40.16916
+          },
+          "now": {
+            "winprob": 7.46,
+            "forecast": 44.40148,
+            "hi": 49.21896,
+            "lo": 39.60376,
+            "poll_avg": 40.48684
+          },
+          "polls": {
+            "winprob": 10.825,
+            "forecast": 44.73994,
+            "hi": 50.25559,
+            "lo": 39.16755,
+            "poll_avg": 39.55533
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 90.115,
+            "forecast": 55.27517,
+            "hi": 60.5041,
+            "lo": 50.02221,
+            "poll_avg": 53.04258
+          },
+          "now": {
+            "winprob": 92.54,
+            "forecast": 55.59852,
+            "hi": 60.39624,
+            "lo": 50.78104,
+            "poll_avg": 54.14375
+          },
+          "polls": {
+            "winprob": 89.17500000000001,
+            "forecast": 55.26006,
+            "hi": 60.83245,
+            "lo": 49.74441,
+            "poll_avg": 51.65836
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 8.95,
+            "forecast": 44.46669,
+            "hi": 49.70811,
+            "lo": 39.28015,
+            "poll_avg": 40.00399
+          },
+          "now": {
+            "winprob": 5.99,
+            "forecast": 43.95383,
+            "hi": 48.76489,
+            "lo": 39.16712,
+            "poll_avg": 40.35905
+          },
+          "polls": {
+            "winprob": 10.18,
+            "forecast": 44.50924,
+            "hi": 50.05067,
+            "lo": 39.03519,
+            "poll_avg": 39.43427
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 91.05,
+            "forecast": 55.53331,
+            "hi": 60.71985,
+            "lo": 50.29189,
+            "poll_avg": 53.46474
+          },
+          "now": {
+            "winprob": 94.01,
+            "forecast": 56.04617,
+            "hi": 60.83288,
+            "lo": 51.23511,
+            "poll_avg": 54.76414
+          },
+          "polls": {
+            "winprob": 89.82,
+            "forecast": 55.49076,
+            "hi": 60.96481,
+            "lo": 49.94933,
+            "poll_avg": 52.00916
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 9.1,
+            "forecast": 44.47683,
+            "hi": 49.72739,
+            "lo": 39.33199,
+            "poll_avg": 40.00785
+          },
+          "now": {
+            "winprob": 5.734999999999999,
+            "forecast": 43.7984,
+            "hi": 48.51825,
+            "lo": 39.08845,
+            "poll_avg": 40.20456
+          },
+          "polls": {
+            "winprob": 9.745,
+            "forecast": 44.46984,
+            "hi": 49.92523,
+            "lo": 38.98827,
+            "poll_avg": 39.38959
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 90.9,
+            "forecast": 55.52317,
+            "hi": 60.66801,
+            "lo": 50.27261,
+            "poll_avg": 53.40899
+          },
+          "now": {
+            "winprob": 94.265,
+            "forecast": 56.2016,
+            "hi": 60.91155,
+            "lo": 51.48175,
+            "poll_avg": 54.90508
+          },
+          "polls": {
+            "winprob": 90.255,
+            "forecast": 55.53016,
+            "hi": 61.01173,
+            "lo": 50.07477,
+            "poll_avg": 52.0274
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 10.595,
+            "forecast": 44.97035,
+            "hi": 50.1623,
+            "lo": 39.74038,
+            "poll_avg": 40.31784
+          },
+          "now": {
+            "winprob": 8.615,
+            "forecast": 44.77988,
+            "hi": 49.62521,
+            "lo": 39.97333,
+            "poll_avg": 40.97165
+          },
+          "polls": {
+            "winprob": 11.725,
+            "forecast": 44.99366,
+            "hi": 50.46375,
+            "lo": 39.51844,
+            "poll_avg": 39.77293
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 89.405,
+            "forecast": 55.02965,
+            "hi": 60.25962,
+            "lo": 49.8377,
+            "poll_avg": 52.6671
+          },
+          "now": {
+            "winprob": 91.385,
+            "forecast": 55.22012,
+            "hi": 60.02667,
+            "lo": 50.37479,
+            "poll_avg": 53.82249
+          },
+          "polls": {
+            "winprob": 88.275,
+            "forecast": 55.00634,
+            "hi": 60.48156,
+            "lo": 49.53625,
+            "poll_avg": 51.39166
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 11.425,
+            "forecast": 45.08223,
+            "hi": 50.38609,
+            "lo": 39.85762,
+            "poll_avg": 40.34685
+          },
+          "now": {
+            "winprob": 9.33,
+            "forecast": 45.01109,
+            "hi": 49.79631,
+            "lo": 40.22897,
+            "poll_avg": 40.98576
+          },
+          "polls": {
+            "winprob": 12.559999999999999,
+            "forecast": 45.12556,
+            "hi": 50.63177,
+            "lo": 39.56728,
+            "poll_avg": 39.70433
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 88.575,
+            "forecast": 54.91777,
+            "hi": 60.14238,
+            "lo": 49.61391,
+            "poll_avg": 52.48514
+          },
+          "now": {
+            "winprob": 90.67,
+            "forecast": 54.98891,
+            "hi": 59.77103,
+            "lo": 50.20369,
+            "poll_avg": 53.31948
+          },
+          "polls": {
+            "winprob": 87.44,
+            "forecast": 54.87444,
+            "hi": 60.43272,
+            "lo": 49.36823,
+            "poll_avg": 51.05453
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 10.605,
+            "forecast": 44.92534,
+            "hi": 50.14792,
+            "lo": 39.6881,
+            "poll_avg": 39.97495
+          },
+          "now": {
+            "winprob": 8.709999999999999,
+            "forecast": 44.85038,
+            "hi": 49.66059,
+            "lo": 40.06255,
+            "poll_avg": 40.54185
+          },
+          "polls": {
+            "winprob": 12.084999999999999,
+            "forecast": 44.9826,
+            "hi": 50.54261,
+            "lo": 39.4506,
+            "poll_avg": 39.28407
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 89.395,
+            "forecast": 55.07466,
+            "hi": 60.3119,
+            "lo": 49.85208,
+            "poll_avg": 52.4417
+          },
+          "now": {
+            "winprob": 91.29,
+            "forecast": 55.14962,
+            "hi": 59.93745,
+            "lo": 50.33941,
+            "poll_avg": 53.32957
+          },
+          "polls": {
+            "winprob": 87.91499999999999,
+            "forecast": 55.0174,
+            "hi": 60.5494,
+            "lo": 49.45739,
+            "poll_avg": 50.90783
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 10.05,
+            "forecast": 44.58477,
+            "hi": 50.01201,
+            "lo": 39.23331,
+            "poll_avg": 39.27245
+          },
+          "now": {
+            "winprob": 7.2749999999999995,
+            "forecast": 44.2945,
+            "hi": 49.19193,
+            "lo": 39.4125,
+            "poll_avg": 39.56491
+          },
+          "polls": {
+            "winprob": 10.77,
+            "forecast": 44.57375,
+            "hi": 50.18896,
+            "lo": 38.86765,
+            "poll_avg": 38.57706
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 89.95,
+            "forecast": 55.41523,
+            "hi": 60.76669,
+            "lo": 49.98799,
+            "poll_avg": 52.47403
+          },
+          "now": {
+            "winprob": 92.72500000000001,
+            "forecast": 55.7055,
+            "hi": 60.5875,
+            "lo": 50.80807,
+            "poll_avg": 53.48894
+          },
+          "polls": {
+            "winprob": 89.23,
+            "forecast": 55.42625,
+            "hi": 61.13235,
+            "lo": 49.81104,
+            "poll_avg": 51.04438
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 9.81,
+            "forecast": 44.63486,
+            "hi": 49.93262,
+            "lo": 39.31275,
+            "poll_avg": 39.3996
+          },
+          "now": {
+            "winprob": 7.155,
+            "forecast": 44.31374,
+            "hi": 49.1204,
+            "lo": 39.51324,
+            "poll_avg": 39.70426
+          },
+          "polls": {
+            "winprob": 11.175,
+            "forecast": 44.65534,
+            "hi": 50.35239,
+            "lo": 39.045,
+            "poll_avg": 38.66007
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 90.19,
+            "forecast": 55.36514,
+            "hi": 60.68725,
+            "lo": 50.06738,
+            "poll_avg": 52.51812
+          },
+          "now": {
+            "winprob": 92.845,
+            "forecast": 55.68626,
+            "hi": 60.48676,
+            "lo": 50.8796,
+            "poll_avg": 53.4748
+          },
+          "polls": {
+            "winprob": 88.825,
+            "forecast": 55.34466,
+            "hi": 60.955,
+            "lo": 49.64761,
+            "poll_avg": 50.96234
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 9.959999999999999,
+            "forecast": 44.59733,
+            "hi": 49.98179,
+            "lo": 39.25191,
+            "poll_avg": 39.30013
+          },
+          "now": {
+            "winprob": 7.105,
+            "forecast": 44.2723,
+            "hi": 49.07846,
+            "lo": 39.45182,
+            "poll_avg": 39.69624
+          },
+          "polls": {
+            "winprob": 11.175,
+            "forecast": 44.65534,
+            "hi": 50.35239,
+            "lo": 39.045,
+            "poll_avg": 38.66007
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 90.03999999999999,
+            "forecast": 55.40267,
+            "hi": 60.74809,
+            "lo": 50.01821,
+            "poll_avg": 52.55031
+          },
+          "now": {
+            "winprob": 92.89500000000001,
+            "forecast": 55.7277,
+            "hi": 60.54818,
+            "lo": 50.92154,
+            "poll_avg": 53.66141
+          },
+          "polls": {
+            "winprob": 88.825,
+            "forecast": 55.34466,
+            "hi": 60.955,
+            "lo": 49.64761,
+            "poll_avg": 50.96234
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 13.255,
+            "forecast": 45.42474,
+            "hi": 50.81284,
+            "lo": 40.11332,
+            "poll_avg": 40.17483
+          },
+          "now": {
+            "winprob": 10.805,
+            "forecast": 45.3255,
+            "hi": 50.20622,
+            "lo": 40.49135,
+            "poll_avg": 40.69499
+          },
+          "polls": {
+            "winprob": 14.330000000000002,
+            "forecast": 45.45084,
+            "hi": 51.06381,
+            "lo": 39.79785,
+            "poll_avg": 39.52914
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 86.745,
+            "forecast": 54.57526,
+            "hi": 59.88668,
+            "lo": 49.18716,
+            "poll_avg": 51.61956
+          },
+          "now": {
+            "winprob": 89.19500000000001,
+            "forecast": 54.6745,
+            "hi": 59.50865,
+            "lo": 49.79378,
+            "poll_avg": 52.44428
+          },
+          "polls": {
+            "winprob": 85.67,
+            "forecast": 54.54916,
+            "hi": 60.20215,
+            "lo": 48.93619,
+            "poll_avg": 50.18252
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 11.87,
+            "forecast": 45.19324,
+            "hi": 50.49755,
+            "lo": 39.90845,
+            "poll_avg": 40.36247
+          },
+          "now": {
+            "winprob": 9.245000000000001,
+            "forecast": 45.02753,
+            "hi": 49.8165,
+            "lo": 40.22242,
+            "poll_avg": 40.68057
+          },
+          "polls": {
+            "winprob": 12.934999999999999,
+            "forecast": 45.20492,
+            "hi": 50.79132,
+            "lo": 39.71023,
+            "poll_avg": 39.58134
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 88.13,
+            "forecast": 54.80676,
+            "hi": 60.09155,
+            "lo": 49.50245,
+            "poll_avg": 52.32872
+          },
+          "now": {
+            "winprob": 90.755,
+            "forecast": 54.97247,
+            "hi": 59.77758,
+            "lo": 50.1835,
+            "poll_avg": 53.0828
+          },
+          "polls": {
+            "winprob": 87.065,
+            "forecast": 54.79508,
+            "hi": 60.28977,
+            "lo": 49.20868,
+            "poll_avg": 50.77772
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 10.725,
+            "forecast": 44.84559,
+            "hi": 50.17756,
+            "lo": 39.56149,
+            "poll_avg": 39.96626
+          },
+          "now": {
+            "winprob": 7.68,
+            "forecast": 44.56195,
+            "hi": 49.38847,
+            "lo": 39.78379,
+            "poll_avg": 40.2949
+          },
+          "polls": {
+            "winprob": 12.15,
+            "forecast": 44.88039,
+            "hi": 50.56738,
+            "lo": 39.20422,
+            "poll_avg": 39.26458
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 89.275,
+            "forecast": 55.15441,
+            "hi": 60.43851,
+            "lo": 49.82244,
+            "poll_avg": 52.33758
+          },
+          "now": {
+            "winprob": 92.32000000000001,
+            "forecast": 55.43805,
+            "hi": 60.21621,
+            "lo": 50.61153,
+            "poll_avg": 53.28183
+          },
+          "polls": {
+            "winprob": 87.85,
+            "forecast": 55.11961,
+            "hi": 60.79578,
+            "lo": 49.43262,
+            "poll_avg": 50.8984
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 10.735,
+            "forecast": 44.91347,
+            "hi": 50.1723,
+            "lo": 39.64686,
+            "poll_avg": 40.24933
+          },
+          "now": {
+            "winprob": 7.925,
+            "forecast": 44.66285,
+            "hi": 49.4139,
+            "lo": 39.86367,
+            "poll_avg": 40.73007
+          },
+          "polls": {
+            "winprob": 12.29,
+            "forecast": 44.99863,
+            "hi": 50.61555,
+            "lo": 39.35672,
+            "poll_avg": 39.70156
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 89.265,
+            "forecast": 55.08653,
+            "hi": 60.35314,
+            "lo": 49.8277,
+            "poll_avg": 52.35187
+          },
+          "now": {
+            "winprob": 92.07499999999999,
+            "forecast": 55.33715,
+            "hi": 60.13633,
+            "lo": 50.5861,
+            "poll_avg": 53.39981
+          },
+          "polls": {
+            "winprob": 87.71,
+            "forecast": 55.00137,
+            "hi": 60.64328,
+            "lo": 49.38445,
+            "poll_avg": 50.99112
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 10.165000000000001,
+            "forecast": 44.72596,
+            "hi": 50.05406,
+            "lo": 39.42396,
+            "poll_avg": 40.14998
+          },
+          "now": {
+            "winprob": 6.815,
+            "forecast": 44.33207,
+            "hi": 49.03772,
+            "lo": 39.62633,
+            "poll_avg": 40.27922
+          },
+          "polls": {
+            "winprob": 11.469999999999999,
+            "forecast": 44.80768,
+            "hi": 50.36207,
+            "lo": 39.25983,
+            "poll_avg": 39.40022
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 89.835,
+            "forecast": 55.27404,
+            "hi": 60.57604,
+            "lo": 49.94594,
+            "poll_avg": 52.78102
+          },
+          "now": {
+            "winprob": 93.185,
+            "forecast": 55.66793,
+            "hi": 60.37367,
+            "lo": 50.96228,
+            "poll_avg": 53.69343
+          },
+          "polls": {
+            "winprob": 88.53,
+            "forecast": 55.19232,
+            "hi": 60.74017,
+            "lo": 49.63793,
+            "poll_avg": 51.16404
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 11.29,
+            "forecast": 45.04703,
+            "hi": 50.30161,
+            "lo": 39.88467,
+            "poll_avg": 40.63526
+          },
+          "now": {
+            "winprob": 9.54,
+            "forecast": 45.14226,
+            "hi": 49.86214,
+            "lo": 40.45176,
+            "poll_avg": 41.2887
+          },
+          "polls": {
+            "winprob": 12.775,
+            "forecast": 45.15415,
+            "hi": 50.70081,
+            "lo": 39.54742,
+            "poll_avg": 40.01684
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 88.71,
+            "forecast": 54.95297,
+            "hi": 60.11533,
+            "lo": 49.69839,
+            "poll_avg": 52.43299
+          },
+          "now": {
+            "winprob": 90.46,
+            "forecast": 54.85774,
+            "hi": 59.54824,
+            "lo": 50.13786,
+            "poll_avg": 53.01437
+          },
+          "polls": {
+            "winprob": 87.225,
+            "forecast": 54.84585,
+            "hi": 60.45258,
+            "lo": 49.29919,
+            "poll_avg": 50.93045
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 11.165,
+            "forecast": 45.04654,
+            "hi": 50.32938,
+            "lo": 39.74958,
+            "poll_avg": 40.62956
+          },
+          "now": {
+            "winprob": 9.520000000000001,
+            "forecast": 45.15455,
+            "hi": 49.87553,
+            "lo": 40.45984,
+            "poll_avg": 41.39103
+          },
+          "polls": {
+            "winprob": 13.004999999999999,
+            "forecast": 45.19875,
+            "hi": 50.82391,
+            "lo": 39.54569,
+            "poll_avg": 40.05778
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 88.835,
+            "forecast": 54.95346,
+            "hi": 60.25042,
+            "lo": 49.67062,
+            "poll_avg": 52.41104
+          },
+          "now": {
+            "winprob": 90.48,
+            "forecast": 54.84545,
+            "hi": 59.54016,
+            "lo": 50.12447,
+            "poll_avg": 53.07238
+          },
+          "polls": {
+            "winprob": 86.995,
+            "forecast": 54.80125,
+            "hi": 60.45431,
+            "lo": 49.17609,
+            "poll_avg": 50.90273
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 11.295,
+            "forecast": 45.06052,
+            "hi": 50.33485,
+            "lo": 39.68779,
+            "poll_avg": 40.6339
+          },
+          "now": {
+            "winprob": 8.82,
+            "forecast": 44.95425,
+            "hi": 49.6573,
+            "lo": 40.28586,
+            "poll_avg": 41.29075
+          },
+          "polls": {
+            "winprob": 13.56,
+            "forecast": 45.25253,
+            "hi": 50.92599,
+            "lo": 39.62589,
+            "poll_avg": 39.8454
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 88.705,
+            "forecast": 54.93948,
+            "hi": 60.31221,
+            "lo": 49.66515,
+            "poll_avg": 52.05136
+          },
+          "now": {
+            "winprob": 91.18,
+            "forecast": 55.04575,
+            "hi": 59.71414,
+            "lo": 50.3427,
+            "poll_avg": 52.8559
+          },
+          "polls": {
+            "winprob": 86.44,
+            "forecast": 54.74747,
+            "hi": 60.37411,
+            "lo": 49.07401,
+            "poll_avg": 50.31861
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 10.705,
+            "forecast": 44.86287,
+            "hi": 50.18432,
+            "lo": 39.59643,
+            "poll_avg": 40.40265
+          },
+          "now": {
+            "winprob": 7.55,
+            "forecast": 44.64318,
+            "hi": 49.33155,
+            "lo": 39.91261,
+            "poll_avg": 40.96926
+          },
+          "polls": {
+            "winprob": 12.504999999999999,
+            "forecast": 45.0287,
+            "hi": 50.66257,
+            "lo": 39.42098,
+            "poll_avg": 39.68908
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 89.295,
+            "forecast": 55.13713,
+            "hi": 60.40357,
+            "lo": 49.81568,
+            "poll_avg": 52.51087
+          },
+          "now": {
+            "winprob": 92.45,
+            "forecast": 55.35682,
+            "hi": 60.08739,
+            "lo": 50.66845,
+            "poll_avg": 53.48969
+          },
+          "polls": {
+            "winprob": 87.495,
+            "forecast": 54.9713,
+            "hi": 60.57902,
+            "lo": 49.33743,
+            "poll_avg": 50.81681
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 11.045,
+            "forecast": 44.93944,
+            "hi": 50.27919,
+            "lo": 39.67255,
+            "poll_avg": 40.91868
+          },
+          "now": {
+            "winprob": 7.1,
+            "forecast": 44.51954,
+            "hi": 49.18797,
+            "lo": 39.83887,
+            "poll_avg": 41.34733
+          },
+          "polls": {
+            "winprob": 12.43,
+            "forecast": 45.05542,
+            "hi": 50.67637,
+            "lo": 39.53536,
+            "poll_avg": 40.2575
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 88.955,
+            "forecast": 55.06056,
+            "hi": 60.32745,
+            "lo": 49.72081,
+            "poll_avg": 53.02734
+          },
+          "now": {
+            "winprob": 92.9,
+            "forecast": 55.48046,
+            "hi": 60.16113,
+            "lo": 50.81203,
+            "poll_avg": 54.27412
+          },
+          "polls": {
+            "winprob": 87.57000000000001,
+            "forecast": 54.94458,
+            "hi": 60.46464,
+            "lo": 49.32363,
+            "poll_avg": 51.4566
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 10.38,
+            "forecast": 44.7565,
+            "hi": 50.09273,
+            "lo": 39.45739,
+            "poll_avg": 40.67492
+          },
+          "now": {
+            "winprob": 7.21,
+            "forecast": 44.56001,
+            "hi": 49.19958,
+            "lo": 39.97539,
+            "poll_avg": 41.89124
+          },
+          "polls": {
+            "winprob": 11.65,
+            "forecast": 44.86724,
+            "hi": 50.44824,
+            "lo": 39.3989,
+            "poll_avg": 40.01939
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 89.62,
+            "forecast": 55.2435,
+            "hi": 60.54261,
+            "lo": 49.90727,
+            "poll_avg": 53.39699
+          },
+          "now": {
+            "winprob": 92.78999999999999,
+            "forecast": 55.43999,
+            "hi": 60.02461,
+            "lo": 50.80042,
+            "poll_avg": 54.97284
+          },
+          "polls": {
+            "winprob": 88.35,
+            "forecast": 55.13276,
+            "hi": 60.6011,
+            "lo": 49.55176,
+            "poll_avg": 51.78904
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 10.455,
+            "forecast": 44.76535,
+            "hi": 50.11105,
+            "lo": 39.38068,
+            "poll_avg": 40.6619
+          },
+          "now": {
+            "winprob": 6.865,
+            "forecast": 44.53035,
+            "hi": 49.10966,
+            "lo": 39.94359,
+            "poll_avg": 41.96384
+          },
+          "polls": {
+            "winprob": 11.65,
+            "forecast": 44.86724,
+            "hi": 50.44824,
+            "lo": 39.3989,
+            "poll_avg": 40.01939
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 89.545,
+            "forecast": 55.23465,
+            "hi": 60.61932,
+            "lo": 49.88895,
+            "poll_avg": 53.40774
+          },
+          "now": {
+            "winprob": 93.135,
+            "forecast": 55.46965,
+            "hi": 60.05641,
+            "lo": 50.89034,
+            "poll_avg": 55.10221
+          },
+          "polls": {
+            "winprob": 88.35,
+            "forecast": 55.13276,
+            "hi": 60.6011,
+            "lo": 49.55176,
+            "poll_avg": 51.78904
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 10.459999999999999,
+            "forecast": 44.75064,
+            "hi": 50.12549,
+            "lo": 39.43567,
+            "poll_avg": 40.69493
+          },
+          "now": {
+            "winprob": 6.959999999999999,
+            "forecast": 44.5378,
+            "hi": 49.16881,
+            "lo": 39.88119,
+            "poll_avg": 41.90092
+          },
+          "polls": {
+            "winprob": 11.42,
+            "forecast": 44.87796,
+            "hi": 50.40326,
+            "lo": 39.26489,
+            "poll_avg": 39.97012
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 89.53999999999999,
+            "forecast": 55.24936,
+            "hi": 60.56433,
+            "lo": 49.87451,
+            "poll_avg": 53.43598
+          },
+          "now": {
+            "winprob": 93.04,
+            "forecast": 55.4622,
+            "hi": 60.11881,
+            "lo": 50.83119,
+            "poll_avg": 55.02486
+          },
+          "polls": {
+            "winprob": 88.58,
+            "forecast": 55.12204,
+            "hi": 60.73511,
+            "lo": 49.59674,
+            "poll_avg": 51.73228
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 10.155,
+            "forecast": 44.74028,
+            "hi": 50.04992,
+            "lo": 39.46719,
+            "poll_avg": 40.77631
+          },
+          "now": {
+            "winprob": 7.22,
+            "forecast": 44.52953,
+            "hi": 49.20014,
+            "lo": 39.96599,
+            "poll_avg": 41.97583
+          },
+          "polls": {
+            "winprob": 11.42,
+            "forecast": 44.87796,
+            "hi": 50.40326,
+            "lo": 39.26489,
+            "poll_avg": 39.97012
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 89.845,
+            "forecast": 55.25972,
+            "hi": 60.53281,
+            "lo": 49.95008,
+            "poll_avg": 53.52524
+          },
+          "now": {
+            "winprob": 92.78,
+            "forecast": 55.47047,
+            "hi": 60.03401,
+            "lo": 50.79986,
+            "poll_avg": 55.0989
+          },
+          "polls": {
+            "winprob": 88.58,
+            "forecast": 55.12204,
+            "hi": 60.73511,
+            "lo": 49.59674,
+            "poll_avg": 51.73228
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 8.935,
+            "forecast": 44.3802,
+            "hi": 49.69604,
+            "lo": 39.10134,
+            "poll_avg": 39.68593
+          },
+          "now": {
+            "winprob": 5.47,
+            "forecast": 43.76905,
+            "hi": 48.44762,
+            "lo": 39.14184,
+            "poll_avg": 40.09305
+          },
+          "polls": {
+            "winprob": 10.870000000000001,
+            "forecast": 44.52518,
+            "hi": 50.23732,
+            "lo": 38.87609,
+            "poll_avg": 39.0249
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 91.065,
+            "forecast": 55.6198,
+            "hi": 60.89866,
+            "lo": 50.30396,
+            "poll_avg": 53.20951
+          },
+          "now": {
+            "winprob": 94.53,
+            "forecast": 56.23095,
+            "hi": 60.85816,
+            "lo": 51.55238,
+            "poll_avg": 54.81536
+          },
+          "polls": {
+            "winprob": 89.13,
+            "forecast": 55.47482,
+            "hi": 61.12391,
+            "lo": 49.76268,
+            "poll_avg": 51.51972
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 9.25,
+            "forecast": 44.38652,
+            "hi": 49.74237,
+            "lo": 39.0609,
+            "poll_avg": 39.69505
+          },
+          "now": {
+            "winprob": 4.89,
+            "forecast": 43.68848,
+            "hi": 48.30977,
+            "lo": 39.07551,
+            "poll_avg": 40.14285
+          },
+          "polls": {
+            "winprob": 10.870000000000001,
+            "forecast": 44.52518,
+            "hi": 50.23732,
+            "lo": 38.87609,
+            "poll_avg": 39.0249
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 90.75,
+            "forecast": 55.61348,
+            "hi": 60.9391,
+            "lo": 50.25763,
+            "poll_avg": 53.20798
+          },
+          "now": {
+            "winprob": 95.11,
+            "forecast": 56.31152,
+            "hi": 60.92449,
+            "lo": 51.69023,
+            "poll_avg": 54.9939
+          },
+          "polls": {
+            "winprob": 89.13,
+            "forecast": 55.47482,
+            "hi": 61.12391,
+            "lo": 49.76268,
+            "poll_avg": 51.51972
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 10.025,
+            "forecast": 44.65528,
+            "hi": 50.00837,
+            "lo": 39.36037,
+            "poll_avg": 40.15257
+          },
+          "now": {
+            "winprob": 6.254999999999999,
+            "forecast": 44.255,
+            "hi": 48.8643,
+            "lo": 39.63245,
+            "poll_avg": 41.00029
+          },
+          "polls": {
+            "winprob": 11.355,
+            "forecast": 44.78781,
+            "hi": 50.38711,
+            "lo": 39.15448,
+            "poll_avg": 39.51157
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 89.97500000000001,
+            "forecast": 55.34472,
+            "hi": 60.63963,
+            "lo": 49.99163,
+            "poll_avg": 53.06717
+          },
+          "now": {
+            "winprob": 93.745,
+            "forecast": 55.745,
+            "hi": 60.36755,
+            "lo": 51.1357,
+            "poll_avg": 54.67329
+          },
+          "polls": {
+            "winprob": 88.645,
+            "forecast": 55.21219,
+            "hi": 60.84552,
+            "lo": 49.61289,
+            "poll_avg": 51.44768
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 9.66,
+            "forecast": 44.52275,
+            "hi": 49.86865,
+            "lo": 39.18928,
+            "poll_avg": 39.76237
+          },
+          "now": {
+            "winprob": 6.0,
+            "forecast": 44.11776,
+            "hi": 48.75533,
+            "lo": 39.50639,
+            "poll_avg": 40.39852
+          },
+          "polls": {
+            "winprob": 11.445,
+            "forecast": 44.65634,
+            "hi": 50.4038,
+            "lo": 38.93565,
+            "poll_avg": 39.12315
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 90.34,
+            "forecast": 55.47725,
+            "hi": 60.81072,
+            "lo": 50.13135,
+            "poll_avg": 52.85867
+          },
+          "now": {
+            "winprob": 94.0,
+            "forecast": 55.88224,
+            "hi": 60.49361,
+            "lo": 51.24467,
+            "poll_avg": 54.2078
+          },
+          "polls": {
+            "winprob": 88.55499999999999,
+            "forecast": 55.34366,
+            "hi": 61.06435,
+            "lo": 49.5962,
+            "poll_avg": 51.24183
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 10.11,
+            "forecast": 44.63411,
+            "hi": 50.02624,
+            "lo": 39.31001,
+            "poll_avg": 39.80831
+          },
+          "now": {
+            "winprob": 6.4799999999999995,
+            "forecast": 44.27057,
+            "hi": 48.91478,
+            "lo": 39.60565,
+            "poll_avg": 40.64488
+          },
+          "polls": {
+            "winprob": 11.605,
+            "forecast": 44.75018,
+            "hi": 50.43679,
+            "lo": 39.04015,
+            "poll_avg": 39.19299
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 89.89,
+            "forecast": 55.36589,
+            "hi": 60.68999,
+            "lo": 49.97376,
+            "poll_avg": 52.7557
+          },
+          "now": {
+            "winprob": 93.52000000000001,
+            "forecast": 55.72943,
+            "hi": 60.39435,
+            "lo": 51.08522,
+            "poll_avg": 54.21593
+          },
+          "polls": {
+            "winprob": 88.395,
+            "forecast": 55.24982,
+            "hi": 60.95985,
+            "lo": 49.56321,
+            "poll_avg": 51.15664
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 9.825000000000001,
+            "forecast": 44.5862,
+            "hi": 49.95984,
+            "lo": 39.26577,
+            "poll_avg": 39.82827
+          },
+          "now": {
+            "winprob": 6.0600000000000005,
+            "forecast": 44.17342,
+            "hi": 48.81664,
+            "lo": 39.52557,
+            "poll_avg": 40.70302
+          },
+          "polls": {
+            "winprob": 11.645,
+            "forecast": 44.70115,
+            "hi": 50.44001,
+            "lo": 39.05072,
+            "poll_avg": 39.15306
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 90.17500000000001,
+            "forecast": 55.4138,
+            "hi": 60.73423,
+            "lo": 50.04016,
+            "poll_avg": 52.93064
+          },
+          "now": {
+            "winprob": 93.94,
+            "forecast": 55.82658,
+            "hi": 60.47443,
+            "lo": 51.18336,
+            "poll_avg": 54.50708
+          },
+          "polls": {
+            "winprob": 88.35499999999999,
+            "forecast": 55.29885,
+            "hi": 60.94928,
+            "lo": 49.55999,
+            "poll_avg": 51.26805
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 9.735000000000001,
+            "forecast": 44.50296,
+            "hi": 49.93198,
+            "lo": 39.05974,
+            "poll_avg": 39.92941
+          },
+          "now": {
+            "winprob": 5.89,
+            "forecast": 44.12414,
+            "hi": 48.71377,
+            "lo": 39.54321,
+            "poll_avg": 40.85766
+          },
+          "polls": {
+            "winprob": 11.245,
+            "forecast": 44.63493,
+            "hi": 50.37884,
+            "lo": 39.00386,
+            "poll_avg": 39.21647
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 90.265,
+            "forecast": 55.49704,
+            "hi": 60.94026,
+            "lo": 50.06802,
+            "poll_avg": 53.10962
+          },
+          "now": {
+            "winprob": 94.11,
+            "forecast": 55.87586,
+            "hi": 60.45679,
+            "lo": 51.28623,
+            "poll_avg": 54.68962
+          },
+          "polls": {
+            "winprob": 88.755,
+            "forecast": 55.36507,
+            "hi": 60.99614,
+            "lo": 49.62116,
+            "poll_avg": 51.40418
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 11.21,
+            "forecast": 44.86988,
+            "hi": 50.31624,
+            "lo": 39.47322,
+            "poll_avg": 40.12887
+          },
+          "now": {
+            "winprob": 7.295,
+            "forecast": 44.6781,
+            "hi": 49.23323,
+            "lo": 40.09512,
+            "poll_avg": 41.52146
+          },
+          "polls": {
+            "winprob": 12.44,
+            "forecast": 44.93768,
+            "hi": 50.63296,
+            "lo": 39.34731,
+            "poll_avg": 39.34902
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 88.79,
+            "forecast": 55.13012,
+            "hi": 60.52678,
+            "lo": 49.68376,
+            "poll_avg": 52.91177
+          },
+          "now": {
+            "winprob": 92.705,
+            "forecast": 55.3219,
+            "hi": 59.90488,
+            "lo": 50.76677,
+            "poll_avg": 54.61668
+          },
+          "polls": {
+            "winprob": 87.56,
+            "forecast": 55.06232,
+            "hi": 60.65269,
+            "lo": 49.36704,
+            "poll_avg": 51.17615
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 10.620000000000001,
+            "forecast": 44.63389,
+            "hi": 50.1723,
+            "lo": 39.1224,
+            "poll_avg": 39.0783
+          },
+          "now": {
+            "winprob": 6.425,
+            "forecast": 44.09255,
+            "hi": 48.89698,
+            "lo": 39.31293,
+            "poll_avg": 39.21661
+          },
+          "polls": {
+            "winprob": 12.215,
+            "forecast": 44.75245,
+            "hi": 50.62891,
+            "lo": 38.92042,
+            "poll_avg": 38.32044
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 89.38000000000001,
+            "forecast": 55.36611,
+            "hi": 60.8776,
+            "lo": 49.8277,
+            "poll_avg": 52.44402
+          },
+          "now": {
+            "winprob": 93.575,
+            "forecast": 55.90745,
+            "hi": 60.68707,
+            "lo": 51.10302,
+            "poll_avg": 53.60189
+          },
+          "polls": {
+            "winprob": 87.785,
+            "forecast": 55.24755,
+            "hi": 61.07958,
+            "lo": 49.37109,
+            "poll_avg": 50.63166
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 10.445,
+            "forecast": 44.57902,
+            "hi": 50.11995,
+            "lo": 39.07215,
+            "poll_avg": 39.02107
+          },
+          "now": {
+            "winprob": 5.785,
+            "forecast": 43.94652,
+            "hi": 48.64907,
+            "lo": 39.22456,
+            "poll_avg": 39.15961
+          },
+          "polls": {
+            "winprob": 12.335,
+            "forecast": 44.71199,
+            "hi": 50.66105,
+            "lo": 38.84519,
+            "poll_avg": 38.24421
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 89.55499999999999,
+            "forecast": 55.42098,
+            "hi": 60.92785,
+            "lo": 49.88005,
+            "poll_avg": 52.49581
+          },
+          "now": {
+            "winprob": 94.215,
+            "forecast": 56.05348,
+            "hi": 60.77544,
+            "lo": 51.35093,
+            "poll_avg": 53.82749
+          },
+          "polls": {
+            "winprob": 87.665,
+            "forecast": 55.28801,
+            "hi": 61.15481,
+            "lo": 49.33895,
+            "poll_avg": 50.62663
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 9.06,
+            "forecast": 44.23385,
+            "hi": 49.72403,
+            "lo": 38.86876,
+            "poll_avg": 39.48707
+          },
+          "now": {
+            "winprob": 4.47,
+            "forecast": 43.45551,
+            "hi": 48.11408,
+            "lo": 38.82364,
+            "poll_avg": 39.68476
+          },
+          "polls": {
+            "winprob": 11.055,
+            "forecast": 44.45281,
+            "hi": 50.28337,
+            "lo": 38.6282,
+            "poll_avg": 38.54989
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 90.94,
+            "forecast": 55.76615,
+            "hi": 61.13124,
+            "lo": 50.27597,
+            "poll_avg": 53.14628
+          },
+          "now": {
+            "winprob": 95.53,
+            "forecast": 56.54449,
+            "hi": 61.17636,
+            "lo": 51.88592,
+            "poll_avg": 54.81599
+          },
+          "polls": {
+            "winprob": 88.945,
+            "forecast": 55.54719,
+            "hi": 61.3718,
+            "lo": 49.71663,
+            "poll_avg": 51.07658
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 9.185,
+            "forecast": 44.28487,
+            "hi": 49.7581,
+            "lo": 38.86213,
+            "poll_avg": 39.47962
+          },
+          "now": {
+            "winprob": 4.49,
+            "forecast": 43.52548,
+            "hi": 48.11003,
+            "lo": 38.96774,
+            "poll_avg": 39.84997
+          },
+          "polls": {
+            "winprob": 10.870000000000001,
+            "forecast": 44.49255,
+            "hi": 50.23763,
+            "lo": 38.7631,
+            "poll_avg": 38.67614
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 90.815,
+            "forecast": 55.71513,
+            "hi": 61.13787,
+            "lo": 50.2419,
+            "poll_avg": 53.07216
+          },
+          "now": {
+            "winprob": 95.50999999999999,
+            "forecast": 56.47452,
+            "hi": 61.03226,
+            "lo": 51.88997,
+            "poll_avg": 54.86319
+          },
+          "polls": {
+            "winprob": 89.13,
+            "forecast": 55.50745,
+            "hi": 61.2369,
+            "lo": 49.76237,
+            "poll_avg": 51.13834
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 10.24,
+            "forecast": 44.48586,
+            "hi": 50.07434,
+            "lo": 38.96369,
+            "poll_avg": 39.55179
+          },
+          "now": {
+            "winprob": 5.06,
+            "forecast": 43.77657,
+            "hi": 48.40853,
+            "lo": 39.2024,
+            "poll_avg": 40.10479
+          },
+          "polls": {
+            "winprob": 11.799999999999999,
+            "forecast": 44.67284,
+            "hi": 50.54806,
+            "lo": 38.75386,
+            "poll_avg": 38.73704
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 89.75999999999999,
+            "forecast": 55.51414,
+            "hi": 61.03631,
+            "lo": 49.92566,
+            "poll_avg": 52.93662
+          },
+          "now": {
+            "winprob": 94.94,
+            "forecast": 56.22343,
+            "hi": 60.7976,
+            "lo": 51.59147,
+            "poll_avg": 54.76968
+          },
+          "polls": {
+            "winprob": 88.2,
+            "forecast": 55.32716,
+            "hi": 61.24614,
+            "lo": 49.45194,
+            "poll_avg": 50.99855
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 9.62,
+            "forecast": 44.36987,
+            "hi": 49.88044,
+            "lo": 38.95885,
+            "poll_avg": 39.50698
+          },
+          "now": {
+            "winprob": 4.545,
+            "forecast": 43.64785,
+            "hi": 48.24299,
+            "lo": 39.05412,
+            "poll_avg": 40.01045
+          },
+          "polls": {
+            "winprob": 11.15,
+            "forecast": 44.58009,
+            "hi": 50.33746,
+            "lo": 38.78802,
+            "poll_avg": 38.73512
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 90.38000000000001,
+            "forecast": 55.63013,
+            "hi": 61.04115,
+            "lo": 50.11956,
+            "poll_avg": 52.97859
+          },
+          "now": {
+            "winprob": 95.455,
+            "forecast": 56.35215,
+            "hi": 60.94588,
+            "lo": 51.75701,
+            "poll_avg": 54.81805
+          },
+          "polls": {
+            "winprob": 88.85,
+            "forecast": 55.41991,
+            "hi": 61.21198,
+            "lo": 49.66254,
+            "poll_avg": 51.08274
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 10.385,
+            "forecast": 44.52647,
+            "hi": 50.11324,
+            "lo": 38.96243,
+            "poll_avg": 38.9252
+          },
+          "now": {
+            "winprob": 5.81,
+            "forecast": 43.99763,
+            "hi": 48.72198,
+            "lo": 39.38046,
+            "poll_avg": 39.77299
+          },
+          "polls": {
+            "winprob": 12.155000000000001,
+            "forecast": 44.68137,
+            "hi": 50.61539,
+            "lo": 38.85071,
+            "poll_avg": 38.10999
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 89.615,
+            "forecast": 55.47353,
+            "hi": 61.03757,
+            "lo": 49.88676,
+            "poll_avg": 52.57913
+          },
+          "now": {
+            "winprob": 94.19,
+            "forecast": 56.00237,
+            "hi": 60.61954,
+            "lo": 51.27802,
+            "poll_avg": 54.29669
+          },
+          "polls": {
+            "winprob": 87.845,
+            "forecast": 55.31863,
+            "hi": 61.14929,
+            "lo": 49.38461,
+            "poll_avg": 50.64694
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 9.765,
+            "forecast": 44.35728,
+            "hi": 49.90862,
+            "lo": 38.83461,
+            "poll_avg": 38.81624
+          },
+          "now": {
+            "winprob": 4.935,
+            "forecast": 43.64556,
+            "hi": 48.31103,
+            "lo": 39.06934,
+            "poll_avg": 39.36345
+          },
+          "polls": {
+            "winprob": 11.44,
+            "forecast": 44.54224,
+            "hi": 50.40962,
+            "lo": 38.68765,
+            "poll_avg": 37.96634
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 90.235,
+            "forecast": 55.64272,
+            "hi": 61.16539,
+            "lo": 50.09138,
+            "poll_avg": 52.75386
+          },
+          "now": {
+            "winprob": 95.065,
+            "forecast": 56.35444,
+            "hi": 60.93066,
+            "lo": 51.68897,
+            "poll_avg": 54.49562
+          },
+          "polls": {
+            "winprob": 88.56,
+            "forecast": 55.45776,
+            "hi": 61.31235,
+            "lo": 49.59038,
+            "poll_avg": 50.7445
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 9.75,
+            "forecast": 44.38846,
+            "hi": 49.9116,
+            "lo": 38.81322,
+            "poll_avg": 38.91963
+          },
+          "now": {
+            "winprob": 4.385,
+            "forecast": 43.32388,
+            "hi": 47.95531,
+            "lo": 38.67311,
+            "poll_avg": 39.08039
+          },
+          "polls": {
+            "winprob": 11.975,
+            "forecast": 44.59517,
+            "hi": 50.56178,
+            "lo": 38.69371,
+            "poll_avg": 38.00823
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 90.25,
+            "forecast": 55.61154,
+            "hi": 61.18678,
+            "lo": 50.0884,
+            "poll_avg": 52.81031
+          },
+          "now": {
+            "winprob": 95.61500000000001,
+            "forecast": 56.67612,
+            "hi": 61.32689,
+            "lo": 52.04469,
+            "poll_avg": 54.81479
+          },
+          "polls": {
+            "winprob": 88.02499999999999,
+            "forecast": 55.40483,
+            "hi": 61.30629,
+            "lo": 49.43822,
+            "poll_avg": 50.68476
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 10.48,
+            "forecast": 44.59222,
+            "hi": 50.12059,
+            "lo": 39.0841,
+            "poll_avg": 39.16909
+          },
+          "now": {
+            "winprob": 4.645,
+            "forecast": 43.68166,
+            "hi": 48.32066,
+            "lo": 39.07727,
+            "poll_avg": 39.81175
+          },
+          "polls": {
+            "winprob": 12.5,
+            "forecast": 44.77989,
+            "hi": 50.64498,
+            "lo": 38.90652,
+            "poll_avg": 38.26398
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 89.52,
+            "forecast": 55.40778,
+            "hi": 60.9159,
+            "lo": 49.87941,
+            "poll_avg": 52.79236
+          },
+          "now": {
+            "winprob": 95.355,
+            "forecast": 56.31834,
+            "hi": 60.92273,
+            "lo": 51.67934,
+            "poll_avg": 54.9374
+          },
+          "polls": {
+            "winprob": 87.5,
+            "forecast": 55.22011,
+            "hi": 61.09348,
+            "lo": 49.35502,
+            "poll_avg": 50.68915
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 11.19,
+            "forecast": 44.71535,
+            "hi": 50.34306,
+            "lo": 39.1913,
+            "poll_avg": 38.78461
+          },
+          "now": {
+            "winprob": 5.255,
+            "forecast": 43.78194,
+            "hi": 48.45583,
+            "lo": 39.13641,
+            "poll_avg": 39.45697
+          },
+          "polls": {
+            "winprob": 13.114999999999998,
+            "forecast": 44.83185,
+            "hi": 50.86208,
+            "lo": 38.8193,
+            "poll_avg": 37.9967
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 88.81,
+            "forecast": 55.28465,
+            "hi": 60.8087,
+            "lo": 49.65694,
+            "poll_avg": 52.31819
+          },
+          "now": {
+            "winprob": 94.745,
+            "forecast": 56.21806,
+            "hi": 60.86359,
+            "lo": 51.54417,
+            "poll_avg": 54.65059
+          },
+          "polls": {
+            "winprob": 86.885,
+            "forecast": 55.16815,
+            "hi": 61.1807,
+            "lo": 49.13792,
+            "poll_avg": 50.43766
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 11.415000000000001,
+            "forecast": 44.73306,
+            "hi": 50.37768,
+            "lo": 39.11159,
+            "poll_avg": 38.9025
+          },
+          "now": {
+            "winprob": 5.165,
+            "forecast": 43.77187,
+            "hi": 48.38609,
+            "lo": 39.1611,
+            "poll_avg": 39.45578
+          },
+          "polls": {
+            "winprob": 12.684999999999999,
+            "forecast": 44.82971,
+            "hi": 50.73276,
+            "lo": 38.9699,
+            "poll_avg": 38.217
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 88.58500000000001,
+            "forecast": 55.26694,
+            "hi": 60.88841,
+            "lo": 49.62232,
+            "poll_avg": 52.31758
+          },
+          "now": {
+            "winprob": 94.83500000000001,
+            "forecast": 56.22813,
+            "hi": 60.8389,
+            "lo": 51.61391,
+            "poll_avg": 54.60172
+          },
+          "polls": {
+            "winprob": 87.315,
+            "forecast": 55.17029,
+            "hi": 61.0301,
+            "lo": 49.26724,
+            "poll_avg": 50.64365
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 11.834999999999999,
+            "forecast": 44.79369,
+            "hi": 50.49535,
+            "lo": 39.09616,
+            "poll_avg": 38.57191
+          },
+          "now": {
+            "winprob": 5.3100000000000005,
+            "forecast": 43.74828,
+            "hi": 48.4427,
+            "lo": 39.04005,
+            "poll_avg": 38.88704
+          },
+          "polls": {
+            "winprob": 13.685,
+            "forecast": 44.9404,
+            "hi": 51.03859,
+            "lo": 39.04123,
+            "poll_avg": 37.71791
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 88.165,
+            "forecast": 55.20631,
+            "hi": 60.90384,
+            "lo": 49.50465,
+            "poll_avg": 52.08378
+          },
+          "now": {
+            "winprob": 94.69,
+            "forecast": 56.25172,
+            "hi": 60.95995,
+            "lo": 51.5573,
+            "poll_avg": 54.29374
+          },
+          "polls": {
+            "winprob": 86.315,
+            "forecast": 55.0596,
+            "hi": 60.95877,
+            "lo": 48.96141,
+            "poll_avg": 50.03662
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 13.865,
+            "forecast": 45.26225,
+            "hi": 51.01479,
+            "lo": 39.61945,
+            "poll_avg": 39.08693
+          },
+          "now": {
+            "winprob": 7.71,
+            "forecast": 44.57509,
+            "hi": 49.3761,
+            "lo": 39.85107,
+            "poll_avg": 39.46191
+          },
+          "polls": {
+            "winprob": 15.485,
+            "forecast": 45.43,
+            "hi": 51.43362,
+            "lo": 39.4849,
+            "poll_avg": 38.06574
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 86.13499999999999,
+            "forecast": 54.73775,
+            "hi": 60.38055,
+            "lo": 48.98521,
+            "poll_avg": 52.03288
+          },
+          "now": {
+            "winprob": 92.29,
+            "forecast": 55.42491,
+            "hi": 60.14893,
+            "lo": 50.6239,
+            "poll_avg": 53.56623
+          },
+          "polls": {
+            "winprob": 84.515,
+            "forecast": 54.57,
+            "hi": 60.5151,
+            "lo": 48.56638,
+            "poll_avg": 49.65055
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 12.885,
+            "forecast": 45.13755,
+            "hi": 50.82143,
+            "lo": 39.47976,
+            "poll_avg": 38.86101
+          },
+          "now": {
+            "winprob": 6.465,
+            "forecast": 44.14753,
+            "hi": 48.94529,
+            "lo": 39.43209,
+            "poll_avg": 39.33952
+          },
+          "polls": {
+            "winprob": 15.07,
+            "forecast": 45.24928,
+            "hi": 51.25232,
+            "lo": 39.19681,
+            "poll_avg": 37.97283
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 87.115,
+            "forecast": 54.86245,
+            "hi": 60.52024,
+            "lo": 49.17857,
+            "poll_avg": 52.07266
+          },
+          "now": {
+            "winprob": 93.535,
+            "forecast": 55.85247,
+            "hi": 60.56791,
+            "lo": 51.05471,
+            "poll_avg": 54.35173
+          },
+          "polls": {
+            "winprob": 84.93,
+            "forecast": 54.75072,
+            "hi": 60.80319,
+            "lo": 48.74768,
+            "poll_avg": 49.96102
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 13.569999999999999,
+            "forecast": 45.18859,
+            "hi": 50.88792,
+            "lo": 39.53317,
+            "poll_avg": 39.12678
+          },
+          "now": {
+            "winprob": 6.909999999999999,
+            "forecast": 44.25739,
+            "hi": 49.00093,
+            "lo": 39.52507,
+            "poll_avg": 39.57043
+          },
+          "polls": {
+            "winprob": 15.104999999999999,
+            "forecast": 45.28455,
+            "hi": 51.25875,
+            "lo": 39.32661,
+            "poll_avg": 38.23501
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 86.42999999999999,
+            "forecast": 54.81141,
+            "hi": 60.46683,
+            "lo": 49.11208,
+            "poll_avg": 52.33687
+          },
+          "now": {
+            "winprob": 93.08999999999999,
+            "forecast": 55.74261,
+            "hi": 60.47493,
+            "lo": 50.99907,
+            "poll_avg": 54.41628
+          },
+          "polls": {
+            "winprob": 84.895,
+            "forecast": 54.71545,
+            "hi": 60.67339,
+            "lo": 48.74125,
+            "poll_avg": 50.24638
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 13.775,
+            "forecast": 45.18784,
+            "hi": 50.93938,
+            "lo": 39.44658,
+            "poll_avg": 38.7928
+          },
+          "now": {
+            "winprob": 6.3149999999999995,
+            "forecast": 44.09911,
+            "hi": 48.87473,
+            "lo": 39.33663,
+            "poll_avg": 39.03426
+          },
+          "polls": {
+            "winprob": 14.38,
+            "forecast": 45.21812,
+            "hi": 51.16542,
+            "lo": 39.29589,
+            "poll_avg": 38.09875
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 86.225,
+            "forecast": 54.81216,
+            "hi": 60.55342,
+            "lo": 49.06062,
+            "poll_avg": 51.9265
+          },
+          "now": {
+            "winprob": 93.685,
+            "forecast": 55.90089,
+            "hi": 60.66337,
+            "lo": 51.12527,
+            "poll_avg": 54.14008
+          },
+          "polls": {
+            "winprob": 85.61999999999999,
+            "forecast": 54.78188,
+            "hi": 60.70411,
+            "lo": 48.83458,
+            "poll_avg": 50.21056
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 13.485,
+            "forecast": 45.17173,
+            "hi": 50.92214,
+            "lo": 39.45343,
+            "poll_avg": 38.87741
+          },
+          "now": {
+            "winprob": 6.285,
+            "forecast": 44.09647,
+            "hi": 48.85547,
+            "lo": 39.31927,
+            "poll_avg": 39.12024
+          },
+          "polls": {
+            "winprob": 15.14,
+            "forecast": 45.26759,
+            "hi": 51.31476,
+            "lo": 39.25505,
+            "poll_avg": 37.99816
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 86.515,
+            "forecast": 54.82827,
+            "hi": 60.54657,
+            "lo": 49.07786,
+            "poll_avg": 52.04011
+          },
+          "now": {
+            "winprob": 93.715,
+            "forecast": 55.90353,
+            "hi": 60.68073,
+            "lo": 51.14453,
+            "poll_avg": 54.18913
+          },
+          "polls": {
+            "winprob": 84.86,
+            "forecast": 54.73241,
+            "hi": 60.74495,
+            "lo": 48.68524,
+            "poll_avg": 49.94134
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 12.73,
+            "forecast": 45.03405,
+            "hi": 50.7327,
+            "lo": 39.35342,
+            "poll_avg": 38.88046
+          },
+          "now": {
+            "winprob": 5.555000000000001,
+            "forecast": 43.79859,
+            "hi": 48.56107,
+            "lo": 39.15131,
+            "poll_avg": 39.08974
+          },
+          "polls": {
+            "winprob": 14.249999999999998,
+            "forecast": 45.14862,
+            "hi": 51.1114,
+            "lo": 39.18634,
+            "poll_avg": 38.00313
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 87.27000000000001,
+            "forecast": 54.96595,
+            "hi": 60.64658,
+            "lo": 49.2673,
+            "poll_avg": 52.15149
+          },
+          "now": {
+            "winprob": 94.44500000000001,
+            "forecast": 56.20141,
+            "hi": 60.84869,
+            "lo": 51.43893,
+            "poll_avg": 54.57962
+          },
+          "polls": {
+            "winprob": 85.75,
+            "forecast": 54.85138,
+            "hi": 60.81366,
+            "lo": 48.8886,
+            "poll_avg": 50.0611
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 12.3,
+            "forecast": 44.94016,
+            "hi": 50.60867,
+            "lo": 39.22731,
+            "poll_avg": 38.97591
+          },
+          "now": {
+            "winprob": 4.375,
+            "forecast": 43.41169,
+            "hi": 48.00071,
+            "lo": 38.81807,
+            "poll_avg": 39.07211
+          },
+          "polls": {
+            "winprob": 13.780000000000001,
+            "forecast": 45.04418,
+            "hi": 51.00979,
+            "lo": 39.06441,
+            "poll_avg": 38.1614
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 87.7,
+            "forecast": 55.05984,
+            "hi": 60.77269,
+            "lo": 49.39133,
+            "poll_avg": 52.23837
+          },
+          "now": {
+            "winprob": 95.625,
+            "forecast": 56.58831,
+            "hi": 61.18193,
+            "lo": 51.99929,
+            "poll_avg": 55.10912
+          },
+          "polls": {
+            "winprob": 86.22,
+            "forecast": 54.95582,
+            "hi": 60.93559,
+            "lo": 48.99021,
+            "poll_avg": 50.32686
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 12.889999999999999,
+            "forecast": 45.03832,
+            "hi": 50.73742,
+            "lo": 39.33825,
+            "poll_avg": 39.03552
+          },
+          "now": {
+            "winprob": 5.325,
+            "forecast": 43.80394,
+            "hi": 48.48355,
+            "lo": 39.25301,
+            "poll_avg": 39.45988
+          },
+          "polls": {
+            "winprob": 14.335,
+            "forecast": 45.11604,
+            "hi": 51.1325,
+            "lo": 39.18508,
+            "poll_avg": 38.30839
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 87.11,
+            "forecast": 54.96168,
+            "hi": 60.66175,
+            "lo": 49.26258,
+            "poll_avg": 52.08285
+          },
+          "now": {
+            "winprob": 94.675,
+            "forecast": 56.19606,
+            "hi": 60.74699,
+            "lo": 51.51645,
+            "poll_avg": 54.68213
+          },
+          "polls": {
+            "winprob": 85.665,
+            "forecast": 54.88396,
+            "hi": 60.81492,
+            "lo": 48.8675,
+            "poll_avg": 50.34393
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 12.584999999999999,
+            "forecast": 44.99895,
+            "hi": 50.69747,
+            "lo": 39.36014,
+            "poll_avg": 39.05158
+          },
+          "now": {
+            "winprob": 5.195,
+            "forecast": 43.76737,
+            "hi": 48.31679,
+            "lo": 39.17337,
+            "poll_avg": 39.5032
+          },
+          "polls": {
+            "winprob": 13.99,
+            "forecast": 45.11582,
+            "hi": 51.13546,
+            "lo": 39.11879,
+            "poll_avg": 38.24831
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 87.41499999999999,
+            "forecast": 55.00105,
+            "hi": 60.63986,
+            "lo": 49.30253,
+            "poll_avg": 52.13301
+          },
+          "now": {
+            "winprob": 94.80499999999999,
+            "forecast": 56.23263,
+            "hi": 60.82663,
+            "lo": 51.68321,
+            "poll_avg": 54.74588
+          },
+          "polls": {
+            "winprob": 86.00999999999999,
+            "forecast": 54.88418,
+            "hi": 60.88121,
+            "lo": 48.86454,
+            "poll_avg": 50.21444
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 12.740000000000002,
+            "forecast": 44.99064,
+            "hi": 50.73021,
+            "lo": 39.2863,
+            "poll_avg": 39.09386
+          },
+          "now": {
+            "winprob": 4.8950000000000005,
+            "forecast": 43.71311,
+            "hi": 48.28496,
+            "lo": 39.17261,
+            "poll_avg": 39.705
+          },
+          "polls": {
+            "winprob": 14.29,
+            "forecast": 45.12394,
+            "hi": 51.12742,
+            "lo": 39.08835,
+            "poll_avg": 38.23647
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 87.26,
+            "forecast": 55.00936,
+            "hi": 60.7137,
+            "lo": 49.26979,
+            "poll_avg": 52.15497
+          },
+          "now": {
+            "winprob": 95.10499999999999,
+            "forecast": 56.28689,
+            "hi": 60.82739,
+            "lo": 51.71504,
+            "poll_avg": 55.03919
+          },
+          "polls": {
+            "winprob": 85.71,
+            "forecast": 54.87606,
+            "hi": 60.91165,
+            "lo": 48.87258,
+            "poll_avg": 50.14138
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 12.78,
+            "forecast": 44.97886,
+            "hi": 50.71549,
+            "lo": 39.29769,
+            "poll_avg": 38.96405
+          },
+          "now": {
+            "winprob": 4.75,
+            "forecast": 43.59033,
+            "hi": 48.12702,
+            "lo": 39.00408,
+            "poll_avg": 39.31791
+          },
+          "polls": {
+            "winprob": 14.12,
+            "forecast": 45.0599,
+            "hi": 51.09516,
+            "lo": 39.11703,
+            "poll_avg": 38.2206
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 87.22,
+            "forecast": 55.02114,
+            "hi": 60.70231,
+            "lo": 49.28451,
+            "poll_avg": 52.07689
+          },
+          "now": {
+            "winprob": 95.25,
+            "forecast": 56.40967,
+            "hi": 60.99592,
+            "lo": 51.87298,
+            "poll_avg": 54.91881
+          },
+          "polls": {
+            "winprob": 85.88,
+            "forecast": 54.9401,
+            "hi": 60.88297,
+            "lo": 48.90484,
+            "poll_avg": 50.26871
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 12.655,
+            "forecast": 45.02098,
+            "hi": 50.72308,
+            "lo": 39.38409,
+            "poll_avg": 39.2099
+          },
+          "now": {
+            "winprob": 4.83,
+            "forecast": 43.75904,
+            "hi": 48.31184,
+            "lo": 39.22875,
+            "poll_avg": 39.60788
+          },
+          "polls": {
+            "winprob": 14.255,
+            "forecast": 45.11604,
+            "hi": 51.09421,
+            "lo": 39.26535,
+            "poll_avg": 38.42828
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 87.345,
+            "forecast": 54.97902,
+            "hi": 60.61591,
+            "lo": 49.27692,
+            "poll_avg": 52.31847
+          },
+          "now": {
+            "winprob": 95.17,
+            "forecast": 56.24096,
+            "hi": 60.77125,
+            "lo": 51.68816,
+            "poll_avg": 54.8781
+          },
+          "polls": {
+            "winprob": 85.745,
+            "forecast": 54.88396,
+            "hi": 60.73465,
+            "lo": 48.90579,
+            "poll_avg": 50.42915
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 13.639999999999999,
+            "forecast": 45.22379,
+            "hi": 50.92165,
+            "lo": 39.50651,
+            "poll_avg": 39.24402
+          },
+          "now": {
+            "winprob": 5.425,
+            "forecast": 43.95896,
+            "hi": 48.54198,
+            "lo": 39.43801,
+            "poll_avg": 39.73198
+          },
+          "polls": {
+            "winprob": 14.804999999999998,
+            "forecast": 45.25044,
+            "hi": 51.24964,
+            "lo": 39.31145,
+            "poll_avg": 38.53506
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 86.36,
+            "forecast": 54.77621,
+            "hi": 60.49349,
+            "lo": 49.07835,
+            "poll_avg": 52.14694
+          },
+          "now": {
+            "winprob": 94.575,
+            "forecast": 56.04104,
+            "hi": 60.56199,
+            "lo": 51.45802,
+            "poll_avg": 54.76372
+          },
+          "polls": {
+            "winprob": 85.195,
+            "forecast": 54.74956,
+            "hi": 60.68855,
+            "lo": 48.75036,
+            "poll_avg": 50.44061
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 13.665,
+            "forecast": 45.18025,
+            "hi": 50.91011,
+            "lo": 39.43755,
+            "poll_avg": 38.97389
+          },
+          "now": {
+            "winprob": 4.82,
+            "forecast": 43.62522,
+            "hi": 48.20377,
+            "lo": 39.06129,
+            "poll_avg": 38.96159
+          },
+          "polls": {
+            "winprob": 14.940000000000001,
+            "forecast": 45.24055,
+            "hi": 51.25922,
+            "lo": 39.22367,
+            "poll_avg": 38.19723
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 86.335,
+            "forecast": 54.81975,
+            "hi": 60.56245,
+            "lo": 49.08989,
+            "poll_avg": 51.95457
+          },
+          "now": {
+            "winprob": 95.17999999999999,
+            "forecast": 56.37478,
+            "hi": 60.93871,
+            "lo": 51.79623,
+            "poll_avg": 54.66294
+          },
+          "polls": {
+            "winprob": 85.06,
+            "forecast": 54.75945,
+            "hi": 60.77633,
+            "lo": 48.74078,
+            "poll_avg": 50.07427
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 14.11,
+            "forecast": 45.28273,
+            "hi": 51.07593,
+            "lo": 39.53034,
+            "poll_avg": 39.07154
+          },
+          "now": {
+            "winprob": 5.12,
+            "forecast": 43.80313,
+            "hi": 48.39414,
+            "lo": 39.23615,
+            "poll_avg": 39.1902
+          },
+          "polls": {
+            "winprob": 15.02,
+            "forecast": 45.27848,
+            "hi": 51.32614,
+            "lo": 39.3336,
+            "poll_avg": 38.41848
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 85.89,
+            "forecast": 54.71727,
+            "hi": 60.46966,
+            "lo": 48.92407,
+            "poll_avg": 51.91744
+          },
+          "now": {
+            "winprob": 94.88,
+            "forecast": 56.19687,
+            "hi": 60.76385,
+            "lo": 51.60586,
+            "poll_avg": 54.60893
+          },
+          "polls": {
+            "winprob": 84.98,
+            "forecast": 54.72152,
+            "hi": 60.6664,
+            "lo": 48.67386,
+            "poll_avg": 50.33194
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 13.815,
+            "forecast": 45.23056,
+            "hi": 50.94502,
+            "lo": 39.46693,
+            "poll_avg": 39.11888
+          },
+          "now": {
+            "winprob": 4.405,
+            "forecast": 43.52531,
+            "hi": 48.06411,
+            "lo": 38.97204,
+            "poll_avg": 38.97463
+          },
+          "polls": {
+            "winprob": 15.07,
+            "forecast": 45.26098,
+            "hi": 51.29101,
+            "lo": 39.26036,
+            "poll_avg": 38.36312
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 86.185,
+            "forecast": 54.76944,
+            "hi": 60.53307,
+            "lo": 49.05498,
+            "poll_avg": 51.95435
+          },
+          "now": {
+            "winprob": 95.595,
+            "forecast": 56.47469,
+            "hi": 61.02796,
+            "lo": 51.93589,
+            "poll_avg": 54.79823
+          },
+          "polls": {
+            "winprob": 84.93,
+            "forecast": 54.73902,
+            "hi": 60.73964,
+            "lo": 48.70899,
+            "poll_avg": 50.18221
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 14.099999999999998,
+            "forecast": 45.26629,
+            "hi": 51.04413,
+            "lo": 39.49577,
+            "poll_avg": 39.23199
+          },
+          "now": {
+            "winprob": 4.984999999999999,
+            "forecast": 43.70583,
+            "hi": 48.2489,
+            "lo": 39.09389,
+            "poll_avg": 39.31389
+          },
+          "polls": {
+            "winprob": 15.440000000000001,
+            "forecast": 45.35126,
+            "hi": 51.39059,
+            "lo": 39.2856,
+            "poll_avg": 38.33774
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 85.9,
+            "forecast": 54.73371,
+            "hi": 60.50423,
+            "lo": 48.95587,
+            "poll_avg": 52.23359
+          },
+          "now": {
+            "winprob": 95.015,
+            "forecast": 56.29417,
+            "hi": 60.90611,
+            "lo": 51.7511,
+            "poll_avg": 54.93829
+          },
+          "polls": {
+            "winprob": 84.56,
+            "forecast": 54.64874,
+            "hi": 60.7144,
+            "lo": 48.60941,
+            "poll_avg": 50.08774
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 14.760000000000002,
+            "forecast": 45.38365,
+            "hi": 51.18085,
+            "lo": 39.52122,
+            "poll_avg": 39.27443
+          },
+          "now": {
+            "winprob": 6.1,
+            "forecast": 44.22017,
+            "hi": 48.77633,
+            "lo": 39.69437,
+            "poll_avg": 40.0938
+          },
+          "polls": {
+            "winprob": 15.675,
+            "forecast": 45.40786,
+            "hi": 51.42186,
+            "lo": 39.43891,
+            "poll_avg": 38.51563
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 85.24000000000001,
+            "forecast": 54.61635,
+            "hi": 60.47878,
+            "lo": 48.81915,
+            "poll_avg": 52.03079
+          },
+          "now": {
+            "winprob": 93.89999999999999,
+            "forecast": 55.77983,
+            "hi": 60.30563,
+            "lo": 51.22367,
+            "poll_avg": 54.7366
+          },
+          "polls": {
+            "winprob": 84.325,
+            "forecast": 54.59214,
+            "hi": 60.56109,
+            "lo": 48.57814,
+            "poll_avg": 50.19886
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 15.135000000000002,
+            "forecast": 45.44703,
+            "hi": 51.25229,
+            "lo": 39.68568,
+            "poll_avg": 39.3153
+          },
+          "now": {
+            "winprob": 6.45,
+            "forecast": 44.4352,
+            "hi": 48.98008,
+            "lo": 39.91713,
+            "poll_avg": 40.56389
+          },
+          "polls": {
+            "winprob": 15.795,
+            "forecast": 45.47079,
+            "hi": 51.44516,
+            "lo": 39.51089,
+            "poll_avg": 38.55005
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 84.865,
+            "forecast": 54.55297,
+            "hi": 60.31432,
+            "lo": 48.74771,
+            "poll_avg": 51.94017
+          },
+          "now": {
+            "winprob": 93.55,
+            "forecast": 55.5648,
+            "hi": 60.08287,
+            "lo": 51.01992,
+            "poll_avg": 54.74825
+          },
+          "polls": {
+            "winprob": 84.205,
+            "forecast": 54.52921,
+            "hi": 60.48911,
+            "lo": 48.55484,
+            "poll_avg": 50.1016
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 13.905000000000001,
+            "forecast": 45.17344,
+            "hi": 50.97523,
+            "lo": 39.43469,
+            "poll_avg": 39.30911
+          },
+          "now": {
+            "winprob": 5.5,
+            "forecast": 44.10846,
+            "hi": 48.55663,
+            "lo": 39.66688,
+            "poll_avg": 40.87919
+          },
+          "polls": {
+            "winprob": 15.17,
+            "forecast": 45.26812,
+            "hi": 51.28342,
+            "lo": 39.21043,
+            "poll_avg": 38.39192
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 86.095,
+            "forecast": 54.82656,
+            "hi": 60.56531,
+            "lo": 49.02477,
+            "poll_avg": 52.43207
+          },
+          "now": {
+            "winprob": 94.5,
+            "forecast": 55.89154,
+            "hi": 60.33312,
+            "lo": 51.44337,
+            "poll_avg": 55.62929
+          },
+          "polls": {
+            "winprob": 84.83000000000001,
+            "forecast": 54.73188,
+            "hi": 60.78957,
+            "lo": 48.71658,
+            "poll_avg": 50.26241
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 13.175,
+            "forecast": 45.06489,
+            "hi": 50.79543,
+            "lo": 39.32709,
+            "poll_avg": 39.08651
+          },
+          "now": {
+            "winprob": 4.83,
+            "forecast": 43.94403,
+            "hi": 48.2947,
+            "lo": 39.57999,
+            "poll_avg": 40.86426
+          },
+          "polls": {
+            "winprob": 14.6,
+            "forecast": 45.15119,
+            "hi": 51.18143,
+            "lo": 39.09348,
+            "poll_avg": 38.26149
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 86.825,
+            "forecast": 54.93511,
+            "hi": 60.67291,
+            "lo": 49.20457,
+            "poll_avg": 52.26373
+          },
+          "now": {
+            "winprob": 95.17,
+            "forecast": 56.05597,
+            "hi": 60.42001,
+            "lo": 51.7053,
+            "poll_avg": 55.79094
+          },
+          "polls": {
+            "winprob": 85.39999999999999,
+            "forecast": 54.84881,
+            "hi": 60.90652,
+            "lo": 48.81857,
+            "poll_avg": 50.2891
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 12.64,
+            "forecast": 44.92105,
+            "hi": 50.70504,
+            "lo": 39.17863,
+            "poll_avg": 38.96462
+          },
+          "now": {
+            "winprob": 3.5549999999999997,
+            "forecast": 43.42223,
+            "hi": 47.68605,
+            "lo": 39.14451,
+            "poll_avg": 41.48497
+          },
+          "polls": {
+            "winprob": 13.98,
+            "forecast": 44.97644,
+            "hi": 51.09846,
+            "lo": 38.92228,
+            "poll_avg": 38.21859
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 87.36,
+            "forecast": 55.07895,
+            "hi": 60.82137,
+            "lo": 49.29496,
+            "poll_avg": 52.25981
+          },
+          "now": {
+            "winprob": 96.44500000000001,
+            "forecast": 56.57777,
+            "hi": 60.85549,
+            "lo": 52.31395,
+            "poll_avg": 57.08795
+          },
+          "polls": {
+            "winprob": 86.02,
+            "forecast": 55.02356,
+            "hi": 61.07772,
+            "lo": 48.90154,
+            "poll_avg": 50.4843
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 25.88,
+            "forecast": 46.71891,
+            "hi": 53.78257,
+            "lo": 39.76303,
+            "poll_avg": 35.15091
+          },
+          "now": {
+            "winprob": 18.525,
+            "forecast": 46.41296,
+            "hi": 51.84369,
+            "lo": 41.00233,
+            "poll_avg": 37.64682
+          },
+          "polls": {
+            "winprob": 29.4,
+            "forecast": 46.96511,
+            "hi": 54.74027,
+            "lo": 39.24505,
+            "poll_avg": 34.42094
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 74.11999999999999,
+            "forecast": 53.28109,
+            "hi": 60.23697,
+            "lo": 46.21743,
+            "poll_avg": 43.66582
+          },
+          "now": {
+            "winprob": 81.475,
+            "forecast": 53.58704,
+            "hi": 58.99767,
+            "lo": 48.15631,
+            "poll_avg": 46.94579
+          },
+          "polls": {
+            "winprob": 70.6,
+            "forecast": 53.03489,
+            "hi": 60.75495,
+            "lo": 45.25973,
+            "poll_avg": 41.91122
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 24.3,
+            "forecast": 46.48377,
+            "hi": 53.42609,
+            "lo": 39.52637,
+            "poll_avg": 35.05564
+          },
+          "now": {
+            "winprob": 16.950000000000003,
+            "forecast": 46.1377,
+            "hi": 51.51546,
+            "lo": 40.71811,
+            "poll_avg": 37.46469
+          },
+          "polls": {
+            "winprob": 27.76,
+            "forecast": 46.753,
+            "hi": 54.37126,
+            "lo": 39.06957,
+            "poll_avg": 34.35622
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 75.7,
+            "forecast": 53.51623,
+            "hi": 60.47363,
+            "lo": 46.57391,
+            "poll_avg": 43.78717
+          },
+          "now": {
+            "winprob": 83.05,
+            "forecast": 53.8623,
+            "hi": 59.28189,
+            "lo": 48.48454,
+            "poll_avg": 47.19956
+          },
+          "polls": {
+            "winprob": 72.24000000000001,
+            "forecast": 53.247,
+            "hi": 60.93043,
+            "lo": 45.62874,
+            "poll_avg": 42.06011
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 24.705,
+            "forecast": 46.50259,
+            "hi": 53.55342,
+            "lo": 39.45548,
+            "poll_avg": 35.06588
+          },
+          "now": {
+            "winprob": 17.69,
+            "forecast": 46.31883,
+            "hi": 51.76221,
+            "lo": 40.99642,
+            "poll_avg": 37.54771
+          },
+          "polls": {
+            "winprob": 28.1,
+            "forecast": 46.75364,
+            "hi": 54.52486,
+            "lo": 38.99676,
+            "poll_avg": 34.3513
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 75.295,
+            "forecast": 53.49741,
+            "hi": 60.54452,
+            "lo": 46.44658,
+            "poll_avg": 43.77367
+          },
+          "now": {
+            "winprob": 82.31,
+            "forecast": 53.68117,
+            "hi": 59.00358,
+            "lo": 48.23779,
+            "poll_avg": 47.18612
+          },
+          "polls": {
+            "winprob": 71.89999999999999,
+            "forecast": 53.24636,
+            "hi": 61.00324,
+            "lo": 45.47514,
+            "poll_avg": 42.05391
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 34.815000000000005,
+            "forecast": 47.18895,
+            "hi": 57.51418,
+            "lo": 36.95554,
+            "poll_avg": 25.87268
+          },
+          "now": {
+            "winprob": 37.495,
+            "forecast": 47.87248,
+            "hi": 57.5012,
+            "lo": 38.13023,
+            "poll_avg": 26.63646
+          },
+          "polls": {
+            "winprob": 38.205,
+            "forecast": 47.61037,
+            "hi": 59.36682,
+            "lo": 35.94599,
+            "poll_avg": 24.92835
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 65.185,
+            "forecast": 52.81105,
+            "hi": 63.04446,
+            "lo": 42.48582,
+            "poll_avg": 30.877
+          },
+          "now": {
+            "winprob": 62.505,
+            "forecast": 52.12752,
+            "hi": 61.86977,
+            "lo": 42.4988,
+            "poll_avg": 30.30061
+          },
+          "polls": {
+            "winprob": 61.795,
+            "forecast": 52.38963,
+            "hi": 64.05402,
+            "lo": 40.63318,
+            "poll_avg": 28.66376
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 33.040000000000006,
+            "forecast": 46.83255,
+            "hi": 57.06808,
+            "lo": 36.55187,
+            "poll_avg": 25.49006
+          },
+          "now": {
+            "winprob": 35.055,
+            "forecast": 47.43566,
+            "hi": 57.176,
+            "lo": 37.66044,
+            "poll_avg": 26.11435
+          },
+          "polls": {
+            "winprob": 36.655,
+            "forecast": 47.26159,
+            "hi": 58.91271,
+            "lo": 35.50951,
+            "poll_avg": 24.54044
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 66.96,
+            "forecast": 53.16745,
+            "hi": 63.44813,
+            "lo": 42.93192,
+            "poll_avg": 31.19794
+          },
+          "now": {
+            "winprob": 64.945,
+            "forecast": 52.56434,
+            "hi": 62.33956,
+            "lo": 42.824,
+            "poll_avg": 30.7902
+          },
+          "polls": {
+            "winprob": 63.345,
+            "forecast": 52.73841,
+            "hi": 64.49049,
+            "lo": 41.08729,
+            "poll_avg": 28.97053
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 29.915000000000003,
+            "forecast": 46.17959,
+            "hi": 56.5059,
+            "lo": 35.80112,
+            "poll_avg": 25.0489
+          },
+          "now": {
+            "winprob": 27.73,
+            "forecast": 45.84778,
+            "hi": 55.86983,
+            "lo": 35.81788,
+            "poll_avg": 23.80392
+          },
+          "polls": {
+            "winprob": 34.385,
+            "forecast": 46.67188,
+            "hi": 58.47414,
+            "lo": 34.84969,
+            "poll_avg": 24.06224
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 70.085,
+            "forecast": 53.82041,
+            "hi": 64.19888,
+            "lo": 43.4941,
+            "poll_avg": 31.42534
+          },
+          "now": {
+            "winprob": 72.27,
+            "forecast": 54.15222,
+            "hi": 64.18211,
+            "lo": 44.13017,
+            "poll_avg": 31.17622
+          },
+          "polls": {
+            "winprob": 65.615,
+            "forecast": 53.32812,
+            "hi": 65.15031,
+            "lo": 41.52586,
+            "poll_avg": 29.10351
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 30.4,
+            "forecast": 46.33667,
+            "hi": 56.70169,
+            "lo": 36.21249,
+            "poll_avg": 25.28676
+          },
+          "now": {
+            "winprob": 28.64,
+            "forecast": 46.02013,
+            "hi": 55.94003,
+            "lo": 36.13549,
+            "poll_avg": 24.11695
+          },
+          "polls": {
+            "winprob": 34.655,
+            "forecast": 46.82482,
+            "hi": 58.62942,
+            "lo": 35.19662,
+            "poll_avg": 24.29611
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 69.6,
+            "forecast": 53.66333,
+            "hi": 63.78751,
+            "lo": 43.29831,
+            "poll_avg": 31.42277
+          },
+          "now": {
+            "winprob": 71.36,
+            "forecast": 53.97987,
+            "hi": 63.86451,
+            "lo": 44.05997,
+            "poll_avg": 31.2493
+          },
+          "polls": {
+            "winprob": 65.345,
+            "forecast": 53.17518,
+            "hi": 64.80339,
+            "lo": 41.37058,
+            "poll_avg": 29.1022
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 31.185000000000002,
+            "forecast": 46.40816,
+            "hi": 56.66689,
+            "lo": 36.1906,
+            "poll_avg": 25.53997
+          },
+          "now": {
+            "winprob": 28.24,
+            "forecast": 46.01361,
+            "hi": 55.85107,
+            "lo": 36.3232,
+            "poll_avg": 24.46287
+          },
+          "polls": {
+            "winprob": 35.065000000000005,
+            "forecast": 46.89254,
+            "hi": 58.69053,
+            "lo": 35.17027,
+            "poll_avg": 24.54802
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 68.815,
+            "forecast": 53.59184,
+            "hi": 63.8094,
+            "lo": 43.33311,
+            "poll_avg": 31.47251
+          },
+          "now": {
+            "winprob": 71.76,
+            "forecast": 53.98639,
+            "hi": 63.6768,
+            "lo": 44.14893,
+            "poll_avg": 31.54528
+          },
+          "polls": {
+            "winprob": 64.935,
+            "forecast": 53.10746,
+            "hi": 64.82974,
+            "lo": 41.30947,
+            "poll_avg": 29.15096
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 31.4,
+            "forecast": 46.45417,
+            "hi": 56.7313,
+            "lo": 36.25907,
+            "poll_avg": 25.71085
+          },
+          "now": {
+            "winprob": 28.38,
+            "forecast": 46.07856,
+            "hi": 55.8572,
+            "lo": 36.40086,
+            "poll_avg": 24.86174
+          },
+          "polls": {
+            "winprob": 35.199999999999996,
+            "forecast": 46.93345,
+            "hi": 58.59984,
+            "lo": 35.39963,
+            "poll_avg": 24.72303
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 68.60000000000001,
+            "forecast": 53.54583,
+            "hi": 63.74093,
+            "lo": 43.2687,
+            "poll_avg": 31.46383
+          },
+          "now": {
+            "winprob": 71.61999999999999,
+            "forecast": 53.92144,
+            "hi": 63.59914,
+            "lo": 44.1428,
+            "poll_avg": 31.7157
+          },
+          "polls": {
+            "winprob": 64.8,
+            "forecast": 53.06655,
+            "hi": 64.60037,
+            "lo": 41.40016,
+            "poll_avg": 29.14462
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 31.0,
+            "forecast": 46.46441,
+            "hi": 56.57873,
+            "lo": 36.25075,
+            "poll_avg": 25.80819
+          },
+          "now": {
+            "winprob": 27.99,
+            "forecast": 45.96852,
+            "hi": 55.62723,
+            "lo": 36.23614,
+            "poll_avg": 25.09293
+          },
+          "polls": {
+            "winprob": 35.31,
+            "forecast": 46.93425,
+            "hi": 58.49068,
+            "lo": 35.31245,
+            "poll_avg": 24.82493
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 69.0,
+            "forecast": 53.53559,
+            "hi": 63.74925,
+            "lo": 43.42127,
+            "poll_avg": 31.54099
+          },
+          "now": {
+            "winprob": 72.00999999999999,
+            "forecast": 54.03148,
+            "hi": 63.76386,
+            "lo": 44.37277,
+            "poll_avg": 31.93257
+          },
+          "polls": {
+            "winprob": 64.69,
+            "forecast": 53.06575,
+            "hi": 64.68755,
+            "lo": 41.50932,
+            "poll_avg": 29.23155
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 32.855000000000004,
+            "forecast": 46.75711,
+            "hi": 56.89645,
+            "lo": 36.55969,
+            "poll_avg": 26.13678
+          },
+          "now": {
+            "winprob": 28.925,
+            "forecast": 46.23405,
+            "hi": 55.77928,
+            "lo": 36.77871,
+            "poll_avg": 25.43553
+          },
+          "polls": {
+            "winprob": 36.645,
+            "forecast": 47.24848,
+            "hi": 58.77614,
+            "lo": 35.80919,
+            "poll_avg": 25.15379
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 67.145,
+            "forecast": 53.24289,
+            "hi": 63.44031,
+            "lo": 43.10355,
+            "poll_avg": 31.53197
+          },
+          "now": {
+            "winprob": 71.075,
+            "forecast": 53.76595,
+            "hi": 63.22129,
+            "lo": 44.22072,
+            "poll_avg": 32.03598
+          },
+          "polls": {
+            "winprob": 63.355,
+            "forecast": 52.75152,
+            "hi": 64.19081,
+            "lo": 41.22386,
+            "poll_avg": 29.21771
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 35.449999999999996,
+            "forecast": 47.32628,
+            "hi": 57.49727,
+            "lo": 37.26596,
+            "poll_avg": 26.71547
+          },
+          "now": {
+            "winprob": 28.305000000000003,
+            "forecast": 46.10493,
+            "hi": 55.81515,
+            "lo": 36.394,
+            "poll_avg": 25.00185
+          },
+          "polls": {
+            "winprob": 39.04,
+            "forecast": 47.79824,
+            "hi": 59.64242,
+            "lo": 36.31406,
+            "poll_avg": 25.71686
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 64.55,
+            "forecast": 52.67372,
+            "hi": 62.73404,
+            "lo": 42.50273,
+            "poll_avg": 31.11547
+          },
+          "now": {
+            "winprob": 71.695,
+            "forecast": 53.89507,
+            "hi": 63.606,
+            "lo": 44.18485,
+            "poll_avg": 31.79733
+          },
+          "polls": {
+            "winprob": 60.96,
+            "forecast": 52.20176,
+            "hi": 63.68594,
+            "lo": 40.35758,
+            "poll_avg": 28.79424
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 37.495,
+            "forecast": 47.72308,
+            "hi": 57.95549,
+            "lo": 37.63336,
+            "poll_avg": 27.09997
+          },
+          "now": {
+            "winprob": 31.424999999999997,
+            "forecast": 46.73004,
+            "hi": 56.36658,
+            "lo": 37.06337,
+            "poll_avg": 25.79338
+          },
+          "polls": {
+            "winprob": 40.735,
+            "forecast": 48.19374,
+            "hi": 59.89815,
+            "lo": 36.63803,
+            "poll_avg": 26.10407
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 62.505,
+            "forecast": 52.27692,
+            "hi": 62.36664,
+            "lo": 42.04451,
+            "poll_avg": 30.96672
+          },
+          "now": {
+            "winprob": 68.575,
+            "forecast": 53.26996,
+            "hi": 62.93663,
+            "lo": 43.63342,
+            "poll_avg": 31.56437
+          },
+          "polls": {
+            "winprob": 59.265,
+            "forecast": 51.80626,
+            "hi": 63.36197,
+            "lo": 40.10185,
+            "poll_avg": 28.65059
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 41.74,
+            "forecast": 48.53745,
+            "hi": 58.74735,
+            "lo": 38.44199,
+            "poll_avg": 27.44041
+          },
+          "now": {
+            "winprob": 39.975,
+            "forecast": 48.31908,
+            "hi": 57.95823,
+            "lo": 38.81228,
+            "poll_avg": 26.84602
+          },
+          "polls": {
+            "winprob": 45.155,
+            "forecast": 49.02629,
+            "hi": 60.52024,
+            "lo": 37.31794,
+            "poll_avg": 26.4529
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 58.26,
+            "forecast": 51.46255,
+            "hi": 61.55801,
+            "lo": 41.25265,
+            "poll_avg": 30.54116
+          },
+          "now": {
+            "winprob": 60.02499999999999,
+            "forecast": 51.68092,
+            "hi": 61.18772,
+            "lo": 42.04177,
+            "poll_avg": 30.30013
+          },
+          "polls": {
+            "winprob": 54.845,
+            "forecast": 50.97371,
+            "hi": 62.68206,
+            "lo": 39.47976,
+            "poll_avg": 28.22067
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 42.675000000000004,
+            "forecast": 48.70578,
+            "hi": 58.95126,
+            "lo": 38.55022,
+            "poll_avg": 27.56562
+          },
+          "now": {
+            "winprob": 42.285000000000004,
+            "forecast": 48.65378,
+            "hi": 58.10922,
+            "lo": 39.13575,
+            "poll_avg": 27.2296
+          },
+          "polls": {
+            "winprob": 45.78,
+            "forecast": 49.18763,
+            "hi": 60.75677,
+            "lo": 37.71606,
+            "poll_avg": 26.57673
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 57.325,
+            "forecast": 51.29422,
+            "hi": 61.44978,
+            "lo": 41.04874,
+            "poll_avg": 30.52671
+          },
+          "now": {
+            "winprob": 57.715,
+            "forecast": 51.34622,
+            "hi": 60.86425,
+            "lo": 41.89078,
+            "poll_avg": 30.19279
+          },
+          "polls": {
+            "winprob": 54.22,
+            "forecast": 50.81237,
+            "hi": 62.28394,
+            "lo": 39.24323,
+            "poll_avg": 28.21058
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 42.415000000000006,
+            "forecast": 48.68224,
+            "hi": 58.72761,
+            "lo": 38.66948,
+            "poll_avg": 27.59315
+          },
+          "now": {
+            "winprob": 41.49,
+            "forecast": 48.62828,
+            "hi": 58.21664,
+            "lo": 39.07879,
+            "poll_avg": 27.42724
+          },
+          "polls": {
+            "winprob": 45.455,
+            "forecast": 49.1635,
+            "hi": 60.74924,
+            "lo": 37.71828,
+            "poll_avg": 26.60841
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 57.584999999999994,
+            "forecast": 51.31776,
+            "hi": 61.33052,
+            "lo": 41.27239,
+            "poll_avg": 30.59341
+          },
+          "now": {
+            "winprob": 58.51,
+            "forecast": 51.37172,
+            "hi": 60.92121,
+            "lo": 41.78336,
+            "poll_avg": 30.43708
+          },
+          "polls": {
+            "winprob": 54.545,
+            "forecast": 50.8365,
+            "hi": 62.28172,
+            "lo": 39.25076,
+            "poll_avg": 28.2782
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 42.809999999999995,
+            "forecast": 48.73637,
+            "hi": 58.84017,
+            "lo": 38.65108,
+            "poll_avg": 27.62903
+          },
+          "now": {
+            "winprob": 42.225,
+            "forecast": 48.739,
+            "hi": 58.11817,
+            "lo": 39.26746,
+            "poll_avg": 27.54226
+          },
+          "polls": {
+            "winprob": 46.160000000000004,
+            "forecast": 49.22651,
+            "hi": 60.67889,
+            "lo": 37.85281,
+            "poll_avg": 26.6434
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 57.19,
+            "forecast": 51.26363,
+            "hi": 61.34892,
+            "lo": 41.15983,
+            "poll_avg": 30.58743
+          },
+          "now": {
+            "winprob": 57.775,
+            "forecast": 51.261,
+            "hi": 60.73254,
+            "lo": 41.88183,
+            "poll_avg": 30.42985
+          },
+          "polls": {
+            "winprob": 53.839999999999996,
+            "forecast": 50.77349,
+            "hi": 62.14719,
+            "lo": 39.32111,
+            "poll_avg": 28.26694
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 43.269999999999996,
+            "forecast": 48.76042,
+            "hi": 58.83271,
+            "lo": 38.71036,
+            "poll_avg": 27.50319
+          },
+          "now": {
+            "winprob": 42.535000000000004,
+            "forecast": 48.78846,
+            "hi": 58.26397,
+            "lo": 39.38026,
+            "poll_avg": 27.47061
+          },
+          "polls": {
+            "winprob": 45.995000000000005,
+            "forecast": 49.23234,
+            "hi": 60.71108,
+            "lo": 37.7453,
+            "poll_avg": 26.51957
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 56.730000000000004,
+            "forecast": 51.23958,
+            "hi": 61.28964,
+            "lo": 41.16729,
+            "poll_avg": 30.71802
+          },
+          "now": {
+            "winprob": 57.464999999999996,
+            "forecast": 51.21154,
+            "hi": 60.61974,
+            "lo": 41.73603,
+            "poll_avg": 30.61177
+          },
+          "polls": {
+            "winprob": 54.005,
+            "forecast": 50.76766,
+            "hi": 62.2547,
+            "lo": 39.28892,
+            "poll_avg": 28.41208
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 42.785000000000004,
+            "forecast": 48.75034,
+            "hi": 58.81981,
+            "lo": 38.65643,
+            "poll_avg": 27.65054
+          },
+          "now": {
+            "winprob": 43.71,
+            "forecast": 48.97541,
+            "hi": 58.39149,
+            "lo": 39.6395,
+            "poll_avg": 28.07453
+          },
+          "polls": {
+            "winprob": 46.445,
+            "forecast": 49.22299,
+            "hi": 60.67159,
+            "lo": 37.77914,
+            "poll_avg": 26.66933
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 57.215,
+            "forecast": 51.24966,
+            "hi": 61.34357,
+            "lo": 41.18019,
+            "poll_avg": 30.7133
+          },
+          "now": {
+            "winprob": 56.28999999999999,
+            "forecast": 51.02459,
+            "hi": 60.3605,
+            "lo": 41.60851,
+            "poll_avg": 30.6223
+          },
+          "polls": {
+            "winprob": 53.555,
+            "forecast": 50.77701,
+            "hi": 62.22086,
+            "lo": 39.32841,
+            "poll_avg": 28.41155
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Jim Gray",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 43.81,
+            "forecast": 48.90177,
+            "hi": 59.20384,
+            "lo": 38.81419,
+            "poll_avg": 27.47899
+          },
+          "now": {
+            "winprob": 45.51,
+            "forecast": 49.29907,
+            "hi": 58.74664,
+            "lo": 39.79674,
+            "poll_avg": 27.77443
+          },
+          "polls": {
+            "winprob": 46.910000000000004,
+            "forecast": 49.38305,
+            "hi": 60.95816,
+            "lo": 37.67544,
+            "poll_avg": 26.50001
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Rand Paul",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 56.19,
+            "forecast": 51.09823,
+            "hi": 61.18581,
+            "lo": 40.79616,
+            "poll_avg": 30.3633
+          },
+          "now": {
+            "winprob": 54.49,
+            "forecast": 50.70093,
+            "hi": 60.20326,
+            "lo": 41.25336,
+            "poll_avg": 29.81806
+          },
+          "polls": {
+            "winprob": 53.09,
+            "forecast": 50.61695,
+            "hi": 62.32456,
+            "lo": 39.04184,
+            "poll_avg": 28.06946
+          }
+        }
+      }
+    ]
+  },
+  "polls": [
+    {
+      "id": "44658",
+      "population": "a",
+      "sampleSize": "758",
+      "state": "KY",
+      "pollster": "Google Consumer Surveys",
+      "startDate": "2016-03-30",
+      "endDate": "2016-04-02",
+      "tracking": null,
+      "url": "http://www.babbagecofounder.com/2016/04/15/cofounder-pulse-poll-paul-27-7-gray-25-8-undecided-46-6/",
+      "created_at": 1474205280,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 27.7,
+          "adj_pct": {
+            "polls": 31.70874,
+            "plus": 33.17764,
+            "now": 31.70874
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 25.8,
+          "adj_pct": {
+            "polls": 30.00874,
+            "plus": 30.70013,
+            "now": 30.00874
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.1e-05,
+        "plus": 1.1e-05,
+        "now": 1.1e-05
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 1.8999999999999986
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 1.6999999999999993
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 2.477509999999995
+          },
+          "now": {
+            "choice": "R",
+            "margin": 1.6999999999999993
+          }
+        }
+      }
+    },
+    {
+      "id": "44660",
+      "population": "a",
+      "sampleSize": "786",
+      "state": "KY",
+      "pollster": "Google Consumer Surveys",
+      "startDate": "2016-06-22",
+      "endDate": "2016-06-25",
+      "tracking": null,
+      "url": "http://www.babbagecofounder.com/2016/06/29/cofounder-pulse-poll-finding-cure-common-poll-round-2/",
+      "created_at": 1474205280,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 26.4,
+          "adj_pct": {
+            "polls": 30.57646,
+            "plus": 32.05577,
+            "now": 30.57646
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 25.4,
+          "adj_pct": {
+            "polls": 29.30084,
+            "plus": 29.99651,
+            "now": 29.30084
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0007472,
+        "plus": 0.0007472,
+        "now": 0.0007472
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 1.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 1.27562
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 2.059260000000002
+          },
+          "now": {
+            "choice": "R",
+            "margin": 1.27562
+          }
+        }
+      }
+    },
+    {
+      "id": "44791",
+      "population": "a",
+      "sampleSize": "508",
+      "state": "KY",
+      "pollster": "Google Consumer Surveys",
+      "startDate": "2016-08-02",
+      "endDate": "2016-08-04",
+      "tracking": null,
+      "url": "http://www.babbagecofounder.com/2016/08/08/cofounder-pulse-poll-presidential-and-senate-poll-kentucky/",
+      "created_at": 1474202400,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 59.3,
+          "adj_pct": {
+            "polls": 63.22635,
+            "plus": 64.75604,
+            "now": 63.22635
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 40.7,
+          "adj_pct": {
+            "polls": 44.8068,
+            "plus": 45.52281,
+            "now": 44.8068
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0039236,
+        "plus": 0.0039236,
+        "now": 0.0039236
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 18.599999999999994
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 18.419549999999994
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 19.23323
+          },
+          "now": {
+            "choice": "R",
+            "margin": 18.419549999999994
+          }
+        }
+      }
+    },
+    {
+      "id": "47900",
+      "population": "lv",
+      "sampleSize": "424",
+      "state": "KY",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-25",
+      "endDate": "2016-10-31",
+      "tracking": "TRUE",
+      "url": "https://drive.google.com/file/d/0BxxpEMTW3kAraEFpRXdFc21TVG8/view",
+      "created_at": 1478025960,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 52.0,
+          "adj_pct": {
+            "polls": 51.92884,
+            "plus": 51.96502,
+            "now": 51.92884
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 46.0,
+          "adj_pct": {
+            "polls": 42.78605,
+            "plus": 42.70923,
+            "now": 42.78605
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0103907,
+        "plus": 0.0103907,
+        "now": 0.0103907
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 6.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 9.142789999999998
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 9.255790000000005
+          },
+          "now": {
+            "choice": "R",
+            "margin": 9.142789999999998
+          }
+        }
+      }
+    },
+    {
+      "id": "48038",
+      "population": "lv",
+      "sampleSize": "499",
+      "state": "KY",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-26",
+      "endDate": "2016-11-01",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478098980,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 51.0,
+          "adj_pct": {
+            "polls": 50.85078,
+            "plus": 50.88788,
+            "now": 50.85078
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 44.0,
+          "adj_pct": {
+            "polls": 40.78682,
+            "plus": 40.71037,
+            "now": 40.78682
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0134888,
+        "plus": 0.0134888,
+        "now": 0.0134888
+      },
+      "pollsterRating": "C-",
+      "averaged": 1,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 7.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 10.063960000000002
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 10.177510000000005
+          },
+          "now": {
+            "choice": "R",
+            "margin": 10.063960000000002
+          }
+        }
+      }
+    },
+    {
+      "id": "44767",
+      "population": "rv",
+      "sampleSize": "500",
+      "state": "KY",
+      "pollster": "Harper Polling",
+      "startDate": "2016-07-31",
+      "endDate": "2016-08-01",
+      "tracking": null,
+      "url": "https://drive.google.com/file/d/0B8AUy6-gVq5MQW5KSVZ0dU5kalE/view",
+      "created_at": 1474202460,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 50.0,
+          "adj_pct": {
+            "polls": 52.30322,
+            "plus": 52.9922,
+            "now": 52.30322
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 38.0,
+          "adj_pct": {
+            "polls": 40.46889,
+            "plus": 40.7419,
+            "now": 40.46889
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0168447,
+        "plus": 0.0168447,
+        "now": 0.0168447
+      },
+      "pollsterRating": "B-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 12.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 11.834330000000001
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 12.250299999999996
+          },
+          "now": {
+            "choice": "R",
+            "margin": 11.834330000000001
+          }
+        }
+      }
+    },
+    {
+      "id": "48146",
+      "population": "lv",
+      "sampleSize": "635",
+      "state": "KY",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-27",
+      "endDate": "2016-11-02",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478216760,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 50.0,
+          "adj_pct": {
+            "polls": 49.77384,
+            "plus": 49.81159,
+            "now": 49.77384
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 46.0,
+          "adj_pct": {
+            "polls": 42.79206,
+            "plus": 42.71588,
+            "now": 42.79206
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0191924,
+        "plus": 0.0191924,
+        "now": 0.0191924
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 4.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 6.9817800000000005
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 7.095710000000004
+          },
+          "now": {
+            "choice": "R",
+            "margin": 6.9817800000000005
+          }
+        }
+      }
+    },
+    {
+      "id": "47048",
+      "population": "a",
+      "sampleSize": "815",
+      "state": "KY",
+      "pollster": "Google Consumer Surveys",
+      "startDate": "2016-09-14",
+      "endDate": "2016-09-16",
+      "tracking": null,
+      "url": "http://www.babbagecofounder.com/2016/10/18/paul-steady-trump-falls-maintain-leads-latest-poll/",
+      "created_at": 1476801120,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 32.6,
+          "adj_pct": {
+            "polls": 36.18484,
+            "plus": 37.80188,
+            "now": 36.18484
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 25.3,
+          "adj_pct": {
+            "polls": 29.39017,
+            "plus": 30.14095,
+            "now": 29.39017
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0612235,
+        "plus": 0.0612235,
+        "now": 0.0612235
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 7.300000000000001
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 6.79467
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 7.660929999999997
+          },
+          "now": {
+            "choice": "R",
+            "margin": 6.79467
+          }
+        }
+      }
+    },
+    {
+      "id": "48594",
+      "population": "lv",
+      "sampleSize": "1155",
+      "state": "KY",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-31",
+      "endDate": "2016-11-06",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478508780,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 51.0,
+          "adj_pct": {
+            "polls": 50.38314,
+            "plus": 50.44123,
+            "now": 50.38314
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 46.0,
+          "adj_pct": {
+            "polls": 42.89753,
+            "plus": 42.82949,
+            "now": 42.89753
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0655864,
+        "plus": 0.0655864,
+        "now": 0.0655864
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 5.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 7.485609999999994
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 7.6117399999999975
+          },
+          "now": {
+            "choice": "R",
+            "margin": 7.485609999999994
+          }
+        }
+      }
+    },
+    {
+      "id": "48286",
+      "population": "lv",
+      "sampleSize": "843",
+      "state": "KY",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-28",
+      "endDate": "2016-11-03",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478277900,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 52.0,
+          "adj_pct": {
+            "polls": 51.67959,
+            "plus": 51.7193,
+            "now": 51.67959
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 45.0,
+          "adj_pct": {
+            "polls": 41.80008,
+            "plus": 41.72469,
+            "now": 41.80008
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0976605,
+        "plus": 0.0976605,
+        "now": 0.0976605
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 7.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 9.879509999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 9.994609999999994
+          },
+          "now": {
+            "choice": "R",
+            "margin": 9.879509999999996
+          }
+        }
+      }
+    },
+    {
+      "id": "47047",
+      "population": "a",
+      "sampleSize": "816",
+      "state": "KY",
+      "pollster": "Google Consumer Surveys",
+      "startDate": "2016-10-12",
+      "endDate": "2016-10-14",
+      "tracking": null,
+      "url": "http://www.babbagecofounder.com/2016/10/18/paul-steady-trump-falls-maintain-leads-latest-poll/",
+      "created_at": 1476801120,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 33.0,
+          "adj_pct": {
+            "polls": 36.66821,
+            "plus": 38.31807,
+            "now": 36.66821
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 26.5,
+          "adj_pct": {
+            "polls": 30.31392,
+            "plus": 31.07788,
+            "now": 30.31392
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.3277934,
+        "plus": 0.3277934,
+        "now": 0.3277934
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 6.5
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 6.354290000000002
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 7.240189999999998
+          },
+          "now": {
+            "choice": "R",
+            "margin": 6.354290000000002
+          }
+        }
+      }
+    },
+    {
+      "id": "47938",
+      "population": "lv",
+      "sampleSize": "602",
+      "state": "KY",
+      "pollster": "Western Kentucky University",
+      "startDate": "2016-10-25",
+      "endDate": "2016-10-30",
+      "tracking": null,
+      "url": "https://web.archive.org/web/2018/https://projects.fivethirtyeight.com/polls/20161101_KY.pdf",
+      "created_at": 1477996980,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 55.0,
+          "adj_pct": {
+            "polls": 54.57072,
+            "plus": 54.7254,
+            "now": 54.57072
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 39.0,
+          "adj_pct": {
+            "polls": 38.93471,
+            "plus": 39.12761,
+            "now": 38.93471
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.226326,
+        "plus": 1.226326,
+        "now": 1.226326
+      },
+      "pollsterRating": "C+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 16.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 15.636009999999999
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 15.597790000000003
+          },
+          "now": {
+            "choice": "R",
+            "margin": 15.636009999999999
+          }
+        }
+      }
+    },
+    {
+      "id": "48192",
+      "population": "a",
+      "sampleSize": "1016",
+      "state": "KY",
+      "pollster": "Google Consumer Surveys",
+      "startDate": "2016-10-26",
+      "endDate": "2016-10-28",
+      "tracking": null,
+      "url": "http://www.babbagecofounder.com/2016/11/01/paul-trump-lead-final-cofounder-pulse-poll/",
+      "created_at": 1478180880,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 34.5,
+          "adj_pct": {
+            "polls": 37.36186,
+            "plus": 39.0187,
+            "now": 37.36186
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 27.9,
+          "adj_pct": {
+            "polls": 31.07848,
+            "plus": 31.84526,
+            "now": 31.07848
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.315627,
+        "plus": 1.315627,
+        "now": 1.315627
+      },
+      "pollsterRating": "B",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 6.600000000000001
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 6.283380000000001
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 7.173440000000003
+          },
+          "now": {
+            "choice": "R",
+            "margin": 6.283380000000001
+          }
+        }
+      }
+    },
+    {
+      "id": "47792",
+      "population": "lv",
+      "sampleSize": "811",
+      "state": "KY",
+      "pollster": "Cygnal Political",
+      "startDate": "2016-10-26",
+      "endDate": "2016-10-28",
+      "tracking": null,
+      "url": "http://www.runswitchpr.com/oct-2016-survey/",
+      "created_at": 1477910280,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 52.0,
+          "adj_pct": {
+            "polls": 52.36814,
+            "plus": 52.54158,
+            "now": 52.36814
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 42.0,
+          "adj_pct": {
+            "polls": 41.05739,
+            "plus": 41.26846,
+            "now": 41.05739
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.585611,
+        "plus": 1.585611,
+        "now": 1.585611
+      },
+      "pollsterRating": "",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 10.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 11.310749999999999
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 11.273120000000006
+          },
+          "now": {
+            "choice": "R",
+            "margin": 11.310749999999999
+          }
+        }
+      }
+    },
+    {
+      "id": "48877",
+      "population": "lv",
+      "sampleSize": "1315",
+      "state": "KY",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-11-01",
+      "endDate": "2016-11-07",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478564280,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 50.0,
+          "adj_pct": {
+            "polls": 49.26295,
+            "plus": 49.33228,
+            "now": 49.26295
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 46.0,
+          "adj_pct": {
+            "polls": 42.90585,
+            "plus": 42.84233,
+            "now": 42.90585
+          }
+        }
+      ],
+      "weight": {
+        "polls": 1.936505,
+        "plus": 1.936505,
+        "now": 1.936505
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 4.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 6.3570999999999955
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 6.48995
+          },
+          "now": {
+            "choice": "R",
+            "margin": 6.3570999999999955
+          }
+        }
+      }
+    }
+  ]
+}

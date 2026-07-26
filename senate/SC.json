@@ -1,0 +1,7229 @@
+{
+  "state": "SC",
+  "candidates": [
+    {
+      "state": "SC",
+      "party": "D",
+      "candidate": "Thomas Dixon",
+      "incumbent": null
+    },
+    {
+      "state": "SC",
+      "party": "R",
+      "candidate": "Tim Scott",
+      "incumbent": "y"
+    }
+  ],
+  "forecasts": {
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 0.315,
+            "forecast": 36.35268,
+            "hi": 40.71145,
+            "lo": 32.02181,
+            "poll_avg": 37.03999,
+            "likely_adjust": 0.0105591,
+            "trend_adjust": 0.1167831,
+            "house_adjust": -2.832336,
+            "adj_avg": 34.335,
+            "undecided_adjust": 2.402641,
+            "reallocate_avg": 36.73764,
+            "demo_regress": 35.38266,
+            "demo_weight": 28.362,
+            "snapshot": 36.35334
+          },
+          "polls": {
+            "winprob": 0.8099999999999999,
+            "forecast": 36.79826,
+            "hi": 41.6488,
+            "lo": 31.98692,
+            "poll_avg": 37.03999,
+            "likely_adjust": 0.0075569,
+            "trend_adjust": 0.1310883,
+            "house_adjust": -2.783539,
+            "adj_avg": 34.3951,
+            "undecided_adjust": 2.403328,
+            "reallocate_avg": 36.79843,
+            "demo_regress": 36.79843,
+            "demo_weight": 0.0,
+            "snapshot": 36.79843
+          },
+          "now": {
+            "winprob": 0.8099999999999999,
+            "forecast": 36.79826,
+            "hi": 41.6488,
+            "lo": 31.98692,
+            "poll_avg": 37.03999,
+            "likely_adjust": 0.0075569,
+            "trend_adjust": 0.1310883,
+            "house_adjust": -2.783539,
+            "adj_avg": 34.3951,
+            "undecided_adjust": 2.403328,
+            "reallocate_avg": 36.79843,
+            "demo_regress": 36.79843,
+            "demo_weight": 0.0,
+            "snapshot": 36.79843
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 99.685,
+            "forecast": 60.83971,
+            "hi": 65.31529,
+            "lo": 56.30188,
+            "poll_avg": 58.4978,
+            "likely_adjust": 0.0184479,
+            "trend_adjust": 0.3842049,
+            "house_adjust": -0.8483429,
+            "adj_avg": 58.05211,
+            "undecided_adjust": 2.402641,
+            "reallocate_avg": 60.45475,
+            "demo_regress": 61.80973,
+            "demo_weight": 28.362,
+            "snapshot": 60.83905
+          },
+          "polls": {
+            "winprob": 99.19,
+            "forecast": 60.39568,
+            "hi": 65.33453,
+            "lo": 55.35158,
+            "poll_avg": 58.4978,
+            "likely_adjust": 0.0109367,
+            "trend_adjust": 0.4197617,
+            "house_adjust": -0.9363136,
+            "adj_avg": 57.99218,
+            "undecided_adjust": 2.403328,
+            "reallocate_avg": 60.39551,
+            "demo_regress": 60.39551,
+            "demo_weight": 0.0,
+            "snapshot": 60.39551
+          },
+          "now": {
+            "winprob": 99.19,
+            "forecast": 60.39568,
+            "hi": 65.33453,
+            "lo": 55.35158,
+            "poll_avg": 58.4978,
+            "likely_adjust": 0.0109367,
+            "trend_adjust": 0.4197617,
+            "house_adjust": -0.9363136,
+            "adj_avg": 57.99218,
+            "undecided_adjust": 2.403328,
+            "reallocate_avg": 60.39551,
+            "demo_regress": 60.39551,
+            "demo_weight": 0.0,
+            "snapshot": 60.39551
+          }
+        }
+      }
+    },
+    "all": [
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 0.315,
+            "forecast": 36.35268,
+            "hi": 40.71145,
+            "lo": 32.02181,
+            "poll_avg": 37.03999,
+            "likely_adjust": 0.0105591,
+            "trend_adjust": 0.1167831,
+            "house_adjust": -2.832336,
+            "adj_avg": 34.335,
+            "undecided_adjust": 2.402641,
+            "reallocate_avg": 36.73764,
+            "demo_regress": 35.38266,
+            "demo_weight": 28.362,
+            "snapshot": 36.35334
+          },
+          "polls": {
+            "winprob": 0.8099999999999999,
+            "forecast": 36.79826,
+            "hi": 41.6488,
+            "lo": 31.98692,
+            "poll_avg": 37.03999,
+            "likely_adjust": 0.0075569,
+            "trend_adjust": 0.1310883,
+            "house_adjust": -2.783539,
+            "adj_avg": 34.3951,
+            "undecided_adjust": 2.403328,
+            "reallocate_avg": 36.79843,
+            "demo_regress": 36.79843,
+            "demo_weight": 0.0,
+            "snapshot": 36.79843
+          },
+          "now": {
+            "winprob": 0.8099999999999999,
+            "forecast": 36.79826,
+            "hi": 41.6488,
+            "lo": 31.98692,
+            "poll_avg": 37.03999,
+            "likely_adjust": 0.0075569,
+            "trend_adjust": 0.1310883,
+            "house_adjust": -2.783539,
+            "adj_avg": 34.3951,
+            "undecided_adjust": 2.403328,
+            "reallocate_avg": 36.79843,
+            "demo_regress": 36.79843,
+            "demo_weight": 0.0,
+            "snapshot": 36.79843
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-11-08",
+        "models": {
+          "plus": {
+            "winprob": 99.685,
+            "forecast": 60.83971,
+            "hi": 65.31529,
+            "lo": 56.30188,
+            "poll_avg": 58.4978,
+            "likely_adjust": 0.0184479,
+            "trend_adjust": 0.3842049,
+            "house_adjust": -0.8483429,
+            "adj_avg": 58.05211,
+            "undecided_adjust": 2.402641,
+            "reallocate_avg": 60.45475,
+            "demo_regress": 61.80973,
+            "demo_weight": 28.362,
+            "snapshot": 60.83905
+          },
+          "polls": {
+            "winprob": 99.19,
+            "forecast": 60.39568,
+            "hi": 65.33453,
+            "lo": 55.35158,
+            "poll_avg": 58.4978,
+            "likely_adjust": 0.0109367,
+            "trend_adjust": 0.4197617,
+            "house_adjust": -0.9363136,
+            "adj_avg": 57.99218,
+            "undecided_adjust": 2.403328,
+            "reallocate_avg": 60.39551,
+            "demo_regress": 60.39551,
+            "demo_weight": 0.0,
+            "snapshot": 60.39551
+          },
+          "now": {
+            "winprob": 99.19,
+            "forecast": 60.39568,
+            "hi": 65.33453,
+            "lo": 55.35158,
+            "poll_avg": 58.4978,
+            "likely_adjust": 0.0109367,
+            "trend_adjust": 0.4197617,
+            "house_adjust": -0.9363136,
+            "adj_avg": 57.99218,
+            "undecided_adjust": 2.403328,
+            "reallocate_avg": 60.39551,
+            "demo_regress": 60.39551,
+            "demo_weight": 0.0,
+            "snapshot": 60.39551
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 0.43499999999999994,
+            "forecast": 36.86008,
+            "hi": 41.30929,
+            "lo": 32.46399,
+            "poll_avg": 34.98621
+          },
+          "now": {
+            "winprob": 0.43499999999999994,
+            "forecast": 37.05442,
+            "hi": 41.42889,
+            "lo": 32.71962,
+            "poll_avg": 35.29297
+          },
+          "polls": {
+            "winprob": 0.815,
+            "forecast": 37.51569,
+            "hi": 42.34104,
+            "lo": 32.76282,
+            "poll_avg": 35.042
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-11-07",
+        "models": {
+          "plus": {
+            "winprob": 99.565,
+            "forecast": 60.32206,
+            "hi": 64.84961,
+            "lo": 55.73159,
+            "poll_avg": 57.19072
+          },
+          "now": {
+            "winprob": 99.565,
+            "forecast": 60.16043,
+            "hi": 64.67538,
+            "lo": 55.63142,
+            "poll_avg": 57.07816
+          },
+          "polls": {
+            "winprob": 99.185,
+            "forecast": 59.67573,
+            "hi": 64.55703,
+            "lo": 54.68476,
+            "poll_avg": 57.20159
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 0.625,
+            "forecast": 37.07486,
+            "hi": 41.65082,
+            "lo": 32.54642,
+            "poll_avg": 34.61947
+          },
+          "now": {
+            "winprob": 0.54,
+            "forecast": 37.03567,
+            "hi": 41.59056,
+            "lo": 32.53418,
+            "poll_avg": 34.46856
+          },
+          "polls": {
+            "winprob": 1.01,
+            "forecast": 37.63651,
+            "hi": 42.68887,
+            "lo": 32.689,
+            "poll_avg": 34.61934
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-11-06",
+        "models": {
+          "plus": {
+            "winprob": 99.375,
+            "forecast": 59.9692,
+            "hi": 64.63024,
+            "lo": 55.21629,
+            "poll_avg": 56.50457
+          },
+          "now": {
+            "winprob": 99.46000000000001,
+            "forecast": 59.98209,
+            "hi": 64.58592,
+            "lo": 55.30937,
+            "poll_avg": 56.43909
+          },
+          "polls": {
+            "winprob": 98.99,
+            "forecast": 59.39281,
+            "hi": 64.38826,
+            "lo": 54.25807,
+            "poll_avg": 56.37854
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 0.49,
+            "forecast": 37.01669,
+            "hi": 41.47988,
+            "lo": 32.59566,
+            "poll_avg": 34.85335
+          },
+          "now": {
+            "winprob": 0.53,
+            "forecast": 37.01658,
+            "hi": 41.41951,
+            "lo": 32.60489,
+            "poll_avg": 34.93929
+          },
+          "polls": {
+            "winprob": 0.83,
+            "forecast": 37.44299,
+            "hi": 42.42876,
+            "lo": 32.53025,
+            "poll_avg": 34.71503
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-11-05",
+        "models": {
+          "plus": {
+            "winprob": 99.51,
+            "forecast": 60.09968,
+            "hi": 64.71153,
+            "lo": 55.44393,
+            "poll_avg": 56.83881
+          },
+          "now": {
+            "winprob": 99.47,
+            "forecast": 60.1296,
+            "hi": 64.62945,
+            "lo": 55.56674,
+            "poll_avg": 56.94311
+          },
+          "polls": {
+            "winprob": 99.17,
+            "forecast": 59.66507,
+            "hi": 64.70758,
+            "lo": 54.59991,
+            "poll_avg": 56.93614
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 0.615,
+            "forecast": 37.34877,
+            "hi": 41.79663,
+            "lo": 32.90225,
+            "poll_avg": 35.2858
+          },
+          "now": {
+            "winprob": 0.555,
+            "forecast": 37.38003,
+            "hi": 41.72059,
+            "lo": 33.03629,
+            "poll_avg": 35.44286
+          },
+          "polls": {
+            "winprob": 1.0250000000000001,
+            "forecast": 37.81812,
+            "hi": 42.68761,
+            "lo": 32.91984,
+            "poll_avg": 35.17636
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-11-04",
+        "models": {
+          "plus": {
+            "winprob": 99.385,
+            "forecast": 59.81553,
+            "hi": 64.36154,
+            "lo": 55.19537,
+            "poll_avg": 56.72262
+          },
+          "now": {
+            "winprob": 99.445,
+            "forecast": 59.83627,
+            "hi": 64.30177,
+            "lo": 55.33965,
+            "poll_avg": 56.90825
+          },
+          "polls": {
+            "winprob": 98.97500000000001,
+            "forecast": 59.3262,
+            "hi": 64.31111,
+            "lo": 54.34546,
+            "poll_avg": 56.68478
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 0.7100000000000001,
+            "forecast": 37.66916,
+            "hi": 42.21365,
+            "lo": 33.17972,
+            "poll_avg": 35.41485
+          },
+          "now": {
+            "winprob": 0.66,
+            "forecast": 37.76725,
+            "hi": 42.19279,
+            "lo": 33.26707,
+            "poll_avg": 35.57398
+          },
+          "polls": {
+            "winprob": 1.225,
+            "forecast": 38.13657,
+            "hi": 43.11739,
+            "lo": 33.23834,
+            "poll_avg": 35.3642
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-11-03",
+        "models": {
+          "plus": {
+            "winprob": 99.29,
+            "forecast": 59.44727,
+            "hi": 64.05821,
+            "lo": 54.72744,
+            "poll_avg": 56.17001
+          },
+          "now": {
+            "winprob": 99.33999999999999,
+            "forecast": 59.38107,
+            "hi": 63.87322,
+            "lo": 54.77422,
+            "poll_avg": 56.175
+          },
+          "polls": {
+            "winprob": 98.775,
+            "forecast": 58.97649,
+            "hi": 63.99305,
+            "lo": 53.87508,
+            "poll_avg": 56.20276
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 1.015,
+            "forecast": 38.3353,
+            "hi": 42.93278,
+            "lo": 33.86242,
+            "poll_avg": 36.33848
+          },
+          "now": {
+            "winprob": 0.86,
+            "forecast": 38.44295,
+            "hi": 42.88274,
+            "lo": 33.9731,
+            "poll_avg": 36.38667
+          },
+          "polls": {
+            "winprob": 1.585,
+            "forecast": 39.04417,
+            "hi": 44.00352,
+            "lo": 34.18928,
+            "poll_avg": 36.19553
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-11-02",
+        "models": {
+          "plus": {
+            "winprob": 98.985,
+            "forecast": 58.81796,
+            "hi": 63.40955,
+            "lo": 54.08307,
+            "poll_avg": 55.37596
+          },
+          "now": {
+            "winprob": 99.14,
+            "forecast": 58.70859,
+            "hi": 63.26141,
+            "lo": 54.07385,
+            "poll_avg": 55.21501
+          },
+          "polls": {
+            "winprob": 98.41499999999999,
+            "forecast": 58.07102,
+            "hi": 63.06578,
+            "lo": 52.98502,
+            "poll_avg": 55.22203
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.935,
+            "forecast": 38.13124,
+            "hi": 42.81434,
+            "lo": 33.43763,
+            "poll_avg": 35.44814
+          },
+          "now": {
+            "winprob": 0.9199999999999999,
+            "forecast": 38.27225,
+            "hi": 42.80589,
+            "lo": 33.74738,
+            "poll_avg": 35.68359
+          },
+          "polls": {
+            "winprob": 1.77,
+            "forecast": 38.84063,
+            "hi": 43.90261,
+            "lo": 33.83515,
+            "poll_avg": 35.47636
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.065,
+            "forecast": 58.83262,
+            "hi": 63.64886,
+            "lo": 53.97555,
+            "poll_avg": 54.83865
+          },
+          "now": {
+            "winprob": 99.08,
+            "forecast": 58.73416,
+            "hi": 63.32565,
+            "lo": 54.08255,
+            "poll_avg": 54.84368
+          },
+          "polls": {
+            "winprob": 98.22999999999999,
+            "forecast": 58.11713,
+            "hi": 63.30568,
+            "lo": 52.93369,
+            "poll_avg": 54.75148
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 0.9450000000000001,
+            "forecast": 35.11137,
+            "hi": 40.84183,
+            "lo": 29.49664,
+            "poll_avg": 27.12872
+          },
+          "now": {
+            "winprob": 0.765,
+            "forecast": 34.92991,
+            "hi": 40.51001,
+            "lo": 29.44257,
+            "poll_avg": 26.97
+          },
+          "polls": {
+            "winprob": 1.275,
+            "forecast": 34.85962,
+            "hi": 41.17934,
+            "lo": 28.6698,
+            "poll_avg": 27.09292
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-31",
+        "models": {
+          "plus": {
+            "winprob": 99.055,
+            "forecast": 60.68028,
+            "hi": 66.50826,
+            "lo": 54.63438,
+            "poll_avg": 53.68518
+          },
+          "now": {
+            "winprob": 99.235,
+            "forecast": 60.84283,
+            "hi": 66.53455,
+            "lo": 55.01023,
+            "poll_avg": 53.91103
+          },
+          "polls": {
+            "winprob": 98.725,
+            "forecast": 60.92405,
+            "hi": 67.31248,
+            "lo": 54.30689,
+            "poll_avg": 53.64671
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 1.005,
+            "forecast": 35.26905,
+            "hi": 40.92986,
+            "lo": 29.68221,
+            "poll_avg": 27.2307
+          },
+          "now": {
+            "winprob": 0.86,
+            "forecast": 35.18239,
+            "hi": 40.71075,
+            "lo": 29.65307,
+            "poll_avg": 27.26376
+          },
+          "polls": {
+            "winprob": 1.51,
+            "forecast": 35.02838,
+            "hi": 41.28059,
+            "lo": 28.77047,
+            "poll_avg": 27.18976
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-30",
+        "models": {
+          "plus": {
+            "winprob": 98.995,
+            "forecast": 60.52077,
+            "hi": 66.33569,
+            "lo": 54.5872,
+            "poll_avg": 53.53681
+          },
+          "now": {
+            "winprob": 99.14,
+            "forecast": 60.6125,
+            "hi": 66.34448,
+            "lo": 54.71528,
+            "poll_avg": 53.79249
+          },
+          "polls": {
+            "winprob": 98.49,
+            "forecast": 60.74922,
+            "hi": 67.17892,
+            "lo": 54.08004,
+            "poll_avg": 53.46039
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 1.115,
+            "forecast": 35.36771,
+            "hi": 41.01909,
+            "lo": 29.74098,
+            "poll_avg": 27.24832
+          },
+          "now": {
+            "winprob": 0.9299999999999999,
+            "forecast": 35.30876,
+            "hi": 40.81401,
+            "lo": 29.81581,
+            "poll_avg": 27.32203
+          },
+          "polls": {
+            "winprob": 1.58,
+            "forecast": 35.14817,
+            "hi": 41.48625,
+            "lo": 28.8301,
+            "poll_avg": 27.21055
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-29",
+        "models": {
+          "plus": {
+            "winprob": 98.885,
+            "forecast": 60.40272,
+            "hi": 66.3009,
+            "lo": 54.4087,
+            "poll_avg": 53.31098
+          },
+          "now": {
+            "winprob": 99.07000000000001,
+            "forecast": 60.46885,
+            "hi": 66.17998,
+            "lo": 54.67204,
+            "poll_avg": 53.5715
+          },
+          "polls": {
+            "winprob": 98.42,
+            "forecast": 60.60762,
+            "hi": 67.12807,
+            "lo": 54.02394,
+            "poll_avg": 53.20528
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 1.125,
+            "forecast": 35.32954,
+            "hi": 41.02136,
+            "lo": 29.67227,
+            "poll_avg": 26.96597
+          },
+          "now": {
+            "winprob": 1.005,
+            "forecast": 35.31728,
+            "hi": 40.94119,
+            "lo": 29.71765,
+            "poll_avg": 27.05578
+          },
+          "polls": {
+            "winprob": 1.5599999999999998,
+            "forecast": 35.08027,
+            "hi": 41.46634,
+            "lo": 28.76999,
+            "poll_avg": 26.92299
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-28",
+        "models": {
+          "plus": {
+            "winprob": 98.875,
+            "forecast": 60.3825,
+            "hi": 66.34375,
+            "lo": 54.36554,
+            "poll_avg": 53.05611
+          },
+          "now": {
+            "winprob": 98.995,
+            "forecast": 60.39193,
+            "hi": 66.23679,
+            "lo": 54.47805,
+            "poll_avg": 53.24656
+          },
+          "polls": {
+            "winprob": 98.44000000000001,
+            "forecast": 60.62112,
+            "hi": 67.22778,
+            "lo": 53.94241,
+            "poll_avg": 52.9987
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 1.095,
+            "forecast": 35.02773,
+            "hi": 40.84573,
+            "lo": 29.15477,
+            "poll_avg": 26.25782
+          },
+          "now": {
+            "winprob": 0.8699999999999999,
+            "forecast": 34.84504,
+            "hi": 40.54342,
+            "lo": 29.14469,
+            "poll_avg": 26.16972
+          },
+          "polls": {
+            "winprob": 1.585,
+            "forecast": 34.76048,
+            "hi": 41.19852,
+            "lo": 28.42952,
+            "poll_avg": 26.2693
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-27",
+        "models": {
+          "plus": {
+            "winprob": 98.905,
+            "forecast": 60.57834,
+            "hi": 66.6071,
+            "lo": 54.43662,
+            "poll_avg": 52.84129
+          },
+          "now": {
+            "winprob": 99.13,
+            "forecast": 60.73754,
+            "hi": 66.70367,
+            "lo": 54.65305,
+            "poll_avg": 53.12239
+          },
+          "polls": {
+            "winprob": 98.41499999999999,
+            "forecast": 60.84933,
+            "hi": 67.47569,
+            "lo": 54.04758,
+            "poll_avg": 52.86606
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 1.1900000000000002,
+            "forecast": 34.81068,
+            "hi": 40.70206,
+            "lo": 28.9735,
+            "poll_avg": 25.90378
+          },
+          "now": {
+            "winprob": 0.9450000000000001,
+            "forecast": 34.66798,
+            "hi": 40.38321,
+            "lo": 28.94176,
+            "poll_avg": 25.82747
+          },
+          "polls": {
+            "winprob": 1.63,
+            "forecast": 34.5591,
+            "hi": 41.11919,
+            "lo": 28.11996,
+            "poll_avg": 25.89667
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-26",
+        "models": {
+          "plus": {
+            "winprob": 98.81,
+            "forecast": 60.75743,
+            "hi": 66.86423,
+            "lo": 54.55421,
+            "poll_avg": 52.89157
+          },
+          "now": {
+            "winprob": 99.055,
+            "forecast": 60.8712,
+            "hi": 66.83659,
+            "lo": 54.8143,
+            "poll_avg": 53.15263
+          },
+          "polls": {
+            "winprob": 98.37,
+            "forecast": 61.00638,
+            "hi": 67.6801,
+            "lo": 54.16663,
+            "poll_avg": 52.87299
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 1.3050000000000002,
+            "forecast": 34.7756,
+            "hi": 40.85108,
+            "lo": 28.75984,
+            "poll_avg": 25.2662
+          },
+          "now": {
+            "winprob": 1.125,
+            "forecast": 34.53021,
+            "hi": 40.52034,
+            "lo": 28.59462,
+            "poll_avg": 24.92774
+          },
+          "polls": {
+            "winprob": 1.69,
+            "forecast": 34.52345,
+            "hi": 41.36974,
+            "lo": 27.76248,
+            "poll_avg": 25.22679
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-25",
+        "models": {
+          "plus": {
+            "winprob": 98.695,
+            "forecast": 60.65559,
+            "hi": 66.95247,
+            "lo": 54.29121,
+            "poll_avg": 52.26269
+          },
+          "now": {
+            "winprob": 98.875,
+            "forecast": 60.81137,
+            "hi": 67.0013,
+            "lo": 54.48458,
+            "poll_avg": 52.35632
+          },
+          "polls": {
+            "winprob": 98.31,
+            "forecast": 60.89156,
+            "hi": 67.87542,
+            "lo": 53.78973,
+            "poll_avg": 52.14293
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 1.155,
+            "forecast": 35.20179,
+            "hi": 41.09786,
+            "lo": 29.36055,
+            "poll_avg": 26.24134
+          },
+          "now": {
+            "winprob": 1.155,
+            "forecast": 35.03865,
+            "hi": 40.81399,
+            "lo": 29.30981,
+            "poll_avg": 26.1318
+          },
+          "polls": {
+            "winprob": 1.68,
+            "forecast": 34.91442,
+            "hi": 41.39367,
+            "lo": 28.47768,
+            "poll_avg": 26.2218
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-24",
+        "models": {
+          "plus": {
+            "winprob": 98.845,
+            "forecast": 60.37827,
+            "hi": 66.51813,
+            "lo": 54.08178,
+            "poll_avg": 52.58925
+          },
+          "now": {
+            "winprob": 98.845,
+            "forecast": 60.5033,
+            "hi": 66.48984,
+            "lo": 54.45388,
+            "poll_avg": 52.86693
+          },
+          "polls": {
+            "winprob": 98.32,
+            "forecast": 60.66309,
+            "hi": 67.42101,
+            "lo": 53.95953,
+            "poll_avg": 52.5874
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 1.03,
+            "forecast": 34.89744,
+            "hi": 40.82928,
+            "lo": 29.03576,
+            "poll_avg": 25.96111
+          },
+          "now": {
+            "winprob": 0.91,
+            "forecast": 34.47089,
+            "hi": 40.19746,
+            "lo": 28.76945,
+            "poll_avg": 25.60307
+          },
+          "polls": {
+            "winprob": 1.4949999999999999,
+            "forecast": 34.66343,
+            "hi": 41.25384,
+            "lo": 28.2093,
+            "poll_avg": 25.95404
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-23",
+        "models": {
+          "plus": {
+            "winprob": 98.97,
+            "forecast": 60.67773,
+            "hi": 66.78428,
+            "lo": 54.40995,
+            "poll_avg": 52.89297
+          },
+          "now": {
+            "winprob": 99.09,
+            "forecast": 61.06466,
+            "hi": 67.02831,
+            "lo": 54.9758,
+            "poll_avg": 53.49846
+          },
+          "polls": {
+            "winprob": 98.505,
+            "forecast": 60.90182,
+            "hi": 67.66173,
+            "lo": 54.1013,
+            "poll_avg": 52.79794
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 1.22,
+            "forecast": 34.9428,
+            "hi": 40.86234,
+            "lo": 29.03535,
+            "poll_avg": 26.00585
+          },
+          "now": {
+            "winprob": 0.9400000000000001,
+            "forecast": 34.52108,
+            "hi": 40.24732,
+            "lo": 28.86828,
+            "poll_avg": 25.6371
+          },
+          "polls": {
+            "winprob": 1.7000000000000002,
+            "forecast": 34.65796,
+            "hi": 41.17985,
+            "lo": 28.14982,
+            "poll_avg": 25.94069
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-22",
+        "models": {
+          "plus": {
+            "winprob": 98.78,
+            "forecast": 60.63754,
+            "hi": 66.76875,
+            "lo": 54.39343,
+            "poll_avg": 52.89047
+          },
+          "now": {
+            "winprob": 99.06,
+            "forecast": 61.00781,
+            "hi": 66.94083,
+            "lo": 54.8933,
+            "poll_avg": 53.42395
+          },
+          "polls": {
+            "winprob": 98.3,
+            "forecast": 60.90592,
+            "hi": 67.69167,
+            "lo": 54.05949,
+            "poll_avg": 52.80034
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 1.21,
+            "forecast": 34.93103,
+            "hi": 40.8459,
+            "lo": 29.06028,
+            "poll_avg": 25.99803
+          },
+          "now": {
+            "winprob": 0.97,
+            "forecast": 34.43779,
+            "hi": 40.19378,
+            "lo": 28.67615,
+            "poll_avg": 25.57136
+          },
+          "polls": {
+            "winprob": 1.645,
+            "forecast": 34.64376,
+            "hi": 41.29627,
+            "lo": 28.11352,
+            "poll_avg": 25.94639
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-21",
+        "models": {
+          "plus": {
+            "winprob": 98.79,
+            "forecast": 60.64507,
+            "hi": 66.81586,
+            "lo": 54.34865,
+            "poll_avg": 52.85609
+          },
+          "now": {
+            "winprob": 99.03,
+            "forecast": 61.09156,
+            "hi": 67.13744,
+            "lo": 54.95572,
+            "poll_avg": 53.54353
+          },
+          "polls": {
+            "winprob": 98.355,
+            "forecast": 60.92274,
+            "hi": 67.75931,
+            "lo": 54.0761,
+            "poll_avg": 52.82071
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 1.18,
+            "forecast": 35.26143,
+            "hi": 41.20571,
+            "lo": 29.39577,
+            "poll_avg": 26.25507
+          },
+          "now": {
+            "winprob": 0.905,
+            "forecast": 34.72882,
+            "hi": 40.57294,
+            "lo": 29.00041,
+            "poll_avg": 25.85458
+          },
+          "polls": {
+            "winprob": 1.69,
+            "forecast": 34.99273,
+            "hi": 41.59524,
+            "lo": 28.46723,
+            "poll_avg": 26.21049
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-20",
+        "models": {
+          "plus": {
+            "winprob": 98.82,
+            "forecast": 60.31103,
+            "hi": 66.44089,
+            "lo": 54.01343,
+            "poll_avg": 52.49213
+          },
+          "now": {
+            "winprob": 99.095,
+            "forecast": 60.80108,
+            "hi": 66.79944,
+            "lo": 54.65331,
+            "poll_avg": 53.22863
+          },
+          "polls": {
+            "winprob": 98.31,
+            "forecast": 60.56477,
+            "hi": 67.35513,
+            "lo": 53.68959,
+            "poll_avg": 52.39174
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 1.51,
+            "forecast": 35.43678,
+            "hi": 41.39137,
+            "lo": 29.48057,
+            "poll_avg": 26.28261
+          },
+          "now": {
+            "winprob": 1.135,
+            "forecast": 34.98425,
+            "hi": 40.782,
+            "lo": 29.30376,
+            "poll_avg": 25.94509
+          },
+          "polls": {
+            "winprob": 1.805,
+            "forecast": 35.1376,
+            "hi": 41.80426,
+            "lo": 28.55268,
+            "poll_avg": 26.22715
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-19",
+        "models": {
+          "plus": {
+            "winprob": 98.49,
+            "forecast": 60.11023,
+            "hi": 66.33604,
+            "lo": 53.81805,
+            "poll_avg": 52.1903
+          },
+          "now": {
+            "winprob": 98.86500000000001,
+            "forecast": 60.51182,
+            "hi": 66.43173,
+            "lo": 54.46164,
+            "poll_avg": 52.82144
+          },
+          "polls": {
+            "winprob": 98.195,
+            "forecast": 60.39594,
+            "hi": 67.09355,
+            "lo": 53.48373,
+            "poll_avg": 52.11922
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 1.335,
+            "forecast": 35.41453,
+            "hi": 41.5211,
+            "lo": 29.42028,
+            "poll_avg": 26.08567
+          },
+          "now": {
+            "winprob": 1.3599999999999999,
+            "forecast": 35.2496,
+            "hi": 41.23975,
+            "lo": 29.33791,
+            "poll_avg": 25.88415
+          },
+          "polls": {
+            "winprob": 1.965,
+            "forecast": 35.1852,
+            "hi": 41.93446,
+            "lo": 28.43868,
+            "poll_avg": 26.04545
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-18",
+        "models": {
+          "plus": {
+            "winprob": 98.665,
+            "forecast": 60.06801,
+            "hi": 66.30161,
+            "lo": 53.68351,
+            "poll_avg": 51.7634
+          },
+          "now": {
+            "winprob": 98.64,
+            "forecast": 60.14104,
+            "hi": 66.31469,
+            "lo": 53.76841,
+            "poll_avg": 51.91576
+          },
+          "polls": {
+            "winprob": 98.03500000000001,
+            "forecast": 60.2828,
+            "hi": 67.21933,
+            "lo": 53.26342,
+            "poll_avg": 51.66172
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 1.48,
+            "forecast": 35.52032,
+            "hi": 41.61749,
+            "lo": 29.47798,
+            "poll_avg": 26.14455
+          },
+          "now": {
+            "winprob": 1.355,
+            "forecast": 35.47565,
+            "hi": 41.39105,
+            "lo": 29.63842,
+            "poll_avg": 26.1067
+          },
+          "polls": {
+            "winprob": 1.955,
+            "forecast": 35.19884,
+            "hi": 41.90265,
+            "lo": 28.59074,
+            "poll_avg": 26.1051
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-17",
+        "models": {
+          "plus": {
+            "winprob": 98.52,
+            "forecast": 59.98075,
+            "hi": 66.31004,
+            "lo": 53.59967,
+            "poll_avg": 51.88317
+          },
+          "now": {
+            "winprob": 98.64500000000001,
+            "forecast": 59.95175,
+            "hi": 65.94489,
+            "lo": 53.67317,
+            "poll_avg": 52.02912
+          },
+          "polls": {
+            "winprob": 98.045,
+            "forecast": 60.29718,
+            "hi": 67.18497,
+            "lo": 53.31503,
+            "poll_avg": 51.88012
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 1.375,
+            "forecast": 35.12299,
+            "hi": 41.2678,
+            "lo": 29.07064,
+            "poll_avg": 25.6536
+          },
+          "now": {
+            "winprob": 1.18,
+            "forecast": 35.01398,
+            "hi": 40.93765,
+            "lo": 29.1809,
+            "poll_avg": 25.51384
+          },
+          "polls": {
+            "winprob": 1.8350000000000002,
+            "forecast": 34.81332,
+            "hi": 41.58057,
+            "lo": 28.13976,
+            "poll_avg": 25.65642
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-16",
+        "models": {
+          "plus": {
+            "winprob": 98.625,
+            "forecast": 60.34414,
+            "hi": 66.64128,
+            "lo": 53.88194,
+            "poll_avg": 52.14908
+          },
+          "now": {
+            "winprob": 98.82,
+            "forecast": 60.36375,
+            "hi": 66.45624,
+            "lo": 54.15973,
+            "poll_avg": 52.32736
+          },
+          "polls": {
+            "winprob": 98.165,
+            "forecast": 60.65538,
+            "hi": 67.56573,
+            "lo": 53.63845,
+            "poll_avg": 52.16206
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 1.205,
+            "forecast": 34.97242,
+            "hi": 41.0222,
+            "lo": 29.03983,
+            "poll_avg": 25.81764
+          },
+          "now": {
+            "winprob": 0.975,
+            "forecast": 34.83685,
+            "hi": 40.64176,
+            "lo": 29.06663,
+            "poll_avg": 25.69387
+          },
+          "polls": {
+            "winprob": 1.695,
+            "forecast": 34.65494,
+            "hi": 41.23723,
+            "lo": 28.0179,
+            "poll_avg": 25.78117
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-15",
+        "models": {
+          "plus": {
+            "winprob": 98.795,
+            "forecast": 60.5759,
+            "hi": 66.74908,
+            "lo": 54.17188,
+            "poll_avg": 52.79305
+          },
+          "now": {
+            "winprob": 99.02499999999999,
+            "forecast": 60.64029,
+            "hi": 66.67877,
+            "lo": 54.48489,
+            "poll_avg": 53.08717
+          },
+          "polls": {
+            "winprob": 98.30499999999999,
+            "forecast": 60.88102,
+            "hi": 67.83241,
+            "lo": 53.98526,
+            "poll_avg": 52.70956
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 1.3,
+            "forecast": 34.8577,
+            "hi": 40.91018,
+            "lo": 28.93348,
+            "poll_avg": 25.70219
+          },
+          "now": {
+            "winprob": 1.05,
+            "forecast": 34.65493,
+            "hi": 40.43085,
+            "lo": 28.94895,
+            "poll_avg": 25.54733
+          },
+          "polls": {
+            "winprob": 1.58,
+            "forecast": 34.54048,
+            "hi": 41.24843,
+            "lo": 27.98138,
+            "poll_avg": 25.68073
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-14",
+        "models": {
+          "plus": {
+            "winprob": 98.7,
+            "forecast": 60.6929,
+            "hi": 66.84599,
+            "lo": 54.26612,
+            "poll_avg": 52.9632
+          },
+          "now": {
+            "winprob": 98.95,
+            "forecast": 60.82842,
+            "hi": 66.8256,
+            "lo": 54.79407,
+            "poll_avg": 53.36123
+          },
+          "polls": {
+            "winprob": 98.42,
+            "forecast": 60.99821,
+            "hi": 67.78955,
+            "lo": 54.1003,
+            "poll_avg": 52.86551
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 1.2850000000000001,
+            "forecast": 34.98697,
+            "hi": 40.99781,
+            "lo": 29.02122,
+            "poll_avg": 25.77357
+          },
+          "now": {
+            "winprob": 1.06,
+            "forecast": 34.7921,
+            "hi": 40.55395,
+            "lo": 28.99132,
+            "poll_avg": 25.55444
+          },
+          "polls": {
+            "winprob": 1.66,
+            "forecast": 34.66183,
+            "hi": 41.3793,
+            "lo": 28.02646,
+            "poll_avg": 25.69158
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-13",
+        "models": {
+          "plus": {
+            "winprob": 98.715,
+            "forecast": 60.54765,
+            "hi": 66.76595,
+            "lo": 54.18153,
+            "poll_avg": 52.70514
+          },
+          "now": {
+            "winprob": 98.94,
+            "forecast": 60.65053,
+            "hi": 66.7534,
+            "lo": 54.47556,
+            "poll_avg": 53.00049
+          },
+          "polls": {
+            "winprob": 98.34,
+            "forecast": 60.85332,
+            "hi": 67.73695,
+            "lo": 53.92976,
+            "poll_avg": 52.60485
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 1.26,
+            "forecast": 34.5716,
+            "hi": 40.58673,
+            "lo": 28.56094,
+            "poll_avg": 25.09901
+          },
+          "now": {
+            "winprob": 0.935,
+            "forecast": 34.35678,
+            "hi": 40.28603,
+            "lo": 28.48609,
+            "poll_avg": 24.78527
+          },
+          "polls": {
+            "winprob": 1.73,
+            "forecast": 34.31598,
+            "hi": 41.10375,
+            "lo": 27.56565,
+            "poll_avg": 25.02492
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-12",
+        "models": {
+          "plus": {
+            "winprob": 98.74000000000001,
+            "forecast": 60.87773,
+            "hi": 67.18605,
+            "lo": 54.41811,
+            "poll_avg": 52.66487
+          },
+          "now": {
+            "winprob": 99.065,
+            "forecast": 60.97314,
+            "hi": 67.11818,
+            "lo": 54.72622,
+            "poll_avg": 52.92692
+          },
+          "polls": {
+            "winprob": 98.27,
+            "forecast": 61.10722,
+            "hi": 68.09013,
+            "lo": 53.97635,
+            "poll_avg": 52.48461
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 1.23,
+            "forecast": 34.58056,
+            "hi": 40.6677,
+            "lo": 28.58994,
+            "poll_avg": 25.28122
+          },
+          "now": {
+            "winprob": 1.015,
+            "forecast": 34.37435,
+            "hi": 40.28139,
+            "lo": 28.46865,
+            "poll_avg": 24.98704
+          },
+          "polls": {
+            "winprob": 1.575,
+            "forecast": 34.36782,
+            "hi": 41.14669,
+            "lo": 27.75081,
+            "poll_avg": 25.23739
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-11",
+        "models": {
+          "plus": {
+            "winprob": 98.77,
+            "forecast": 60.87826,
+            "hi": 67.14187,
+            "lo": 54.4137,
+            "poll_avg": 52.53354
+          },
+          "now": {
+            "winprob": 98.985,
+            "forecast": 60.95933,
+            "hi": 67.07582,
+            "lo": 54.63422,
+            "poll_avg": 52.74928
+          },
+          "polls": {
+            "winprob": 98.425,
+            "forecast": 61.07384,
+            "hi": 67.96155,
+            "lo": 53.98389,
+            "poll_avg": 52.40905
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 0.9900000000000001,
+            "forecast": 34.42661,
+            "hi": 40.54874,
+            "lo": 28.40161,
+            "poll_avg": 25.30503
+          },
+          "now": {
+            "winprob": 0.745,
+            "forecast": 33.89609,
+            "hi": 39.70144,
+            "lo": 28.18221,
+            "poll_avg": 24.78872
+          },
+          "polls": {
+            "winprob": 1.6549999999999998,
+            "forecast": 34.26586,
+            "hi": 41.08914,
+            "lo": 27.57823,
+            "poll_avg": 25.23945
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-10",
+        "models": {
+          "plus": {
+            "winprob": 99.00999999999999,
+            "forecast": 61.05639,
+            "hi": 67.31699,
+            "lo": 54.63748,
+            "poll_avg": 52.75707
+          },
+          "now": {
+            "winprob": 99.25500000000001,
+            "forecast": 61.48535,
+            "hi": 67.48216,
+            "lo": 55.31042,
+            "poll_avg": 53.47749
+          },
+          "polls": {
+            "winprob": 98.345,
+            "forecast": 61.19543,
+            "hi": 68.09389,
+            "lo": 54.13818,
+            "poll_avg": 52.61242
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 0.9450000000000001,
+            "forecast": 34.34373,
+            "hi": 40.32381,
+            "lo": 28.44786,
+            "poll_avg": 25.50601
+          },
+          "now": {
+            "winprob": 0.7799999999999999,
+            "forecast": 33.76762,
+            "hi": 39.38664,
+            "lo": 28.15942,
+            "poll_avg": 25.06183
+          },
+          "polls": {
+            "winprob": 1.575,
+            "forecast": 34.19673,
+            "hi": 40.87209,
+            "lo": 27.62103,
+            "poll_avg": 25.42948
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-09",
+        "models": {
+          "plus": {
+            "winprob": 99.055,
+            "forecast": 61.19797,
+            "hi": 67.33376,
+            "lo": 54.909,
+            "poll_avg": 53.11832
+          },
+          "now": {
+            "winprob": 99.22,
+            "forecast": 61.6964,
+            "hi": 67.72876,
+            "lo": 55.59824,
+            "poll_avg": 53.94272
+          },
+          "polls": {
+            "winprob": 98.425,
+            "forecast": 61.31833,
+            "hi": 68.13934,
+            "lo": 54.42987,
+            "poll_avg": 52.93573
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 1.08,
+            "forecast": 34.6318,
+            "hi": 40.68558,
+            "lo": 28.67365,
+            "poll_avg": 25.59168
+          },
+          "now": {
+            "winprob": 0.8250000000000001,
+            "forecast": 34.18117,
+            "hi": 39.89984,
+            "lo": 28.44143,
+            "poll_avg": 25.26915
+          },
+          "polls": {
+            "winprob": 1.7149999999999999,
+            "forecast": 34.44854,
+            "hi": 41.16376,
+            "lo": 27.76985,
+            "poll_avg": 25.55224
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-08",
+        "models": {
+          "plus": {
+            "winprob": 98.92,
+            "forecast": 60.88266,
+            "hi": 67.15186,
+            "lo": 54.51642,
+            "poll_avg": 52.72412
+          },
+          "now": {
+            "winprob": 99.175,
+            "forecast": 61.25726,
+            "hi": 67.20551,
+            "lo": 55.17725,
+            "poll_avg": 53.48103
+          },
+          "polls": {
+            "winprob": 98.285,
+            "forecast": 61.0511,
+            "hi": 67.89104,
+            "lo": 54.01995,
+            "poll_avg": 52.61859
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 1.055,
+            "forecast": 34.41907,
+            "hi": 40.49022,
+            "lo": 28.3932,
+            "poll_avg": 25.38795
+          },
+          "now": {
+            "winprob": 0.765,
+            "forecast": 33.72221,
+            "hi": 39.37914,
+            "lo": 28.09884,
+            "poll_avg": 24.94773
+          },
+          "polls": {
+            "winprob": 1.595,
+            "forecast": 34.21637,
+            "hi": 40.93694,
+            "lo": 27.57254,
+            "poll_avg": 25.35654
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-07",
+        "models": {
+          "plus": {
+            "winprob": 98.94500000000001,
+            "forecast": 61.09527,
+            "hi": 67.35324,
+            "lo": 54.71488,
+            "poll_avg": 52.9809
+          },
+          "now": {
+            "winprob": 99.235,
+            "forecast": 61.7298,
+            "hi": 67.59101,
+            "lo": 55.72099,
+            "poll_avg": 54.0359
+          },
+          "polls": {
+            "winprob": 98.405,
+            "forecast": 61.28627,
+            "hi": 68.25003,
+            "lo": 54.24217,
+            "poll_avg": 52.89796
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 1.0999999999999999,
+            "forecast": 34.41628,
+            "hi": 40.45342,
+            "lo": 28.47704,
+            "poll_avg": 25.39524
+          },
+          "now": {
+            "winprob": 0.615,
+            "forecast": 33.57198,
+            "hi": 39.24226,
+            "lo": 27.97696,
+            "poll_avg": 24.85234
+          },
+          "polls": {
+            "winprob": 1.6,
+            "forecast": 34.20588,
+            "hi": 40.98411,
+            "lo": 27.64834,
+            "poll_avg": 25.34554
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-06",
+        "models": {
+          "plus": {
+            "winprob": 98.9,
+            "forecast": 61.09823,
+            "hi": 67.28976,
+            "lo": 54.66352,
+            "poll_avg": 52.97338
+          },
+          "now": {
+            "winprob": 99.385,
+            "forecast": 61.88676,
+            "hi": 67.7847,
+            "lo": 55.88442,
+            "poll_avg": 54.24704
+          },
+          "polls": {
+            "winprob": 98.4,
+            "forecast": 61.29461,
+            "hi": 68.15398,
+            "lo": 54.22066,
+            "poll_avg": 52.88924
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 1.2349999999999999,
+            "forecast": 34.85275,
+            "hi": 40.94654,
+            "lo": 28.78366,
+            "poll_avg": 25.72811
+          },
+          "now": {
+            "winprob": 0.88,
+            "forecast": 34.52172,
+            "hi": 40.28379,
+            "lo": 28.82639,
+            "poll_avg": 25.56818
+          },
+          "polls": {
+            "winprob": 1.575,
+            "forecast": 34.6844,
+            "hi": 41.51387,
+            "lo": 28.07329,
+            "poll_avg": 25.70457
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-05",
+        "models": {
+          "plus": {
+            "winprob": 98.765,
+            "forecast": 60.64585,
+            "hi": 66.97592,
+            "lo": 54.2425,
+            "poll_avg": 52.38474
+          },
+          "now": {
+            "winprob": 99.11999999999999,
+            "forecast": 60.89838,
+            "hi": 66.92013,
+            "lo": 54.80042,
+            "poll_avg": 53.04117
+          },
+          "polls": {
+            "winprob": 98.425,
+            "forecast": 60.80185,
+            "hi": 67.66125,
+            "lo": 53.6526,
+            "poll_avg": 52.28503
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 1.24,
+            "forecast": 34.98165,
+            "hi": 41.0976,
+            "lo": 29.06295,
+            "poll_avg": 25.77606
+          },
+          "now": {
+            "winprob": 0.9450000000000001,
+            "forecast": 34.6812,
+            "hi": 40.5504,
+            "lo": 29.03353,
+            "poll_avg": 25.59929
+          },
+          "polls": {
+            "winprob": 1.765,
+            "forecast": 34.80436,
+            "hi": 41.63454,
+            "lo": 28.0972,
+            "poll_avg": 25.7147
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-04",
+        "models": {
+          "plus": {
+            "winprob": 98.76,
+            "forecast": 60.49817,
+            "hi": 66.7179,
+            "lo": 54.1151,
+            "poll_avg": 52.127
+          },
+          "now": {
+            "winprob": 99.055,
+            "forecast": 60.70378,
+            "hi": 66.68365,
+            "lo": 54.52538,
+            "poll_avg": 52.71481
+          },
+          "polls": {
+            "winprob": 98.235,
+            "forecast": 60.65896,
+            "hi": 67.59638,
+            "lo": 53.5812,
+            "poll_avg": 52.03157
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 1.29,
+            "forecast": 34.77592,
+            "hi": 40.88195,
+            "lo": 28.74941,
+            "poll_avg": 25.30507
+          },
+          "now": {
+            "winprob": 1.02,
+            "forecast": 34.50951,
+            "hi": 40.34248,
+            "lo": 28.6737,
+            "poll_avg": 25.12084
+          },
+          "polls": {
+            "winprob": 1.87,
+            "forecast": 34.6069,
+            "hi": 41.52554,
+            "lo": 27.7902,
+            "poll_avg": 25.27538
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-03",
+        "models": {
+          "plus": {
+            "winprob": 98.71,
+            "forecast": 60.63952,
+            "hi": 67.00215,
+            "lo": 54.02032,
+            "poll_avg": 52.0482
+          },
+          "now": {
+            "winprob": 98.98,
+            "forecast": 60.79293,
+            "hi": 66.90968,
+            "lo": 54.55437,
+            "poll_avg": 52.5867
+          },
+          "polls": {
+            "winprob": 98.13,
+            "forecast": 60.79475,
+            "hi": 67.74341,
+            "lo": 53.64993,
+            "poll_avg": 51.94122
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 1.18,
+            "forecast": 34.48656,
+            "hi": 40.75066,
+            "lo": 28.35947,
+            "poll_avg": 24.87804
+          },
+          "now": {
+            "winprob": 0.9950000000000001,
+            "forecast": 33.95419,
+            "hi": 39.85258,
+            "lo": 28.13112,
+            "poll_avg": 24.30485
+          },
+          "polls": {
+            "winprob": 1.76,
+            "forecast": 34.27602,
+            "hi": 41.23979,
+            "lo": 27.49311,
+            "poll_avg": 24.81425
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-02",
+        "models": {
+          "plus": {
+            "winprob": 98.82,
+            "forecast": 60.8882,
+            "hi": 67.41422,
+            "lo": 54.2222,
+            "poll_avg": 52.16238
+          },
+          "now": {
+            "winprob": 99.005,
+            "forecast": 61.25964,
+            "hi": 67.46537,
+            "lo": 54.99398,
+            "poll_avg": 52.82341
+          },
+          "polls": {
+            "winprob": 98.24000000000001,
+            "forecast": 61.08332,
+            "hi": 68.19238,
+            "lo": 53.79153,
+            "poll_avg": 52.0815
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 1.225,
+            "forecast": 34.50864,
+            "hi": 40.79039,
+            "lo": 28.36688,
+            "poll_avg": 24.87809
+          },
+          "now": {
+            "winprob": 0.88,
+            "forecast": 33.91196,
+            "hi": 39.78226,
+            "lo": 28.11935,
+            "poll_avg": 24.28189
+          },
+          "polls": {
+            "winprob": 1.775,
+            "forecast": 34.29534,
+            "hi": 41.23939,
+            "lo": 27.54894,
+            "poll_avg": 24.83379
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-10-01",
+        "models": {
+          "plus": {
+            "winprob": 98.775,
+            "forecast": 60.86603,
+            "hi": 67.25168,
+            "lo": 54.29712,
+            "poll_avg": 52.16141
+          },
+          "now": {
+            "winprob": 99.11999999999999,
+            "forecast": 61.29742,
+            "hi": 67.38428,
+            "lo": 54.95064,
+            "poll_avg": 52.84915
+          },
+          "polls": {
+            "winprob": 98.225,
+            "forecast": 61.06672,
+            "hi": 68.17621,
+            "lo": 53.87257,
+            "poll_avg": 52.08511
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 1.145,
+            "forecast": 34.5014,
+            "hi": 40.7661,
+            "lo": 28.36741,
+            "poll_avg": 24.86386
+          },
+          "now": {
+            "winprob": 0.885,
+            "forecast": 33.92261,
+            "hi": 39.88014,
+            "lo": 28.06376,
+            "poll_avg": 24.27077
+          },
+          "polls": {
+            "winprob": 1.775,
+            "forecast": 34.29534,
+            "hi": 41.23939,
+            "lo": 27.54894,
+            "poll_avg": 24.83379
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-30",
+        "models": {
+          "plus": {
+            "winprob": 98.855,
+            "forecast": 60.87299,
+            "hi": 67.26109,
+            "lo": 54.23158,
+            "poll_avg": 52.17643
+          },
+          "now": {
+            "winprob": 99.115,
+            "forecast": 61.28119,
+            "hi": 67.39513,
+            "lo": 55.01366,
+            "poll_avg": 52.85026
+          },
+          "polls": {
+            "winprob": 98.225,
+            "forecast": 61.06672,
+            "hi": 68.17621,
+            "lo": 53.87257,
+            "poll_avg": 52.08511
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 1.5350000000000001,
+            "forecast": 35.2516,
+            "hi": 41.50034,
+            "lo": 29.02281,
+            "poll_avg": 25.68107
+          },
+          "now": {
+            "winprob": 1.1199999999999999,
+            "forecast": 34.93587,
+            "hi": 40.78399,
+            "lo": 29.07082,
+            "poll_avg": 25.28636
+          },
+          "polls": {
+            "winprob": 2.1149999999999998,
+            "forecast": 35.08377,
+            "hi": 42.04458,
+            "lo": 28.28484,
+            "poll_avg": 25.66206
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-29",
+        "models": {
+          "plus": {
+            "winprob": 98.465,
+            "forecast": 60.14899,
+            "hi": 66.6049,
+            "lo": 53.59657,
+            "poll_avg": 51.41614
+          },
+          "now": {
+            "winprob": 98.88,
+            "forecast": 60.27716,
+            "hi": 66.37184,
+            "lo": 54.0083,
+            "poll_avg": 51.72348
+          },
+          "polls": {
+            "winprob": 97.885,
+            "forecast": 60.30508,
+            "hi": 67.3685,
+            "lo": 53.01828,
+            "poll_avg": 51.31706
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 1.505,
+            "forecast": 35.10278,
+            "hi": 41.32944,
+            "lo": 29.05394,
+            "poll_avg": 25.74469
+          },
+          "now": {
+            "winprob": 1.005,
+            "forecast": 34.65237,
+            "hi": 40.57576,
+            "lo": 28.84694,
+            "poll_avg": 25.19811
+          },
+          "polls": {
+            "winprob": 2.01,
+            "forecast": 34.89714,
+            "hi": 41.83043,
+            "lo": 28.08555,
+            "poll_avg": 25.66181
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-28",
+        "models": {
+          "plus": {
+            "winprob": 98.495,
+            "forecast": 60.34485,
+            "hi": 66.71027,
+            "lo": 53.80066,
+            "poll_avg": 51.82901
+          },
+          "now": {
+            "winprob": 98.995,
+            "forecast": 60.61084,
+            "hi": 66.74571,
+            "lo": 54.33788,
+            "poll_avg": 52.31774
+          },
+          "polls": {
+            "winprob": 97.99,
+            "forecast": 60.53302,
+            "hi": 67.50949,
+            "lo": 53.45261,
+            "poll_avg": 51.75075
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 1.265,
+            "forecast": 34.75513,
+            "hi": 41.03105,
+            "lo": 28.56342,
+            "poll_avg": 25.41978
+          },
+          "now": {
+            "winprob": 0.9400000000000001,
+            "forecast": 34.17801,
+            "hi": 40.03884,
+            "lo": 28.36252,
+            "poll_avg": 24.74194
+          },
+          "polls": {
+            "winprob": 1.91,
+            "forecast": 34.62524,
+            "hi": 41.62477,
+            "lo": 27.83646,
+            "poll_avg": 25.33574
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-27",
+        "models": {
+          "plus": {
+            "winprob": 98.735,
+            "forecast": 60.66877,
+            "hi": 67.09014,
+            "lo": 54.11243,
+            "poll_avg": 51.99167
+          },
+          "now": {
+            "winprob": 99.06,
+            "forecast": 61.04578,
+            "hi": 67.16171,
+            "lo": 54.84779,
+            "poll_avg": 52.56216
+          },
+          "polls": {
+            "winprob": 98.09,
+            "forecast": 60.77272,
+            "hi": 67.80714,
+            "lo": 53.50999,
+            "poll_avg": 51.82598
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 1.21,
+            "forecast": 34.83901,
+            "hi": 41.05677,
+            "lo": 28.67016,
+            "poll_avg": 25.68187
+          },
+          "now": {
+            "winprob": 0.97,
+            "forecast": 34.28755,
+            "hi": 40.09589,
+            "lo": 28.54527,
+            "poll_avg": 25.10823
+          },
+          "polls": {
+            "winprob": 1.855,
+            "forecast": 34.74519,
+            "hi": 41.61006,
+            "lo": 27.95063,
+            "poll_avg": 25.63327
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-26",
+        "models": {
+          "plus": {
+            "winprob": 98.79,
+            "forecast": 60.61854,
+            "hi": 66.95579,
+            "lo": 54.09901,
+            "poll_avg": 52.01273
+          },
+          "now": {
+            "winprob": 99.03,
+            "forecast": 60.99731,
+            "hi": 67.04742,
+            "lo": 54.86602,
+            "poll_avg": 52.69123
+          },
+          "polls": {
+            "winprob": 98.14500000000001,
+            "forecast": 60.69343,
+            "hi": 67.73907,
+            "lo": 53.48053,
+            "poll_avg": 51.87572
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 1.2149999999999999,
+            "forecast": 34.63908,
+            "hi": 40.74056,
+            "lo": 28.59786,
+            "poll_avg": 25.47685
+          },
+          "now": {
+            "winprob": 0.815,
+            "forecast": 33.91723,
+            "hi": 39.65813,
+            "lo": 28.1785,
+            "poll_avg": 24.66337
+          },
+          "polls": {
+            "winprob": 1.915,
+            "forecast": 34.48281,
+            "hi": 41.26992,
+            "lo": 27.70203,
+            "poll_avg": 25.41077
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-25",
+        "models": {
+          "plus": {
+            "winprob": 98.785,
+            "forecast": 60.8257,
+            "hi": 67.22656,
+            "lo": 54.40064,
+            "poll_avg": 52.34824
+          },
+          "now": {
+            "winprob": 99.185,
+            "forecast": 61.34583,
+            "hi": 67.37556,
+            "lo": 55.18234,
+            "poll_avg": 53.07803
+          },
+          "polls": {
+            "winprob": 98.085,
+            "forecast": 60.96578,
+            "hi": 68.05296,
+            "lo": 53.77418,
+            "poll_avg": 52.26215
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 1.35,
+            "forecast": 34.96444,
+            "hi": 41.12266,
+            "lo": 28.8565,
+            "poll_avg": 25.98736
+          },
+          "now": {
+            "winprob": 0.98,
+            "forecast": 34.70473,
+            "hi": 40.4716,
+            "lo": 28.96042,
+            "poll_avg": 25.59368
+          },
+          "polls": {
+            "winprob": 1.94,
+            "forecast": 34.87822,
+            "hi": 41.66998,
+            "lo": 28.17272,
+            "poll_avg": 25.92683
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-24",
+        "models": {
+          "plus": {
+            "winprob": 98.65,
+            "forecast": 60.53793,
+            "hi": 66.83771,
+            "lo": 54.02961,
+            "poll_avg": 52.09595
+          },
+          "now": {
+            "winprob": 99.02,
+            "forecast": 60.60743,
+            "hi": 66.63825,
+            "lo": 54.54296,
+            "poll_avg": 52.40634
+          },
+          "polls": {
+            "winprob": 98.06,
+            "forecast": 60.60028,
+            "hi": 67.63016,
+            "lo": 53.45347,
+            "poll_avg": 51.92229
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 1.27,
+            "forecast": 34.94441,
+            "hi": 41.11237,
+            "lo": 28.81673,
+            "poll_avg": 25.9846
+          },
+          "now": {
+            "winprob": 1.01,
+            "forecast": 34.6785,
+            "hi": 40.46128,
+            "lo": 28.919,
+            "poll_avg": 25.55702
+          },
+          "polls": {
+            "winprob": 1.8499999999999999,
+            "forecast": 34.87332,
+            "hi": 41.77649,
+            "lo": 28.11308,
+            "poll_avg": 25.91957
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-23",
+        "models": {
+          "plus": {
+            "winprob": 98.72999999999999,
+            "forecast": 60.56207,
+            "hi": 66.90913,
+            "lo": 54.1346,
+            "poll_avg": 52.14254
+          },
+          "now": {
+            "winprob": 98.99,
+            "forecast": 60.6269,
+            "hi": 66.74858,
+            "lo": 54.51241,
+            "poll_avg": 52.42553
+          },
+          "polls": {
+            "winprob": 98.15,
+            "forecast": 60.60751,
+            "hi": 67.63962,
+            "lo": 53.4841,
+            "poll_avg": 51.95585
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 1.315,
+            "forecast": 34.94273,
+            "hi": 41.07301,
+            "lo": 28.81101,
+            "poll_avg": 25.96039
+          },
+          "now": {
+            "winprob": 0.865,
+            "forecast": 34.47301,
+            "hi": 40.25418,
+            "lo": 28.7795,
+            "poll_avg": 25.40795
+          },
+          "polls": {
+            "winprob": 1.9300000000000002,
+            "forecast": 34.93095,
+            "hi": 41.82036,
+            "lo": 28.13579,
+            "poll_avg": 25.887
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-22",
+        "models": {
+          "plus": {
+            "winprob": 98.685,
+            "forecast": 60.53218,
+            "hi": 66.87877,
+            "lo": 54.01005,
+            "poll_avg": 51.84201
+          },
+          "now": {
+            "winprob": 99.13499999999999,
+            "forecast": 60.79291,
+            "hi": 66.87158,
+            "lo": 54.58509,
+            "poll_avg": 52.29611
+          },
+          "polls": {
+            "winprob": 98.07000000000001,
+            "forecast": 60.51607,
+            "hi": 67.56151,
+            "lo": 53.37876,
+            "poll_avg": 51.64237
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 1.31,
+            "forecast": 34.76765,
+            "hi": 40.91822,
+            "lo": 28.72372,
+            "poll_avg": 25.78944
+          },
+          "now": {
+            "winprob": 0.8,
+            "forecast": 34.18122,
+            "hi": 39.91594,
+            "lo": 28.52187,
+            "poll_avg": 25.13725
+          },
+          "polls": {
+            "winprob": 1.87,
+            "forecast": 34.69784,
+            "hi": 41.54298,
+            "lo": 27.89397,
+            "poll_avg": 25.69307
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-21",
+        "models": {
+          "plus": {
+            "winprob": 98.69,
+            "forecast": 60.72701,
+            "hi": 67.14865,
+            "lo": 54.21205,
+            "poll_avg": 52.26582
+          },
+          "now": {
+            "winprob": 99.2,
+            "forecast": 61.11008,
+            "hi": 67.02564,
+            "lo": 54.9092,
+            "poll_avg": 52.88227
+          },
+          "polls": {
+            "winprob": 98.13,
+            "forecast": 60.76371,
+            "hi": 67.87062,
+            "lo": 53.65945,
+            "poll_avg": 52.04046
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 1.145,
+            "forecast": 34.87426,
+            "hi": 40.91483,
+            "lo": 28.86282,
+            "poll_avg": 26.1643
+          },
+          "now": {
+            "winprob": 0.7799999999999999,
+            "forecast": 34.10535,
+            "hi": 39.67332,
+            "lo": 28.56729,
+            "poll_avg": 25.40862
+          },
+          "polls": {
+            "winprob": 1.725,
+            "forecast": 34.75549,
+            "hi": 41.48587,
+            "lo": 28.07006,
+            "poll_avg": 26.15656
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-20",
+        "models": {
+          "plus": {
+            "winprob": 98.855,
+            "forecast": 60.69829,
+            "hi": 66.92227,
+            "lo": 54.25362,
+            "poll_avg": 52.60804
+          },
+          "now": {
+            "winprob": 99.22,
+            "forecast": 61.29458,
+            "hi": 67.11648,
+            "lo": 55.28997,
+            "poll_avg": 53.52716
+          },
+          "polls": {
+            "winprob": 98.275,
+            "forecast": 60.81072,
+            "hi": 67.67944,
+            "lo": 53.77229,
+            "poll_avg": 52.55141
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 1.165,
+            "forecast": 34.8563,
+            "hi": 40.8401,
+            "lo": 28.8845,
+            "poll_avg": 26.32731
+          },
+          "now": {
+            "winprob": 0.7000000000000001,
+            "forecast": 34.3196,
+            "hi": 39.8181,
+            "lo": 28.88721,
+            "poll_avg": 26.25183
+          },
+          "polls": {
+            "winprob": 1.585,
+            "forecast": 34.74367,
+            "hi": 41.42368,
+            "lo": 28.18402,
+            "poll_avg": 26.29428
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-19",
+        "models": {
+          "plus": {
+            "winprob": 98.835,
+            "forecast": 60.76443,
+            "hi": 67.02039,
+            "lo": 54.47062,
+            "poll_avg": 52.90718
+          },
+          "now": {
+            "winprob": 99.3,
+            "forecast": 61.2747,
+            "hi": 66.96418,
+            "lo": 55.41019,
+            "poll_avg": 54.20979
+          },
+          "polls": {
+            "winprob": 98.41499999999999,
+            "forecast": 60.86186,
+            "hi": 67.66953,
+            "lo": 53.91067,
+            "poll_avg": 52.78948
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 1.15,
+            "forecast": 34.86433,
+            "hi": 40.91082,
+            "lo": 28.8701,
+            "poll_avg": 26.32031
+          },
+          "now": {
+            "winprob": 0.73,
+            "forecast": 34.2996,
+            "hi": 39.69015,
+            "lo": 28.96953,
+            "poll_avg": 26.31035
+          },
+          "polls": {
+            "winprob": 1.585,
+            "forecast": 34.74367,
+            "hi": 41.42368,
+            "lo": 28.18402,
+            "poll_avg": 26.29428
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-18",
+        "models": {
+          "plus": {
+            "winprob": 98.85000000000001,
+            "forecast": 60.75616,
+            "hi": 67.00047,
+            "lo": 54.42548,
+            "poll_avg": 52.91351
+          },
+          "now": {
+            "winprob": 99.27,
+            "forecast": 61.31424,
+            "hi": 66.9771,
+            "lo": 55.57043,
+            "poll_avg": 54.33124
+          },
+          "polls": {
+            "winprob": 98.41499999999999,
+            "forecast": 60.86186,
+            "hi": 67.66953,
+            "lo": 53.91067,
+            "poll_avg": 52.78948
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 1.06,
+            "forecast": 34.85377,
+            "hi": 40.87914,
+            "lo": 28.86559,
+            "poll_avg": 26.3187
+          },
+          "now": {
+            "winprob": 0.615,
+            "forecast": 34.2735,
+            "hi": 39.69515,
+            "lo": 28.82524,
+            "poll_avg": 26.16067
+          },
+          "polls": {
+            "winprob": 1.7999999999999998,
+            "forecast": 34.73853,
+            "hi": 41.47988,
+            "lo": 28.06888,
+            "poll_avg": 26.27942
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-17",
+        "models": {
+          "plus": {
+            "winprob": 98.94,
+            "forecast": 60.76532,
+            "hi": 67.01891,
+            "lo": 54.36085,
+            "poll_avg": 52.90084
+          },
+          "now": {
+            "winprob": 99.385,
+            "forecast": 61.30264,
+            "hi": 66.93021,
+            "lo": 55.52313,
+            "poll_avg": 54.21349
+          },
+          "polls": {
+            "winprob": 98.2,
+            "forecast": 60.86512,
+            "hi": 67.75215,
+            "lo": 53.83488,
+            "poll_avg": 52.7886
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 1.16,
+            "forecast": 34.84239,
+            "hi": 40.98005,
+            "lo": 28.77597,
+            "poll_avg": 26.29869
+          },
+          "now": {
+            "winprob": 0.655,
+            "forecast": 34.24862,
+            "hi": 39.7354,
+            "lo": 28.81542,
+            "poll_avg": 26.19507
+          },
+          "polls": {
+            "winprob": 1.7999999999999998,
+            "forecast": 34.73853,
+            "hi": 41.47988,
+            "lo": 28.06888,
+            "poll_avg": 26.27942
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-16",
+        "models": {
+          "plus": {
+            "winprob": 98.83999999999999,
+            "forecast": 60.77427,
+            "hi": 67.05008,
+            "lo": 54.44831,
+            "poll_avg": 52.90067
+          },
+          "now": {
+            "winprob": 99.345,
+            "forecast": 61.34149,
+            "hi": 66.94162,
+            "lo": 55.54082,
+            "poll_avg": 54.31578
+          },
+          "polls": {
+            "winprob": 98.2,
+            "forecast": 60.86512,
+            "hi": 67.75215,
+            "lo": 53.83488,
+            "poll_avg": 52.7886
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 1.1900000000000002,
+            "forecast": 34.51807,
+            "hi": 40.68043,
+            "lo": 28.43308,
+            "poll_avg": 25.60277
+          },
+          "now": {
+            "winprob": 0.61,
+            "forecast": 33.50397,
+            "hi": 39.07649,
+            "lo": 28.02764,
+            "poll_avg": 24.70857
+          },
+          "polls": {
+            "winprob": 1.755,
+            "forecast": 34.4301,
+            "hi": 41.25026,
+            "lo": 27.68769,
+            "poll_avg": 25.55873
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-15",
+        "models": {
+          "plus": {
+            "winprob": 98.81,
+            "forecast": 60.99997,
+            "hi": 67.3511,
+            "lo": 54.46493,
+            "poll_avg": 52.74751
+          },
+          "now": {
+            "winprob": 99.39,
+            "forecast": 61.84648,
+            "hi": 67.66024,
+            "lo": 55.95965,
+            "poll_avg": 54.10408
+          },
+          "polls": {
+            "winprob": 98.245,
+            "forecast": 61.0661,
+            "hi": 68.05682,
+            "lo": 54.00469,
+            "poll_avg": 52.57415
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 1.175,
+            "forecast": 34.50721,
+            "hi": 40.64429,
+            "lo": 28.35085,
+            "poll_avg": 25.58408
+          },
+          "now": {
+            "winprob": 0.655,
+            "forecast": 33.40516,
+            "hi": 39.00555,
+            "lo": 27.9095,
+            "poll_avg": 24.625
+          },
+          "polls": {
+            "winprob": 1.755,
+            "forecast": 34.4301,
+            "hi": 41.25026,
+            "lo": 27.68769,
+            "poll_avg": 25.55873
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-14",
+        "models": {
+          "plus": {
+            "winprob": 98.825,
+            "forecast": 61.01088,
+            "hi": 67.35939,
+            "lo": 54.49931,
+            "poll_avg": 52.77183
+          },
+          "now": {
+            "winprob": 99.345,
+            "forecast": 61.94194,
+            "hi": 67.85408,
+            "lo": 55.93909,
+            "poll_avg": 54.20699
+          },
+          "polls": {
+            "winprob": 98.245,
+            "forecast": 61.0661,
+            "hi": 68.05682,
+            "lo": 54.00469,
+            "poll_avg": 52.57415
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 1.18,
+            "forecast": 34.74012,
+            "hi": 40.90519,
+            "lo": 28.64427,
+            "poll_avg": 25.90013
+          },
+          "now": {
+            "winprob": 0.655,
+            "forecast": 33.88191,
+            "hi": 39.39326,
+            "lo": 28.41546,
+            "poll_avg": 25.23802
+          },
+          "polls": {
+            "winprob": 1.805,
+            "forecast": 34.61977,
+            "hi": 41.40666,
+            "lo": 27.91203,
+            "poll_avg": 25.79537
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-13",
+        "models": {
+          "plus": {
+            "winprob": 98.82,
+            "forecast": 60.80174,
+            "hi": 67.15331,
+            "lo": 54.27808,
+            "poll_avg": 52.6208
+          },
+          "now": {
+            "winprob": 99.345,
+            "forecast": 61.51665,
+            "hi": 67.2919,
+            "lo": 55.56445,
+            "poll_avg": 53.92746
+          },
+          "polls": {
+            "winprob": 98.195,
+            "forecast": 60.89356,
+            "hi": 67.91318,
+            "lo": 53.86823,
+            "poll_avg": 52.45425
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 1.0999999999999999,
+            "forecast": 34.60006,
+            "hi": 40.75713,
+            "lo": 28.51024,
+            "poll_avg": 25.58281
+          },
+          "now": {
+            "winprob": 0.675,
+            "forecast": 33.69236,
+            "hi": 39.28951,
+            "lo": 28.13666,
+            "poll_avg": 24.75319
+          },
+          "polls": {
+            "winprob": 1.7999999999999998,
+            "forecast": 34.51433,
+            "hi": 41.34281,
+            "lo": 27.70511,
+            "poll_avg": 25.53365
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-12",
+        "models": {
+          "plus": {
+            "winprob": 98.9,
+            "forecast": 60.88901,
+            "hi": 67.29517,
+            "lo": 54.37018,
+            "poll_avg": 52.46892
+          },
+          "now": {
+            "winprob": 99.325,
+            "forecast": 61.59942,
+            "hi": 67.50889,
+            "lo": 55.6018,
+            "poll_avg": 53.64311
+          },
+          "polls": {
+            "winprob": 98.2,
+            "forecast": 60.95378,
+            "hi": 67.99641,
+            "lo": 53.82052,
+            "poll_avg": 52.31122
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 1.24,
+            "forecast": 34.69063,
+            "hi": 40.89781,
+            "lo": 28.50965,
+            "poll_avg": 25.63855
+          },
+          "now": {
+            "winprob": 0.715,
+            "forecast": 33.79157,
+            "hi": 39.33118,
+            "lo": 28.23886,
+            "poll_avg": 24.83552
+          },
+          "polls": {
+            "winprob": 1.7999999999999998,
+            "forecast": 34.59047,
+            "hi": 41.51704,
+            "lo": 27.82928,
+            "poll_avg": 25.58613
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-11",
+        "models": {
+          "plus": {
+            "winprob": 98.76,
+            "forecast": 60.79964,
+            "hi": 67.20155,
+            "lo": 54.226,
+            "poll_avg": 52.4108
+          },
+          "now": {
+            "winprob": 99.285,
+            "forecast": 61.5032,
+            "hi": 67.41854,
+            "lo": 55.45807,
+            "poll_avg": 53.59912
+          },
+          "polls": {
+            "winprob": 98.2,
+            "forecast": 60.87518,
+            "hi": 67.8805,
+            "lo": 53.71611,
+            "poll_avg": 52.21888
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 1.265,
+            "forecast": 34.67176,
+            "hi": 40.8587,
+            "lo": 28.59982,
+            "poll_avg": 25.64081
+          },
+          "now": {
+            "winprob": 0.605,
+            "forecast": 33.71048,
+            "hi": 39.20796,
+            "lo": 28.13841,
+            "poll_avg": 24.82888
+          },
+          "polls": {
+            "winprob": 1.7950000000000002,
+            "forecast": 34.56375,
+            "hi": 41.45733,
+            "lo": 27.79498,
+            "poll_avg": 25.59732
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-10",
+        "models": {
+          "plus": {
+            "winprob": 98.735,
+            "forecast": 60.82516,
+            "hi": 67.2196,
+            "lo": 54.26074,
+            "poll_avg": 52.47779
+          },
+          "now": {
+            "winprob": 99.395,
+            "forecast": 61.60402,
+            "hi": 67.48322,
+            "lo": 55.60251,
+            "poll_avg": 53.8033
+          },
+          "polls": {
+            "winprob": 98.205,
+            "forecast": 60.91253,
+            "hi": 68.00266,
+            "lo": 53.73196,
+            "poll_avg": 52.31629
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 1.165,
+            "forecast": 34.60613,
+            "hi": 40.78388,
+            "lo": 28.51372,
+            "poll_avg": 25.62435
+          },
+          "now": {
+            "winprob": 0.7000000000000001,
+            "forecast": 33.66164,
+            "hi": 39.18713,
+            "lo": 28.21849,
+            "poll_avg": 24.84486
+          },
+          "polls": {
+            "winprob": 1.675,
+            "forecast": 34.52575,
+            "hi": 41.37682,
+            "lo": 27.75441,
+            "poll_avg": 25.56822
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-09",
+        "models": {
+          "plus": {
+            "winprob": 98.835,
+            "forecast": 60.89316,
+            "hi": 67.26575,
+            "lo": 54.34865,
+            "poll_avg": 52.52357
+          },
+          "now": {
+            "winprob": 99.3,
+            "forecast": 61.66015,
+            "hi": 67.44202,
+            "lo": 55.64776,
+            "poll_avg": 53.87469
+          },
+          "polls": {
+            "winprob": 98.32499999999999,
+            "forecast": 60.94787,
+            "hi": 67.87746,
+            "lo": 53.82046,
+            "poll_avg": 52.32528
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 3.6350000000000002,
+            "forecast": 37.83448,
+            "hi": 44.51328,
+            "lo": 31.25855,
+            "poll_avg": 29.3896
+          },
+          "now": {
+            "winprob": 3.1350000000000002,
+            "forecast": 38.23095,
+            "hi": 44.21143,
+            "lo": 32.29466,
+            "poll_avg": 30.14635
+          },
+          "polls": {
+            "winprob": 4.66,
+            "forecast": 37.90374,
+            "hi": 45.07988,
+            "lo": 30.8543,
+            "poll_avg": 29.31318
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-08",
+        "models": {
+          "plus": {
+            "winprob": 96.365,
+            "forecast": 57.73023,
+            "hi": 64.4924,
+            "lo": 50.83901,
+            "poll_avg": 47.0874
+          },
+          "now": {
+            "winprob": 96.865,
+            "forecast": 57.18076,
+            "hi": 63.2673,
+            "lo": 50.9478,
+            "poll_avg": 47.24445
+          },
+          "polls": {
+            "winprob": 95.34,
+            "forecast": 57.63712,
+            "hi": 64.9684,
+            "lo": 50.28595,
+            "poll_avg": 46.9017
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 3.925,
+            "forecast": 37.5766,
+            "hi": 44.39141,
+            "lo": 30.84196,
+            "poll_avg": 28.46107
+          },
+          "now": {
+            "winprob": 3.29,
+            "forecast": 37.53413,
+            "hi": 43.95689,
+            "lo": 31.22001,
+            "poll_avg": 27.90805
+          },
+          "polls": {
+            "winprob": 4.93,
+            "forecast": 37.7113,
+            "hi": 45.08743,
+            "lo": 30.38724,
+            "poll_avg": 28.30978
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-07",
+        "models": {
+          "plus": {
+            "winprob": 96.075,
+            "forecast": 57.8475,
+            "hi": 64.81392,
+            "lo": 50.75913,
+            "poll_avg": 46.61561
+          },
+          "now": {
+            "winprob": 96.71,
+            "forecast": 57.44682,
+            "hi": 64.01336,
+            "lo": 50.70607,
+            "poll_avg": 46.08091
+          },
+          "polls": {
+            "winprob": 95.07,
+            "forecast": 57.66363,
+            "hi": 65.17757,
+            "lo": 50.10128,
+            "poll_avg": 46.22445
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 3.895,
+            "forecast": 37.57737,
+            "hi": 44.35819,
+            "lo": 30.84884,
+            "poll_avg": 28.48943
+          },
+          "now": {
+            "winprob": 3.295,
+            "forecast": 37.47489,
+            "hi": 43.94379,
+            "lo": 31.13605,
+            "poll_avg": 27.96657
+          },
+          "polls": {
+            "winprob": 5.0,
+            "forecast": 37.71237,
+            "hi": 45.18768,
+            "lo": 30.3285,
+            "poll_avg": 28.2793
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-06",
+        "models": {
+          "plus": {
+            "winprob": 96.10499999999999,
+            "forecast": 57.84731,
+            "hi": 64.7899,
+            "lo": 50.76057,
+            "poll_avg": 46.58559
+          },
+          "now": {
+            "winprob": 96.705,
+            "forecast": 57.52635,
+            "hi": 64.0972,
+            "lo": 50.83959,
+            "poll_avg": 46.24482
+          },
+          "polls": {
+            "winprob": 95.0,
+            "forecast": 57.65108,
+            "hi": 65.16187,
+            "lo": 50.11387,
+            "poll_avg": 46.12688
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 3.385,
+            "forecast": 37.31248,
+            "hi": 44.08885,
+            "lo": 30.50445,
+            "poll_avg": 28.76911
+          },
+          "now": {
+            "winprob": 2.675,
+            "forecast": 37.13308,
+            "hi": 43.3396,
+            "lo": 31.02012,
+            "poll_avg": 28.45373
+          },
+          "polls": {
+            "winprob": 4.545,
+            "forecast": 37.46805,
+            "hi": 44.83529,
+            "lo": 30.16286,
+            "poll_avg": 28.57695
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-05",
+        "models": {
+          "plus": {
+            "winprob": 96.615,
+            "forecast": 58.17915,
+            "hi": 65.06544,
+            "lo": 51.18139,
+            "poll_avg": 47.02219
+          },
+          "now": {
+            "winprob": 97.32499999999999,
+            "forecast": 58.03077,
+            "hi": 64.36205,
+            "lo": 51.46265,
+            "poll_avg": 47.1783
+          },
+          "polls": {
+            "winprob": 95.455,
+            "forecast": 57.96221,
+            "hi": 65.43799,
+            "lo": 50.39975,
+            "poll_avg": 46.53824
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 3.39,
+            "forecast": 37.36089,
+            "hi": 44.07229,
+            "lo": 30.73555,
+            "poll_avg": 28.86219
+          },
+          "now": {
+            "winprob": 2.685,
+            "forecast": 37.24313,
+            "hi": 43.4654,
+            "lo": 31.07212,
+            "poll_avg": 28.54818
+          },
+          "polls": {
+            "winprob": 4.61,
+            "forecast": 37.51226,
+            "hi": 44.77596,
+            "lo": 30.30785,
+            "poll_avg": 28.65623
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-04",
+        "models": {
+          "plus": {
+            "winprob": 96.61,
+            "forecast": 58.14396,
+            "hi": 65.03537,
+            "lo": 51.13363,
+            "poll_avg": 47.0589
+          },
+          "now": {
+            "winprob": 97.315,
+            "forecast": 57.91542,
+            "hi": 64.28516,
+            "lo": 51.3961,
+            "poll_avg": 47.05748
+          },
+          "polls": {
+            "winprob": 95.39,
+            "forecast": 57.92744,
+            "hi": 65.25751,
+            "lo": 50.36804,
+            "poll_avg": 46.54784
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 3.52,
+            "forecast": 37.54218,
+            "hi": 44.28871,
+            "lo": 30.89287,
+            "poll_avg": 28.92536
+          },
+          "now": {
+            "winprob": 3.015,
+            "forecast": 37.42323,
+            "hi": 43.53345,
+            "lo": 31.27793,
+            "poll_avg": 28.62723
+          },
+          "polls": {
+            "winprob": 4.735,
+            "forecast": 37.71658,
+            "hi": 45.01634,
+            "lo": 30.42329,
+            "poll_avg": 28.77132
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-03",
+        "models": {
+          "plus": {
+            "winprob": 96.48,
+            "forecast": 57.95727,
+            "hi": 64.78801,
+            "lo": 50.92499,
+            "poll_avg": 46.91185
+          },
+          "now": {
+            "winprob": 96.985,
+            "forecast": 57.72791,
+            "hi": 64.0388,
+            "lo": 51.19664,
+            "poll_avg": 46.93647
+          },
+          "polls": {
+            "winprob": 95.265,
+            "forecast": 57.72472,
+            "hi": 65.18668,
+            "lo": 50.19603,
+            "poll_avg": 46.41695
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 3.4250000000000003,
+            "forecast": 37.45913,
+            "hi": 44.20422,
+            "lo": 30.78074,
+            "poll_avg": 28.95501
+          },
+          "now": {
+            "winprob": 2.705,
+            "forecast": 37.35073,
+            "hi": 43.54782,
+            "lo": 31.20864,
+            "poll_avg": 28.63945
+          },
+          "polls": {
+            "winprob": 4.66,
+            "forecast": 37.57985,
+            "hi": 44.92132,
+            "lo": 30.32841,
+            "poll_avg": 28.66838
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-02",
+        "models": {
+          "plus": {
+            "winprob": 96.575,
+            "forecast": 58.04905,
+            "hi": 64.91908,
+            "lo": 51.01644,
+            "poll_avg": 46.97772
+          },
+          "now": {
+            "winprob": 97.295,
+            "forecast": 57.80577,
+            "hi": 64.0706,
+            "lo": 51.31135,
+            "poll_avg": 47.01334
+          },
+          "polls": {
+            "winprob": 95.34,
+            "forecast": 57.8578,
+            "hi": 65.40788,
+            "lo": 50.27039,
+            "poll_avg": 46.50751
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 3.9050000000000002,
+            "forecast": 37.72743,
+            "hi": 44.38084,
+            "lo": 31.04478,
+            "poll_avg": 29.12176
+          },
+          "now": {
+            "winprob": 3.0949999999999998,
+            "forecast": 37.84093,
+            "hi": 43.9223,
+            "lo": 31.77929,
+            "poll_avg": 29.19736
+          },
+          "polls": {
+            "winprob": 5.09,
+            "forecast": 37.90156,
+            "hi": 45.24876,
+            "lo": 30.73081,
+            "poll_avg": 28.95281
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-09-01",
+        "models": {
+          "plus": {
+            "winprob": 96.095,
+            "forecast": 57.79205,
+            "hi": 64.65215,
+            "lo": 50.88631,
+            "poll_avg": 46.89545
+          },
+          "now": {
+            "winprob": 96.905,
+            "forecast": 57.37012,
+            "hi": 63.60072,
+            "lo": 51.05384,
+            "poll_avg": 46.8617
+          },
+          "polls": {
+            "winprob": 94.91000000000001,
+            "forecast": 57.56117,
+            "hi": 64.91812,
+            "lo": 50.05162,
+            "poll_avg": 46.43667
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 3.56,
+            "forecast": 37.61222,
+            "hi": 44.33883,
+            "lo": 30.99037,
+            "poll_avg": 28.97853
+          },
+          "now": {
+            "winprob": 2.81,
+            "forecast": 37.55059,
+            "hi": 43.71625,
+            "lo": 31.4613,
+            "poll_avg": 28.76472
+          },
+          "polls": {
+            "winprob": 5.04,
+            "forecast": 37.75759,
+            "hi": 45.0833,
+            "lo": 30.56514,
+            "poll_avg": 28.74289
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-31",
+        "models": {
+          "plus": {
+            "winprob": 96.44,
+            "forecast": 57.88962,
+            "hi": 64.70217,
+            "lo": 50.9485,
+            "poll_avg": 46.87129
+          },
+          "now": {
+            "winprob": 97.19,
+            "forecast": 57.59592,
+            "hi": 63.85895,
+            "lo": 51.10419,
+            "poll_avg": 46.85566
+          },
+          "polls": {
+            "winprob": 94.96,
+            "forecast": 57.68356,
+            "hi": 65.15385,
+            "lo": 50.16933,
+            "poll_avg": 46.45215
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 3.82,
+            "forecast": 37.63516,
+            "hi": 44.43112,
+            "lo": 30.82047,
+            "poll_avg": 28.99634
+          },
+          "now": {
+            "winprob": 2.5100000000000002,
+            "forecast": 37.20409,
+            "hi": 43.29055,
+            "lo": 31.09819,
+            "poll_avg": 28.48044
+          },
+          "polls": {
+            "winprob": 5.13,
+            "forecast": 37.83487,
+            "hi": 45.25075,
+            "lo": 30.58213,
+            "poll_avg": 28.86016
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-30",
+        "models": {
+          "plus": {
+            "winprob": 96.17999999999999,
+            "forecast": 57.86798,
+            "hi": 64.77554,
+            "lo": 50.76144,
+            "poll_avg": 46.86355
+          },
+          "now": {
+            "winprob": 97.49,
+            "forecast": 57.95021,
+            "hi": 64.1599,
+            "lo": 51.54666,
+            "poll_avg": 47.31693
+          },
+          "polls": {
+            "winprob": 94.87,
+            "forecast": 57.61449,
+            "hi": 65.16943,
+            "lo": 50.00262,
+            "poll_avg": 46.39736
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 3.73,
+            "forecast": 37.86857,
+            "hi": 44.52119,
+            "lo": 31.23611,
+            "poll_avg": 29.41439
+          },
+          "now": {
+            "winprob": 2.7449999999999997,
+            "forecast": 37.60147,
+            "hi": 43.60464,
+            "lo": 31.59912,
+            "poll_avg": 29.16761
+          },
+          "polls": {
+            "winprob": 5.04,
+            "forecast": 38.02368,
+            "hi": 45.26908,
+            "lo": 30.752,
+            "poll_avg": 29.13618
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-29",
+        "models": {
+          "plus": {
+            "winprob": 96.27,
+            "forecast": 57.68712,
+            "hi": 64.52048,
+            "lo": 50.78055,
+            "poll_avg": 46.94717
+          },
+          "now": {
+            "winprob": 97.255,
+            "forecast": 57.65052,
+            "hi": 63.75749,
+            "lo": 51.33556,
+            "poll_avg": 47.3858
+          },
+          "polls": {
+            "winprob": 94.96,
+            "forecast": 57.46251,
+            "hi": 64.90939,
+            "lo": 49.93089,
+            "poll_avg": 46.4782
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 3.92,
+            "forecast": 37.86621,
+            "hi": 44.60912,
+            "lo": 31.14054,
+            "poll_avg": 29.12954
+          },
+          "now": {
+            "winprob": 2.87,
+            "forecast": 37.70658,
+            "hi": 43.72113,
+            "lo": 31.71808,
+            "poll_avg": 28.85456
+          },
+          "polls": {
+            "winprob": 5.24,
+            "forecast": 38.05795,
+            "hi": 45.36951,
+            "lo": 30.85925,
+            "poll_avg": 28.92799
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-28",
+        "models": {
+          "plus": {
+            "winprob": 96.08,
+            "forecast": 57.65223,
+            "hi": 64.53923,
+            "lo": 50.69515,
+            "poll_avg": 46.87289
+          },
+          "now": {
+            "winprob": 97.13000000000001,
+            "forecast": 57.44863,
+            "hi": 63.72361,
+            "lo": 51.08692,
+            "poll_avg": 46.95023
+          },
+          "polls": {
+            "winprob": 94.76,
+            "forecast": 57.39198,
+            "hi": 64.90778,
+            "lo": 49.78212,
+            "poll_avg": 46.31591
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 4.095,
+            "forecast": 37.90614,
+            "hi": 44.60056,
+            "lo": 31.28379,
+            "poll_avg": 29.15832
+          },
+          "now": {
+            "winprob": 3.005,
+            "forecast": 37.76465,
+            "hi": 43.80672,
+            "lo": 31.73479,
+            "poll_avg": 28.99365
+          },
+          "polls": {
+            "winprob": 5.72,
+            "forecast": 38.08308,
+            "hi": 45.52999,
+            "lo": 30.79148,
+            "poll_avg": 28.93041
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-27",
+        "models": {
+          "plus": {
+            "winprob": 95.905,
+            "forecast": 57.60215,
+            "hi": 64.44995,
+            "lo": 50.65056,
+            "poll_avg": 46.71385
+          },
+          "now": {
+            "winprob": 96.995,
+            "forecast": 57.40194,
+            "hi": 63.63094,
+            "lo": 51.0341,
+            "poll_avg": 46.92214
+          },
+          "polls": {
+            "winprob": 94.28,
+            "forecast": 57.35792,
+            "hi": 64.91285,
+            "lo": 49.67453,
+            "poll_avg": 46.20579
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 4.16,
+            "forecast": 38.02072,
+            "hi": 44.83539,
+            "lo": 31.39227,
+            "poll_avg": 29.27577
+          },
+          "now": {
+            "winprob": 3.01,
+            "forecast": 37.75427,
+            "hi": 43.83489,
+            "lo": 31.70929,
+            "poll_avg": 28.69475
+          },
+          "polls": {
+            "winprob": 5.54,
+            "forecast": 38.22557,
+            "hi": 45.59838,
+            "lo": 30.92397,
+            "poll_avg": 29.0197
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-26",
+        "models": {
+          "plus": {
+            "winprob": 95.84,
+            "forecast": 57.50198,
+            "hi": 64.42819,
+            "lo": 50.47999,
+            "poll_avg": 46.73315
+          },
+          "now": {
+            "winprob": 96.99,
+            "forecast": 57.34472,
+            "hi": 63.61375,
+            "lo": 50.86831,
+            "poll_avg": 46.73388
+          },
+          "polls": {
+            "winprob": 94.46,
+            "forecast": 57.2174,
+            "hi": 64.70473,
+            "lo": 49.63916,
+            "poll_avg": 46.11294
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 4.845,
+            "forecast": 38.49771,
+            "hi": 45.27694,
+            "lo": 31.75136,
+            "poll_avg": 29.63099
+          },
+          "now": {
+            "winprob": 3.95,
+            "forecast": 38.57589,
+            "hi": 44.67767,
+            "lo": 32.45705,
+            "poll_avg": 29.29022
+          },
+          "polls": {
+            "winprob": 6.175,
+            "forecast": 38.66868,
+            "hi": 46.14706,
+            "lo": 31.3036,
+            "poll_avg": 29.26647
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-25",
+        "models": {
+          "plus": {
+            "winprob": 95.155,
+            "forecast": 57.03681,
+            "hi": 63.89155,
+            "lo": 49.98119,
+            "poll_avg": 46.41128
+          },
+          "now": {
+            "winprob": 96.05,
+            "forecast": 56.50626,
+            "hi": 62.83966,
+            "lo": 49.99862,
+            "poll_avg": 45.90059
+          },
+          "polls": {
+            "winprob": 93.825,
+            "forecast": 56.77473,
+            "hi": 64.264,
+            "lo": 49.25663,
+            "poll_avg": 45.79636
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 4.324999999999999,
+            "forecast": 38.34501,
+            "hi": 45.0598,
+            "lo": 31.77025,
+            "poll_avg": 29.51524
+          },
+          "now": {
+            "winprob": 3.25,
+            "forecast": 38.20768,
+            "hi": 44.19949,
+            "lo": 32.16249,
+            "poll_avg": 29.16966
+          },
+          "polls": {
+            "winprob": 5.96,
+            "forecast": 38.52892,
+            "hi": 45.83686,
+            "lo": 31.26211,
+            "poll_avg": 29.22014
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-24",
+        "models": {
+          "plus": {
+            "winprob": 95.675,
+            "forecast": 57.19865,
+            "hi": 64.02293,
+            "lo": 50.26264,
+            "poll_avg": 46.67162
+          },
+          "now": {
+            "winprob": 96.75,
+            "forecast": 56.93883,
+            "hi": 63.16546,
+            "lo": 50.60062,
+            "poll_avg": 46.65405
+          },
+          "polls": {
+            "winprob": 94.04,
+            "forecast": 56.93269,
+            "hi": 64.46471,
+            "lo": 49.43389,
+            "poll_avg": 46.07444
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 4.575,
+            "forecast": 38.38577,
+            "hi": 45.10092,
+            "lo": 31.71119,
+            "poll_avg": 29.55632
+          },
+          "now": {
+            "winprob": 3.27,
+            "forecast": 38.28181,
+            "hi": 44.24277,
+            "lo": 32.40555,
+            "poll_avg": 29.29285
+          },
+          "polls": {
+            "winprob": 6.205,
+            "forecast": 38.60236,
+            "hi": 45.99091,
+            "lo": 31.39182,
+            "poll_avg": 29.26864
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-23",
+        "models": {
+          "plus": {
+            "winprob": 95.42500000000001,
+            "forecast": 57.16741,
+            "hi": 63.99498,
+            "lo": 50.23666,
+            "poll_avg": 46.73195
+          },
+          "now": {
+            "winprob": 96.73,
+            "forecast": 56.88783,
+            "hi": 63.06252,
+            "lo": 50.6092,
+            "poll_avg": 46.74617
+          },
+          "polls": {
+            "winprob": 93.795,
+            "forecast": 56.8628,
+            "hi": 64.32181,
+            "lo": 49.2629,
+            "poll_avg": 46.0537
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 4.53,
+            "forecast": 38.36531,
+            "hi": 45.15592,
+            "lo": 31.6655,
+            "poll_avg": 29.36891
+          },
+          "now": {
+            "winprob": 3.3099999999999996,
+            "forecast": 38.06775,
+            "hi": 44.18694,
+            "lo": 31.9902,
+            "poll_avg": 28.62654
+          },
+          "polls": {
+            "winprob": 6.09,
+            "forecast": 38.55055,
+            "hi": 45.95908,
+            "lo": 31.22071,
+            "poll_avg": 29.05865
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-22",
+        "models": {
+          "plus": {
+            "winprob": 95.47,
+            "forecast": 57.14703,
+            "hi": 64.01836,
+            "lo": 50.13407,
+            "poll_avg": 46.48771
+          },
+          "now": {
+            "winprob": 96.69,
+            "forecast": 56.95973,
+            "hi": 63.24161,
+            "lo": 50.57198,
+            "poll_avg": 46.36553
+          },
+          "polls": {
+            "winprob": 93.91000000000001,
+            "forecast": 56.87448,
+            "hi": 64.37218,
+            "lo": 49.42318,
+            "poll_avg": 45.84736
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 4.61,
+            "forecast": 38.37109,
+            "hi": 45.11732,
+            "lo": 31.59676,
+            "poll_avg": 29.38448
+          },
+          "now": {
+            "winprob": 3.405,
+            "forecast": 38.12746,
+            "hi": 44.26635,
+            "lo": 32.09753,
+            "poll_avg": 28.69935
+          },
+          "polls": {
+            "winprob": 6.069999999999999,
+            "forecast": 38.53262,
+            "hi": 45.93562,
+            "lo": 31.16295,
+            "poll_avg": 29.07586
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-21",
+        "models": {
+          "plus": {
+            "winprob": 95.39,
+            "forecast": 57.14135,
+            "hi": 64.03415,
+            "lo": 50.11547,
+            "poll_avg": 46.46864
+          },
+          "now": {
+            "winprob": 96.595,
+            "forecast": 56.89416,
+            "hi": 63.11724,
+            "lo": 50.4444,
+            "poll_avg": 46.26965
+          },
+          "polls": {
+            "winprob": 93.93,
+            "forecast": 56.89742,
+            "hi": 64.4769,
+            "lo": 49.22823,
+            "poll_avg": 45.88478
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 4.52,
+            "forecast": 38.18227,
+            "hi": 44.96523,
+            "lo": 31.37804,
+            "poll_avg": 29.11083
+          },
+          "now": {
+            "winprob": 3.1199999999999997,
+            "forecast": 37.8583,
+            "hi": 43.91545,
+            "lo": 31.73488,
+            "poll_avg": 28.50041
+          },
+          "polls": {
+            "winprob": 6.135,
+            "forecast": 38.36958,
+            "hi": 45.81599,
+            "lo": 30.98297,
+            "poll_avg": 28.90108
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-20",
+        "models": {
+          "plus": {
+            "winprob": 95.48,
+            "forecast": 57.29911,
+            "hi": 64.19588,
+            "lo": 50.341,
+            "poll_avg": 46.45361
+          },
+          "now": {
+            "winprob": 96.88,
+            "forecast": 57.15718,
+            "hi": 63.46987,
+            "lo": 50.68254,
+            "poll_avg": 46.50285
+          },
+          "polls": {
+            "winprob": 93.865,
+            "forecast": 57.04323,
+            "hi": 64.63781,
+            "lo": 49.37532,
+            "poll_avg": 45.90657
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 4.285,
+            "forecast": 38.10292,
+            "hi": 44.94964,
+            "lo": 31.28699,
+            "poll_avg": 29.21449
+          },
+          "now": {
+            "winprob": 2.7,
+            "forecast": 37.53724,
+            "hi": 43.60689,
+            "lo": 31.5264,
+            "poll_avg": 28.41129
+          },
+          "polls": {
+            "winprob": 5.62,
+            "forecast": 38.27142,
+            "hi": 45.70588,
+            "lo": 30.881,
+            "poll_avg": 28.95544
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-19",
+        "models": {
+          "plus": {
+            "winprob": 95.71499999999999,
+            "forecast": 57.40001,
+            "hi": 64.34464,
+            "lo": 50.36152,
+            "poll_avg": 46.57646
+          },
+          "now": {
+            "winprob": 97.3,
+            "forecast": 57.51134,
+            "hi": 63.88293,
+            "lo": 51.16778,
+            "poll_avg": 46.93918
+          },
+          "polls": {
+            "winprob": 94.38,
+            "forecast": 57.16006,
+            "hi": 64.71723,
+            "lo": 49.54372,
+            "poll_avg": 46.05922
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 4.475,
+            "forecast": 38.20438,
+            "hi": 45.06699,
+            "lo": 31.5273,
+            "poll_avg": 29.30739
+          },
+          "now": {
+            "winprob": 3.1199999999999997,
+            "forecast": 37.98122,
+            "hi": 43.97525,
+            "lo": 31.90258,
+            "poll_avg": 28.8894
+          },
+          "polls": {
+            "winprob": 5.815,
+            "forecast": 38.35849,
+            "hi": 45.80455,
+            "lo": 30.91768,
+            "poll_avg": 28.93016
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-18",
+        "models": {
+          "plus": {
+            "winprob": 95.525,
+            "forecast": 57.29642,
+            "hi": 64.2413,
+            "lo": 50.17022,
+            "poll_avg": 46.42982
+          },
+          "now": {
+            "winprob": 96.88,
+            "forecast": 57.07871,
+            "hi": 63.32221,
+            "lo": 50.67595,
+            "poll_avg": 46.49611
+          },
+          "polls": {
+            "winprob": 94.185,
+            "forecast": 57.05092,
+            "hi": 64.66504,
+            "lo": 49.47876,
+            "poll_avg": 45.82801
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 4.36,
+            "forecast": 38.14819,
+            "hi": 44.94582,
+            "lo": 31.39491,
+            "poll_avg": 29.23155
+          },
+          "now": {
+            "winprob": 2.8449999999999998,
+            "forecast": 37.99536,
+            "hi": 44.04074,
+            "lo": 31.99259,
+            "poll_avg": 28.93306
+          },
+          "polls": {
+            "winprob": 5.84,
+            "forecast": 38.32941,
+            "hi": 45.78583,
+            "lo": 31.05041,
+            "poll_avg": 29.03483
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-17",
+        "models": {
+          "plus": {
+            "winprob": 95.64,
+            "forecast": 57.34572,
+            "hi": 64.26537,
+            "lo": 50.36245,
+            "poll_avg": 46.44625
+          },
+          "now": {
+            "winprob": 97.155,
+            "forecast": 57.06363,
+            "hi": 63.32168,
+            "lo": 50.72612,
+            "poll_avg": 46.47668
+          },
+          "polls": {
+            "winprob": 94.16,
+            "forecast": 57.10223,
+            "hi": 64.62511,
+            "lo": 49.562,
+            "poll_avg": 45.9576
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 4.32,
+            "forecast": 38.15965,
+            "hi": 44.93928,
+            "lo": 31.45101,
+            "poll_avg": 29.3804
+          },
+          "now": {
+            "winprob": 3.11,
+            "forecast": 38.05239,
+            "hi": 44.04406,
+            "lo": 32.08559,
+            "poll_avg": 29.10628
+          },
+          "polls": {
+            "winprob": 6.045,
+            "forecast": 38.35999,
+            "hi": 45.84895,
+            "lo": 31.04111,
+            "poll_avg": 29.06662
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-16",
+        "models": {
+          "plus": {
+            "winprob": 95.67999999999999,
+            "forecast": 57.35934,
+            "hi": 64.34149,
+            "lo": 50.25293,
+            "poll_avg": 46.55225
+          },
+          "now": {
+            "winprob": 96.89,
+            "forecast": 57.0305,
+            "hi": 63.29528,
+            "lo": 50.75664,
+            "poll_avg": 46.51073
+          },
+          "polls": {
+            "winprob": 93.955,
+            "forecast": 57.06499,
+            "hi": 64.56908,
+            "lo": 49.41581,
+            "poll_avg": 45.83645
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 4.1450000000000005,
+            "forecast": 38.10001,
+            "hi": 44.91221,
+            "lo": 31.41269,
+            "poll_avg": 29.20938
+          },
+          "now": {
+            "winprob": 3.065,
+            "forecast": 37.98104,
+            "hi": 44.01564,
+            "lo": 31.94053,
+            "poll_avg": 28.88845
+          },
+          "polls": {
+            "winprob": 5.995,
+            "forecast": 38.32213,
+            "hi": 45.87565,
+            "lo": 30.86558,
+            "poll_avg": 28.99966
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-15",
+        "models": {
+          "plus": {
+            "winprob": 95.855,
+            "forecast": 57.40067,
+            "hi": 64.24274,
+            "lo": 50.44516,
+            "poll_avg": 46.55618
+          },
+          "now": {
+            "winprob": 96.935,
+            "forecast": 57.05337,
+            "hi": 63.26126,
+            "lo": 50.64462,
+            "poll_avg": 46.4053
+          },
+          "polls": {
+            "winprob": 94.00500000000001,
+            "forecast": 57.09538,
+            "hi": 64.7648,
+            "lo": 49.36842,
+            "poll_avg": 45.83425
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 4.495,
+            "forecast": 38.19141,
+            "hi": 45.00715,
+            "lo": 31.33121,
+            "poll_avg": 29.26595
+          },
+          "now": {
+            "winprob": 3.15,
+            "forecast": 38.10634,
+            "hi": 44.18382,
+            "lo": 32.09352,
+            "poll_avg": 29.09784
+          },
+          "polls": {
+            "winprob": 5.955,
+            "forecast": 38.39692,
+            "hi": 45.84859,
+            "lo": 31.00005,
+            "poll_avg": 29.07757
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-14",
+        "models": {
+          "plus": {
+            "winprob": 95.505,
+            "forecast": 57.30533,
+            "hi": 64.29578,
+            "lo": 50.22105,
+            "poll_avg": 46.43528
+          },
+          "now": {
+            "winprob": 96.85000000000001,
+            "forecast": 56.96043,
+            "hi": 63.17433,
+            "lo": 50.63361,
+            "poll_avg": 46.46576
+          },
+          "polls": {
+            "winprob": 94.045,
+            "forecast": 57.02885,
+            "hi": 64.54436,
+            "lo": 49.35216,
+            "poll_avg": 45.83152
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 4.5249999999999995,
+            "forecast": 38.3355,
+            "hi": 45.13468,
+            "lo": 31.54839,
+            "poll_avg": 29.2892
+          },
+          "now": {
+            "winprob": 3.36,
+            "forecast": 38.29327,
+            "hi": 44.3301,
+            "lo": 32.29005,
+            "poll_avg": 29.30509
+          },
+          "polls": {
+            "winprob": 6.095,
+            "forecast": 38.51439,
+            "hi": 45.95365,
+            "lo": 31.07981,
+            "poll_avg": 29.12954
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-13",
+        "models": {
+          "plus": {
+            "winprob": 95.475,
+            "forecast": 57.15943,
+            "hi": 64.04803,
+            "lo": 50.24963,
+            "poll_avg": 46.38325
+          },
+          "now": {
+            "winprob": 96.64,
+            "forecast": 56.80022,
+            "hi": 62.97921,
+            "lo": 50.53177,
+            "poll_avg": 46.47949
+          },
+          "polls": {
+            "winprob": 93.905,
+            "forecast": 56.92169,
+            "hi": 64.56039,
+            "lo": 49.32391,
+            "poll_avg": 45.88708
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 4.535,
+            "forecast": 38.33336,
+            "hi": 45.06044,
+            "lo": 31.52084,
+            "poll_avg": 29.36714
+          },
+          "now": {
+            "winprob": 3.405,
+            "forecast": 38.29339,
+            "hi": 44.31765,
+            "lo": 32.35069,
+            "poll_avg": 29.37702
+          },
+          "polls": {
+            "winprob": 6.18,
+            "forecast": 38.52285,
+            "hi": 45.87832,
+            "lo": 31.12654,
+            "poll_avg": 29.17794
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-12",
+        "models": {
+          "plus": {
+            "winprob": 95.465,
+            "forecast": 57.17388,
+            "hi": 64.08298,
+            "lo": 50.18113,
+            "poll_avg": 46.42892
+          },
+          "now": {
+            "winprob": 96.595,
+            "forecast": 56.79456,
+            "hi": 62.98253,
+            "lo": 50.54635,
+            "poll_avg": 46.3854
+          },
+          "polls": {
+            "winprob": 93.82000000000001,
+            "forecast": 56.91488,
+            "hi": 64.38011,
+            "lo": 49.30653,
+            "poll_avg": 45.84373
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 4.58,
+            "forecast": 38.38969,
+            "hi": 45.32082,
+            "lo": 31.63149,
+            "poll_avg": 29.35551
+          },
+          "now": {
+            "winprob": 3.195,
+            "forecast": 38.3503,
+            "hi": 44.23378,
+            "lo": 32.3795,
+            "poll_avg": 29.42258
+          },
+          "polls": {
+            "winprob": 6.265,
+            "forecast": 38.52662,
+            "hi": 45.98579,
+            "lo": 31.16489,
+            "poll_avg": 29.10467
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-11",
+        "models": {
+          "plus": {
+            "winprob": 95.42,
+            "forecast": 57.11369,
+            "hi": 64.06892,
+            "lo": 50.04802,
+            "poll_avg": 46.39785
+          },
+          "now": {
+            "winprob": 96.80499999999999,
+            "forecast": 56.75225,
+            "hi": 62.9118,
+            "lo": 50.55001,
+            "poll_avg": 46.49178
+          },
+          "polls": {
+            "winprob": 93.735,
+            "forecast": 56.9116,
+            "hi": 64.54172,
+            "lo": 49.28833,
+            "poll_avg": 45.94511
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 4.47,
+            "forecast": 38.3282,
+            "hi": 45.25339,
+            "lo": 31.57948,
+            "poll_avg": 29.39249
+          },
+          "now": {
+            "winprob": 3.2550000000000003,
+            "forecast": 38.2456,
+            "hi": 44.22089,
+            "lo": 32.39064,
+            "poll_avg": 29.37092
+          },
+          "polls": {
+            "winprob": 6.0,
+            "forecast": 38.5069,
+            "hi": 45.92582,
+            "lo": 31.09085,
+            "poll_avg": 29.19053
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-10",
+        "models": {
+          "plus": {
+            "winprob": 95.53,
+            "forecast": 57.18719,
+            "hi": 64.12167,
+            "lo": 50.16467,
+            "poll_avg": 46.49347
+          },
+          "now": {
+            "winprob": 96.745,
+            "forecast": 56.84249,
+            "hi": 62.93267,
+            "lo": 50.53495,
+            "poll_avg": 46.47297
+          },
+          "polls": {
+            "winprob": 94.0,
+            "forecast": 56.93856,
+            "hi": 64.46697,
+            "lo": 49.30408,
+            "poll_avg": 45.91992
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 5.075,
+            "forecast": 37.36105,
+            "hi": 45.52024,
+            "lo": 29.42014,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 4.305,
+            "forecast": 36.78915,
+            "hi": 44.59334,
+            "lo": 29.11962,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.645,
+            "forecast": 37.61794,
+            "hi": 45.90783,
+            "lo": 29.42603,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-09",
+        "models": {
+          "plus": {
+            "winprob": 94.925,
+            "forecast": 59.21072,
+            "hi": 67.30066,
+            "lo": 51.03283,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 95.695,
+            "forecast": 59.78263,
+            "hi": 67.59338,
+            "lo": 51.88718,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.355,
+            "forecast": 58.95383,
+            "hi": 67.16685,
+            "lo": 50.68485,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 5.29,
+            "forecast": 37.46346,
+            "hi": 45.58176,
+            "lo": 29.42631,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 4.625,
+            "forecast": 37.35908,
+            "hi": 45.16705,
+            "lo": 29.65953,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.84,
+            "forecast": 37.72308,
+            "hi": 45.96433,
+            "lo": 29.64311,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-08",
+        "models": {
+          "plus": {
+            "winprob": 94.71000000000001,
+            "forecast": 59.10831,
+            "hi": 67.23692,
+            "lo": 50.92749,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 95.375,
+            "forecast": 59.21269,
+            "hi": 67.04735,
+            "lo": 51.26528,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.16,
+            "forecast": 58.84869,
+            "hi": 67.0589,
+            "lo": 50.44197,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 5.319999999999999,
+            "forecast": 37.51604,
+            "hi": 45.63855,
+            "lo": 29.48886,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 4.97,
+            "forecast": 37.56396,
+            "hi": 45.32711,
+            "lo": 29.94388,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.84,
+            "forecast": 37.77379,
+            "hi": 45.98684,
+            "lo": 29.70489,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-07",
+        "models": {
+          "plus": {
+            "winprob": 94.67999999999999,
+            "forecast": 59.05573,
+            "hi": 67.18394,
+            "lo": 50.78967,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 95.03,
+            "forecast": 59.00781,
+            "hi": 66.80782,
+            "lo": 51.10983,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.16,
+            "forecast": 58.79798,
+            "hi": 67.01134,
+            "lo": 50.50477,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 4.95,
+            "forecast": 37.2267,
+            "hi": 45.34711,
+            "lo": 29.11436,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 4.34,
+            "forecast": 37.19633,
+            "hi": 44.69505,
+            "lo": 29.72489,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.505,
+            "forecast": 37.48487,
+            "hi": 45.6321,
+            "lo": 29.36197,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-06",
+        "models": {
+          "plus": {
+            "winprob": 95.05,
+            "forecast": 59.34507,
+            "hi": 67.47223,
+            "lo": 51.16311,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 95.66,
+            "forecast": 59.37544,
+            "hi": 66.94847,
+            "lo": 51.75256,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.49499999999999,
+            "forecast": 59.08689,
+            "hi": 67.28194,
+            "lo": 50.80354,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 4.760000000000001,
+            "forecast": 37.00136,
+            "hi": 45.12217,
+            "lo": 28.97299,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 3.82,
+            "forecast": 36.89631,
+            "hi": 44.37814,
+            "lo": 29.51379,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.515,
+            "forecast": 37.28819,
+            "hi": 45.50817,
+            "lo": 29.15475,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-05",
+        "models": {
+          "plus": {
+            "winprob": 95.24000000000001,
+            "forecast": 59.57041,
+            "hi": 67.73314,
+            "lo": 51.30392,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 96.17999999999999,
+            "forecast": 59.67546,
+            "hi": 67.23299,
+            "lo": 52.08382,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.485,
+            "forecast": 59.28358,
+            "hi": 67.53423,
+            "lo": 50.93742,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 4.32,
+            "forecast": 36.73662,
+            "hi": 44.71515,
+            "lo": 28.74946,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 2.73,
+            "forecast": 35.99939,
+            "hi": 43.16407,
+            "lo": 29.00616,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 4.8500000000000005,
+            "forecast": 36.9937,
+            "hi": 45.18904,
+            "lo": 28.88302,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-04",
+        "models": {
+          "plus": {
+            "winprob": 95.67999999999999,
+            "forecast": 59.83515,
+            "hi": 67.92631,
+            "lo": 51.69536,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 97.27,
+            "forecast": 60.57238,
+            "hi": 67.80784,
+            "lo": 53.18701,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 95.15,
+            "forecast": 59.57807,
+            "hi": 67.83114,
+            "lo": 51.27168,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 5.485,
+            "forecast": 37.14583,
+            "hi": 45.53714,
+            "lo": 28.93382,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 5.319999999999999,
+            "forecast": 37.65747,
+            "hi": 45.71057,
+            "lo": 29.80751,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.88,
+            "forecast": 37.40625,
+            "hi": 46.00674,
+            "lo": 28.89476,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-03",
+        "models": {
+          "plus": {
+            "winprob": 94.515,
+            "forecast": 59.42594,
+            "hi": 67.78978,
+            "lo": 50.92741,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 94.67999999999999,
+            "forecast": 58.9143,
+            "hi": 66.94028,
+            "lo": 50.81967,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.12,
+            "forecast": 59.16552,
+            "hi": 67.76989,
+            "lo": 50.52707,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 5.029999999999999,
+            "forecast": 36.78059,
+            "hi": 45.18016,
+            "lo": 28.51064,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 5.08,
+            "forecast": 37.32071,
+            "hi": 45.26306,
+            "lo": 29.53601,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.525,
+            "forecast": 37.0341,
+            "hi": 45.61034,
+            "lo": 28.60001,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-02",
+        "models": {
+          "plus": {
+            "winprob": 94.97,
+            "forecast": 59.79118,
+            "hi": 68.09853,
+            "lo": 51.26806,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 94.92,
+            "forecast": 59.25107,
+            "hi": 67.16301,
+            "lo": 51.20844,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.475,
+            "forecast": 59.53767,
+            "hi": 68.10088,
+            "lo": 50.83831,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 5.08,
+            "forecast": 36.80628,
+            "hi": 45.24619,
+            "lo": 28.65974,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 5.465,
+            "forecast": 37.75896,
+            "hi": 45.74944,
+            "lo": 29.84204,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.365,
+            "forecast": 37.03407,
+            "hi": 45.49705,
+            "lo": 28.64906,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-08-01",
+        "models": {
+          "plus": {
+            "winprob": 94.92,
+            "forecast": 59.76549,
+            "hi": 68.08319,
+            "lo": 51.23283,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 94.535,
+            "forecast": 58.81282,
+            "hi": 66.78134,
+            "lo": 50.79615,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.635,
+            "forecast": 59.5377,
+            "hi": 67.97507,
+            "lo": 50.94726,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 4.49,
+            "forecast": 36.18228,
+            "hi": 44.56378,
+            "lo": 27.92803,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 4.41,
+            "forecast": 36.71882,
+            "hi": 44.71395,
+            "lo": 28.79312,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.025,
+            "forecast": 36.38992,
+            "hi": 45.05693,
+            "lo": 27.85669,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-31",
+        "models": {
+          "plus": {
+            "winprob": 95.50999999999999,
+            "forecast": 60.38949,
+            "hi": 68.77408,
+            "lo": 51.91835,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 95.59,
+            "forecast": 59.85295,
+            "hi": 67.9456,
+            "lo": 51.81952,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.975,
+            "forecast": 60.18185,
+            "hi": 68.81961,
+            "lo": 51.42645,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 4.390000000000001,
+            "forecast": 35.85039,
+            "hi": 44.34171,
+            "lo": 27.55458,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 4.1000000000000005,
+            "forecast": 36.39431,
+            "hi": 44.45602,
+            "lo": 28.5007,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 4.82,
+            "forecast": 36.06907,
+            "hi": 44.75227,
+            "lo": 27.52001,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-30",
+        "models": {
+          "plus": {
+            "winprob": 95.61,
+            "forecast": 60.72138,
+            "hi": 69.16016,
+            "lo": 52.18674,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 95.89999999999999,
+            "forecast": 60.17746,
+            "hi": 68.22043,
+            "lo": 51.98797,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 95.17999999999999,
+            "forecast": 60.5027,
+            "hi": 69.12363,
+            "lo": 51.7467,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 3.5999999999999996,
+            "forecast": 34.98439,
+            "hi": 43.34512,
+            "lo": 26.78482,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 3.055,
+            "forecast": 34.64613,
+            "hi": 42.78851,
+            "lo": 26.63347,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 4.115,
+            "forecast": 35.28746,
+            "hi": 44.0429,
+            "lo": 26.77986,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-29",
+        "models": {
+          "plus": {
+            "winprob": 96.39999999999999,
+            "forecast": 61.58738,
+            "hi": 69.95036,
+            "lo": 53.08938,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 96.94500000000001,
+            "forecast": 61.92564,
+            "hi": 70.11356,
+            "lo": 53.63295,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 95.88499999999999,
+            "forecast": 61.28431,
+            "hi": 69.94525,
+            "lo": 52.52153,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 3.55,
+            "forecast": 35.15823,
+            "hi": 43.49883,
+            "lo": 26.93031,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 3.26,
+            "forecast": 34.86513,
+            "hi": 42.95749,
+            "lo": 26.79066,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 4.085,
+            "forecast": 35.4577,
+            "hi": 44.09315,
+            "lo": 26.99842,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-28",
+        "models": {
+          "plus": {
+            "winprob": 96.45,
+            "forecast": 61.41354,
+            "hi": 69.76694,
+            "lo": 52.94374,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 96.74000000000001,
+            "forecast": 61.70664,
+            "hi": 69.82291,
+            "lo": 53.50745,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 95.91499999999999,
+            "forecast": 61.11407,
+            "hi": 69.65979,
+            "lo": 52.36475,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 3.63,
+            "forecast": 35.19959,
+            "hi": 43.60993,
+            "lo": 27.02991,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 2.995,
+            "forecast": 34.81576,
+            "hi": 42.78111,
+            "lo": 26.92063,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 4.115,
+            "forecast": 35.49053,
+            "hi": 44.19234,
+            "lo": 27.07527,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-27",
+        "models": {
+          "plus": {
+            "winprob": 96.37,
+            "forecast": 61.37218,
+            "hi": 69.73351,
+            "lo": 52.8987,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 97.005,
+            "forecast": 61.75601,
+            "hi": 69.82184,
+            "lo": 53.61594,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 95.88499999999999,
+            "forecast": 61.08124,
+            "hi": 69.70787,
+            "lo": 52.22939,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 3.5700000000000003,
+            "forecast": 35.20317,
+            "hi": 43.58994,
+            "lo": 26.99221,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 2.83,
+            "forecast": 34.80792,
+            "hi": 42.68537,
+            "lo": 27.00114,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 4.130000000000001,
+            "forecast": 35.48756,
+            "hi": 44.15049,
+            "lo": 26.97743,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-26",
+        "models": {
+          "plus": {
+            "winprob": 96.43,
+            "forecast": 61.3686,
+            "hi": 69.75738,
+            "lo": 52.84867,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 97.17,
+            "forecast": 61.76385,
+            "hi": 69.71291,
+            "lo": 53.70745,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 95.87,
+            "forecast": 61.08421,
+            "hi": 69.66147,
+            "lo": 52.3349,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 3.5249999999999995,
+            "forecast": 35.21457,
+            "hi": 43.60716,
+            "lo": 26.96908,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 2.77,
+            "forecast": 34.55633,
+            "hi": 42.48586,
+            "lo": 26.77135,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 4.25,
+            "forecast": 35.48509,
+            "hi": 44.10565,
+            "lo": 27.01104,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-25",
+        "models": {
+          "plus": {
+            "winprob": 96.475,
+            "forecast": 61.3572,
+            "hi": 69.75629,
+            "lo": 52.86852,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 97.23,
+            "forecast": 62.01544,
+            "hi": 69.9877,
+            "lo": 53.91991,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 95.75,
+            "forecast": 61.08668,
+            "hi": 69.60309,
+            "lo": 52.41737,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 3.775,
+            "forecast": 35.58545,
+            "hi": 43.99492,
+            "lo": 27.37684,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 2.955,
+            "forecast": 34.97706,
+            "hi": 42.79584,
+            "lo": 27.29178,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 4.2250000000000005,
+            "forecast": 35.89319,
+            "hi": 44.42528,
+            "lo": 27.44571,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-24",
+        "models": {
+          "plus": {
+            "winprob": 96.22500000000001,
+            "forecast": 60.98632,
+            "hi": 69.34555,
+            "lo": 52.49874,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 97.045,
+            "forecast": 61.59471,
+            "hi": 69.49896,
+            "lo": 53.58109,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 95.775,
+            "forecast": 60.67858,
+            "hi": 69.31839,
+            "lo": 51.99662,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 4.365,
+            "forecast": 36.17023,
+            "hi": 44.52472,
+            "lo": 27.90188,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 2.94,
+            "forecast": 34.81493,
+            "hi": 42.74125,
+            "lo": 26.97833,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 4.8950000000000005,
+            "forecast": 36.4445,
+            "hi": 45.05405,
+            "lo": 27.85097,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-23",
+        "models": {
+          "plus": {
+            "winprob": 95.635,
+            "forecast": 60.40154,
+            "hi": 68.70363,
+            "lo": 51.93565,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 97.06,
+            "forecast": 61.75684,
+            "hi": 69.72094,
+            "lo": 53.6925,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 95.10499999999999,
+            "forecast": 60.12727,
+            "hi": 68.73463,
+            "lo": 51.32937,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 4.725,
+            "forecast": 36.64286,
+            "hi": 45.00485,
+            "lo": 28.55142,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 3.4299999999999997,
+            "forecast": 35.52535,
+            "hi": 43.46172,
+            "lo": 27.65187,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 5.605,
+            "forecast": 36.91912,
+            "hi": 45.58035,
+            "lo": 28.47155,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-22",
+        "models": {
+          "plus": {
+            "winprob": 95.275,
+            "forecast": 59.92891,
+            "hi": 68.22745,
+            "lo": 51.46457,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 96.57,
+            "forecast": 61.04642,
+            "hi": 68.97401,
+            "lo": 53.01233,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 94.395,
+            "forecast": 59.65265,
+            "hi": 68.24113,
+            "lo": 50.90329,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 6.335,
+            "forecast": 37.76711,
+            "hi": 46.23645,
+            "lo": 29.39906,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 5.42,
+            "forecast": 37.54809,
+            "hi": 45.60648,
+            "lo": 29.53252,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 7.13,
+            "forecast": 38.07009,
+            "hi": 46.73502,
+            "lo": 29.59765,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-21",
+        "models": {
+          "plus": {
+            "winprob": 93.66499999999999,
+            "forecast": 58.80466,
+            "hi": 67.35146,
+            "lo": 50.18816,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 94.58,
+            "forecast": 59.02368,
+            "hi": 67.17867,
+            "lo": 50.7457,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 92.86999999999999,
+            "forecast": 58.50168,
+            "hi": 67.20871,
+            "lo": 49.74017,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 6.485,
+            "forecast": 38.00636,
+            "hi": 46.493,
+            "lo": 29.6911,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 5.96,
+            "forecast": 37.97834,
+            "hi": 46.0369,
+            "lo": 30.06726,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 7.430000000000001,
+            "forecast": 38.30162,
+            "hi": 46.9236,
+            "lo": 29.82904,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-20",
+        "models": {
+          "plus": {
+            "winprob": 93.515,
+            "forecast": 58.56541,
+            "hi": 66.99564,
+            "lo": 50.10022,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 94.04,
+            "forecast": 58.59343,
+            "hi": 66.60703,
+            "lo": 50.44019,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 92.57,
+            "forecast": 58.27015,
+            "hi": 66.86116,
+            "lo": 49.59841,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 6.404999999999999,
+            "forecast": 37.98146,
+            "hi": 46.43958,
+            "lo": 29.7495,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 5.66,
+            "forecast": 37.95564,
+            "hi": 45.93455,
+            "lo": 30.03862,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 7.085,
+            "forecast": 38.27387,
+            "hi": 46.83316,
+            "lo": 29.63415,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-19",
+        "models": {
+          "plus": {
+            "winprob": 93.595,
+            "forecast": 58.59031,
+            "hi": 66.92129,
+            "lo": 50.04842,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 94.34,
+            "forecast": 58.61613,
+            "hi": 66.56712,
+            "lo": 50.58804,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 92.915,
+            "forecast": 58.2979,
+            "hi": 66.99335,
+            "lo": 49.64794,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 6.58,
+            "forecast": 38.06084,
+            "hi": 46.46881,
+            "lo": 29.81042,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 6.03,
+            "forecast": 38.12498,
+            "hi": 46.12425,
+            "lo": 30.32366,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 7.46,
+            "forecast": 38.36585,
+            "hi": 46.98952,
+            "lo": 29.88033,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-18",
+        "models": {
+          "plus": {
+            "winprob": 93.42,
+            "forecast": 58.51093,
+            "hi": 66.93674,
+            "lo": 50.06843,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 93.97,
+            "forecast": 58.44679,
+            "hi": 66.41309,
+            "lo": 50.29381,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 92.54,
+            "forecast": 58.20592,
+            "hi": 66.84346,
+            "lo": 49.51536,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 6.744999999999999,
+            "forecast": 38.21241,
+            "hi": 46.69375,
+            "lo": 29.93782,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 6.305,
+            "forecast": 38.41546,
+            "hi": 46.52552,
+            "lo": 30.53212,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 7.48,
+            "forecast": 38.49064,
+            "hi": 47.13905,
+            "lo": 30.00275,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-17",
+        "models": {
+          "plus": {
+            "winprob": 93.255,
+            "forecast": 58.35936,
+            "hi": 66.8243,
+            "lo": 49.80518,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 93.695,
+            "forecast": 58.15631,
+            "hi": 66.10245,
+            "lo": 50.05072,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 92.52,
+            "forecast": 58.08113,
+            "hi": 66.66835,
+            "lo": 49.46889,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 6.444999999999999,
+            "forecast": 38.12944,
+            "hi": 46.4979,
+            "lo": 29.84739,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 6.3100000000000005,
+            "forecast": 38.44296,
+            "hi": 46.40309,
+            "lo": 30.67844,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 7.635,
+            "forecast": 38.41079,
+            "hi": 47.04939,
+            "lo": 29.93423,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-16",
+        "models": {
+          "plus": {
+            "winprob": 93.55499999999999,
+            "forecast": 58.44233,
+            "hi": 66.85156,
+            "lo": 50.01226,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 93.69,
+            "forecast": 58.12881,
+            "hi": 66.0743,
+            "lo": 50.12205,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 92.365,
+            "forecast": 58.16099,
+            "hi": 66.73793,
+            "lo": 49.36194,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "D",
+        "candidate": "Thomas Dixon",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 7.055,
+            "forecast": 38.3245,
+            "hi": 46.77471,
+            "lo": 29.9164,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 7.049999999999999,
+            "forecast": 38.84935,
+            "hi": 46.91819,
+            "lo": 30.98509,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 7.925,
+            "forecast": 38.62222,
+            "hi": 47.42997,
+            "lo": 30.13523,
+            "poll_avg": 0.0
+          }
+        }
+      },
+      {
+        "party": "R",
+        "candidate": "Tim Scott",
+        "date": "2016-07-15",
+        "models": {
+          "plus": {
+            "winprob": 92.945,
+            "forecast": 58.24726,
+            "hi": 66.68173,
+            "lo": 49.67702,
+            "poll_avg": 0.0
+          },
+          "now": {
+            "winprob": 92.95,
+            "forecast": 57.72242,
+            "hi": 65.77611,
+            "lo": 49.59241,
+            "poll_avg": 0.0
+          },
+          "polls": {
+            "winprob": 92.07499999999999,
+            "forecast": 57.94955,
+            "hi": 66.58212,
+            "lo": 49.16419,
+            "poll_avg": 0.0
+          }
+        }
+      }
+    ]
+  },
+  "polls": [
+    {
+      "id": "47923",
+      "population": "lv",
+      "sampleSize": "1762",
+      "state": "SC",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-25",
+      "endDate": "2016-10-31",
+      "tracking": "TRUE",
+      "url": "https://drive.google.com/file/d/0BxxpEMTW3kAraEFpRXdFc21TVG8/view",
+      "created_at": 1478026140,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 56.0,
+          "adj_pct": {
+            "polls": 55.92884,
+            "plus": 55.96502,
+            "now": 55.92884
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 39.0,
+          "adj_pct": {
+            "polls": 35.78605,
+            "plus": 35.70923,
+            "now": 35.78605
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0209232,
+        "plus": 0.0209232,
+        "now": 0.0209232
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 17.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 20.142789999999998
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 20.255790000000005
+          },
+          "now": {
+            "choice": "R",
+            "margin": 20.142789999999998
+          }
+        }
+      }
+    },
+    {
+      "id": "48061",
+      "population": "lv",
+      "sampleSize": "1588",
+      "state": "SC",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-26",
+      "endDate": "2016-11-01",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478099220,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 57.0,
+          "adj_pct": {
+            "polls": 56.85078,
+            "plus": 56.88788,
+            "now": 56.85078
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 40.0,
+          "adj_pct": {
+            "polls": 36.78682,
+            "plus": 36.71037,
+            "now": 36.78682
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0225385,
+        "plus": 0.0225385,
+        "now": 0.0225385
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 17.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 20.06396
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 20.177510000000005
+          },
+          "now": {
+            "choice": "R",
+            "margin": 20.06396
+          }
+        }
+      }
+    },
+    {
+      "id": "48169",
+      "population": "lv",
+      "sampleSize": "1501",
+      "state": "SC",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-27",
+      "endDate": "2016-11-02",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478216880,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 58.0,
+          "adj_pct": {
+            "polls": 57.77384,
+            "plus": 57.81159,
+            "now": 57.77384
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 39.0,
+          "adj_pct": {
+            "polls": 35.79206,
+            "plus": 35.71588,
+            "now": 35.79206
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0254128,
+        "plus": 0.0254128,
+        "now": 0.0254128
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 19.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 21.98178
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 22.095710000000004
+          },
+          "now": {
+            "choice": "R",
+            "margin": 21.98178
+          }
+        }
+      }
+    },
+    {
+      "id": "44825",
+      "population": "v",
+      "sampleSize": "1290",
+      "state": "SC",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-08-09",
+      "endDate": "2016-08-10",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_SC_81116.pdf",
+      "created_at": 1470932100,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 45.0,
+          "adj_pct": {
+            "polls": 49.38412,
+            "plus": 49.49357,
+            "now": 49.38412
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 28.0,
+          "adj_pct": {
+            "polls": 30.34532,
+            "plus": 30.333,
+            "now": 30.34532
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0587145,
+        "plus": 0.0587145,
+        "now": 0.0587145
+      },
+      "pollsterRating": "B+",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 17.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 19.038800000000002
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 19.16057
+          },
+          "now": {
+            "choice": "R",
+            "margin": 19.038800000000002
+          }
+        }
+      }
+    },
+    {
+      "id": "48607",
+      "population": "lv",
+      "sampleSize": "1642",
+      "state": "SC",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-31",
+      "endDate": "2016-11-06",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478508960,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 58.0,
+          "adj_pct": {
+            "polls": 57.38314,
+            "plus": 57.44123,
+            "now": 57.38314
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 39.0,
+          "adj_pct": {
+            "polls": 35.89753,
+            "plus": 35.82949,
+            "now": 35.89753
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.0636365,
+        "plus": 0.0636365,
+        "now": 0.0636365
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 19.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 21.485609999999994
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 21.611739999999998
+          },
+          "now": {
+            "choice": "R",
+            "margin": 21.485609999999994
+          }
+        }
+      }
+    },
+    {
+      "id": "48309",
+      "population": "lv",
+      "sampleSize": "1583",
+      "state": "SC",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-10-28",
+      "endDate": "2016-11-03",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478278260,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 58.0,
+          "adj_pct": {
+            "polls": 57.67959,
+            "plus": 57.7193,
+            "now": 57.67959
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 39.0,
+          "adj_pct": {
+            "polls": 35.80008,
+            "plus": 35.72469,
+            "now": 35.80008
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.1141707,
+        "plus": 0.1141707,
+        "now": 0.1141707
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 19.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 21.879509999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 21.994609999999994
+          },
+          "now": {
+            "choice": "R",
+            "margin": 21.879509999999996
+          }
+        }
+      }
+    },
+    {
+      "id": "45721",
+      "population": "lv",
+      "sampleSize": "600",
+      "state": "SC",
+      "pollster": "Starboard Communications",
+      "startDate": "2016-09-07",
+      "endDate": "2016-09-09",
+      "tracking": null,
+      "url": "http://www.postandcourier.com/20160913/160919767/trump-leads-in-new-sc-gop-poll-out-today",
+      "created_at": 1473769200,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 58.0,
+          "adj_pct": {
+            "polls": 58.68502,
+            "plus": 58.60419,
+            "now": 58.68502
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 22.0,
+          "adj_pct": {
+            "polls": 25.25061,
+            "plus": 25.24915,
+            "now": 25.25061
+          }
+        }
+      ],
+      "weight": {
+        "polls": 0.1311743,
+        "plus": 0.1311743,
+        "now": 0.1311743
+      },
+      "pollsterRating": "",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 36.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 33.43441
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 33.35504
+          },
+          "now": {
+            "choice": "R",
+            "margin": 33.43441
+          }
+        }
+      }
+    },
+    {
+      "id": "48900",
+      "population": "lv",
+      "sampleSize": "1698",
+      "state": "SC",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-11-01",
+      "endDate": "2016-11-07",
+      "tracking": "TRUE",
+      "url": "https://blog.electiontracking.surveymonkey.com/2016/11/01/surveymonkey-2016-senate-election-polling/",
+      "created_at": 1478564580,
+      "votingAnswers": [
+        {
+          "choice": "R",
+          "party": "R",
+          "pct": 59.0,
+          "adj_pct": {
+            "polls": 58.26295,
+            "plus": 58.33228,
+            "now": 58.26295
+          }
+        },
+        {
+          "choice": "D",
+          "party": "D",
+          "pct": 38.0,
+          "adj_pct": {
+            "polls": 34.90585,
+            "plus": 34.84233,
+            "now": 34.90585
+          }
+        }
+      ],
+      "weight": {
+        "polls": 2.080825,
+        "plus": 2.080825,
+        "now": 2.080825
+      },
+      "pollsterRating": "C-",
+      "averaged": 0,
+      "leader": {
+        "raw": {
+          "choice": "R",
+          "margin": 21.0
+        },
+        "adjusted": {
+          "polls": {
+            "choice": "R",
+            "margin": 23.357099999999996
+          },
+          "plus": {
+            "choice": "R",
+            "margin": 23.48995
+          },
+          "now": {
+            "choice": "R",
+            "margin": 23.357099999999996
+          }
+        }
+      }
+    }
+  ]
+}
