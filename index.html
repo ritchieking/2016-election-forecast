@@ -224,7 +224,7 @@ race.summary = [{"state":"AK","margin":{"plus":{"margin":-7.794712,"hi":5.583246
 				var gads = document.createElement('script');
 				gads.async = true;
 				gads.type = 'text/javascript';
-				gads.src = 'https://www.googletagservices.com/tag/js/gpt.js';
+				return; /* ad loader disabled for archive */
 				var node = document.getElementsByTagName('script')[0];
 				node.parentNode.insertBefore(gads, node);
 				previousBreakpoint = getCurrentBreakpoint();
@@ -359,7 +359,7 @@ race.summary = [{"state":"AK","margin":{"plus":{"margin":-7.794712,"hi":5.583246
           if (d.getElementById(id)) return;
           js = d.createElement(s);
           js.id = id;
-          js.src = "https://connect.facebook.net/en_US/sdk.js#version=v2.6&xfbml=1&appId=797620670264818";
+          js.src = "data:text/javascript,";
           fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
         document.getElementById("entry-comments-content").style.display = "block";

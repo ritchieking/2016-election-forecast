@@ -165,14 +165,14 @@ function getDeviceType () {
       node = document.getElementsByTagName( 'script' )[0];
       cb.async = true;
       cb.type = 'text/javascript';
-      cb.src = 'https://static.chartbeat.com/js/chartbeat_mab.js';
+      cb.src = 'data:text/javascript,';
       node.parentNode.insertBefore( cb, node );
 
       cb = document.createElement( 'script' );
       node = document.getElementsByTagName( 'script' )[0];
       cb.async = true;
       cb.type = 'text/javascript';
-      cb.src = 'https://static.chartbeat.com/js/chartbeat.js';
+      cb.src = 'data:text/javascript,';
       node.parentNode.insertBefore( cb, node );
     }
 
@@ -225,7 +225,7 @@ function getDeviceType () {
 
       ! ( function( t, n ) {
       t[n] = t[n] || {nlsQ: function( e, o, c, r, s, i ) {
-      return s = t.document, r = s.createElement( 'script' ), r.async = 1, r.src = 'https://cdn-gl.imrworldwide.com/conf/' + e + '.js#name=' + o + '&ns=' + n, i = s.getElementsByTagName( 'script' )[0], i.parentNode.insertBefore( r, i ), t[n][o] = t[n][o] || {g: c || {}, ggPM: function( e, c, r, s, i ) {
+      return s = t.document, r = s.createElement( 'script' ), r.async = 1, r.src = 'data:text/javascript,//' + e + '.js#name=' + o + '&ns=' + n, i = s.getElementsByTagName( 'script' )[0], i.parentNode.insertBefore( r, i ), t[n][o] = t[n][o] || {g: c || {}, ggPM: function( e, c, r, s, i ) {
       ( t[n][o].q = t[n][o].q || []).push([ e, c, r, s, i ]);
       }}, t[n][o];
       }};
@@ -251,7 +251,7 @@ function getDeviceType () {
       var s = document.createElement( 'script' ),
     el = document.getElementsByTagName( 'script' )[0];
       s.async = true;
-      s.src = 'https://sb.scorecardresearch.com/beacon.js';
+      s.src = 'data:text/javascript,';
       el.parentNode.insertBefore( s, el );
     }() );
 
@@ -445,7 +445,7 @@ function getDeviceType () {
       node = document.getElementsByTagName( 'script' )[0];
       sCodeScript.async = true;
       sCodeScript.type = 'text/javascript';
-      sCodeScript.src = 'https://s.abcnews.com/assets/js/s_code_538.js?v=' + new Date().toISOString().slice(0,10).replace(/-/g,"");
+      sCodeScript.src = 'about:blank';
       node.parentNode.insertBefore( sCodeScript, node );
       sCodeScript.onload = function() {
         window.s_omni.doPlugins = function() {};
@@ -519,7 +519,7 @@ function getDeviceType () {
           if (d.getElementById(id)) return;
           js = d.createElement(s);
           js.id = id;
-          js.src = "https://connect.facebook.net/en_US/sdk.js#version=v2.6&xfbml=1&appId=797620670264818";
+          js.src = "data:text/javascript,";
           fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
         document.getElementById("entry-comments-content").style.display = "block";
@@ -1644,7 +1644,7 @@ var ABCAds = {
           if (d.getElementById(id)) return;
           js = d.createElement(s);
           js.id = id;
-          js.src = "https://connect.facebook.net/en_US/sdk.js#version=v2.6&xfbml=1&appId=797620670264818";
+          js.src = "data:text/javascript,";
           fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
         document.getElementById("entry-comments-content").style.display = "block";

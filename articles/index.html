@@ -130,10 +130,7 @@
 
 
   if (!window.___skipShowAds) {
-    getScript('https://secure.espn.com/combiner/c?js=jquery-1.10.2.js,plugins/jquery.pubsub.r5.js,analytics/visitorAPI_156.js,analytics/sOmni_161.js&ver=20160823', function() {
-      loadOmniture();
-      espn.track.init();
-    });
+    /* omniture loader disabled for archive */
   }
 
 </script>
@@ -191,7 +188,7 @@
 				var gads = document.createElement('script');
 				gads.async = true;
 				gads.type = 'text/javascript';
-				gads.src = 'https://www.googletagservices.com/tag/js/gpt.js';
+				return; /* ad loader disabled for archive */
 				var node = document.getElementsByTagName('script')[0];
 				node.parentNode.insertBefore(gads, node);
 				previousBreakpoint = getCurrentBreakpoint();
@@ -326,7 +323,7 @@
           if (d.getElementById(id)) return;
           js = d.createElement(s);
           js.id = id;
-          js.src = "https://connect.facebook.net/en_US/sdk.js#version=v2.6&xfbml=1&appId=797620670264818";
+          js.src = "data:text/javascript,";
           fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
         document.getElementById("entry-comments-content").style.display = "block";
